@@ -25,10 +25,9 @@ Note that for subjects that have multiple components, like `OC TH`, spaces have 
 
 Examples:
 
-```
-http://ethanpippin.com/UofUCatalogParser/MainCampus/Spring2022/subjects.json
-http://ethanpippin.com/UofUCatalogParser/MainCampus/Spring2022/CS.json
-```
+- http://ethanpippin.com/UofUCatalogParser/MainCampus/Spring2022/subjects.json
+- http://ethanpippin.com/UofUCatalogParser/MainCampus/Spring2022/CS.json
+
 
 ## Parser
 
