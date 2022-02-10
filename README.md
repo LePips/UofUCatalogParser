@@ -4,6 +4,8 @@ University of Utah catalog parser for course information per semester.
 
 Was mainly created so that a REST api could be used against course lists, for any reason.
 
+Works for catalog HTML layout as of Feb. 10, 2022.
+
 ### Usage
 
 Install requirements, then run `parser.py`.
