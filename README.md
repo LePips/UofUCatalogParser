@@ -8,7 +8,9 @@ Works for catalog HTML layout as of Feb. 10, 2022.
 
 ## Usage
 
-Access semester subjects::
+JSON static file serving is available through Github Pages for this repo.
+
+Access semester subjects:
 
 ```
 http://ethanpippin.com/UofUCatalogParser/{ MainCampus | AsiaCampus | UOnline }/{ Semester }/subjects.json
@@ -35,4 +37,4 @@ Install requirements, run `parser.py`.
 ## Next Steps
 
 - [ ] Fill in remaining semesters
-- [ ] Create `available.json` files for base which will say what campuses are available with their semester keys
+- [ ] Create JSON files for base which will say what campuses are available with their semester keys
