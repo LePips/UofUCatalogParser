@@ -4,6 +4,8 @@ class Campus:
         self.baseURL = baseURL
         self.semesters = semesters
 
+# TODO: fill in all past semesters
+
 mainCampus = Campus('MainCampus',
                     'https://student.apps.utah.edu/uofu/stu/ClassSchedules/main',
                     {

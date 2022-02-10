@@ -3,11 +3,11 @@ import os
 import re
 
 from bs4 import BeautifulSoup
-
 from campus import allCampuses
-
 from urllib import request
 from urllib.parse import quote
+
+# TODO: better print outs
 
 class SemesterParser:
 
@@ -26,7 +26,7 @@ class SemesterParser:
         homePage = self.getHomePage()
         self.parseHomePage(homePage)
 
-        for subject in list(self.subjects.keys())[:1]:
+        for subject in list(self.subjects.keys()):
             subjectAbbr = subject.split(' - ')[0]
             subjectCoursesHTML = self.getSubjectCoursesPage(subjectAbbr)
             self.parseSubjectCoursesPage(subject, subjectCoursesHTML)
@@ -110,18 +110,8 @@ class SemesterParser:
 
             footerTables = footer.findChildren('tr')
 
-            if len(footerTables) > 1:
-                try:
-                    mainTable = footerTables[1]
-                    items = mainTable.findChildren('th')
-
-                    time = items[0].select('span[data-time]')[0].string
-                    try:
-                        location = items[1].select('a')[0].string
-                    except:
-                        location = "TBA"
-                except:
-                    ()
+            # TODO: other details from footer via some regex, as not all items
+            #       are always present
 
             itemDict = {
             'catalogTitle': courseCatalogNo,
@@ -161,7 +151,9 @@ class SemesterParser:
 
 if __name__ == '__main__':
 
-    for campus in allCampuses[1:2]:
+    # TODO: arguments for not parsing files that already exist, or override
+
+    for campus in allCampuses:
         for semester in campus.semesters:
             subjectParser = SemesterParser(campus, semester,  campus.semesters[semester])
             subjectParser.parseSemester()
