@@ -21,7 +21,7 @@ Access semester subject catalog:
 http://ethanpippin.com/UofUCatalogParser/{ MainCampus | AsiaCampus | UOnline }/{ Semester }/{ Subject Abbreviation}.json
 ```
 
-Note that for subjects that have multiple components, like `OC-TH`, spaces have been replaced with dashes `-`
+Note that for subjects that have multiple components, like `OC TH`, spaces have been replaced with dashes `-`: `OC-TH`
 
 Examples:
 
@@ -37,4 +37,5 @@ Install requirements, run `parser.py`.
 ## Next Steps
 
 - [ ] Fill in remaining semesters
+- [ ] TODO comments completed
 - [ ] Create JSON files for base which will say what campuses are available with their semester keys
