@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BENN 202",
+            "section": "001",
+            "courseTitle": "Pathways to Engagement"
+        },
+        {
+            "catalogTitle": "BENN 203",
+            "section": "001",
+            "courseTitle": "Intro Civic Leadership"
+        },
+        {
+            "catalogTitle": "BENN 2020",
+            "section": "001",
+            "courseTitle": "Pathways to Engagement "
+        },
+        {
+            "catalogTitle": "BENN 2030",
+            "section": "001",
+            "courseTitle": "Intro Civic Leadership"
+        },
+        {
+            "catalogTitle": "BENN 2929",
+            "section": "001",
+            "courseTitle": "Community Immersion"
+        },
+        {
+            "catalogTitle": "BENN 4825",
+            "section": "001",
+            "courseTitle": "Comm Capstone Methods"
+        },
+        {
+            "catalogTitle": "BENN 5929",
+            "section": "001",
+            "courseTitle": "Comm Engage Practicum"
+        }
+    ]
+}

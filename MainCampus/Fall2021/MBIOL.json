@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBIOL 6410",
+            "section": "001",
+            "courseTitle": "Protein & Nucl Biochem"
+        },
+        {
+            "catalogTitle": "MBIOL 6410",
+            "section": "002",
+            "courseTitle": "Protein & Nucl Biochem"
+        },
+        {
+            "catalogTitle": "MBIOL 6420",
+            "section": "001",
+            "courseTitle": "G3"
+        },
+        {
+            "catalogTitle": "MBIOL 6420",
+            "section": "002",
+            "courseTitle": "G3"
+        },
+        {
+            "catalogTitle": "MBIOL 6480",
+            "section": "001",
+            "courseTitle": "Cell Biology"
+        },
+        {
+            "catalogTitle": "MBIOL 6480",
+            "section": "002",
+            "courseTitle": "Cell Biology"
+        },
+        {
+            "catalogTitle": "MBIOL 7570",
+            "section": "001",
+            "courseTitle": "Research Ethics"
+        },
+        {
+            "catalogTitle": "MBIOL 7570",
+            "section": "002",
+            "courseTitle": "Research Ethics"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        }
+    ]
+}

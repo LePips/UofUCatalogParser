@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "THEA 133",
+            "section": "002",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1013",
+            "section": "090",
+            "courseTitle": "Exploring Theatre"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "002",
+            "courseTitle": "Acting I for Non Majors"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "006",
+            "courseTitle": "Acting I for Non Majors"
+        },
+        {
+            "catalogTitle": "THEA 1040",
+            "section": "090",
+            "courseTitle": "Dram Arts/Television"
+        },
+        {
+            "catalogTitle": "THEA 2011",
+            "section": "001",
+            "courseTitle": "Private Voice for MTP I"
+        },
+        {
+            "catalogTitle": "THEA 4011",
+            "section": "001",
+            "courseTitle": "Private Voice MTP II"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YETEC 81",
+            "section": "001",
+            "courseTitle": "Digital Drawing (14-17)"
+        },
+        {
+            "catalogTitle": "YETEC 110",
+            "section": "001",
+            "courseTitle": "Game Animation (12-14)"
+        },
+        {
+            "catalogTitle": "YETEC 119",
+            "section": "001",
+            "courseTitle": "EAE Game Design Studio (11-13)"
+        },
+        {
+            "catalogTitle": "YETEC 119",
+            "section": "002",
+            "courseTitle": "EAE Game Design Studio (11-13)"
+        },
+        {
+            "catalogTitle": "YETEC 123",
+            "section": "001",
+            "courseTitle": "EAE Game Design Studio (14-17)"
+        },
+        {
+            "catalogTitle": "YETEC 123",
+            "section": "002",
+            "courseTitle": "EAE Game Design Studio (14-17)"
+        },
+        {
+            "catalogTitle": "YETEC 132",
+            "section": "001",
+            "courseTitle": "Scratch (7-9)"
+        },
+        {
+            "catalogTitle": "YETEC 132",
+            "section": "002",
+            "courseTitle": "Scratch (7-9)"
+        },
+        {
+            "catalogTitle": "YETEC 133",
+            "section": "001",
+            "courseTitle": "EAE Girls: Scratch (7-9)"
+        },
+        {
+            "catalogTitle": "YETEC 135",
+            "section": "001",
+            "courseTitle": "Coding with Python (9-11)"
+        },
+        {
+            "catalogTitle": "YETEC 141",
+            "section": "001",
+            "courseTitle": "EAE: 3D Modeling (14-17)"
+        },
+        {
+            "catalogTitle": "YETEC 145",
+            "section": "001",
+            "courseTitle": "Coding with Python (12-14)"
+        },
+        {
+            "catalogTitle": "YETEC 307",
+            "section": "001",
+            "courseTitle": "Java Programming (12-14)"
+        },
+        {
+            "catalogTitle": "YETEC 340",
+            "section": "001",
+            "courseTitle": "Super Secret Agents (Age 8-10)"
+        },
+        {
+            "catalogTitle": "YETEC 340",
+            "section": "002",
+            "courseTitle": "Super Secret Agents (Age 8-10)"
+        },
+        {
+            "catalogTitle": "YETEC 410",
+            "section": "001",
+            "courseTitle": "EAE Esports (Age 11-13)"
+        },
+        {
+            "catalogTitle": "YETEC 500",
+            "section": "001",
+            "courseTitle": "Game Design:Side-scroll (9-11)"
+        },
+        {
+            "catalogTitle": "YETEC 505",
+            "section": "001",
+            "courseTitle": "Beginning 3D Modeling (12-14)"
+        },
+        {
+            "catalogTitle": "YETEC 509",
+            "section": "001",
+            "courseTitle": "Game Design: FPA (12-14)"
+        },
+        {
+            "catalogTitle": "YETEC 510",
+            "section": "001",
+            "courseTitle": "Game Design: 3D Worlds (12-14)"
+        },
+        {
+            "catalogTitle": "YETEC 513",
+            "section": "001",
+            "courseTitle": "EAE Girls: Coding (Age 9-11)"
+        },
+        {
+            "catalogTitle": "YETEC 520",
+            "section": "001",
+            "courseTitle": "Art for Video Games (14-17)"
+        },
+        {
+            "catalogTitle": "YETEC 523",
+            "section": "001",
+            "courseTitle": "Coding for Video Games (14-17)"
+        }
+    ]
+}

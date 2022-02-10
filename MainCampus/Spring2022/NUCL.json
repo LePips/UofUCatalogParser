@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 3000",
+            "section": "001",
+            "courseTitle": "Nuclear Principles"
+        },
+        {
+            "catalogTitle": "NUCL 3100",
+            "section": "001",
+            "courseTitle": "Radiation Interactions"
+        },
+        {
+            "catalogTitle": "NUCL 3200",
+            "section": "001",
+            "courseTitle": "Radiochemistry I"
+        },
+        {
+            "catalogTitle": "NUCL 6050",
+            "section": "001",
+            "courseTitle": "Reactor Physics"
+        },
+        {
+            "catalogTitle": "NUCL 7920",
+            "section": "001",
+            "courseTitle": "Topics in Nuclear Medicine"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

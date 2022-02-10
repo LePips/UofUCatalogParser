@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLCFT 229",
+            "section": "001",
+            "courseTitle": "Beginning Metalsmithing"
+        },
+        {
+            "catalogTitle": "LLCFT 229",
+            "section": "002",
+            "courseTitle": "Beginning Metalsmithing"
+        },
+        {
+            "catalogTitle": "LLCFT 274",
+            "section": "001",
+            "courseTitle": "Blacksmithing: An Introduction"
+        },
+        {
+            "catalogTitle": "LLCFT 274",
+            "section": "002",
+            "courseTitle": "Blacksmithing: An Introduction"
+        },
+        {
+            "catalogTitle": "LLCFT 343",
+            "section": "002",
+            "courseTitle": "DIY Ceramics"
+        },
+        {
+            "catalogTitle": "LLCFT 345",
+            "section": "001",
+            "courseTitle": "Macrame Retro Plant Hanger"
+        },
+        {
+            "catalogTitle": "LLCFT 346",
+            "section": "001",
+            "courseTitle": "Macrame Classic Knots Wall Han"
+        }
+    ]
+}

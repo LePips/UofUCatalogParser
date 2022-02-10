@@ -1,0 +1,269 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATMOS 101",
+            "section": "001",
+            "courseTitle": "Severe/Unusual Weather"
+        },
+        {
+            "catalogTitle": "ATMOS 101",
+            "section": "003",
+            "courseTitle": "Severe/Unusual Weather"
+        },
+        {
+            "catalogTitle": "ATMOS 102",
+            "section": "001",
+            "courseTitle": "Climate Change"
+        },
+        {
+            "catalogTitle": "ATMOS 1010",
+            "section": "001",
+            "courseTitle": "Severe/Unusual Weather"
+        },
+        {
+            "catalogTitle": "ATMOS 1010",
+            "section": "002",
+            "courseTitle": "Severe/Unusual Weather"
+        },
+        {
+            "catalogTitle": "ATMOS 1020",
+            "section": "001",
+            "courseTitle": "Climate Change"
+        },
+        {
+            "catalogTitle": "ATMOS 3000",
+            "section": "001",
+            "courseTitle": "Professional Develop"
+        },
+        {
+            "catalogTitle": "ATMOS 3910",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ATMOS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ATMOS 5000",
+            "section": "001",
+            "courseTitle": "Intr Atmospheric Sci"
+        },
+        {
+            "catalogTitle": "ATMOS 5110",
+            "section": "001",
+            "courseTitle": "Synoptic Meteorology I"
+        },
+        {
+            "catalogTitle": "ATMOS 5120",
+            "section": "001",
+            "courseTitle": "Weather Discussion"
+        },
+        {
+            "catalogTitle": "ATMOS 5300",
+            "section": "001",
+            "courseTitle": "Thermodynamics"
+        },
+        {
+            "catalogTitle": "ATMOS 5340",
+            "section": "001",
+            "courseTitle": "Enviro Prog & Stats"
+        },
+        {
+            "catalogTitle": "ATMOS 5400",
+            "section": "001",
+            "courseTitle": "The Climate System"
+        },
+        {
+            "catalogTitle": "ATMOS 5500",
+            "section": "001",
+            "courseTitle": "Num Weather Prediction"
+        },
+        {
+            "catalogTitle": "ATMOS 5800",
+            "section": "001",
+            "courseTitle": "Experiential Learning I"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "003",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 6010",
+            "section": "003",
+            "courseTitle": "Dynamic Meteorology"
+        },
+        {
+            "catalogTitle": "ATMOS 6020",
+            "section": "001",
+            "courseTitle": "Physical Meteorology"
+        },
+        {
+            "catalogTitle": "ATMOS 6110",
+            "section": "001",
+            "courseTitle": "Synoptic Meteorology I"
+        },
+        {
+            "catalogTitle": "ATMOS 6120",
+            "section": "001",
+            "courseTitle": "Weather Discussion"
+        },
+        {
+            "catalogTitle": "ATMOS 6500",
+            "section": "001",
+            "courseTitle": "NWP"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "010",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "011",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "012",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "013",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "014",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "015",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "016",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "017",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "019",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 7810",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "015",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "016",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "017",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 165",
+            "section": "001",
+            "courseTitle": "Intro To Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 1615",
+            "section": "001",
+            "courseTitle": "Intro To Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 1630",
+            "section": "001",
+            "courseTitle": "Basic Arch'l Comm I"
+        },
+        {
+            "catalogTitle": "ARCH 1630",
+            "section": "002",
+            "courseTitle": "Basic Arch'l Comm I"
+        },
+        {
+            "catalogTitle": "ARCH 1632",
+            "section": "001",
+            "courseTitle": "Basic Archi'l Comm II"
+        },
+        {
+            "catalogTitle": "ARCH 1632",
+            "section": "002",
+            "courseTitle": "Basic Archi'l Comm II"
+        },
+        {
+            "catalogTitle": "ARCH 2030",
+            "section": "001",
+            "courseTitle": "Basic Communication III"
+        },
+        {
+            "catalogTitle": "ARCH 2030",
+            "section": "002",
+            "courseTitle": "Basic Communication III"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "001",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "002",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "003",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "004",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "006",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "007",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2632",
+            "section": "001",
+            "courseTitle": "Adv Arch Des Work"
+        },
+        {
+            "catalogTitle": "ARCH 2632",
+            "section": "002",
+            "courseTitle": "Adv Arch Des Work"
+        },
+        {
+            "catalogTitle": "ARCH 2634",
+            "section": "001",
+            "courseTitle": "Arch Des Fund Studio"
+        },
+        {
+            "catalogTitle": "ARCH 2634",
+            "section": "002",
+            "courseTitle": "Arch Des Fund Studio"
+        },
+        {
+            "catalogTitle": "ARCH 3011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio II"
+        },
+        {
+            "catalogTitle": "ARCH 3011",
+            "section": "002",
+            "courseTitle": "Arch'l Studio II"
+        },
+        {
+            "catalogTitle": "ARCH 3011",
+            "section": "003",
+            "courseTitle": "Arch'l Studio II"
+        },
+        {
+            "catalogTitle": "ARCH 3011",
+            "section": "004",
+            "courseTitle": "Arch'l Studio II"
+        },
+        {
+            "catalogTitle": "ARCH 3112",
+            "section": "001",
+            "courseTitle": "Site Planning "
+        },
+        {
+            "catalogTitle": "ARCH 3211",
+            "section": "001",
+            "courseTitle": "Surv-World Architctr II"
+        },
+        {
+            "catalogTitle": "ARCH 3310",
+            "section": "001",
+            "courseTitle": "Structures I"
+        },
+        {
+            "catalogTitle": "ARCH 3375",
+            "section": "001",
+            "courseTitle": "Fndtns of Bldg Tech II"
+        },
+        {
+            "catalogTitle": "ARCH 4011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IV"
+        },
+        {
+            "catalogTitle": "ARCH 4011",
+            "section": "002",
+            "courseTitle": "Arch'l Studio IV"
+        },
+        {
+            "catalogTitle": "ARCH 4011",
+            "section": "003",
+            "courseTitle": "Arch'l Studio IV"
+        },
+        {
+            "catalogTitle": "ARCH 4040",
+            "section": "002",
+            "courseTitle": "Communications Elective"
+        },
+        {
+            "catalogTitle": "ARCH 4040",
+            "section": "003",
+            "courseTitle": "Communications Elective"
+        },
+        {
+            "catalogTitle": "ARCH 4270",
+            "section": "001",
+            "courseTitle": "Arch'l Theory"
+        },
+        {
+            "catalogTitle": "ARCH 4872",
+            "section": "001",
+            "courseTitle": "Emerging Off-Site Construction"
+        },
+        {
+            "catalogTitle": "ARCH 4872",
+            "section": "002",
+            "courseTitle": "Bldg Tech Arch'l Des"
+        },
+        {
+            "catalogTitle": "ARCH 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "ARCH 6011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IVG"
+        },
+        {
+            "catalogTitle": "ARCH 6011",
+            "section": "002",
+            "courseTitle": "Arch'l Studio IVG"
+        },
+        {
+            "catalogTitle": "ARCH 6011",
+            "section": "003",
+            "courseTitle": "Arch'l Studio IVG"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6050",
+            "section": "002",
+            "courseTitle": "Visual Communication"
+        },
+        {
+            "catalogTitle": "ARCH 6050",
+            "section": "003",
+            "courseTitle": "Visual Communication"
+        },
+        {
+            "catalogTitle": "ARCH 6275",
+            "section": "001",
+            "courseTitle": "Intro to Arch'l Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6310",
+            "section": "001",
+            "courseTitle": "Arch'L Structures IG"
+        },
+        {
+            "catalogTitle": "ARCH 6375",
+            "section": "001",
+            "courseTitle": "Fndtns of Bldg Tech IIG"
+        },
+        {
+            "catalogTitle": "ARCH 6613",
+            "section": "001",
+            "courseTitle": "Comprehens Bldg Tech II"
+        },
+        {
+            "catalogTitle": "ARCH 6700",
+            "section": "001",
+            "courseTitle": "Arch'l Prof Prac"
+        },
+        {
+            "catalogTitle": "ARCH 6703",
+            "section": "001",
+            "courseTitle": "Prof Practice II"
+        },
+        {
+            "catalogTitle": "ARCH 6760",
+            "section": "001",
+            "courseTitle": "Arch'l Internship"
+        },
+        {
+            "catalogTitle": "ARCH 6819",
+            "section": "001",
+            "courseTitle": "Final Project Book"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "004",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "005",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6960",
+            "section": "001",
+            "courseTitle": "Emerging Off-Site Construction"
+        },
+        {
+            "catalogTitle": "ARCH 6960",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ARCH 6971",
+            "section": "001",
+            "courseTitle": "Final Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6971",
+            "section": "002",
+            "courseTitle": "Final Studio"
+        }
+    ]
+}

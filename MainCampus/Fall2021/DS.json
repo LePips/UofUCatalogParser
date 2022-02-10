@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DS 3190",
+            "section": "001",
+            "courseTitle": "Found. of Data Analysis"
+        },
+        {
+            "catalogTitle": "DS 4350",
+            "section": "001",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "DS 4800",
+            "section": "001",
+            "courseTitle": "Senior Capstone Design"
+        }
+    ]
+}

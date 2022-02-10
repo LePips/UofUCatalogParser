@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTP 6910",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ASTP 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "ASTP 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "ASTP 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

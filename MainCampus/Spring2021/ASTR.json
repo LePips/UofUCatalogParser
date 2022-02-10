@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTR 105",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 108",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "ASTR 1050",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 1080",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "ASTR 4080",
+            "section": "001",
+            "courseTitle": "Intro to Cosmology"
+        },
+        {
+            "catalogTitle": "ASTR 5560",
+            "section": "001",
+            "courseTitle": "Stars & Stellar Pop."
+        },
+        {
+            "catalogTitle": "ASTR 6410",
+            "section": "001",
+            "courseTitle": "Intro to Astro Research"
+        },
+        {
+            "catalogTitle": "ASTR 7130",
+            "section": "001",
+            "courseTitle": "Radiative Processes"
+        },
+        {
+            "catalogTitle": "ASTR 7730",
+            "section": "001",
+            "courseTitle": "Stat & Comp Methods"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NAHTL 1020",
+            "section": "002",
+            "courseTitle": "Beg. NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 2020",
+            "section": "002",
+            "courseTitle": "Intrm. NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 3020",
+            "section": "001",
+            "courseTitle": "Third Yr NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 7300",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "NAHTL 7300",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

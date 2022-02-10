@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DS 2500",
+            "section": "001",
+            "courseTitle": "Data Wrangling"
+        },
+        {
+            "catalogTitle": "DS 4140",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "DS 4530",
+            "section": "001",
+            "courseTitle": "Database Systems"
+        },
+        {
+            "catalogTitle": "DS 4800",
+            "section": "001",
+            "courseTitle": "Senior Capstone Design"
+        },
+        {
+            "catalogTitle": "DS 4850",
+            "section": "001",
+            "courseTitle": "Senior Capstone Design"
+        }
+    ]
+}

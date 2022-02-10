@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "QAMO 3010",
+            "section": "001",
+            "courseTitle": "Business Economics"
+        },
+        {
+            "catalogTitle": "QAMO 3020",
+            "section": "001",
+            "courseTitle": "Game Theory"
+        },
+        {
+            "catalogTitle": "QAMO 3040",
+            "section": "001",
+            "courseTitle": "Business Econometrics 2"
+        },
+        {
+            "catalogTitle": "QAMO 3040",
+            "section": "002",
+            "courseTitle": "Business Econometrics 2"
+        },
+        {
+            "catalogTitle": "QAMO 4020",
+            "section": "001",
+            "courseTitle": "Personnel Economics"
+        },
+        {
+            "catalogTitle": "QAMO 4040",
+            "section": "001",
+            "courseTitle": "Non-Market Environments"
+        },
+        {
+            "catalogTitle": "QAMO 4140",
+            "section": "002",
+            "courseTitle": "Analyze Intrp Econ Data"
+        },
+        {
+            "catalogTitle": "QAMO 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "QAMO 4999",
+            "section": "002",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "QAMO 4999",
+            "section": "003",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "QAMO 5980",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

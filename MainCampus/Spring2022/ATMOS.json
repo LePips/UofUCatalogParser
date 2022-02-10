@@ -1,0 +1,224 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATMOS 100",
+            "section": "090",
+            "courseTitle": "Greatest Snow on Earth"
+        },
+        {
+            "catalogTitle": "ATMOS 101",
+            "section": "003",
+            "courseTitle": "Severe/Unusual Weather"
+        },
+        {
+            "catalogTitle": "ATMOS 102",
+            "section": "001",
+            "courseTitle": "Climate Change"
+        },
+        {
+            "catalogTitle": "ATMOS 320",
+            "section": "001",
+            "courseTitle": "Mtn. Weather & Climate"
+        },
+        {
+            "catalogTitle": "ATMOS 1000",
+            "section": "090",
+            "courseTitle": "Greatest Snow on Earth"
+        },
+        {
+            "catalogTitle": "ATMOS 1010",
+            "section": "090",
+            "courseTitle": "Severe/Unusual Weather"
+        },
+        {
+            "catalogTitle": "ATMOS 1020",
+            "section": "001",
+            "courseTitle": "Climate Change"
+        },
+        {
+            "catalogTitle": "ATMOS 2750",
+            "section": "001",
+            "courseTitle": "Energy Water Air Metals"
+        },
+        {
+            "catalogTitle": "ATMOS 3100",
+            "section": "001",
+            "courseTitle": "Atmospheric Chemistry"
+        },
+        {
+            "catalogTitle": "ATMOS 3200",
+            "section": "001",
+            "courseTitle": "Mtn. Weather & Climate"
+        },
+        {
+            "catalogTitle": "ATMOS 5010",
+            "section": "001",
+            "courseTitle": "Weather Forecasting"
+        },
+        {
+            "catalogTitle": "ATMOS 5050",
+            "section": "002",
+            "courseTitle": "Environmental Instrum"
+        },
+        {
+            "catalogTitle": "ATMOS 5100",
+            "section": "001",
+            "courseTitle": "Atmospheric Dynamics"
+        },
+        {
+            "catalogTitle": "ATMOS 5210",
+            "section": "001",
+            "courseTitle": "Synoptic Meteorology II"
+        },
+        {
+            "catalogTitle": "ATMOS 5260",
+            "section": "001",
+            "courseTitle": "Snow & Avalanche"
+        },
+        {
+            "catalogTitle": "ATMOS 5310",
+            "section": "001",
+            "courseTitle": "Physical Meteorology"
+        },
+        {
+            "catalogTitle": "ATMOS 5700",
+            "section": "001",
+            "courseTitle": "Mesoscale & Radar"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "002",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "004",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "005",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "006",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "007",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "008",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "009",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "010",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "011",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "012",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "013",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "014",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "015",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "016",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "017",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5810",
+            "section": "019",
+            "courseTitle": "Experential Learning II"
+        },
+        {
+            "catalogTitle": "ATMOS 5910",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ATMOS 6030",
+            "section": "001",
+            "courseTitle": "Climate Dynamics"
+        },
+        {
+            "catalogTitle": "ATMOS 6050",
+            "section": "001",
+            "courseTitle": "Environ Instrumentation"
+        },
+        {
+            "catalogTitle": "ATMOS 6150",
+            "section": "001",
+            "courseTitle": "Cloud System Modeling"
+        },
+        {
+            "catalogTitle": "ATMOS 6210",
+            "section": "001",
+            "courseTitle": "Synoptic Meteorology II"
+        },
+        {
+            "catalogTitle": "ATMOS 6600",
+            "section": "001",
+            "courseTitle": "Scientific Writing"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "020",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 7810",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

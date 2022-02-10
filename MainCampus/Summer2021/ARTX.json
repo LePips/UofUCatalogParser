@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARTX 200",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "ARTX 360",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "ARTX 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "ARTX 3600",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        }
+    ]
+}

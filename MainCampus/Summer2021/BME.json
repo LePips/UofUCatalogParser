@@ -1,0 +1,654 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BME 4990",
+            "section": "001",
+            "courseTitle": "Research & Internship I"
+        },
+        {
+            "catalogTitle": "BME 4995",
+            "section": "001",
+            "courseTitle": "Research/Internship II"
+        },
+        {
+            "catalogTitle": "BME 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "157",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "158",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "159",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "160",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "161",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "162",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "163",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "164",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "165",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "166",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "167",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "168",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "169",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "170",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "171",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "172",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "173",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "174",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "175",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "176",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "177",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "178",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "179",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "180",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "181",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "182",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "183",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "184",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "185",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "186",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "187",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "188",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "189",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "190",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "191",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "192",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "193",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "194",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "195",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "196",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "197",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "198",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "199",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "200",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "201",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "202",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "203",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "204",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "205",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "206",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "207",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "208",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "209",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "210",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "211",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "212",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "213",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "214",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "215",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "216",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "217",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "218",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 6970",
+            "section": "219",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "158",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "159",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "160",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "161",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "162",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "163",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "164",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "165",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "166",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "167",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "168",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "169",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "170",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "171",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "172",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "173",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "174",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "175",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "176",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "177",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "178",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "179",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "180",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "181",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "182",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "183",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "184",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "185",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "186",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "187",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "188",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "189",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "190",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "191",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "192",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "193",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "194",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "195",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "196",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "197",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "198",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "199",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "200",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "201",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "202",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "203",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "204",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "205",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "206",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "207",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "208",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "209",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "210",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "211",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "212",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "213",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "214",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "215",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "216",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "217",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "218",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "219",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "220",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BME 7970",
+            "section": "221",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "QUECH 102",
+            "section": "001",
+            "courseTitle": "Beg. QUECH II"
+        },
+        {
+            "catalogTitle": "QUECH 202",
+            "section": "001",
+            "courseTitle": "Intrm. QUECH II"
+        },
+        {
+            "catalogTitle": "QUECH 1020",
+            "section": "001",
+            "courseTitle": "Beg. QUECH II"
+        },
+        {
+            "catalogTitle": "QUECH 2020",
+            "section": "001",
+            "courseTitle": "Intrm. QUECH II"
+        },
+        {
+            "catalogTitle": "QUECH 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "QUECH 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

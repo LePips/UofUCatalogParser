@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 650",
+            "section": "001",
+            "courseTitle": "Avalanche Workshop"
+        },
+        {
+            "catalogTitle": "LLREC 671",
+            "section": "001",
+            "courseTitle": "Beginning Fly Fishing"
+        },
+        {
+            "catalogTitle": "LLREC 910",
+            "section": "001",
+            "courseTitle": "Snowshoe by Moonlight"
+        },
+        {
+            "catalogTitle": "LLREC 915",
+            "section": "001",
+            "courseTitle": "Bicycle Maintenance"
+        },
+        {
+            "catalogTitle": "LLREC 916",
+            "section": "001",
+            "courseTitle": "Introduction to Backpacking"
+        }
+    ]
+}

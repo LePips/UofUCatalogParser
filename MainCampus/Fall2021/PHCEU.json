@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHCEU 5960",
+            "section": "001",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PHCEU 5960",
+            "section": "003",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PHCEU 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "PHCEU 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "PHCEU 7010",
+            "section": "001",
+            "courseTitle": "Molecular Biology"
+        },
+        {
+            "catalogTitle": "PHCEU 7021",
+            "section": "001",
+            "courseTitle": "Formulations"
+        },
+        {
+            "catalogTitle": "PHCEU 7030",
+            "section": "001",
+            "courseTitle": "Drug Delivery"
+        },
+        {
+            "catalogTitle": "PHCEU 7040",
+            "section": "001",
+            "courseTitle": "Biotechnology"
+        },
+        {
+            "catalogTitle": "PHCEU 7230",
+            "section": "001",
+            "courseTitle": "Nanomedicine"
+        },
+        {
+            "catalogTitle": "PHCEU 7890",
+            "section": "001",
+            "courseTitle": "Research Seminar-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7960",
+            "section": "004",
+            "courseTitle": "Special Problems-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7960",
+            "section": "006",
+            "courseTitle": "Special Problems-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "008",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "018",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7975",
+            "section": "001",
+            "courseTitle": "Journal Club-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

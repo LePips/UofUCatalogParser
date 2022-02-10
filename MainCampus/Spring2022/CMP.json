@@ -1,0 +1,479 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CMP 2010",
+            "section": "001",
+            "courseTitle": "Design Ecologies"
+        },
+        {
+            "catalogTitle": "CMP 2010",
+            "section": "002",
+            "courseTitle": "Design Ecologies"
+        },
+        {
+            "catalogTitle": "CMP 2010",
+            "section": "003",
+            "courseTitle": "Design Ecologies"
+        },
+        {
+            "catalogTitle": "CMP 2010",
+            "section": "004",
+            "courseTitle": "Design Ecologies"
+        },
+        {
+            "catalogTitle": "CMP 2010",
+            "section": "005",
+            "courseTitle": "Design Ecologies"
+        },
+        {
+            "catalogTitle": "CMP 2010",
+            "section": "006",
+            "courseTitle": "Design Ecologies"
+        },
+        {
+            "catalogTitle": "CMP 2010",
+            "section": "007",
+            "courseTitle": "Design Ecologies"
+        },
+        {
+            "catalogTitle": "CMP 3150",
+            "section": "001",
+            "courseTitle": "City in Literature"
+        },
+        {
+            "catalogTitle": "CMP 3270",
+            "section": "001",
+            "courseTitle": "Vis. & Oral Commun"
+        },
+        {
+            "catalogTitle": "CMP 3400",
+            "section": "001",
+            "courseTitle": "Economy of Cities"
+        },
+        {
+            "catalogTitle": "CMP 3851",
+            "section": "001",
+            "courseTitle": "Nightscapes"
+        },
+        {
+            "catalogTitle": "CMP 4020",
+            "section": "001",
+            "courseTitle": "Fld Stds in Urbn Eclg 2"
+        },
+        {
+            "catalogTitle": "CMP 4280",
+            "section": "003",
+            "courseTitle": "Ecol Planning Wkshp"
+        },
+        {
+            "catalogTitle": "CMP 4282",
+            "section": "001",
+            "courseTitle": "Dark Sky Capstone"
+        },
+        {
+            "catalogTitle": "CMP 4410",
+            "section": "001",
+            "courseTitle": "Site Planning"
+        },
+        {
+            "catalogTitle": "CMP 4450",
+            "section": "001",
+            "courseTitle": "GIS for Urban Ecol"
+        },
+        {
+            "catalogTitle": "CMP 4600",
+            "section": "001",
+            "courseTitle": "The Just City"
+        },
+        {
+            "catalogTitle": "CMP 4720",
+            "section": "001",
+            "courseTitle": "Land &Trans Planning"
+        },
+        {
+            "catalogTitle": "CMP 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "CMP 4954",
+            "section": "001",
+            "courseTitle": "Urban Ecology in Action"
+        },
+        {
+            "catalogTitle": "CMP 4960",
+            "section": "001",
+            "courseTitle": "Comm Engagement w Diversity"
+        },
+        {
+            "catalogTitle": "CMP 4960",
+            "section": "002",
+            "courseTitle": "Commnty Transportation Academy"
+        },
+        {
+            "catalogTitle": "CMP 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "CMP 5160",
+            "section": "001",
+            "courseTitle": "Plan Making"
+        },
+        {
+            "catalogTitle": "CMP 6150",
+            "section": "001",
+            "courseTitle": "City in Literature"
+        },
+        {
+            "catalogTitle": "CMP 6160",
+            "section": "001",
+            "courseTitle": "Plan Making"
+        },
+        {
+            "catalogTitle": "CMP 6260",
+            "section": "001",
+            "courseTitle": "Land Use Law"
+        },
+        {
+            "catalogTitle": "CMP 6280",
+            "section": "001",
+            "courseTitle": "Graduate Workshop"
+        },
+        {
+            "catalogTitle": "CMP 6280",
+            "section": "002",
+            "courseTitle": "Graduate Workshop"
+        },
+        {
+            "catalogTitle": "CMP 6280",
+            "section": "003",
+            "courseTitle": "Graduate Workshop"
+        },
+        {
+            "catalogTitle": "CMP 6400",
+            "section": "001",
+            "courseTitle": "Visualization"
+        },
+        {
+            "catalogTitle": "CMP 6410",
+            "section": "001",
+            "courseTitle": "Site Development"
+        },
+        {
+            "catalogTitle": "CMP 6450",
+            "section": "001",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "CMP 6455",
+            "section": "001",
+            "courseTitle": "Advanced GIS Apps"
+        },
+        {
+            "catalogTitle": "CMP 6615",
+            "section": "001",
+            "courseTitle": "Advanced Urban Ecology"
+        },
+        {
+            "catalogTitle": "CMP 6620",
+            "section": "001",
+            "courseTitle": "Neg & Dispute Resol"
+        },
+        {
+            "catalogTitle": "CMP 6720",
+            "section": "001",
+            "courseTitle": "Land & Trans Planning"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6954",
+            "section": "001",
+            "courseTitle": "Prof. Planning Intern."
+        },
+        {
+            "catalogTitle": "CMP 6960",
+            "section": "001",
+            "courseTitle": "Comm Engagement w Diversity"
+        },
+        {
+            "catalogTitle": "CMP 6960",
+            "section": "002",
+            "courseTitle": "Commnty Transportation Academy"
+        },
+        {
+            "catalogTitle": "CMP 6960",
+            "section": "004",
+            "courseTitle": "Public-Private Partnerships"
+        },
+        {
+            "catalogTitle": "CMP 6970",
+            "section": "001",
+            "courseTitle": "Professional Project I"
+        },
+        {
+            "catalogTitle": "CMP 6971",
+            "section": "001",
+            "courseTitle": "Professional Project II"
+        },
+        {
+            "catalogTitle": "CMP 7022",
+            "section": "001",
+            "courseTitle": "Quantitative Methods"
+        },
+        {
+            "catalogTitle": "CMP 7501",
+            "section": "001",
+            "courseTitle": "Ph.D. Research Seminar"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "001",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "002",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "003",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "004",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "005",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "006",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "007",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "008",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "009",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7930",
+            "section": "010",
+            "courseTitle": "Qualifying Exam"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "001",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "002",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "003",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "004",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "005",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "006",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "007",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "008",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "009",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7940",
+            "section": "010",
+            "courseTitle": "Diss. Research Proposal"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "001",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "002",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "003",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "004",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "005",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "006",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "007",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "008",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "009",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "010",
+            "courseTitle": "Dissertation"
+        }
+    ]
+}

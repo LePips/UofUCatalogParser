@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NAHTL 102",
+            "section": "001",
+            "courseTitle": "Beg. NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 202",
+            "section": "001",
+            "courseTitle": "Intrm. NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 302",
+            "section": "001",
+            "courseTitle": "Third Yr NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 1020",
+            "section": "001",
+            "courseTitle": "Beg. NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 2020",
+            "section": "001",
+            "courseTitle": "Intrm. NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 3020",
+            "section": "001",
+            "courseTitle": "Third Yr NAHTL II"
+        },
+        {
+            "catalogTitle": "NAHTL 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "NAHTL 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

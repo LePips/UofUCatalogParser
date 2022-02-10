@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBIOL 6200",
+            "section": "001",
+            "courseTitle": "Critical Thinking"
+        },
+        {
+            "catalogTitle": "MBIOL 6300",
+            "section": "001",
+            "courseTitle": "Proposal Preparation"
+        },
+        {
+            "catalogTitle": "MBIOL 6490",
+            "section": "001",
+            "courseTitle": "Intro to Biostatistics"
+        },
+        {
+            "catalogTitle": "MBIOL 7955",
+            "section": "001",
+            "courseTitle": "Clinical Skills Maint."
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        }
+    ]
+}

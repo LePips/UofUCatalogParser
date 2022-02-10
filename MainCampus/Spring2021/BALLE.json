@@ -1,0 +1,319 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BALLE 114",
+            "section": "001",
+            "courseTitle": "Ballet I Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 116",
+            "section": "001",
+            "courseTitle": "Ballet II Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 420",
+            "section": "001",
+            "courseTitle": "Pointe/Variations III"
+        },
+        {
+            "catalogTitle": "BALLE 1140",
+            "section": "001",
+            "courseTitle": "Ballet I Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 1160",
+            "section": "001",
+            "courseTitle": "Ballet II Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 1600",
+            "section": "001",
+            "courseTitle": "Stagecraft & Lighting"
+        },
+        {
+            "catalogTitle": "BALLE 2200",
+            "section": "001",
+            "courseTitle": "Pointe/Variations I"
+        },
+        {
+            "catalogTitle": "BALLE 2225",
+            "section": "001",
+            "courseTitle": "Men's Class I"
+        },
+        {
+            "catalogTitle": "BALLE 2290",
+            "section": "001",
+            "courseTitle": "Technique I"
+        },
+        {
+            "catalogTitle": "BALLE 2290",
+            "section": "002",
+            "courseTitle": "Technique I"
+        },
+        {
+            "catalogTitle": "BALLE 2310",
+            "section": "001",
+            "courseTitle": "Character Dance II"
+        },
+        {
+            "catalogTitle": "BALLE 2330",
+            "section": "001",
+            "courseTitle": "Modern Technique II"
+        },
+        {
+            "catalogTitle": "BALLE 2390",
+            "section": "001",
+            "courseTitle": "Jazz II"
+        },
+        {
+            "catalogTitle": "BALLE 2500",
+            "section": "001",
+            "courseTitle": "Ballet Class Music"
+        },
+        {
+            "catalogTitle": "BALLE 2800",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BALLE 2800",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BALLE 2800",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BALLE 2800",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BALLE 2910",
+            "section": "001",
+            "courseTitle": "Improvisation/Choreo"
+        },
+        {
+            "catalogTitle": "BALLE 3200",
+            "section": "001",
+            "courseTitle": "Pointe Variations II"
+        },
+        {
+            "catalogTitle": "BALLE 3225",
+            "section": "001",
+            "courseTitle": "Men's Class II"
+        },
+        {
+            "catalogTitle": "BALLE 3260",
+            "section": "001",
+            "courseTitle": "Dance Production II"
+        },
+        {
+            "catalogTitle": "BALLE 3290",
+            "section": "001",
+            "courseTitle": "Technique II"
+        },
+        {
+            "catalogTitle": "BALLE 3290",
+            "section": "002",
+            "courseTitle": "Technique II"
+        },
+        {
+            "catalogTitle": "BALLE 3900",
+            "section": "001",
+            "courseTitle": "Senior Concert Performance"
+        },
+        {
+            "catalogTitle": "BALLE 4200",
+            "section": "001",
+            "courseTitle": "Pointe/Variations III"
+        },
+        {
+            "catalogTitle": "BALLE 4290",
+            "section": "001",
+            "courseTitle": "Technique III"
+        },
+        {
+            "catalogTitle": "BALLE 4290",
+            "section": "002",
+            "courseTitle": "Technique III"
+        },
+        {
+            "catalogTitle": "BALLE 4402",
+            "section": "001",
+            "courseTitle": "Kinesiology II"
+        },
+        {
+            "catalogTitle": "BALLE 4412",
+            "section": "001",
+            "courseTitle": "Dance History II"
+        },
+        {
+            "catalogTitle": "BALLE 4420",
+            "section": "001",
+            "courseTitle": "Repertoire"
+        },
+        {
+            "catalogTitle": "BALLE 4425",
+            "section": "001",
+            "courseTitle": "Repertoire: Prof'l"
+        },
+        {
+            "catalogTitle": "BALLE 4500",
+            "section": "001",
+            "courseTitle": "Pointe/Variations IV"
+        },
+        {
+            "catalogTitle": "BALLE 4525",
+            "section": "001",
+            "courseTitle": "Men's Class III"
+        },
+        {
+            "catalogTitle": "BALLE 4590",
+            "section": "001",
+            "courseTitle": "Technique IV"
+        },
+        {
+            "catalogTitle": "BALLE 4590",
+            "section": "002",
+            "courseTitle": "Technique IV"
+        },
+        {
+            "catalogTitle": "BALLE 4605",
+            "section": "001",
+            "courseTitle": "Perf Credit: Showcase"
+        },
+        {
+            "catalogTitle": "BALLE 4650",
+            "section": "001",
+            "courseTitle": "Perf Credit: UB"
+        },
+        {
+            "catalogTitle": "BALLE 4650",
+            "section": "002",
+            "courseTitle": "Perf Credit: UB"
+        },
+        {
+            "catalogTitle": "BALLE 4670",
+            "section": "001",
+            "courseTitle": "Performance Credit: Pro"
+        },
+        {
+            "catalogTitle": "BALLE 4710",
+            "section": "001",
+            "courseTitle": "Choreography II"
+        },
+        {
+            "catalogTitle": "BALLE 4720",
+            "section": "001",
+            "courseTitle": "Pointe/Variations: Pro"
+        },
+        {
+            "catalogTitle": "BALLE 4725",
+            "section": "001",
+            "courseTitle": "Men's Class: Prof'l"
+        },
+        {
+            "catalogTitle": "BALLE 4785",
+            "section": "001",
+            "courseTitle": "Ballet Pedagogy II"
+        },
+        {
+            "catalogTitle": "BALLE 4790",
+            "section": "001",
+            "courseTitle": "Technique: Pro"
+        },
+        {
+            "catalogTitle": "BALLE 4800",
+            "section": "002",
+            "courseTitle": "Ind Study General"
+        },
+        {
+            "catalogTitle": "BALLE 4800",
+            "section": "004",
+            "courseTitle": "Ind Study General"
+        },
+        {
+            "catalogTitle": "BALLE 4800",
+            "section": "006",
+            "courseTitle": "Ind Study General"
+        },
+        {
+            "catalogTitle": "BALLE 4800",
+            "section": "008",
+            "courseTitle": "Ind Study General"
+        },
+        {
+            "catalogTitle": "BALLE 4805",
+            "section": "001",
+            "courseTitle": "Seminar: Dance Studies"
+        },
+        {
+            "catalogTitle": "BALLE 4821",
+            "section": "001",
+            "courseTitle": "Tchg Prac Ballet (HON)"
+        },
+        {
+            "catalogTitle": "BALLE 4826",
+            "section": "001",
+            "courseTitle": "Tchg. Prac. Other (HON)"
+        },
+        {
+            "catalogTitle": "BALLE 4860",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Ballet"
+        },
+        {
+            "catalogTitle": "BALLE 4890",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Other"
+        },
+        {
+            "catalogTitle": "BALLE 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "BALLE 6710",
+            "section": "001",
+            "courseTitle": "Creative Practice II"
+        },
+        {
+            "catalogTitle": "BALLE 6910",
+            "section": "001",
+            "courseTitle": "Graduate Project: Prod"
+        },
+        {
+            "catalogTitle": "BALLE 6911",
+            "section": "001",
+            "courseTitle": "Graduate Project: Perf"
+        },
+        {
+            "catalogTitle": "BALLE 6911",
+            "section": "002",
+            "courseTitle": "Graduate Project: Perf"
+        },
+        {
+            "catalogTitle": "BALLE 6912",
+            "section": "001",
+            "courseTitle": "Graduate Project: Ped"
+        },
+        {
+            "catalogTitle": "BALLE 6913",
+            "section": "001",
+            "courseTitle": "Graduate Project: CP"
+        },
+        {
+            "catalogTitle": "BALLE 6916",
+            "section": "001",
+            "courseTitle": "Graduate Project: Schol"
+        },
+        {
+            "catalogTitle": "BALLE 6972",
+            "section": "001",
+            "courseTitle": "Thesis II"
+        }
+    ]
+}

@@ -1,0 +1,974 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 1010",
+            "section": "001",
+            "courseTitle": "Soc Wk & Soc Welfare"
+        },
+        {
+            "catalogTitle": "SW 1010",
+            "section": "002",
+            "courseTitle": "Soc Wk & Soc Welfare"
+        },
+        {
+            "catalogTitle": "SW 1010",
+            "section": "090",
+            "courseTitle": "Soc Wk & Soc Welfare"
+        },
+        {
+            "catalogTitle": "SW 1010",
+            "section": "091",
+            "courseTitle": "Soc Wk & Soc Welfare"
+        },
+        {
+            "catalogTitle": "SW 2100",
+            "section": "001",
+            "courseTitle": "HBSE"
+        },
+        {
+            "catalogTitle": "SW 2100",
+            "section": "090",
+            "courseTitle": "HBSE"
+        },
+        {
+            "catalogTitle": "SW 2500",
+            "section": "001",
+            "courseTitle": "Soc Wk in Crim Justice"
+        },
+        {
+            "catalogTitle": "SW 2715",
+            "section": "001",
+            "courseTitle": "Dynamics of Addiction"
+        },
+        {
+            "catalogTitle": "SW 2715",
+            "section": "002",
+            "courseTitle": "Dynamics of Addiction"
+        },
+        {
+            "catalogTitle": "SW 3000",
+            "section": "001",
+            "courseTitle": "Applied SW Statistics"
+        },
+        {
+            "catalogTitle": "SW 3000",
+            "section": "002",
+            "courseTitle": "Applied SW Statistics"
+        },
+        {
+            "catalogTitle": "SW 3000",
+            "section": "090",
+            "courseTitle": "Applied SW Statistics"
+        },
+        {
+            "catalogTitle": "SW 3110",
+            "section": "002",
+            "courseTitle": "SW Practice I"
+        },
+        {
+            "catalogTitle": "SW 3110",
+            "section": "090",
+            "courseTitle": "SW Practice I"
+        },
+        {
+            "catalogTitle": "SW 3110",
+            "section": "091",
+            "courseTitle": "SW Practice I"
+        },
+        {
+            "catalogTitle": "SW 3315",
+            "section": "001",
+            "courseTitle": "DSM-V for Case Managers"
+        },
+        {
+            "catalogTitle": "SW 3400",
+            "section": "001",
+            "courseTitle": "Impact of Child Abuse"
+        },
+        {
+            "catalogTitle": "SW 3400",
+            "section": "090",
+            "courseTitle": "Impact of Child Abuse"
+        },
+        {
+            "catalogTitle": "SW 3400",
+            "section": "091",
+            "courseTitle": "Impact of Child Abuse"
+        },
+        {
+            "catalogTitle": "SW 3550",
+            "section": "001",
+            "courseTitle": "Soc Div & Cultrl Under."
+        },
+        {
+            "catalogTitle": "SW 3550",
+            "section": "090",
+            "courseTitle": "Soc Div & Cultrl Under."
+        },
+        {
+            "catalogTitle": "SW 3550",
+            "section": "091",
+            "courseTitle": "Soc Div & Cultrl Under."
+        },
+        {
+            "catalogTitle": "SW 3716",
+            "section": "001",
+            "courseTitle": "Intro to Prof Develop"
+        },
+        {
+            "catalogTitle": "SW 3716",
+            "section": "002",
+            "courseTitle": "Intro to Prof Develop"
+        },
+        {
+            "catalogTitle": "SW 3731",
+            "section": "001",
+            "courseTitle": "Counseling Practice I "
+        },
+        {
+            "catalogTitle": "SW 3731",
+            "section": "002",
+            "courseTitle": "Counseling Practice I"
+        },
+        {
+            "catalogTitle": "SW 4100",
+            "section": "001",
+            "courseTitle": "Global Com Bsd Resch"
+        },
+        {
+            "catalogTitle": "SW 4100",
+            "section": "090",
+            "courseTitle": "Global Com Bsd Resch"
+        },
+        {
+            "catalogTitle": "SW 4301",
+            "section": "001",
+            "courseTitle": "Soc Wlfr Policy/Service"
+        },
+        {
+            "catalogTitle": "SW 4301",
+            "section": "090",
+            "courseTitle": "Soc Wlfr Policy/Service"
+        },
+        {
+            "catalogTitle": "SW 4301",
+            "section": "091",
+            "courseTitle": "Soc Wlfr Policy/Service"
+        },
+        {
+            "catalogTitle": "SW 4401",
+            "section": "001",
+            "courseTitle": "Soc Wk Rsrch & Eval"
+        },
+        {
+            "catalogTitle": "SW 4401",
+            "section": "090",
+            "courseTitle": "Soc Wk Rsrch & Eval"
+        },
+        {
+            "catalogTitle": "SW 4401",
+            "section": "091",
+            "courseTitle": "Soc Wk Rsrch & Eval"
+        },
+        {
+            "catalogTitle": "SW 4430",
+            "section": "001",
+            "courseTitle": "SW Practice II"
+        },
+        {
+            "catalogTitle": "SW 4430",
+            "section": "002",
+            "courseTitle": "SW Practice II"
+        },
+        {
+            "catalogTitle": "SW 4430",
+            "section": "090",
+            "courseTitle": "SW Practice II"
+        },
+        {
+            "catalogTitle": "SW 4440",
+            "section": "001",
+            "courseTitle": "SW Practice III"
+        },
+        {
+            "catalogTitle": "SW 4440",
+            "section": "090",
+            "courseTitle": "SW Practice III"
+        },
+        {
+            "catalogTitle": "SW 4440",
+            "section": "091",
+            "courseTitle": "SW Practice III"
+        },
+        {
+            "catalogTitle": "SW 4444",
+            "section": "002",
+            "courseTitle": "Advanced SW Writing"
+        },
+        {
+            "catalogTitle": "SW 4444",
+            "section": "090",
+            "courseTitle": "Advanced SW Writing"
+        },
+        {
+            "catalogTitle": "SW 4444",
+            "section": "091",
+            "courseTitle": "Advanced SW Writing"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "001",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "002",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "090",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "001",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "002",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "090",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4949",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 4949",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "002",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "003",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "SW 5706",
+            "section": "001",
+            "courseTitle": "Field Training"
+        },
+        {
+            "catalogTitle": "SW 5707",
+            "section": "001",
+            "courseTitle": "Adv Field Training"
+        },
+        {
+            "catalogTitle": "SW 5711",
+            "section": "001",
+            "courseTitle": "Functions & Recovery"
+        },
+        {
+            "catalogTitle": "SW 5830",
+            "section": "001",
+            "courseTitle": "Inclusive Dialogue"
+        },
+        {
+            "catalogTitle": "SW 6001",
+            "section": "001",
+            "courseTitle": "Practice I"
+        },
+        {
+            "catalogTitle": "SW 6001",
+            "section": "002",
+            "courseTitle": "Practice I"
+        },
+        {
+            "catalogTitle": "SW 6001",
+            "section": "003",
+            "courseTitle": "Practice I"
+        },
+        {
+            "catalogTitle": "SW 6001",
+            "section": "090",
+            "courseTitle": "Practice I"
+        },
+        {
+            "catalogTitle": "SW 6001",
+            "section": "091",
+            "courseTitle": "Practice I"
+        },
+        {
+            "catalogTitle": "SW 6001",
+            "section": "831",
+            "courseTitle": "Practice I"
+        },
+        {
+            "catalogTitle": "SW 6030",
+            "section": "001",
+            "courseTitle": "HBSE"
+        },
+        {
+            "catalogTitle": "SW 6030",
+            "section": "002",
+            "courseTitle": "HBSE"
+        },
+        {
+            "catalogTitle": "SW 6030",
+            "section": "003",
+            "courseTitle": "HBSE"
+        },
+        {
+            "catalogTitle": "SW 6030",
+            "section": "090",
+            "courseTitle": "HBSE"
+        },
+        {
+            "catalogTitle": "SW 6030",
+            "section": "091",
+            "courseTitle": "HBSE"
+        },
+        {
+            "catalogTitle": "SW 6030",
+            "section": "831",
+            "courseTitle": "HBSE"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "001",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "002",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "003",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "090",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "091",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "831",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6120",
+            "section": "730",
+            "courseTitle": "Reflexive Social Work I"
+        },
+        {
+            "catalogTitle": "SW 6140",
+            "section": "730",
+            "courseTitle": "Community Strategies"
+        },
+        {
+            "catalogTitle": "SW 6201",
+            "section": "001",
+            "courseTitle": "Health Practice I"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "001",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "002",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "003",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "004",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "005",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "006",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "090",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "630",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "631",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6220",
+            "section": "635",
+            "courseTitle": "Reflexive Social Work 2"
+        },
+        {
+            "catalogTitle": "SW 6240",
+            "section": "001",
+            "courseTitle": "Social Policies"
+        },
+        {
+            "catalogTitle": "SW 6240",
+            "section": "002",
+            "courseTitle": "Social Policies"
+        },
+        {
+            "catalogTitle": "SW 6240",
+            "section": "003",
+            "courseTitle": "Social Policies"
+        },
+        {
+            "catalogTitle": "SW 6240",
+            "section": "090",
+            "courseTitle": "Social Policies"
+        },
+        {
+            "catalogTitle": "SW 6240",
+            "section": "091",
+            "courseTitle": "Social Policies"
+        },
+        {
+            "catalogTitle": "SW 6240",
+            "section": "630",
+            "courseTitle": "Social Policies"
+        },
+        {
+            "catalogTitle": "SW 6240",
+            "section": "631",
+            "courseTitle": "Social Policies"
+        },
+        {
+            "catalogTitle": "SW 6240",
+            "section": "635",
+            "courseTitle": "Social Policies"
+        },
+        {
+            "catalogTitle": "SW 6301",
+            "section": "001",
+            "courseTitle": "Child Welfare Prac I"
+        },
+        {
+            "catalogTitle": "SW 6350",
+            "section": "001",
+            "courseTitle": "Global SW Practice I"
+        },
+        {
+            "catalogTitle": "SW 6401",
+            "section": "001",
+            "courseTitle": "MH Practice I"
+        },
+        {
+            "catalogTitle": "SW 6401",
+            "section": "002",
+            "courseTitle": "MH Practice I"
+        },
+        {
+            "catalogTitle": "SW 6401",
+            "section": "003",
+            "courseTitle": "MH Practice I"
+        },
+        {
+            "catalogTitle": "SW 6401",
+            "section": "004",
+            "courseTitle": "MH Practice I"
+        },
+        {
+            "catalogTitle": "SW 6401",
+            "section": "005",
+            "courseTitle": "MH Practice I"
+        },
+        {
+            "catalogTitle": "SW 6401",
+            "section": "006",
+            "courseTitle": "MH Practice I"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "001",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "002",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "003",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "004",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "005",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "006",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "009",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "010",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "011",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "001",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "002",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "003",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "006",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "009",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "010",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "011",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "090",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "630",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "631",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "635",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "730",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6520",
+            "section": "090",
+            "courseTitle": "Issues in Women's Hlth"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "002",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "003",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "004",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "005",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "006",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "009",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "010",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "011",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "001",
+            "courseTitle": "Inclusive Dialogue"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "002",
+            "courseTitle": "Couple & Family Therapy"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "005",
+            "courseTitle": "Mind and Body Bridging"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "006",
+            "courseTitle": "Treatment of Trauma"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "007",
+            "courseTitle": "Dialectic Behavioral Therapy"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "008",
+            "courseTitle": "Suicide Prevention"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "009",
+            "courseTitle": "IPE:Clinical Empathy Sim"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "090",
+            "courseTitle": "Grief and Loss"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "091",
+            "courseTitle": "Cognitive Behavioral Therapy"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "092",
+            "courseTitle": "TF-CBT"
+        },
+        {
+            "catalogTitle": "SW 6621",
+            "section": "093",
+            "courseTitle": "Solution Focused Therapy"
+        },
+        {
+            "catalogTitle": "SW 6650",
+            "section": "001",
+            "courseTitle": "School SW Macro Skills"
+        },
+        {
+            "catalogTitle": "SW 6701",
+            "section": "001",
+            "courseTitle": "Forensics Practice I"
+        },
+        {
+            "catalogTitle": "SW 6740",
+            "section": "001",
+            "courseTitle": "Sub Use Practice I"
+        },
+        {
+            "catalogTitle": "SW 6741",
+            "section": "001",
+            "courseTitle": "Psycho Active Meds"
+        },
+        {
+            "catalogTitle": "SW 6750",
+            "section": "001",
+            "courseTitle": "Aging Practice I"
+        },
+        {
+            "catalogTitle": "SW 6800",
+            "section": "001",
+            "courseTitle": "Social Justice Seminar"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "002",
+            "courseTitle": "SSW Field Practicum Gen"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "003",
+            "courseTitle": "SSW Field Practicum Gen"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "006",
+            "courseTitle": "SSW Field Practicum Gen"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "009",
+            "courseTitle": "SSW Field Practicum Gen"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "010",
+            "courseTitle": "SSW Field Practicum Gen"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "011",
+            "courseTitle": "SSW Field Practicum Gen"
+        },
+        {
+            "catalogTitle": "SW 6823",
+            "section": "001",
+            "courseTitle": "SSW Field Practicum Adv"
+        },
+        {
+            "catalogTitle": "SW 6823",
+            "section": "002",
+            "courseTitle": "SSW Field Practicum Adv"
+        },
+        {
+            "catalogTitle": "SW 6823",
+            "section": "003",
+            "courseTitle": "SSW Field Practicum Adv"
+        },
+        {
+            "catalogTitle": "SW 6823",
+            "section": "005",
+            "courseTitle": "SSW Field Practicum Adv"
+        },
+        {
+            "catalogTitle": "SW 6823",
+            "section": "006",
+            "courseTitle": "SSW Field Practicum Adv"
+        },
+        {
+            "catalogTitle": "SW 6823",
+            "section": "009",
+            "courseTitle": "SSW Field Practicum Adv"
+        },
+        {
+            "catalogTitle": "SW 6823",
+            "section": "010",
+            "courseTitle": "SSW Field Practicum Adv"
+        },
+        {
+            "catalogTitle": "SW 7111",
+            "section": "001",
+            "courseTitle": "Quantitative Research"
+        },
+        {
+            "catalogTitle": "SW 7113",
+            "section": "001",
+            "courseTitle": "Systematic Reviews"
+        },
+        {
+            "catalogTitle": "SW 7121",
+            "section": "001",
+            "courseTitle": "Scholarly Writing I"
+        },
+        {
+            "catalogTitle": "SW 7123",
+            "section": "001",
+            "courseTitle": "Scholarly Writing III"
+        },
+        {
+            "catalogTitle": "SW 7130",
+            "section": "001",
+            "courseTitle": "Epistemological Pers."
+        },
+        {
+            "catalogTitle": "SW 7211",
+            "section": "001",
+            "courseTitle": "Statistics I"
+        },
+        {
+            "catalogTitle": "SW 7530",
+            "section": "001",
+            "courseTitle": "Statistics III"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "011",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "012",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "013",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "014",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "821",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SW 7980",
+            "section": "001",
+            "courseTitle": "Research Consultation"
+        },
+        {
+            "catalogTitle": "SW 7980",
+            "section": "821",
+            "courseTitle": "Research Consultation"
+        },
+        {
+            "catalogTitle": "SW 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration"
+        },
+        {
+            "catalogTitle": "SW 7990",
+            "section": "821",
+            "courseTitle": "Cont Registration"
+        }
+    ]
+}

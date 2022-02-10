@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UGS 1001",
+            "section": "001",
+            "courseTitle": "College On-Ramp"
+        },
+        {
+            "catalogTitle": "UGS 1020",
+            "section": "001",
+            "courseTitle": "Intro to Premed/PA"
+        },
+        {
+            "catalogTitle": "UGS 1020",
+            "section": "002",
+            "courseTitle": "Intro to Premed/PA"
+        },
+        {
+            "catalogTitle": "UGS 1030",
+            "section": "001",
+            "courseTitle": "Intro to Predental"
+        },
+        {
+            "catalogTitle": "UGS 1050",
+            "section": "001",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UGS 1050",
+            "section": "002",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UGS 1050",
+            "section": "003",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UGS 1050",
+            "section": "004",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UGS 1050",
+            "section": "005",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UGS 1050",
+            "section": "090",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UGS 1550",
+            "section": "001",
+            "courseTitle": "Exploring Major/Career"
+        },
+        {
+            "catalogTitle": "UGS 1900",
+            "section": "001",
+            "courseTitle": "Picture Your 1st Year"
+        },
+        {
+            "catalogTitle": "UGS 1950",
+            "section": "090",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "UGS 1950",
+            "section": "091",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "UGS 2230",
+            "section": "090",
+            "courseTitle": "BlockU: Global Citizen."
+        },
+        {
+            "catalogTitle": "UGS 2250",
+            "section": "001",
+            "courseTitle": "BlockU: Med. Humanities"
+        },
+        {
+            "catalogTitle": "UGS 2270",
+            "section": "001",
+            "courseTitle": "BlockU: Families & Hlth"
+        },
+        {
+            "catalogTitle": "UGS 2300",
+            "section": "001",
+            "courseTitle": "Work Wellness, Grt Outd"
+        },
+        {
+            "catalogTitle": "UGS 2900",
+            "section": "090",
+            "courseTitle": "Sense of Purpose"
+        }
+    ]
+}

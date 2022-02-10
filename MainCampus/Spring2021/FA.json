@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 3100",
+            "section": "001",
+            "courseTitle": "Intro to Arts Admin"
+        },
+        {
+            "catalogTitle": "FA 4000",
+            "section": "001",
+            "courseTitle": "Integrating the Arts"
+        },
+        {
+            "catalogTitle": "FA 4890",
+            "section": "001",
+            "courseTitle": "CFA Internship"
+        },
+        {
+            "catalogTitle": "FA 4950",
+            "section": "001",
+            "courseTitle": "Interdisciplin Capstone"
+        }
+    ]
+}

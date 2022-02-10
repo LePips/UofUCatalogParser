@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CRIM 101",
+            "section": "090",
+            "courseTitle": "Intro Criminal Justice"
+        },
+        {
+            "catalogTitle": "CRIM 1010",
+            "section": "090",
+            "courseTitle": "Intro Criminal Justice"
+        },
+        {
+            "catalogTitle": "CRIM 3561",
+            "section": "090",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "CRIM 3811",
+            "section": "001",
+            "courseTitle": "Refugees"
+        },
+        {
+            "catalogTitle": "CRIM 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        }
+    ]
+}

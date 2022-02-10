@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BLCHM 6200",
+            "section": "001",
+            "courseTitle": "Critical Thinking"
+        },
+        {
+            "catalogTitle": "BLCHM 6300",
+            "section": "001",
+            "courseTitle": "Proposal Preparation"
+        },
+        {
+            "catalogTitle": "BLCHM 6430",
+            "section": "001",
+            "courseTitle": "Structural Methods"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        }
+    ]
+}

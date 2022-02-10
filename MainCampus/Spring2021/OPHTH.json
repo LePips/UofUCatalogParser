@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OPHTH 7000",
+            "section": "001",
+            "courseTitle": "Ophthalmology Away"
+        },
+        {
+            "catalogTitle": "OPHTH 7590",
+            "section": "001",
+            "courseTitle": "Ophthalmology Research"
+        },
+        {
+            "catalogTitle": "OPHTH 7595",
+            "section": "001",
+            "courseTitle": "Intro to Ophthalmology"
+        },
+        {
+            "catalogTitle": "OPHTH 7595",
+            "section": "002",
+            "courseTitle": "Intro to Ophthalmology"
+        },
+        {
+            "catalogTitle": "OPHTH 7600",
+            "section": "001",
+            "courseTitle": "Ophthalmology Precept"
+        },
+        {
+            "catalogTitle": "OPHTH 7620",
+            "section": "001",
+            "courseTitle": "Virtual Ophthalmology "
+        },
+        {
+            "catalogTitle": "OPHTH 7700",
+            "section": "001",
+            "courseTitle": "Neuro-Ophthalmology"
+        }
+    ]
+}

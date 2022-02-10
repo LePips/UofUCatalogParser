@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 202",
+            "section": "001",
+            "courseTitle": "Understanding Social Security"
+        },
+        {
+            "catalogTitle": "LLBUS 211",
+            "section": "001",
+            "courseTitle": "The Home Stretch"
+        },
+        {
+            "catalogTitle": "LLBUS 241",
+            "section": "001",
+            "courseTitle": "Performance Changes You"
+        },
+        {
+            "catalogTitle": "LLBUS 244",
+            "section": "001",
+            "courseTitle": "8,000 Days"
+        },
+        {
+            "catalogTitle": "LLBUS 245",
+            "section": "001",
+            "courseTitle": "5 Ways Technology Will Change"
+        }
+    ]
+}

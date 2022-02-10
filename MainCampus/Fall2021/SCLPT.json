@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SCLPT 3420",
+            "section": "001",
+            "courseTitle": "Figure Sculpture I"
+        },
+        {
+            "catalogTitle": "SCLPT 3430",
+            "section": "001",
+            "courseTitle": "Working Wood"
+        },
+        {
+            "catalogTitle": "SCLPT 3440",
+            "section": "001",
+            "courseTitle": "Small Metal & Jewelry"
+        },
+        {
+            "catalogTitle": "SCLPT 4410",
+            "section": "001",
+            "courseTitle": "Studio Practice I"
+        },
+        {
+            "catalogTitle": "SCLPT 4465",
+            "section": "001",
+            "courseTitle": "Studio Practice II"
+        },
+        {
+            "catalogTitle": "SCLPT 4470",
+            "section": "001",
+            "courseTitle": "Video and Projection"
+        }
+    ]
+}

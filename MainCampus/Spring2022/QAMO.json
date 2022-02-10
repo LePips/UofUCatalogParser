@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "QAMO 3010",
+            "section": "001",
+            "courseTitle": "Business Economics"
+        },
+        {
+            "catalogTitle": "QAMO 3020",
+            "section": "001",
+            "courseTitle": "Game Theory"
+        },
+        {
+            "catalogTitle": "QAMO 3020",
+            "section": "002",
+            "courseTitle": "Game Theory"
+        },
+        {
+            "catalogTitle": "QAMO 3030",
+            "section": "001",
+            "courseTitle": "Business Econometrics 1"
+        },
+        {
+            "catalogTitle": "QAMO 3030",
+            "section": "002",
+            "courseTitle": "Business Econometrics 1"
+        },
+        {
+            "catalogTitle": "QAMO 3201",
+            "section": "001",
+            "courseTitle": "Money and Banking BEA"
+        },
+        {
+            "catalogTitle": "QAMO 4010",
+            "section": "001",
+            "courseTitle": "Economics of Strategy"
+        },
+        {
+            "catalogTitle": "QAMO 4010",
+            "section": "002",
+            "courseTitle": "Economics of Strategy"
+        },
+        {
+            "catalogTitle": "QAMO 4011",
+            "section": "001",
+            "courseTitle": "Inter Micro for BEA"
+        },
+        {
+            "catalogTitle": "QAMO 4060",
+            "section": "001",
+            "courseTitle": "Econ of Bus Taxation"
+        },
+        {
+            "catalogTitle": "QAMO 4120",
+            "section": "001",
+            "courseTitle": "Stakeholder Economics"
+        },
+        {
+            "catalogTitle": "QAMO 4130",
+            "section": "002",
+            "courseTitle": "Voting Pub & Corp Sect"
+        },
+        {
+            "catalogTitle": "QAMO 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "QAMO 4999",
+            "section": "002",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "QAMO 4999",
+            "section": "003",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "QAMO 5980",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "QAMO 5980",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "QAMO 5980",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "QAMO 5980",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

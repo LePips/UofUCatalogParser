@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Beginning Guitar I"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "001",
+            "courseTitle": "Beginning Guitar II"
+        },
+        {
+            "catalogTitle": "LLMT 467",
+            "section": "001",
+            "courseTitle": "Beginning Chromatic Harmonica"
+        },
+        {
+            "catalogTitle": "LLMT 468",
+            "section": "001",
+            "courseTitle": "Intermediate Guitar: Learn to"
+        },
+        {
+            "catalogTitle": "LLMT 469",
+            "section": "001",
+            "courseTitle": "Intermediate Guitar: Learn to"
+        },
+        {
+            "catalogTitle": "LLMT 470",
+            "section": "001",
+            "courseTitle": "Intermediate Guitar"
+        }
+    ]
+}

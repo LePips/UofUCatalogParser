@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NEUSC 6030",
+            "section": "001",
+            "courseTitle": "Behavior Neurosci Journal Club"
+        },
+        {
+            "catalogTitle": "NEUSC 6050",
+            "section": "001",
+            "courseTitle": "Systems Neuroscience"
+        },
+        {
+            "catalogTitle": "NEUSC 6900",
+            "section": "001",
+            "courseTitle": "Neuroscience Rotations"
+        },
+        {
+            "catalogTitle": "NEUSC 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NEUSC 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

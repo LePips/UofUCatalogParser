@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DESGR 1100",
+            "section": "001",
+            "courseTitle": "Communication Design 1"
+        },
+        {
+            "catalogTitle": "DESGR 1100",
+            "section": "002",
+            "courseTitle": "Communication Design 1"
+        },
+        {
+            "catalogTitle": "DESGR 1100",
+            "section": "003",
+            "courseTitle": "Communication Design 1"
+        },
+        {
+            "catalogTitle": "DESGR 1100",
+            "section": "004",
+            "courseTitle": "Communication Design 1"
+        },
+        {
+            "catalogTitle": "DESGR 1600",
+            "section": "001",
+            "courseTitle": "Typography 1"
+        },
+        {
+            "catalogTitle": "DESGR 1600",
+            "section": "002",
+            "courseTitle": "Typography 1"
+        },
+        {
+            "catalogTitle": "DESGR 2300",
+            "section": "001",
+            "courseTitle": "Communication Design 3"
+        },
+        {
+            "catalogTitle": "DESGR 2300",
+            "section": "002",
+            "courseTitle": "Communication Design 3"
+        },
+        {
+            "catalogTitle": "DESGR 2700",
+            "section": "001",
+            "courseTitle": "Typography 2"
+        },
+        {
+            "catalogTitle": "DESGR 2700",
+            "section": "002",
+            "courseTitle": "Typography 2"
+        },
+        {
+            "catalogTitle": "DESGR 3500",
+            "section": "001",
+            "courseTitle": "Communication Design 5"
+        },
+        {
+            "catalogTitle": "DESGR 3500",
+            "section": "002",
+            "courseTitle": "Communication Design 5"
+        },
+        {
+            "catalogTitle": "DESGR 4100",
+            "section": "001",
+            "courseTitle": "Visiting Designer"
+        }
+    ]
+}

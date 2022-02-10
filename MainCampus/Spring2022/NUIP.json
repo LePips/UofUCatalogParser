@@ -1,0 +1,624 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUIP 362",
+            "section": "001",
+            "courseTitle": "Cultural Aspcts of Food"
+        },
+        {
+            "catalogTitle": "NUIP 444",
+            "section": "001",
+            "courseTitle": "Adv Nutrition Science"
+        },
+        {
+            "catalogTitle": "NUIP 1020",
+            "section": "001",
+            "courseTitle": "Sci Fndtn Nutr & Health"
+        },
+        {
+            "catalogTitle": "NUIP 1020",
+            "section": "090",
+            "courseTitle": "Sci Fndtn Nutr & Health"
+        },
+        {
+            "catalogTitle": "NUIP 2020",
+            "section": "090",
+            "courseTitle": "Applied Nutrition"
+        },
+        {
+            "catalogTitle": "NUIP 3020",
+            "section": "001",
+            "courseTitle": "Nutr for Exer & Sport"
+        },
+        {
+            "catalogTitle": "NUIP 3620",
+            "section": "001",
+            "courseTitle": "Cultural Aspcts Of Food"
+        },
+        {
+            "catalogTitle": "NUIP 3620",
+            "section": "002",
+            "courseTitle": "Cultural Aspcts Of Food"
+        },
+        {
+            "catalogTitle": "NUIP 3620",
+            "section": "005",
+            "courseTitle": "Cultural Aspcts Of Food"
+        },
+        {
+            "catalogTitle": "NUIP 4440",
+            "section": "001",
+            "courseTitle": "Adv Human Nutrition"
+        },
+        {
+            "catalogTitle": "NUIP 5100",
+            "section": "090",
+            "courseTitle": "Pediatric Nutrition"
+        },
+        {
+            "catalogTitle": "NUIP 5300",
+            "section": "001",
+            "courseTitle": "Max Human Performance"
+        },
+        {
+            "catalogTitle": "NUIP 5850",
+            "section": "001",
+            "courseTitle": "Selected Topics"
+        },
+        {
+            "catalogTitle": "NUIP 6100",
+            "section": "090",
+            "courseTitle": "Adv Ped & Adlscnt Nutrn"
+        },
+        {
+            "catalogTitle": "NUIP 6210",
+            "section": "001",
+            "courseTitle": "Food Management"
+        },
+        {
+            "catalogTitle": "NUIP 6250",
+            "section": "001",
+            "courseTitle": "Nutrition Counseling"
+        },
+        {
+            "catalogTitle": "NUIP 6320",
+            "section": "001",
+            "courseTitle": "Adv Sports Nutr"
+        },
+        {
+            "catalogTitle": "NUIP 6380",
+            "section": "001",
+            "courseTitle": "Medical Nutritn Ther II"
+        },
+        {
+            "catalogTitle": "NUIP 6380",
+            "section": "002",
+            "courseTitle": "Medical Nutritn Ther II"
+        },
+        {
+            "catalogTitle": "NUIP 6381",
+            "section": "001",
+            "courseTitle": "Pulmonary Physiology"
+        },
+        {
+            "catalogTitle": "NUIP 6450",
+            "section": "090",
+            "courseTitle": "Nutrition Biochemistry"
+        },
+        {
+            "catalogTitle": "NUIP 6460",
+            "section": "001",
+            "courseTitle": "Micronutrient Metabolsm"
+        },
+        {
+            "catalogTitle": "NUIP 6460",
+            "section": "090",
+            "courseTitle": "Micronutrient Metabolsm"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "001",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "002",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "003",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "004",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "005",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "006",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "007",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "008",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "009",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "010",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6910",
+            "section": "001",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "NUIP 6910",
+            "section": "002",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "NUIP 6910",
+            "section": "003",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "NUIP 6910",
+            "section": "005",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "NUIP 6910",
+            "section": "006",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "NUIP 6910",
+            "section": "007",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "NUIP 6910",
+            "section": "008",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "NUIP 6930",
+            "section": "001",
+            "courseTitle": "Supervised Practice"
+        },
+        {
+            "catalogTitle": "NUIP 6940",
+            "section": "001",
+            "courseTitle": "Capstone"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "009",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "011",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "012",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "014",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "015",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "016",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "017",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NUIP 6980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NUIP 6980",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NUIP 6980",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NUIP 6980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NUIP 7540",
+            "section": "001",
+            "courseTitle": "Culinary Medicine"
+        },
+        {
+            "catalogTitle": "NUIP 7850",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "001",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "002",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "003",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "004",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "005",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "006",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "007",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "008",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "009",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7950",
+            "section": "010",
+            "courseTitle": "Indep Studies-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "001",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "002",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "003",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "004",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "005",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "006",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "007",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "008",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "009",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "010",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7960",
+            "section": "011",
+            "courseTitle": "Special Topics-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "001",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "002",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "003",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "004",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "005",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "006",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "007",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "008",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "009",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "010",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "011",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "012",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "013",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "014",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "015",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "016",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "017",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "018",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "019",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "020",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "021",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "022",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "023",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "024",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "025",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "026",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "027",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "028",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "029",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "030",
+            "courseTitle": "Dissertation-Doctoral"
+        },
+        {
+            "catalogTitle": "NUIP 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consutl-PhD"
+        },
+        {
+            "catalogTitle": "NUIP 7980",
+            "section": "002",
+            "courseTitle": "Faculty Consutl-PhD"
+        },
+        {
+            "catalogTitle": "NUIP 7980",
+            "section": "003",
+            "courseTitle": "Faculty Consutl-PhD"
+        },
+        {
+            "catalogTitle": "NUIP 7980",
+            "section": "004",
+            "courseTitle": "Faculty Consutl-PhD"
+        },
+        {
+            "catalogTitle": "NUIP 7980",
+            "section": "005",
+            "courseTitle": "Faculty Consutl-PhD"
+        },
+        {
+            "catalogTitle": "NUIP 7980",
+            "section": "006",
+            "courseTitle": "Faculty Consutl-PhD"
+        },
+        {
+            "catalogTitle": "NUIP 7980",
+            "section": "007",
+            "courseTitle": "Faculty Consutl-PhD"
+        },
+        {
+            "catalogTitle": "NUIP 7980",
+            "section": "008",
+            "courseTitle": "Faculty Consutl-PhD"
+        }
+    ]
+}

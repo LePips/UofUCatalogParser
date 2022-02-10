@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATSM 3300",
+            "section": "001",
+            "courseTitle": "Intro to Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 3405",
+            "section": "001",
+            "courseTitle": "Psych Influences in AT"
+        },
+        {
+            "catalogTitle": "ATSM 4011",
+            "section": "001",
+            "courseTitle": "Application of EBP"
+        },
+        {
+            "catalogTitle": "ATSM 5405",
+            "section": "001",
+            "courseTitle": "Clinical Internship V"
+        },
+        {
+            "catalogTitle": "ATSM 5405",
+            "section": "002",
+            "courseTitle": "Clinical Internship V"
+        },
+        {
+            "catalogTitle": "ATSM 6020",
+            "section": "001",
+            "courseTitle": "Prev, Eval, & Rehab UE"
+        },
+        {
+            "catalogTitle": "ATSM 6030",
+            "section": "001",
+            "courseTitle": "Prev, Eval & Rehab Back"
+        },
+        {
+            "catalogTitle": "ATSM 6101",
+            "section": "001",
+            "courseTitle": "Advanced Acute Care"
+        },
+        {
+            "catalogTitle": "ATSM 6220",
+            "section": "001",
+            "courseTitle": "Behavior Health Considr"
+        },
+        {
+            "catalogTitle": "ATSM 6520",
+            "section": "001",
+            "courseTitle": "Clinical Experience I"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PREP 100",
+            "section": "001",
+            "courseTitle": "LSAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 100",
+            "section": "002",
+            "courseTitle": "LSAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "003",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "004",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "005",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 310",
+            "section": "002",
+            "courseTitle": "GRE HYBRID"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "004",
+            "courseTitle": "Math Refresher"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "005",
+            "courseTitle": "Math Refresher"
+        }
+    ]
+}

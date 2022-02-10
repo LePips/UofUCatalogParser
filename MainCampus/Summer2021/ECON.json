@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECON 201",
+            "section": "002",
+            "courseTitle": "Princ of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 201",
+            "section": "090",
+            "courseTitle": "Princ of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 310",
+            "section": "070",
+            "courseTitle": "Labor Economics"
+        },
+        {
+            "catalogTitle": "ECON 354",
+            "section": "001",
+            "courseTitle": "Current Economic Pbls"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "001",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "070",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "090",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "090",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 3100",
+            "section": "070",
+            "courseTitle": "Labor Economics"
+        },
+        {
+            "catalogTitle": "ECON 3190",
+            "section": "001",
+            "courseTitle": "Intro Health Econ"
+        },
+        {
+            "catalogTitle": "ECON 3540",
+            "section": "001",
+            "courseTitle": "Current Economic Pbls"
+        },
+        {
+            "catalogTitle": "ECON 3620",
+            "section": "001",
+            "courseTitle": "Math for Econ"
+        },
+        {
+            "catalogTitle": "ECON 3640",
+            "section": "001",
+            "courseTitle": "Prob&Stat Inference"
+        },
+        {
+            "catalogTitle": "ECON 4010",
+            "section": "090",
+            "courseTitle": "Intermed Microecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "090",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 4650",
+            "section": "001",
+            "courseTitle": "Princ Of Econometrics"
+        },
+        {
+            "catalogTitle": "ECON 5470",
+            "section": "001",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 5520",
+            "section": "001",
+            "courseTitle": "Multintnl Frms"
+        },
+        {
+            "catalogTitle": "ECON 6470",
+            "section": "001",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 6520",
+            "section": "001",
+            "courseTitle": "Multintnl Frms: Intl I"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 671",
+            "section": "001",
+            "courseTitle": "Beginning Fly Fishing"
+        },
+        {
+            "catalogTitle": "LLREC 731",
+            "section": "001",
+            "courseTitle": "Skate Skiing: An Introduction"
+        },
+        {
+            "catalogTitle": "LLREC 800",
+            "section": "001",
+            "courseTitle": "Backcountry Car Camping"
+        },
+        {
+            "catalogTitle": "LLREC 902",
+            "section": "001",
+            "courseTitle": "Tenkara"
+        },
+        {
+            "catalogTitle": "LLREC 910",
+            "section": "001",
+            "courseTitle": "Snowshoe by Moonlight"
+        },
+        {
+            "catalogTitle": "LLREC 913",
+            "section": "001",
+            "courseTitle": "Enjoying Nature Responsibly"
+        },
+        {
+            "catalogTitle": "LLREC 915",
+            "section": "001",
+            "courseTitle": "Beginning Bicycle Maintenance"
+        },
+        {
+            "catalogTitle": "LLREC 923",
+            "section": "001",
+            "courseTitle": "Beginning Horsemanship I"
+        }
+    ]
+}

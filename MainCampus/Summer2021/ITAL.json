@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 201",
+            "section": "001",
+            "courseTitle": "Intermediate Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 202",
+            "section": "001",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "001",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2020",
+            "section": "001",
+            "courseTitle": "Intrm Italian II"
+        }
+    ]
+}

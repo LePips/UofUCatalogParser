@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENTP 1010",
+            "section": "001",
+            "courseTitle": "Entp and Society"
+        },
+        {
+            "catalogTitle": "ENTP 1020",
+            "section": "002",
+            "courseTitle": "ENTP & St Method"
+        },
+        {
+            "catalogTitle": "ENTP 2050",
+            "section": "001",
+            "courseTitle": "Lassonde + X Portfolio"
+        },
+        {
+            "catalogTitle": "ENTP 5000",
+            "section": "090",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "ENTP 5880",
+            "section": "001",
+            "courseTitle": "ENTP Internship"
+        },
+        {
+            "catalogTitle": "ENTP 6860",
+            "section": "001",
+            "courseTitle": "Lassonde Venture"
+        }
+    ]
+}

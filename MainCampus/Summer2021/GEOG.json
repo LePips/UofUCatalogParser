@@ -1,0 +1,119 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEOG 1000",
+            "section": "090",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 1400",
+            "section": "090",
+            "courseTitle": "Human Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3385",
+            "section": "001",
+            "courseTitle": "Federal Land Mgmt"
+        },
+        {
+            "catalogTitle": "GEOG 3670",
+            "section": "090",
+            "courseTitle": "Latin America"
+        },
+        {
+            "catalogTitle": "GEOG 5385",
+            "section": "001",
+            "courseTitle": "Federal Land Mgmt"
+        },
+        {
+            "catalogTitle": "GEOG 5680",
+            "section": "001",
+            "courseTitle": "Intro to R"
+        },
+        {
+            "catalogTitle": "GEOG 5712",
+            "section": "001",
+            "courseTitle": "Paleo Field Methods"
+        },
+        {
+            "catalogTitle": "GEOG 5940",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEOG 5940",
+            "section": "002",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEOG 5950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "GEOG 5951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6680",
+            "section": "001",
+            "courseTitle": "Intro to R"
+        },
+        {
+            "catalogTitle": "GEOG 6940",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEOG 6950",
+            "section": "001",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 6951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 7950",
+            "section": "001",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 7950",
+            "section": "003",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 7951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 7951",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "GEOG 7981",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

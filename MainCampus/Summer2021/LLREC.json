@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 671",
+            "section": "001",
+            "courseTitle": "Beginning Fly Fishing"
+        },
+        {
+            "catalogTitle": "LLREC 800",
+            "section": "001",
+            "courseTitle": "Backcountry Car Camping"
+        },
+        {
+            "catalogTitle": "LLREC 915",
+            "section": "001",
+            "courseTitle": "Beginning Bicycle Maintenance"
+        },
+        {
+            "catalogTitle": "LLREC 916",
+            "section": "001",
+            "courseTitle": "Introduction to Backpacking"
+        },
+        {
+            "catalogTitle": "LLREC 921",
+            "section": "001",
+            "courseTitle": "Intro to AfroDance"
+        },
+        {
+            "catalogTitle": "LLREC 922",
+            "section": "001",
+            "courseTitle": "What is Afrobeats Dance?"
+        }
+    ]
+}

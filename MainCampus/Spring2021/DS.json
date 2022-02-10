@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DS 2500",
+            "section": "001",
+            "courseTitle": "Data Wrangling"
+        },
+        {
+            "catalogTitle": "DS 3390",
+            "section": "001",
+            "courseTitle": "Ethics in Data Science"
+        },
+        {
+            "catalogTitle": "DS 4140",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "DS 4350",
+            "section": "001",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "DS 4530",
+            "section": "001",
+            "courseTitle": "Database Systems"
+        }
+    ]
+}

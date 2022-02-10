@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATSM 3300",
+            "section": "001",
+            "courseTitle": "Intro to Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 4880",
+            "section": "001",
+            "courseTitle": "Scholarship Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 6020",
+            "section": "001",
+            "courseTitle": "Prev, Eval, & Rehab UE"
+        },
+        {
+            "catalogTitle": "ATSM 6030",
+            "section": "001",
+            "courseTitle": "Eval & Rehab Spine"
+        },
+        {
+            "catalogTitle": "ATSM 6090",
+            "section": "090",
+            "courseTitle": "Diagnostics in AT"
+        },
+        {
+            "catalogTitle": "ATSM 6101",
+            "section": "001",
+            "courseTitle": "Advanced Acute Care"
+        },
+        {
+            "catalogTitle": "ATSM 6220",
+            "section": "001",
+            "courseTitle": "Behavior Health Considr"
+        },
+        {
+            "catalogTitle": "ATSM 6520",
+            "section": "001",
+            "courseTitle": "Clinical Experience I"
+        },
+        {
+            "catalogTitle": "ATSM 6551",
+            "section": "090",
+            "courseTitle": "Clinical Internship II"
+        },
+        {
+            "catalogTitle": "ATSM 6860",
+            "section": "090",
+            "courseTitle": "Transition to Practice"
+        },
+        {
+            "catalogTitle": "ATSM 6900",
+            "section": "090",
+            "courseTitle": "Clinical Capstone in AT"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UUHSC 2500",
+            "section": "001",
+            "courseTitle": "Hlth Prof Seminar LEAP"
+        },
+        {
+            "catalogTitle": "UUHSC 2500",
+            "section": "002",
+            "courseTitle": "Hlth Prof Seminar LEAP"
+        },
+        {
+            "catalogTitle": "UUHSC 3000",
+            "section": "001",
+            "courseTitle": "HS Res Sem for Adv Leap"
+        },
+        {
+            "catalogTitle": "UUHSC 5300",
+            "section": "001",
+            "courseTitle": "Interprofessional Telem"
+        },
+        {
+            "catalogTitle": "UUHSC 6300",
+            "section": "001",
+            "courseTitle": "Interprofessional Telem"
+        },
+        {
+            "catalogTitle": "UUHSC 6301",
+            "section": "001",
+            "courseTitle": "IPE Telemedicine"
+        },
+        {
+            "catalogTitle": "UUHSC 6602",
+            "section": "001",
+            "courseTitle": "IPE Ambulatory"
+        },
+        {
+            "catalogTitle": "UUHSC 6800",
+            "section": "001",
+            "courseTitle": "Preparedness & Response"
+        },
+        {
+            "catalogTitle": "UUHSC 6801",
+            "section": "001",
+            "courseTitle": "Preparedness & Response"
+        }
+    ]
+}

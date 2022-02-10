@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PRINT 3320",
+            "section": "001",
+            "courseTitle": "Lithography I"
+        },
+        {
+            "catalogTitle": "PRINT 3340",
+            "section": "001",
+            "courseTitle": "Intaglio I"
+        },
+        {
+            "catalogTitle": "PRINT 4360",
+            "section": "001",
+            "courseTitle": "Adv. Printmaking I"
+        },
+        {
+            "catalogTitle": "PRINT 4365",
+            "section": "001",
+            "courseTitle": "Adv. Printmaking II"
+        }
+    ]
+}

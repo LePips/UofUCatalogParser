@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTR 106",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 1060",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 4090",
+            "section": "001",
+            "courseTitle": "Stellar Astrophysics"
+        },
+        {
+            "catalogTitle": "ASTR 6410",
+            "section": "001",
+            "courseTitle": "Intro to Astro Research"
+        },
+        {
+            "catalogTitle": "ASTR 7130",
+            "section": "001",
+            "courseTitle": "Radiative Processes"
+        }
+    ]
+}

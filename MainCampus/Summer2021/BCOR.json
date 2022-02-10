@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "090",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "090",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "001",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "002",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "093",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 3100",
+            "section": "001",
+            "courseTitle": "Markets & Institutions"
+        }
+    ]
+}

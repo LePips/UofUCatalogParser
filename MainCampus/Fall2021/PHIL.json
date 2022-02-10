@@ -1,0 +1,259 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 313",
+            "section": "003",
+            "courseTitle": "History of Phil, Math, & Logic"
+        },
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "090",
+            "courseTitle": "Intro Survey Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1001",
+            "section": "001",
+            "courseTitle": "Intro: Ethical Dilemmas"
+        },
+        {
+            "catalogTitle": "PHIL 1002",
+            "section": "001",
+            "courseTitle": "Intr God Faith & Reason"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 3011",
+            "section": "001",
+            "courseTitle": "Aesthetics and Phil of Play"
+        },
+        {
+            "catalogTitle": "PHIL 3011",
+            "section": "002",
+            "courseTitle": "Philosophy of ______"
+        },
+        {
+            "catalogTitle": "PHIL 3012",
+            "section": "001",
+            "courseTitle": "Chrstnty/Judaism in Lit & Phil"
+        },
+        {
+            "catalogTitle": "PHIL 3012",
+            "section": "002",
+            "courseTitle": "Language and Cognition"
+        },
+        {
+            "catalogTitle": "PHIL 3013",
+            "section": "003",
+            "courseTitle": "History of Phil, Math, & Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "001",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "090",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3210",
+            "section": "001",
+            "courseTitle": "Inductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3300",
+            "section": "001",
+            "courseTitle": "Theory Of Knowledge"
+        },
+        {
+            "catalogTitle": "PHIL 3310",
+            "section": "001",
+            "courseTitle": "Science And Society"
+        },
+        {
+            "catalogTitle": "PHIL 3350",
+            "section": "001",
+            "courseTitle": "Hist & Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 3375",
+            "section": "001",
+            "courseTitle": "Phil Social Science"
+        },
+        {
+            "catalogTitle": "PHIL 3400",
+            "section": "001",
+            "courseTitle": "Mind, Lang, Reality"
+        },
+        {
+            "catalogTitle": "PHIL 3440",
+            "section": "001",
+            "courseTitle": "Cognitive Science"
+        },
+        {
+            "catalogTitle": "PHIL 3440",
+            "section": "090",
+            "courseTitle": "Cognitive Science"
+        },
+        {
+            "catalogTitle": "PHIL 3500",
+            "section": "001",
+            "courseTitle": "Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "001",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "002",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "001",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "090",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "090",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3710",
+            "section": "001",
+            "courseTitle": "Phil Of Law"
+        },
+        {
+            "catalogTitle": "PHIL 3730",
+            "section": "001",
+            "courseTitle": "Justice & Int Affairs"
+        },
+        {
+            "catalogTitle": "PHIL 4010",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        },
+        {
+            "catalogTitle": "PHIL 4140",
+            "section": "001",
+            "courseTitle": "Classical Chinese Phil"
+        },
+        {
+            "catalogTitle": "PHIL 5193",
+            "section": "001",
+            "courseTitle": "Philosophy of Classical Chines"
+        },
+        {
+            "catalogTitle": "PHIL 5200",
+            "section": "001",
+            "courseTitle": "Adv. Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 5350",
+            "section": "001",
+            "courseTitle": "Topics Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 5520",
+            "section": "001",
+            "courseTitle": "Advanced Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 5530",
+            "section": "001",
+            "courseTitle": "Environmental Phil"
+        },
+        {
+            "catalogTitle": "PHIL 5800",
+            "section": "001",
+            "courseTitle": "Philosophy of Art"
+        },
+        {
+            "catalogTitle": "PHIL 6140",
+            "section": "001",
+            "courseTitle": "Classical Chinese Phil"
+        },
+        {
+            "catalogTitle": "PHIL 6191",
+            "section": "001",
+            "courseTitle": "\"Philosophy of\""
+        },
+        {
+            "catalogTitle": "PHIL 6200",
+            "section": "001",
+            "courseTitle": "Adv Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 6350",
+            "section": "001",
+            "courseTitle": "Topics Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 6520",
+            "section": "001",
+            "courseTitle": "Adv Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 6800",
+            "section": "001",
+            "courseTitle": "Philosophy of Art"
+        },
+        {
+            "catalogTitle": "PHIL 6920",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "PHIL 7010",
+            "section": "001",
+            "courseTitle": "Proseminar"
+        },
+        {
+            "catalogTitle": "PHIL 7020",
+            "section": "001",
+            "courseTitle": "Sem Phil Traditions"
+        },
+        {
+            "catalogTitle": "PHIL 7570",
+            "section": "001",
+            "courseTitle": "Research Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 7570",
+            "section": "002",
+            "courseTitle": "Research Ethics"
+        }
+    ]
+}

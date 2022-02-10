@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARTX 340",
+            "section": "001",
+            "courseTitle": "Digital Visual Effects"
+        },
+        {
+            "catalogTitle": "ARTX 360",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "ARTX 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "ARTX 2740",
+            "section": "001",
+            "courseTitle": "Digital Imaging"
+        },
+        {
+            "catalogTitle": "ARTX 3135",
+            "section": "001",
+            "courseTitle": "Digital Drawing"
+        },
+        {
+            "catalogTitle": "ARTX 3400",
+            "section": "001",
+            "courseTitle": "Digital Visual Effects"
+        },
+        {
+            "catalogTitle": "ARTX 3600",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "ARTX 3800",
+            "section": "001",
+            "courseTitle": "Special Topics: ArtTech"
+        }
+    ]
+}

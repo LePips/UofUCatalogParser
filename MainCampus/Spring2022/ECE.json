@@ -1,0 +1,1084 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 221",
+            "section": "001",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 221",
+            "section": "002",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 320",
+            "section": "001",
+            "courseTitle": "Intro Semicond Phys"
+        },
+        {
+            "catalogTitle": "ECE 522",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 522",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 552",
+            "section": "002",
+            "courseTitle": "Digital Comm Systems"
+        },
+        {
+            "catalogTitle": "ECE 653",
+            "section": "090",
+            "courseTitle": "Digital Signal Process"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "001",
+            "courseTitle": "Matlab for ECE Design"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "002",
+            "courseTitle": "Matlab for ECE Design"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "003",
+            "courseTitle": "Matlab for ECE Design"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "004",
+            "courseTitle": "Matlab for ECE Design"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "005",
+            "courseTitle": "Matlab for ECE Design"
+        },
+        {
+            "catalogTitle": "ECE 1240",
+            "section": "001",
+            "courseTitle": "Intro to Circuit Design"
+        },
+        {
+            "catalogTitle": "ECE 1245",
+            "section": "001",
+            "courseTitle": "Intro to Circ Des Lab"
+        },
+        {
+            "catalogTitle": "ECE 1245",
+            "section": "002",
+            "courseTitle": "Intro to Circ Des Lab"
+        },
+        {
+            "catalogTitle": "ECE 1245",
+            "section": "003",
+            "courseTitle": "Intro to Circ Des Lab"
+        },
+        {
+            "catalogTitle": "ECE 1245",
+            "section": "004",
+            "courseTitle": "Intro to Circ Des Lab"
+        },
+        {
+            "catalogTitle": "ECE 1245",
+            "section": "005",
+            "courseTitle": "Intro to Circ Des Lab"
+        },
+        {
+            "catalogTitle": "ECE 2200",
+            "section": "001",
+            "courseTitle": "El/CP En Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2200",
+            "section": "002",
+            "courseTitle": "El/CP En Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2200",
+            "section": "003",
+            "courseTitle": "El/CP En Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "001",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "002",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "003",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "004",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "005",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "006",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "007",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "008",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "009",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2240",
+            "section": "001",
+            "courseTitle": "Intro Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2245",
+            "section": "001",
+            "courseTitle": "Intro Elec Circs Lab"
+        },
+        {
+            "catalogTitle": "ECE 2245",
+            "section": "002",
+            "courseTitle": "Intro Elec Circs Lab"
+        },
+        {
+            "catalogTitle": "ECE 2245",
+            "section": "003",
+            "courseTitle": "Intro Elec Circs Lab"
+        },
+        {
+            "catalogTitle": "ECE 2280",
+            "section": "001",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2280",
+            "section": "011",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2285",
+            "section": "001",
+            "courseTitle": "Fund of Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2285",
+            "section": "002",
+            "courseTitle": "Fund of Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2285",
+            "section": "003",
+            "courseTitle": "Fund of Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2285",
+            "section": "004",
+            "courseTitle": "Fund of Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 3030",
+            "section": "001",
+            "courseTitle": "Comms & Wrtg for Engrs"
+        },
+        {
+            "catalogTitle": "ECE 3031",
+            "section": "001",
+            "courseTitle": "Comms & Wrtg for Engrs"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "001",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "002",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "003",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "004",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3200",
+            "section": "001",
+            "courseTitle": "Intro Semicond Phys"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "001",
+            "courseTitle": "Fund Electromagnetics"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "002",
+            "courseTitle": "Fund Electromagnetics"
+        },
+        {
+            "catalogTitle": "ECE 3305",
+            "section": "001",
+            "courseTitle": "Fund Electromagnetics"
+        },
+        {
+            "catalogTitle": "ECE 3305",
+            "section": "002",
+            "courseTitle": "Fund Electromagnetics"
+        },
+        {
+            "catalogTitle": "ECE 3305",
+            "section": "003",
+            "courseTitle": "Fund Electromagnetics"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "001",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "002",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "003",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "001",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "002",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "003",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3530",
+            "section": "001",
+            "courseTitle": "Eng Prob Stats"
+        },
+        {
+            "catalogTitle": "ECE 3700",
+            "section": "001",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "ECE 3700",
+            "section": "002",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "ECE 3810",
+            "section": "001",
+            "courseTitle": "Computer Organization"
+        },
+        {
+            "catalogTitle": "ECE 3900",
+            "section": "001",
+            "courseTitle": "Junior Seminar"
+        },
+        {
+            "catalogTitle": "ECE 3960",
+            "section": "001",
+            "courseTitle": "Fund Robot & Cyberphys Sys."
+        },
+        {
+            "catalogTitle": "ECE 3970",
+            "section": "010",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "ECE 3970",
+            "section": "022",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "ECE 3980",
+            "section": "001",
+            "courseTitle": "Independent Project"
+        },
+        {
+            "catalogTitle": "ECE 3990",
+            "section": "079",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "ECE 3992",
+            "section": "001",
+            "courseTitle": "Pre-Thesis/Clinic/Proj"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "001",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4992",
+            "section": "001",
+            "courseTitle": "CE Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 5221",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 5221",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 5225",
+            "section": "001",
+            "courseTitle": "Microsystems Des & Char"
+        },
+        {
+            "catalogTitle": "ECE 5233",
+            "section": "001",
+            "courseTitle": "Micro Actuators"
+        },
+        {
+            "catalogTitle": "ECE 5233",
+            "section": "002",
+            "courseTitle": "Micro Actuators"
+        },
+        {
+            "catalogTitle": "ECE 5250",
+            "section": "001",
+            "courseTitle": "Intro Quantum Computers"
+        },
+        {
+            "catalogTitle": "ECE 5310",
+            "section": "001",
+            "courseTitle": "Adv Electromag Fields"
+        },
+        {
+            "catalogTitle": "ECE 5310",
+            "section": "002",
+            "courseTitle": "Adv Electromag Fields"
+        },
+        {
+            "catalogTitle": "ECE 5324",
+            "section": "001",
+            "courseTitle": "Antenna Theory & Des"
+        },
+        {
+            "catalogTitle": "ECE 5340",
+            "section": "001",
+            "courseTitle": "Num Tech EM"
+        },
+        {
+            "catalogTitle": "ECE 5340",
+            "section": "002",
+            "courseTitle": "Num Tech EM"
+        },
+        {
+            "catalogTitle": "ECE 5411",
+            "section": "001",
+            "courseTitle": "Optical Comm. Syst."
+        },
+        {
+            "catalogTitle": "ECE 5412",
+            "section": "001",
+            "courseTitle": "Optics II: Optoelectron"
+        },
+        {
+            "catalogTitle": "ECE 5520",
+            "section": "001",
+            "courseTitle": "Digital Comm Systems"
+        },
+        {
+            "catalogTitle": "ECE 5520",
+            "section": "090",
+            "courseTitle": "Digital Comm Systems"
+        },
+        {
+            "catalogTitle": "ECE 5530",
+            "section": "001",
+            "courseTitle": "Digital Signal Process"
+        },
+        {
+            "catalogTitle": "ECE 5620",
+            "section": "001",
+            "courseTitle": "Power Systems Analysis"
+        },
+        {
+            "catalogTitle": "ECE 5620",
+            "section": "090",
+            "courseTitle": "Power Systems Analysis"
+        },
+        {
+            "catalogTitle": "ECE 5670",
+            "section": "001",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 5670",
+            "section": "002",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 5670",
+            "section": "090",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "001",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "002",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "003",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "004",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "005",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "006",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "004",
+            "courseTitle": "Biomedical Micro Devices"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "005",
+            "courseTitle": "Convex Optimization"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "006",
+            "courseTitle": "Deep Learning Systems"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "007",
+            "courseTitle": "Intro to Quantum Computers"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "008",
+            "courseTitle": "Computational Photography"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "010",
+            "courseTitle": "Hardware Cryptography/Security"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "012",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "024",
+            "courseTitle": "Graphical Methods of DSP"
+        },
+        {
+            "catalogTitle": "ECE 6221",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 6221",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 6225",
+            "section": "001",
+            "courseTitle": "Microsystems Des & Char"
+        },
+        {
+            "catalogTitle": "ECE 6233",
+            "section": "001",
+            "courseTitle": "Micro Actuators"
+        },
+        {
+            "catalogTitle": "ECE 6233",
+            "section": "002",
+            "courseTitle": "Micro Actuators"
+        },
+        {
+            "catalogTitle": "ECE 6250",
+            "section": "001",
+            "courseTitle": "Intro Quantum Computers"
+        },
+        {
+            "catalogTitle": "ECE 6310",
+            "section": "001",
+            "courseTitle": "Adv Electromag Flds"
+        },
+        {
+            "catalogTitle": "ECE 6310",
+            "section": "002",
+            "courseTitle": "Adv Electromag Flds"
+        },
+        {
+            "catalogTitle": "ECE 6324",
+            "section": "001",
+            "courseTitle": "Antenna Theory & Des"
+        },
+        {
+            "catalogTitle": "ECE 6340",
+            "section": "001",
+            "courseTitle": "Num Tech In EM"
+        },
+        {
+            "catalogTitle": "ECE 6340",
+            "section": "002",
+            "courseTitle": "Num Tech In EM"
+        },
+        {
+            "catalogTitle": "ECE 6521",
+            "section": "001",
+            "courseTitle": "Error Control Coding"
+        },
+        {
+            "catalogTitle": "ECE 6530",
+            "section": "001",
+            "courseTitle": "Digital Signal Process"
+        },
+        {
+            "catalogTitle": "ECE 6530",
+            "section": "090",
+            "courseTitle": "Digital Signal Process"
+        },
+        {
+            "catalogTitle": "ECE 6540",
+            "section": "001",
+            "courseTitle": "Estimation Theory"
+        },
+        {
+            "catalogTitle": "ECE 6670",
+            "section": "001",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 6670",
+            "section": "002",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 6670",
+            "section": "090",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 6770",
+            "section": "001",
+            "courseTitle": "Adv Digital VLSI"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "001",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "002",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "004",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "005",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "006",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6910",
+            "section": "001",
+            "courseTitle": "Graduate Sem"
+        },
+        {
+            "catalogTitle": "ECE 6950",
+            "section": "008",
+            "courseTitle": "Special Study-MS"
+        },
+        {
+            "catalogTitle": "ECE 6950",
+            "section": "062",
+            "courseTitle": "Special Study-MS"
+        },
+        {
+            "catalogTitle": "ECE 6950",
+            "section": "063",
+            "courseTitle": "Special Study-MS"
+        },
+        {
+            "catalogTitle": "ECE 6950",
+            "section": "064",
+            "courseTitle": "Special Study-MS"
+        },
+        {
+            "catalogTitle": "ECE 6950",
+            "section": "065",
+            "courseTitle": "Special Study-MS"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "002",
+            "courseTitle": "Image Analysis Seminar"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "004",
+            "courseTitle": "Biomedical Micro Devices"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "005",
+            "courseTitle": "Convex Optimization"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "006",
+            "courseTitle": "Deep Learning Systems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "007",
+            "courseTitle": "Intro to Quantum Computers"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "008",
+            "courseTitle": "Computational Photography"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "010",
+            "courseTitle": "Hardware Cryptography/Security"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "012",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "028",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ECE 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ECE 7910",
+            "section": "001",
+            "courseTitle": "Graduate Seminar IV"
+        },
+        {
+            "catalogTitle": "ECE 7951",
+            "section": "001",
+            "courseTitle": "Teaching Mentorship"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "015",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "016",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "018",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "019",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "020",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "021",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "022",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "023",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "024",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "025",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "026",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "027",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "030",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "031",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "032",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "033",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "034",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "035",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "036",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "037",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "038",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "039",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "040",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "041",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "042",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "043",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "044",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "045",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "046",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "047",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "048",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "049",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "050",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "051",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "053",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "054",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "055",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "056",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "057",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "058",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "059",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "060",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "061",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "062",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "063",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "064",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "065",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "066",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "067",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "068",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "069",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "070",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "071",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "072",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "073",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "074",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "075",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "076",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

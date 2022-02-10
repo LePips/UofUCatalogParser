@@ -1,0 +1,109 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATHL 1010",
+            "section": "001",
+            "courseTitle": "Baseball-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1020",
+            "section": "001",
+            "courseTitle": "Basketball-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1020",
+            "section": "002",
+            "courseTitle": "Basketball-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1030",
+            "section": "001",
+            "courseTitle": "Basketball-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1040",
+            "section": "001",
+            "courseTitle": "Lacrosse: Men"
+        },
+        {
+            "catalogTitle": "ATHL 1050",
+            "section": "001",
+            "courseTitle": "Cross Country-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1060",
+            "section": "001",
+            "courseTitle": "Golf-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1070",
+            "section": "001",
+            "courseTitle": "Gymnastics-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1080",
+            "section": "001",
+            "courseTitle": "Skiing-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1090",
+            "section": "001",
+            "courseTitle": "Skiing-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1100",
+            "section": "001",
+            "courseTitle": "Swimming-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1110",
+            "section": "001",
+            "courseTitle": "Swimming-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1120",
+            "section": "001",
+            "courseTitle": "Tennis-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1130",
+            "section": "001",
+            "courseTitle": "Tennis-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1150",
+            "section": "001",
+            "courseTitle": "Track & Field-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1160",
+            "section": "001",
+            "courseTitle": "Soccer-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1180",
+            "section": "001",
+            "courseTitle": "Softball-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1190",
+            "section": "001",
+            "courseTitle": "Volleyball-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1200",
+            "section": "001",
+            "courseTitle": "Football-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1200",
+            "section": "002",
+            "courseTitle": "Football-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1210",
+            "section": "001",
+            "courseTitle": "Cheerleading"
+        }
+    ]
+}

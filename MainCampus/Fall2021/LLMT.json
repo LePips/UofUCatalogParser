@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Beginning Guitar I"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "001",
+            "courseTitle": "Beginning Guitar II"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improv Comedy Acting"
+        },
+        {
+            "catalogTitle": "LLMT 436",
+            "section": "001",
+            "courseTitle": "Beginning Mandolin"
+        },
+        {
+            "catalogTitle": "LLMT 459",
+            "section": "001",
+            "courseTitle": "Voice Acting: An Introduction"
+        },
+        {
+            "catalogTitle": "LLMT 465",
+            "section": "001",
+            "courseTitle": "Classic Rock Guitar"
+        },
+        {
+            "catalogTitle": "LLMT 478",
+            "section": "001",
+            "courseTitle": "Flamenco Dance"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MHA 6050",
+            "section": "001",
+            "courseTitle": "Telehealth Modalities"
+        },
+        {
+            "catalogTitle": "MHA 6803",
+            "section": "001",
+            "courseTitle": "Healthcare Strategy"
+        },
+        {
+            "catalogTitle": "MHA 6850",
+            "section": "001",
+            "courseTitle": "Quality Management"
+        },
+        {
+            "catalogTitle": "MHA 6850",
+            "section": "002",
+            "courseTitle": "Healthcare Analytics"
+        },
+        {
+            "catalogTitle": "MHA 6900",
+            "section": "001",
+            "courseTitle": "Health Care Admn Intern"
+        },
+        {
+            "catalogTitle": "MHA 6910",
+            "section": "001",
+            "courseTitle": "IS for Masters Students"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "090",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "090",
+            "courseTitle": "Intro Survey Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 3310",
+            "section": "090",
+            "courseTitle": "Science And Society"
+        },
+        {
+            "catalogTitle": "PHIL 3350",
+            "section": "090",
+            "courseTitle": "Hist & Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 3440",
+            "section": "090",
+            "courseTitle": "Cognitive Science"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "090",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "090",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3810",
+            "section": "090",
+            "courseTitle": "Existentialism"
+        }
+    ]
+}

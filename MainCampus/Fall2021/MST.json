@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MST 6100",
+            "section": "001",
+            "courseTitle": "Policy and Regulatory"
+        },
+        {
+            "catalogTitle": "MST 6100",
+            "section": "002",
+            "courseTitle": "Policy and Regulatory"
+        },
+        {
+            "catalogTitle": "MST 6600",
+            "section": "001",
+            "courseTitle": "Applied Stat Techniques"
+        },
+        {
+            "catalogTitle": "MST 6600",
+            "section": "002",
+            "courseTitle": "Applied Stat Techniques"
+        },
+        {
+            "catalogTitle": "MST 6963",
+            "section": "002",
+            "courseTitle": "Quality Management Systems"
+        },
+        {
+            "catalogTitle": "MST 6974",
+            "section": "001",
+            "courseTitle": "Project Planning"
+        },
+        {
+            "catalogTitle": "MST 6975",
+            "section": "001",
+            "courseTitle": "Professional Project"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

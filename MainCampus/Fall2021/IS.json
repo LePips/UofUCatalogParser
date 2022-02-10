@@ -1,0 +1,314 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2470",
+            "section": "002",
+            "courseTitle": "Intro Digital Security"
+        },
+        {
+            "catalogTitle": "IS 2475",
+            "section": "001",
+            "courseTitle": "Intro to Blockchain"
+        },
+        {
+            "catalogTitle": "IS 2480",
+            "section": "001",
+            "courseTitle": "Product Management"
+        },
+        {
+            "catalogTitle": "IS 2492",
+            "section": "001",
+            "courseTitle": "Intro DB for Business"
+        },
+        {
+            "catalogTitle": "IS 3596",
+            "section": "090",
+            "courseTitle": "IT Certification"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "090",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "091",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "092",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4415",
+            "section": "001",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "001",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "090",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4430",
+            "section": "090",
+            "courseTitle": "Systems Analysis & Des"
+        },
+        {
+            "catalogTitle": "IS 4440",
+            "section": "090",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 4445",
+            "section": "001",
+            "courseTitle": "Cloud Computing"
+        },
+        {
+            "catalogTitle": "IS 4460",
+            "section": "001",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 4470",
+            "section": "090",
+            "courseTitle": "Telecom & Security"
+        },
+        {
+            "catalogTitle": "IS 4482",
+            "section": "002",
+            "courseTitle": "Business Data Mining"
+        },
+        {
+            "catalogTitle": "IS 4485",
+            "section": "090",
+            "courseTitle": "Programming with Python"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "001",
+            "courseTitle": "IS Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "001",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "002",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "090",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "091",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6465",
+            "section": "001",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 6470",
+            "section": "001",
+            "courseTitle": "E-Business"
+        },
+        {
+            "catalogTitle": "IS 6481",
+            "section": "091",
+            "courseTitle": "Bus Intell. & Analytics"
+        },
+        {
+            "catalogTitle": "IS 6489",
+            "section": "001",
+            "courseTitle": "Stats & Pred Analytics"
+        },
+        {
+            "catalogTitle": "IS 6489",
+            "section": "090",
+            "courseTitle": "Stats & Pred Analytics"
+        },
+        {
+            "catalogTitle": "IS 6489",
+            "section": "091",
+            "courseTitle": "Stats & Pred Analytics"
+        },
+        {
+            "catalogTitle": "IS 6491",
+            "section": "001",
+            "courseTitle": "Data Visualization"
+        },
+        {
+            "catalogTitle": "IS 6491",
+            "section": "090",
+            "courseTitle": "Data Visualization"
+        },
+        {
+            "catalogTitle": "IS 6491",
+            "section": "091",
+            "courseTitle": "Data Visualization"
+        },
+        {
+            "catalogTitle": "IS 6496",
+            "section": "001",
+            "courseTitle": "MSBA Capstone Course"
+        },
+        {
+            "catalogTitle": "IS 6496",
+            "section": "002",
+            "courseTitle": "MSBA Capstone Course"
+        },
+        {
+            "catalogTitle": "IS 6496",
+            "section": "003",
+            "courseTitle": "MSBA Capstone Course"
+        },
+        {
+            "catalogTitle": "IS 6570",
+            "section": "002",
+            "courseTitle": "Cybersecurity Mgmt"
+        },
+        {
+            "catalogTitle": "IS 6570",
+            "section": "090",
+            "courseTitle": "Cybersecurity Mgmt"
+        },
+        {
+            "catalogTitle": "IS 6571",
+            "section": "001",
+            "courseTitle": "Digital Forensics"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "001",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "003",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "004",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "005",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "006",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "091",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6615",
+            "section": "090",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 6640",
+            "section": "001",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 6640",
+            "section": "090",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 6641",
+            "section": "001",
+            "courseTitle": "Cloud Computing"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "001",
+            "courseTitle": "Python"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "005",
+            "courseTitle": "Special Topics in IS"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "006",
+            "courseTitle": "Special Topics in IS"
+        },
+        {
+            "catalogTitle": "IS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "IS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "001",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "002",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "003",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration PhD"
+        }
+    ]
+}

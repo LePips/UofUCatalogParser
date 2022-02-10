@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LAS 3910",
+            "section": "001",
+            "courseTitle": "CLAC (SPAN)"
+        },
+        {
+            "catalogTitle": "LAS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "LAS 6910",
+            "section": "001",
+            "courseTitle": "Graduate CLAC"
+        },
+        {
+            "catalogTitle": "LAS 6971",
+            "section": "002",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "LAS 6975",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

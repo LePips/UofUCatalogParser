@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HPSCI 3900",
+            "section": "001",
+            "courseTitle": "History and Philosophy of Phys"
+        },
+        {
+            "catalogTitle": "HPSCI 3950",
+            "section": "001",
+            "courseTitle": "History of Women in Sci"
+        },
+        {
+            "catalogTitle": "HPSCI 5900",
+            "section": "001",
+            "courseTitle": "Behavior Neurosci Journal Club"
+        }
+    ]
+}

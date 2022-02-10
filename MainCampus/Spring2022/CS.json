@@ -1,0 +1,629 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CS 1400",
+            "section": "001",
+            "courseTitle": "Intro Comp Programming"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "003",
+            "courseTitle": "Intro Comp Programming"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "004",
+            "courseTitle": "Intro Comp Programming"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "005",
+            "courseTitle": "Intro Comp Programming"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "006",
+            "courseTitle": "Intro Comp Programming"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "007",
+            "courseTitle": "Intro Comp Programming"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "008",
+            "courseTitle": "Intro Comp Programming"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "009",
+            "courseTitle": "Intro Comp Programming"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "001",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "002",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "003",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "004",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "005",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "006",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "007",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "008",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "009",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "010",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1420",
+            "section": "001",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 1420",
+            "section": "003",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 1420",
+            "section": "004",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 1420",
+            "section": "005",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 1420",
+            "section": "006",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 1420",
+            "section": "007",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 1420",
+            "section": "008",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "001",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "002",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "003",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "004",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "005",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "006",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "001",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "002",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "003",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "004",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "005",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "006",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "007",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "008",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "009",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "010",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "011",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 3011",
+            "section": "001",
+            "courseTitle": "Industry Forum"
+        },
+        {
+            "catalogTitle": "CS 3100",
+            "section": "001",
+            "courseTitle": "Models Of Computation"
+        },
+        {
+            "catalogTitle": "CS 3130",
+            "section": "001",
+            "courseTitle": "Eng Prob Stats"
+        },
+        {
+            "catalogTitle": "CS 3200",
+            "section": "001",
+            "courseTitle": "Intro Sci Comp"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "001",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "002",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "003",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "004",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "005",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "006",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "007",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "008",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "001",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "002",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "003",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "004",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "005",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "006",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "007",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3700",
+            "section": "001",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "CS 3700",
+            "section": "002",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "CS 3810",
+            "section": "001",
+            "courseTitle": "Computer Organization"
+        },
+        {
+            "catalogTitle": "CS 3992",
+            "section": "001",
+            "courseTitle": "Pre-Thesis/Clinic/Proj"
+        },
+        {
+            "catalogTitle": "CS 4000",
+            "section": "001",
+            "courseTitle": "Senior Capstone Design"
+        },
+        {
+            "catalogTitle": "CS 4150",
+            "section": "001",
+            "courseTitle": "Algorithms"
+        },
+        {
+            "catalogTitle": "CS 4300",
+            "section": "001",
+            "courseTitle": "Artificial Intelligence"
+        },
+        {
+            "catalogTitle": "CS 4400",
+            "section": "001",
+            "courseTitle": "Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 4400",
+            "section": "002",
+            "courseTitle": "Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 4400",
+            "section": "003",
+            "courseTitle": "Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 4400",
+            "section": "004",
+            "courseTitle": "Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 4400",
+            "section": "005",
+            "courseTitle": "Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 4400",
+            "section": "006",
+            "courseTitle": "Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 4440",
+            "section": "001",
+            "courseTitle": "Computer Security"
+        },
+        {
+            "catalogTitle": "CS 4480",
+            "section": "001",
+            "courseTitle": "Computer Networks"
+        },
+        {
+            "catalogTitle": "CS 4500",
+            "section": "001",
+            "courseTitle": "Senior Capstone Project"
+        },
+        {
+            "catalogTitle": "CS 4530",
+            "section": "001",
+            "courseTitle": "Mobile App Programming"
+        },
+        {
+            "catalogTitle": "CS 4960",
+            "section": "001",
+            "courseTitle": "Computer Science Education: Re"
+        },
+        {
+            "catalogTitle": "CS 4992",
+            "section": "001",
+            "courseTitle": "CE Senior Thesis II"
+        },
+        {
+            "catalogTitle": "CS 5110",
+            "section": "001",
+            "courseTitle": "Software Verification"
+        },
+        {
+            "catalogTitle": "CS 5140",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "CS 5460",
+            "section": "001",
+            "courseTitle": "Operating Systems"
+        },
+        {
+            "catalogTitle": "CS 5490",
+            "section": "001",
+            "courseTitle": "Network Security"
+        },
+        {
+            "catalogTitle": "CS 5530",
+            "section": "001",
+            "courseTitle": "Database Systems"
+        },
+        {
+            "catalogTitle": "CS 5610",
+            "section": "001",
+            "courseTitle": "Interactive Comp Graph"
+        },
+        {
+            "catalogTitle": "CS 5635",
+            "section": "001",
+            "courseTitle": "Vis for Scientific Data"
+        },
+        {
+            "catalogTitle": "CS 5780",
+            "section": "001",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "CS 5780",
+            "section": "002",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "CS 5780",
+            "section": "003",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "CS 5780",
+            "section": "004",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "CS 5780",
+            "section": "005",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "CS 5780",
+            "section": "006",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "CS 5966",
+            "section": "001",
+            "courseTitle": "Theory of Machine Learning"
+        },
+        {
+            "catalogTitle": "CS 6020",
+            "section": "001",
+            "courseTitle": "Early-Career Research"
+        },
+        {
+            "catalogTitle": "CS 6110",
+            "section": "001",
+            "courseTitle": "Software Verification"
+        },
+        {
+            "catalogTitle": "CS 6140",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "CS 6190",
+            "section": "001",
+            "courseTitle": "Prob Machine Learning"
+        },
+        {
+            "catalogTitle": "CS 6300",
+            "section": "001",
+            "courseTitle": "Artificial Intelligence"
+        },
+        {
+            "catalogTitle": "CS 6330",
+            "section": "001",
+            "courseTitle": "Intro to Robot Control"
+        },
+        {
+            "catalogTitle": "CS 6390",
+            "section": "001",
+            "courseTitle": "Information Extraction"
+        },
+        {
+            "catalogTitle": "CS 6460",
+            "section": "001",
+            "courseTitle": "Operating Systems"
+        },
+        {
+            "catalogTitle": "CS 6490",
+            "section": "001",
+            "courseTitle": "Network Security"
+        },
+        {
+            "catalogTitle": "CS 6610",
+            "section": "001",
+            "courseTitle": "Interactive Comp Graph"
+        },
+        {
+            "catalogTitle": "CS 6635",
+            "section": "001",
+            "courseTitle": "Vis for Scientific Data"
+        },
+        {
+            "catalogTitle": "CS 6780",
+            "section": "001",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "CS 6780",
+            "section": "002",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "CS 6780",
+            "section": "004",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "CS 6780",
+            "section": "005",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "CS 6955",
+            "section": "001",
+            "courseTitle": "Advanced HCI"
+        },
+        {
+            "catalogTitle": "CS 6956",
+            "section": "001",
+            "courseTitle": "Software and System Security"
+        },
+        {
+            "catalogTitle": "CS 6960",
+            "section": "001",
+            "courseTitle": "Computer Science Education"
+        },
+        {
+            "catalogTitle": "CS 6966",
+            "section": "001",
+            "courseTitle": "Theory of Machine Learning"
+        },
+        {
+            "catalogTitle": "CS 7931",
+            "section": "003",
+            "courseTitle": "Software Correctness"
+        },
+        {
+            "catalogTitle": "CS 7932",
+            "section": "001",
+            "courseTitle": "Human-Centered Computing"
+        },
+        {
+            "catalogTitle": "CS 7933",
+            "section": "001",
+            "courseTitle": "Graphics Seminar"
+        },
+        {
+            "catalogTitle": "CS 7934",
+            "section": "001",
+            "courseTitle": "Computer Systems Seminar"
+        },
+        {
+            "catalogTitle": "CS 7937",
+            "section": "001",
+            "courseTitle": "Arch/VLSI"
+        },
+        {
+            "catalogTitle": "CS 7938",
+            "section": "002",
+            "courseTitle": "Image Analysis Seminar"
+        },
+        {
+            "catalogTitle": "CS 7939",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "CS 7940",
+            "section": "001",
+            "courseTitle": "High-Perform Machine Learning"
+        },
+        {
+            "catalogTitle": "CS 7941",
+            "section": "001",
+            "courseTitle": "Data Science Seminar"
+        },
+        {
+            "catalogTitle": "CS 7942",
+            "section": "001",
+            "courseTitle": "Visualization Seminar"
+        },
+        {
+            "catalogTitle": "CS 7943",
+            "section": "001",
+            "courseTitle": "Database Systems Seminar"
+        },
+        {
+            "catalogTitle": "CS 7944",
+            "section": "001",
+            "courseTitle": "Comp Narrative Seminar"
+        }
+    ]
+}

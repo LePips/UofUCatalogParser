@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 241",
+            "section": "001",
+            "courseTitle": "Cake Decorating"
+        },
+        {
+            "catalogTitle": "LLFW 267",
+            "section": "001",
+            "courseTitle": "Piping with Tips"
+        },
+        {
+            "catalogTitle": "LLFW 307",
+            "section": "001",
+            "courseTitle": "Region of Tuscany"
+        },
+        {
+            "catalogTitle": "LLFW 314",
+            "section": "001",
+            "courseTitle": "Gins from Around the World"
+        },
+        {
+            "catalogTitle": "LLFW 489",
+            "section": "001",
+            "courseTitle": "Whiskies of the World"
+        },
+        {
+            "catalogTitle": "LLFW 506",
+            "section": "001",
+            "courseTitle": "Fine Chocolates"
+        },
+        {
+            "catalogTitle": "LLFW 568",
+            "section": "001",
+            "courseTitle": "But First, Tea!"
+        },
+        {
+            "catalogTitle": "LLFW 578",
+            "section": "001",
+            "courseTitle": "Coffee: From Crop to Cup"
+        },
+        {
+            "catalogTitle": "LLFW 588",
+            "section": "001",
+            "courseTitle": "Tasting Wine Like a Pro"
+        },
+        {
+            "catalogTitle": "LLFW 589",
+            "section": "001",
+            "courseTitle": "Region of Piemonte"
+        },
+        {
+            "catalogTitle": "LLFW 590",
+            "section": "001",
+            "courseTitle": "Region of Sardegna"
+        },
+        {
+            "catalogTitle": "LLFW 591",
+            "section": "001",
+            "courseTitle": "Diving Into Beer: English Ales"
+        }
+    ]
+}

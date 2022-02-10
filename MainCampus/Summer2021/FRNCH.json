@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FRNCH 201",
+            "section": "001",
+            "courseTitle": "Intermediate French I"
+        },
+        {
+            "catalogTitle": "FRNCH 202",
+            "section": "001",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "001",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "001",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "FRNCH 7300",
+            "section": "002",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

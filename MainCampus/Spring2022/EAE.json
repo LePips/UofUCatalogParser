@@ -1,0 +1,359 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EAE 101",
+            "section": "001",
+            "courseTitle": "Survey of Games"
+        },
+        {
+            "catalogTitle": "EAE 1010",
+            "section": "001",
+            "courseTitle": "Survey of Games"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "001",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "002",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "003",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "004",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "005",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "006",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "007",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "008",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "009",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "010",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "011",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "012",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 2100",
+            "section": "001",
+            "courseTitle": "Intro to Game Design"
+        },
+        {
+            "catalogTitle": "EAE 2100",
+            "section": "002",
+            "courseTitle": "Intro to Game Design"
+        },
+        {
+            "catalogTitle": "EAE 2100",
+            "section": "003",
+            "courseTitle": "Intro to Game Design"
+        },
+        {
+            "catalogTitle": "EAE 2100",
+            "section": "004",
+            "courseTitle": "Intro to Game Design"
+        },
+        {
+            "catalogTitle": "EAE 3010",
+            "section": "001",
+            "courseTitle": "Asset Pipeline"
+        },
+        {
+            "catalogTitle": "EAE 3010",
+            "section": "002",
+            "courseTitle": "Asset Pipeline"
+        },
+        {
+            "catalogTitle": "EAE 3010",
+            "section": "003",
+            "courseTitle": "Asset Pipeline"
+        },
+        {
+            "catalogTitle": "EAE 3020",
+            "section": "001",
+            "courseTitle": "Ethics in Videogames"
+        },
+        {
+            "catalogTitle": "EAE 3040",
+            "section": "001",
+            "courseTitle": "Intro Game User Resrch"
+        },
+        {
+            "catalogTitle": "EAE 3200",
+            "section": "001",
+            "courseTitle": "Animation for Games"
+        },
+        {
+            "catalogTitle": "EAE 3205",
+            "section": "001",
+            "courseTitle": "Rigging for Games"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "001",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "002",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3605",
+            "section": "001",
+            "courseTitle": "3D Character Prod."
+        },
+        {
+            "catalogTitle": "EAE 3605",
+            "section": "002",
+            "courseTitle": "3D Character Prod."
+        },
+        {
+            "catalogTitle": "EAE 3610",
+            "section": "001",
+            "courseTitle": "3D Char Prod II"
+        },
+        {
+            "catalogTitle": "EAE 3640",
+            "section": "001",
+            "courseTitle": "Digital Fig. Sculpting"
+        },
+        {
+            "catalogTitle": "EAE 3645",
+            "section": "001",
+            "courseTitle": "Digital Fig. Sculpt II"
+        },
+        {
+            "catalogTitle": "EAE 3660",
+            "section": "001",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "EAE 3660",
+            "section": "002",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "EAE 3670",
+            "section": "001",
+            "courseTitle": "Texturing for 3D"
+        },
+        {
+            "catalogTitle": "EAE 3675",
+            "section": "001",
+            "courseTitle": "Texturing for 3D II"
+        },
+        {
+            "catalogTitle": "EAE 3690",
+            "section": "001",
+            "courseTitle": "Concept Art for Games"
+        },
+        {
+            "catalogTitle": "EAE 3695",
+            "section": "001",
+            "courseTitle": "Concept Art II"
+        },
+        {
+            "catalogTitle": "EAE 3710",
+            "section": "001",
+            "courseTitle": "Trad Game Develpmnt"
+        },
+        {
+            "catalogTitle": "EAE 3710",
+            "section": "002",
+            "courseTitle": "Trad Game Develpmnt"
+        },
+        {
+            "catalogTitle": "EAE 3720",
+            "section": "001",
+            "courseTitle": "Alt Game Development"
+        },
+        {
+            "catalogTitle": "EAE 3720",
+            "section": "002",
+            "courseTitle": "Alt Game Development"
+        },
+        {
+            "catalogTitle": "EAE 4200",
+            "section": "001",
+            "courseTitle": "Advanced Game Animation"
+        },
+        {
+            "catalogTitle": "EAE 4510",
+            "section": "001",
+            "courseTitle": "Senior Project II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "003",
+            "courseTitle": "Serious Games"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "004",
+            "courseTitle": "Realtime VFX"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "005",
+            "courseTitle": "Illustration Techniques"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "006",
+            "courseTitle": "Game Career Fundamentals"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "007",
+            "courseTitle": "Psychology of Games"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "008",
+            "courseTitle": "Essntl Skills Game Dev. Teams"
+        },
+        {
+            "catalogTitle": "EAE 6010",
+            "section": "001",
+            "courseTitle": "Level Design"
+        },
+        {
+            "catalogTitle": "EAE 6015",
+            "section": "001",
+            "courseTitle": "Paper Proto. for Games"
+        },
+        {
+            "catalogTitle": "EAE 6025",
+            "section": "001",
+            "courseTitle": "Serious Games"
+        },
+        {
+            "catalogTitle": "EAE 6030",
+            "section": "001",
+            "courseTitle": "Experimental Gameplay"
+        },
+        {
+            "catalogTitle": "EAE 6035",
+            "section": "001",
+            "courseTitle": "Narrative Game Design"
+        },
+        {
+            "catalogTitle": "EAE 6040",
+            "section": "001",
+            "courseTitle": "Games User Research"
+        },
+        {
+            "catalogTitle": "EAE 6045",
+            "section": "001",
+            "courseTitle": "Game User Interface Des"
+        },
+        {
+            "catalogTitle": "EAE 6110",
+            "section": "001",
+            "courseTitle": "Game Projects I"
+        },
+        {
+            "catalogTitle": "EAE 6130",
+            "section": "001",
+            "courseTitle": "Advanced Game Studio II"
+        },
+        {
+            "catalogTitle": "EAE 6210",
+            "section": "001",
+            "courseTitle": "Game Arts II"
+        },
+        {
+            "catalogTitle": "EAE 6230",
+            "section": "001",
+            "courseTitle": "Game Arts IV"
+        },
+        {
+            "catalogTitle": "EAE 6310",
+            "section": "001",
+            "courseTitle": "Game Engineering I"
+        },
+        {
+            "catalogTitle": "EAE 6330",
+            "section": "001",
+            "courseTitle": "Game Engineering III"
+        },
+        {
+            "catalogTitle": "EAE 6355",
+            "section": "002",
+            "courseTitle": "Technical Art II"
+        },
+        {
+            "catalogTitle": "EAE 6365",
+            "section": "001",
+            "courseTitle": "Technical Art IV"
+        },
+        {
+            "catalogTitle": "EAE 6410",
+            "section": "001",
+            "courseTitle": "Game Production II"
+        },
+        {
+            "catalogTitle": "EAE 6605",
+            "section": "001",
+            "courseTitle": "3D Character Prod."
+        },
+        {
+            "catalogTitle": "EAE 6610",
+            "section": "001",
+            "courseTitle": "A.I. for Games"
+        },
+        {
+            "catalogTitle": "EAE 6640",
+            "section": "001",
+            "courseTitle": "Digital Fig. Sculpting"
+        },
+        {
+            "catalogTitle": "EAE 6670",
+            "section": "001",
+            "courseTitle": "Texturing for 3D"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "028",
+            "courseTitle": "Business of Games"
+        }
+    ]
+}
