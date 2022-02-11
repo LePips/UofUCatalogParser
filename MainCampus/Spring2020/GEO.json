@@ -1,0 +1,364 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEO 100",
+            "section": "001",
+            "courseTitle": "Science in Cinema"
+        },
+        {
+            "catalogTitle": "GEO 104",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 539",
+            "section": "001",
+            "courseTitle": "Sol Trns & Subsrf Rem"
+        },
+        {
+            "catalogTitle": "GEO 1000",
+            "section": "001",
+            "courseTitle": "Science in Cinema"
+        },
+        {
+            "catalogTitle": "GEO 1040",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 1080",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "GEO 1100",
+            "section": "001",
+            "courseTitle": "Evolving Earth"
+        },
+        {
+            "catalogTitle": "GEO 1110",
+            "section": "001",
+            "courseTitle": "Intr to Earth Systems"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "002",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 2100",
+            "section": "001",
+            "courseTitle": "Reactive Earth"
+        },
+        {
+            "catalogTitle": "GEO 2100",
+            "section": "002",
+            "courseTitle": "Reactive Earth"
+        },
+        {
+            "catalogTitle": "GEO 3010",
+            "section": "001",
+            "courseTitle": "Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 3010",
+            "section": "002",
+            "courseTitle": "Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 3030",
+            "section": "070",
+            "courseTitle": "Living with Quakes"
+        },
+        {
+            "catalogTitle": "GEO 3030",
+            "section": "090",
+            "courseTitle": "Living with Quakes"
+        },
+        {
+            "catalogTitle": "GEO 3050",
+            "section": "001",
+            "courseTitle": "Ig/Met Petrogenesis"
+        },
+        {
+            "catalogTitle": "GEO 3050",
+            "section": "002",
+            "courseTitle": "Ig/Met Petrogenesis"
+        },
+        {
+            "catalogTitle": "GEO 3065",
+            "section": "001",
+            "courseTitle": "Struc Geology Engineers"
+        },
+        {
+            "catalogTitle": "GEO 3065",
+            "section": "002",
+            "courseTitle": "Struc Geology Engineers"
+        },
+        {
+            "catalogTitle": "GEO 3070",
+            "section": "001",
+            "courseTitle": "Petrology for Engineers"
+        },
+        {
+            "catalogTitle": "GEO 3070",
+            "section": "002",
+            "courseTitle": "Petrology for Engineers"
+        },
+        {
+            "catalogTitle": "GEO 3075",
+            "section": "001",
+            "courseTitle": "Intro Geol Engg"
+        },
+        {
+            "catalogTitle": "GEO 3100",
+            "section": "001",
+            "courseTitle": "Dynamic Earth"
+        },
+        {
+            "catalogTitle": "GEO 3180",
+            "section": "001",
+            "courseTitle": "Paleobiology"
+        },
+        {
+            "catalogTitle": "GEO 3180",
+            "section": "002",
+            "courseTitle": "Paleobiology"
+        },
+        {
+            "catalogTitle": "GEO 3900",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "GEO 4060",
+            "section": "001",
+            "courseTitle": "Struct Geol & Tectonics"
+        },
+        {
+            "catalogTitle": "GEO 4060",
+            "section": "002",
+            "courseTitle": "Struct Geol & Tectonics"
+        },
+        {
+            "catalogTitle": "GEO 4500",
+            "section": "001",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 4500",
+            "section": "002",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 4500",
+            "section": "003",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 4970",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "GEO 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "GEO 5075",
+            "section": "001",
+            "courseTitle": "Intro Geol Engg"
+        },
+        {
+            "catalogTitle": "GEO 5150",
+            "section": "001",
+            "courseTitle": "Geological Engg Design"
+        },
+        {
+            "catalogTitle": "GEO 5240",
+            "section": "001",
+            "courseTitle": "Electromagnetic Methods"
+        },
+        {
+            "catalogTitle": "GEO 5360",
+            "section": "001",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "GEO 5385",
+            "section": "001",
+            "courseTitle": "Intro GW Modeling"
+        },
+        {
+            "catalogTitle": "GEO 5390",
+            "section": "001",
+            "courseTitle": "Sol Trns & Subsrf Rem"
+        },
+        {
+            "catalogTitle": "GEO 5500",
+            "section": "001",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 5500",
+            "section": "002",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 5500",
+            "section": "003",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 5680",
+            "section": "001",
+            "courseTitle": "Carbon Cycle"
+        },
+        {
+            "catalogTitle": "GEO 5900",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEO 5910",
+            "section": "001",
+            "courseTitle": "Hydrology Seminar"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "001",
+            "courseTitle": "DLS-Undergraduate"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "009",
+            "courseTitle": "Thermodyn of Geo System"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "010",
+            "courseTitle": "Adv Depositional Systems"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "012",
+            "courseTitle": "Sedimentary Petrology"
+        },
+        {
+            "catalogTitle": "GEO 6150",
+            "section": "001",
+            "courseTitle": "Geological Engg Design"
+        },
+        {
+            "catalogTitle": "GEO 6240",
+            "section": "001",
+            "courseTitle": "Electromagnetic Methods"
+        },
+        {
+            "catalogTitle": "GEO 6360",
+            "section": "001",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "GEO 6385",
+            "section": "001",
+            "courseTitle": "Intro GW Modeling"
+        },
+        {
+            "catalogTitle": "GEO 6390",
+            "section": "001",
+            "courseTitle": "Sol Trns & Subsrf Rem"
+        },
+        {
+            "catalogTitle": "GEO 6680",
+            "section": "001",
+            "courseTitle": "Carbon Cycle"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "001",
+            "courseTitle": "DLS-Graduate"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "002",
+            "courseTitle": "Grad-EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "009",
+            "courseTitle": "Thermodyn of Geo System"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "010",
+            "courseTitle": "Adv Depositional Systems"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "012",
+            "courseTitle": "Sedimentary Petrology"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "013",
+            "courseTitle": "Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "014",
+            "courseTitle": "First Order Reversal Curves"
+        },
+        {
+            "catalogTitle": "GEO 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GEO 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "001",
+            "courseTitle": "EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "009",
+            "courseTitle": "Thermodyn of Geo System"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "010",
+            "courseTitle": "Adv Depositional Systems"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "012",
+            "courseTitle": "Sedimentary Petrology"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "013",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "GEO 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

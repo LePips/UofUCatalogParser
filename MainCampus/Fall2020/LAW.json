@@ -1,0 +1,384 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LAW 6000",
+            "section": "001",
+            "courseTitle": "Intro to Law"
+        },
+        {
+            "catalogTitle": "LAW 6000",
+            "section": "002",
+            "courseTitle": "Intro to Law"
+        },
+        {
+            "catalogTitle": "LAW 6000",
+            "section": "003",
+            "courseTitle": "Intro to Law"
+        },
+        {
+            "catalogTitle": "LAW 6000",
+            "section": "004",
+            "courseTitle": "Intro to Law"
+        },
+        {
+            "catalogTitle": "LAW 6040",
+            "section": "001",
+            "courseTitle": "Civil Procedure"
+        },
+        {
+            "catalogTitle": "LAW 6040",
+            "section": "002",
+            "courseTitle": "Civil Procedure"
+        },
+        {
+            "catalogTitle": "LAW 6040",
+            "section": "003",
+            "courseTitle": "Civil Procedure"
+        },
+        {
+            "catalogTitle": "LAW 6080",
+            "section": "001",
+            "courseTitle": "Contracts"
+        },
+        {
+            "catalogTitle": "LAW 6080",
+            "section": "002",
+            "courseTitle": "Contracts"
+        },
+        {
+            "catalogTitle": "LAW 6080",
+            "section": "004",
+            "courseTitle": "Contracts"
+        },
+        {
+            "catalogTitle": "LAW 6140",
+            "section": "001",
+            "courseTitle": "Torts"
+        },
+        {
+            "catalogTitle": "LAW 6140",
+            "section": "002",
+            "courseTitle": "Torts"
+        },
+        {
+            "catalogTitle": "LAW 6140",
+            "section": "003",
+            "courseTitle": "Torts"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "001",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "002",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "003",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6190",
+            "section": "001",
+            "courseTitle": "Legal Research"
+        },
+        {
+            "catalogTitle": "LAW 6190",
+            "section": "002",
+            "courseTitle": "Legal Research"
+        },
+        {
+            "catalogTitle": "LAW 6190",
+            "section": "003",
+            "courseTitle": "Legal Research"
+        },
+        {
+            "catalogTitle": "LAW 6190",
+            "section": "004",
+            "courseTitle": "Legal Research"
+        },
+        {
+            "catalogTitle": "LAW 6190",
+            "section": "005",
+            "courseTitle": "Legal Research"
+        },
+        {
+            "catalogTitle": "LAW 6190",
+            "section": "006",
+            "courseTitle": "Legal Research"
+        },
+        {
+            "catalogTitle": "LAW 6320",
+            "section": "001",
+            "courseTitle": "Conflict/Lgl Crisis Mgt"
+        },
+        {
+            "catalogTitle": "LAW 6330",
+            "section": "001",
+            "courseTitle": "Lawsuits and Litigation"
+        },
+        {
+            "catalogTitle": "LAW 6360",
+            "section": "001",
+            "courseTitle": "Udrstg Cses Stats & Leg"
+        },
+        {
+            "catalogTitle": "LAW 6410",
+            "section": "001",
+            "courseTitle": "Legal Research & Wrtg"
+        },
+        {
+            "catalogTitle": "LAW 7030",
+            "section": "001",
+            "courseTitle": "Criminal Procedure"
+        },
+        {
+            "catalogTitle": "LAW 7033",
+            "section": "001",
+            "courseTitle": "Mindful Lawyering"
+        },
+        {
+            "catalogTitle": "LAW 7040",
+            "section": "001",
+            "courseTitle": "Evidence"
+        },
+        {
+            "catalogTitle": "LAW 7050",
+            "section": "001",
+            "courseTitle": "Bus Organizations"
+        },
+        {
+            "catalogTitle": "LAW 7061",
+            "section": "001",
+            "courseTitle": "Bankruptcy"
+        },
+        {
+            "catalogTitle": "LAW 7065",
+            "section": "001",
+            "courseTitle": "Intellectual Property"
+        },
+        {
+            "catalogTitle": "LAW 7070",
+            "section": "001",
+            "courseTitle": "Federal Income Tax"
+        },
+        {
+            "catalogTitle": "LAW 7076",
+            "section": "001",
+            "courseTitle": "Pre-Trial Practice"
+        },
+        {
+            "catalogTitle": "LAW 7076",
+            "section": "002",
+            "courseTitle": "Pre-Trial Practice"
+        },
+        {
+            "catalogTitle": "LAW 7076",
+            "section": "003",
+            "courseTitle": "Pre-Trial Practice"
+        },
+        {
+            "catalogTitle": "LAW 7076",
+            "section": "004",
+            "courseTitle": "Pre-Trial Practice"
+        },
+        {
+            "catalogTitle": "LAW 7080",
+            "section": "001",
+            "courseTitle": "Arbitration"
+        },
+        {
+            "catalogTitle": "LAW 7080",
+            "section": "002",
+            "courseTitle": "Employment Law"
+        },
+        {
+            "catalogTitle": "LAW 7080",
+            "section": "004",
+            "courseTitle": "FDA Law"
+        },
+        {
+            "catalogTitle": "LAW 7097",
+            "section": "001",
+            "courseTitle": "Appellate Practice"
+        },
+        {
+            "catalogTitle": "LAW 7200",
+            "section": "001",
+            "courseTitle": "Natural Resources"
+        },
+        {
+            "catalogTitle": "LAW 7230",
+            "section": "001",
+            "courseTitle": "Water Law"
+        },
+        {
+            "catalogTitle": "LAW 7240",
+            "section": "001",
+            "courseTitle": "Environmental Law"
+        },
+        {
+            "catalogTitle": "LAW 7300",
+            "section": "001",
+            "courseTitle": "Administrative Law"
+        },
+        {
+            "catalogTitle": "LAW 7300",
+            "section": "002",
+            "courseTitle": "Administrative Law"
+        },
+        {
+            "catalogTitle": "LAW 7350",
+            "section": "001",
+            "courseTitle": "Immigration Law"
+        },
+        {
+            "catalogTitle": "LAW 7360",
+            "section": "001",
+            "courseTitle": "Health Law"
+        },
+        {
+            "catalogTitle": "LAW 7410",
+            "section": "001",
+            "courseTitle": "Constitutional Law II"
+        },
+        {
+            "catalogTitle": "LAW 7460",
+            "section": "001",
+            "courseTitle": "Gambling & Gaming Law"
+        },
+        {
+            "catalogTitle": "LAW 7570",
+            "section": "001",
+            "courseTitle": "Drafting: Contracts"
+        },
+        {
+            "catalogTitle": "LAW 7629",
+            "section": "001",
+            "courseTitle": "Innocence Clinic"
+        },
+        {
+            "catalogTitle": "LAW 7760",
+            "section": "001",
+            "courseTitle": "Patent Law"
+        },
+        {
+            "catalogTitle": "LAW 7788",
+            "section": "001",
+            "courseTitle": "New Ventures"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "001",
+            "courseTitle": "Global Justice"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "002",
+            "courseTitle": "Sxl Hrsmt: Lw Pltcs Mvt"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "003",
+            "courseTitle": "Hm Rts Alns Mgrnts Rfgs"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "004",
+            "courseTitle": "Making a Murderer"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "006",
+            "courseTitle": "Int'l Resource Conflicts"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "007",
+            "courseTitle": "Current Issues Securities Law"
+        },
+        {
+            "catalogTitle": "LAW 7815",
+            "section": "001",
+            "courseTitle": "Learning from Practice"
+        },
+        {
+            "catalogTitle": "LAW 7816",
+            "section": "001",
+            "courseTitle": "Adv Learn from Practice"
+        },
+        {
+            "catalogTitle": "LAW 7851",
+            "section": "001",
+            "courseTitle": "Real Estate Trans/Finan"
+        },
+        {
+            "catalogTitle": "LAW 7861",
+            "section": "001",
+            "courseTitle": "White Collar Crime"
+        },
+        {
+            "catalogTitle": "LAW 7869",
+            "section": "001",
+            "courseTitle": "Adoption Law"
+        },
+        {
+            "catalogTitle": "LAW 7882",
+            "section": "001",
+            "courseTitle": "Religion & First Amend"
+        },
+        {
+            "catalogTitle": "LAW 7887",
+            "section": "001",
+            "courseTitle": "Environmental Crimes"
+        },
+        {
+            "catalogTitle": "LAW 7900",
+            "section": "001",
+            "courseTitle": "Legal Profession"
+        },
+        {
+            "catalogTitle": "LAW 7910",
+            "section": "001",
+            "courseTitle": "International Law"
+        },
+        {
+            "catalogTitle": "LAW 7925",
+            "section": "001",
+            "courseTitle": "Externship Credit"
+        },
+        {
+            "catalogTitle": "LAW 7935",
+            "section": "001",
+            "courseTitle": "Justice Lab"
+        },
+        {
+            "catalogTitle": "LAW 7960",
+            "section": "001",
+            "courseTitle": "T.A. Legal Writing"
+        },
+        {
+            "catalogTitle": "LAW 7960",
+            "section": "002",
+            "courseTitle": "T.A. Legal Writing"
+        },
+        {
+            "catalogTitle": "LAW 7960",
+            "section": "003",
+            "courseTitle": "T.A. Legal Writing"
+        },
+        {
+            "catalogTitle": "LAW 7981",
+            "section": "001",
+            "courseTitle": "Utah Law Review"
+        },
+        {
+            "catalogTitle": "LAW 7990",
+            "section": "001",
+            "courseTitle": "Criminal Process"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "001",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "002",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "001",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 3040",
+            "section": "001",
+            "courseTitle": "Extensive Read & Comp"
+        },
+        {
+            "catalogTitle": "ITAL 3950",
+            "section": "001",
+            "courseTitle": "SL - Italian"
+        },
+        {
+            "catalogTitle": "ITAL 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        }
+    ]
+}

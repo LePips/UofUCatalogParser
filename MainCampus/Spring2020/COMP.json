@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "COMP 101",
+            "section": "001",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 101",
+            "section": "005",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 101",
+            "section": "006",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "001",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "002",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "003",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "004",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "005",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1020",
+            "section": "001",
+            "courseTitle": "Programming for All 2"
+        },
+        {
+            "catalogTitle": "COMP 1020",
+            "section": "002",
+            "courseTitle": "Programming for All 2"
+        },
+        {
+            "catalogTitle": "COMP 1020",
+            "section": "003",
+            "courseTitle": "Programming for All 2"
+        },
+        {
+            "catalogTitle": "COMP 1020",
+            "section": "004",
+            "courseTitle": "Programming for All 2"
+        },
+        {
+            "catalogTitle": "COMP 1020",
+            "section": "005",
+            "courseTitle": "Programming for All 2"
+        },
+        {
+            "catalogTitle": "COMP 1020",
+            "section": "006",
+            "courseTitle": "Programming for All 2"
+        },
+        {
+            "catalogTitle": "COMP 1020",
+            "section": "007",
+            "courseTitle": "Programming for All 2"
+        },
+        {
+            "catalogTitle": "COMP 1020",
+            "section": "008",
+            "courseTitle": "Programming for All 2"
+        },
+        {
+            "catalogTitle": "COMP 5360",
+            "section": "001",
+            "courseTitle": "Intro to Data Science"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 3000",
+            "section": "001",
+            "courseTitle": "Nuclear Principles"
+        },
+        {
+            "catalogTitle": "NUCL 4000",
+            "section": "001",
+            "courseTitle": "Nuclear Lab"
+        },
+        {
+            "catalogTitle": "NUCL 4000",
+            "section": "002",
+            "courseTitle": "Nuclear Lab"
+        },
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "004",
+            "courseTitle": "Independent Research"
+        },
+        {
+            "catalogTitle": "NUCL 6030",
+            "section": "001",
+            "courseTitle": "Radiation Interactions"
+        },
+        {
+            "catalogTitle": "NUCL 6032",
+            "section": "001",
+            "courseTitle": "Graduate Radiochemistry"
+        },
+        {
+            "catalogTitle": "NUCL 6050",
+            "section": "001",
+            "courseTitle": "Reactor Physics"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

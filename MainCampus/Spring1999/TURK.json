@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "TURK 1020",
+            "section": "001",
+            "courseTitle": "Beginning Turkish II"
+        },
+        {
+            "catalogTitle": "TURK 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Turkish II"
+        },
+        {
+            "catalogTitle": "TURK 3020",
+            "section": "001",
+            "courseTitle": "Third Year Turkish II"
+        },
+        {
+            "catalogTitle": "TURK 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "TURK 6990",
+            "section": "001",
+            "courseTitle": "Cont Registration-MA"
+        }
+    ]
+}

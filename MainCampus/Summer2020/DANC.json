@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DANC 101",
+            "section": "090",
+            "courseTitle": "Dance in Culture"
+        },
+        {
+            "catalogTitle": "DANC 115",
+            "section": "091",
+            "courseTitle": "Dance Appreciation"
+        },
+        {
+            "catalogTitle": "DANC 1010",
+            "section": "090",
+            "courseTitle": "Dance in Culture"
+        },
+        {
+            "catalogTitle": "DANC 1015",
+            "section": "090",
+            "courseTitle": "Dance Appreciation"
+        },
+        {
+            "catalogTitle": "DANC 1015",
+            "section": "091",
+            "courseTitle": "Dance Appreciation"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "001",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "002",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "003",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6960",
+            "section": "001",
+            "courseTitle": "Graduate Projects"
+        },
+        {
+            "catalogTitle": "DANC 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "DANC 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

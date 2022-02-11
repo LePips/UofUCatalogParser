@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "001",
+            "courseTitle": "Sem Biological Chem"
+        },
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "002",
+            "courseTitle": "Sem Biological Chem"
+        },
+        {
+            "catalogTitle": "BLCHM 6430",
+            "section": "001",
+            "courseTitle": "Structural Methods"
+        },
+        {
+            "catalogTitle": "BLCHM 6460",
+            "section": "001",
+            "courseTitle": "Protein Chemistry"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        }
+    ]
+}

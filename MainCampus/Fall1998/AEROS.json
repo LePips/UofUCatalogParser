@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "AEROS 1010",
+            "section": "001",
+            "courseTitle": "Air Force Today I"
+        },
+        {
+            "catalogTitle": "AEROS 1010",
+            "section": "002",
+            "courseTitle": "Air Force Today I"
+        },
+        {
+            "catalogTitle": "AEROS 1110",
+            "section": "001",
+            "courseTitle": "Gen Mil Ldrshp Lab I"
+        },
+        {
+            "catalogTitle": "AEROS 2006",
+            "section": "001",
+            "courseTitle": "AFROTC Pt"
+        },
+        {
+            "catalogTitle": "AEROS 2010",
+            "section": "001",
+            "courseTitle": "Air Force Way I"
+        },
+        {
+            "catalogTitle": "AEROS 2010",
+            "section": "002",
+            "courseTitle": "Air Force Way I"
+        },
+        {
+            "catalogTitle": "AEROS 2110",
+            "section": "001",
+            "courseTitle": "Gen Mil Ldrshp Lab III"
+        },
+        {
+            "catalogTitle": "AEROS 2990",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "AEROS 3010",
+            "section": "001",
+            "courseTitle": "Mgt & Leadership I"
+        },
+        {
+            "catalogTitle": "AEROS 3010",
+            "section": "002",
+            "courseTitle": "Mgt & Leadership I"
+        },
+        {
+            "catalogTitle": "AEROS 3110",
+            "section": "001",
+            "courseTitle": "POC Ldrshp Lab I"
+        },
+        {
+            "catalogTitle": "AEROS 4010",
+            "section": "001",
+            "courseTitle": "National Security I"
+        },
+        {
+            "catalogTitle": "AEROS 4010",
+            "section": "002",
+            "courseTitle": "National Security I"
+        },
+        {
+            "catalogTitle": "AEROS 4110",
+            "section": "001",
+            "courseTitle": "POC Ldrshp Lab III"
+        },
+        {
+            "catalogTitle": "AEROS 4990",
+            "section": "001",
+            "courseTitle": "Directed Study"
+        }
+    ]
+}

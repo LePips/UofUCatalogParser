@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RDLGY 7060",
+            "section": "001",
+            "courseTitle": "Diagnostic Radiology"
+        },
+        {
+            "catalogTitle": "RDLGY 7061",
+            "section": "001",
+            "courseTitle": "Body Imaging Elective"
+        },
+        {
+            "catalogTitle": "RDLGY 7062",
+            "section": "001",
+            "courseTitle": "Inverventional R Elect"
+        },
+        {
+            "catalogTitle": "RDLGY 7064",
+            "section": "001",
+            "courseTitle": "Neuroradiology Elective"
+        },
+        {
+            "catalogTitle": "RDLGY 7066",
+            "section": "001",
+            "courseTitle": "Women's Imaging Elect"
+        },
+        {
+            "catalogTitle": "RDLGY 7067",
+            "section": "001",
+            "courseTitle": "Pediatric Radiology"
+        },
+        {
+            "catalogTitle": "RDLGY 7070",
+            "section": "001",
+            "courseTitle": "Radiology Research"
+        },
+        {
+            "catalogTitle": "RDLGY 7800",
+            "section": "001",
+            "courseTitle": "IR Sub-I"
+        }
+    ]
+}

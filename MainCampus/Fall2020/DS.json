@@ -1,0 +1,14 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DS 4350",
+            "section": "001",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "DS 4630",
+            "section": "001",
+            "courseTitle": "Vis for Data Science"
+        }
+    ]
+}

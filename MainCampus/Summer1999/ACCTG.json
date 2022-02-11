@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "001",
+            "courseTitle": "Surv Of Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "002",
+            "courseTitle": "Surv Of Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "003",
+            "courseTitle": "Surv Of Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 2620",
+            "section": "001",
+            "courseTitle": "Surv Of Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 2620",
+            "section": "002",
+            "courseTitle": "Surv Of Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 2620",
+            "section": "003",
+            "courseTitle": "Surv Of Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "003",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "001",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "001",
+            "courseTitle": "Accounting Auditing"
+        }
+    ]
+}

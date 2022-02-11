@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ORTHO 7000",
+            "section": "001",
+            "courseTitle": "Orthopedics Away"
+        },
+        {
+            "catalogTitle": "ORTHO 7435",
+            "section": "001",
+            "courseTitle": "Intro to Orthopaedics"
+        },
+        {
+            "catalogTitle": "ORTHO 7440",
+            "section": "001",
+            "courseTitle": "Clerkship"
+        },
+        {
+            "catalogTitle": "ORTHO 7450",
+            "section": "001",
+            "courseTitle": "Preceptorship"
+        },
+        {
+            "catalogTitle": "ORTHO 7460",
+            "section": "001",
+            "courseTitle": "Orthopedics Research"
+        },
+        {
+            "catalogTitle": "ORTHO 7500",
+            "section": "001",
+            "courseTitle": "Core Sub-I: ORTHO"
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "003",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "004",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "005",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "006",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "007",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "008",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "009",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "010",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "011",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "012",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 1420",
+            "section": "013",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "001",
+            "courseTitle": "Surv Of Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "002",
+            "courseTitle": "Surv Of Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "003",
+            "courseTitle": "Surv Of Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "004",
+            "courseTitle": "Surv Of Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "005",
+            "courseTitle": "Surv Of Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 2620",
+            "section": "001",
+            "courseTitle": "Surv Of Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 2620",
+            "section": "002",
+            "courseTitle": "Surv Of Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 2620",
+            "section": "003",
+            "courseTitle": "Surv Of Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 2620",
+            "section": "004",
+            "courseTitle": "Surv Of Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 2620",
+            "section": "005",
+            "courseTitle": "Surv Of Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "003",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "004",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "005",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 4410",
+            "section": "077",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "001",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "002",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "001",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "002",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "003",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "001",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "002",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "002",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "004",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "001",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "002",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5350",
+            "section": "077",
+            "courseTitle": "Intro Tax And Mgt Dec"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "001",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "003",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "001",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "002",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 5610",
+            "section": "001",
+            "courseTitle": "Financial Statement"
+        },
+        {
+            "catalogTitle": "ACCTG 5610",
+            "section": "002",
+            "courseTitle": "Hardware & Software"
+        },
+        {
+            "catalogTitle": "ACCTG 5610",
+            "section": "003",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ACCTG 5610",
+            "section": "004",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ACCTG 6110",
+            "section": "001",
+            "courseTitle": "Acctg Thry Seminar"
+        },
+        {
+            "catalogTitle": "ACCTG 6120",
+            "section": "001",
+            "courseTitle": "Fin Stmnt Analysis"
+        },
+        {
+            "catalogTitle": "ACCTG 6320",
+            "section": "001",
+            "courseTitle": "Adv Corporate Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6330",
+            "section": "001",
+            "courseTitle": "Corporate Reorg Taxatn"
+        },
+        {
+            "catalogTitle": "ACCTG 6330",
+            "section": "002",
+            "courseTitle": "Corporate Reorg Taxatn"
+        },
+        {
+            "catalogTitle": "ACCTG 6340",
+            "section": "001",
+            "courseTitle": "Estate/Gift Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6340",
+            "section": "002",
+            "courseTitle": "Estate/Gift Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6410",
+            "section": "001",
+            "courseTitle": "Systems Analysis/Design"
+        },
+        {
+            "catalogTitle": "ACCTG 6420",
+            "section": "001",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "ACCTG 6520",
+            "section": "001",
+            "courseTitle": "Auditing Cmputr Envirnm"
+        },
+        {
+            "catalogTitle": "ACCTG 6530",
+            "section": "001",
+            "courseTitle": "Statistical Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 6610",
+            "section": "001",
+            "courseTitle": "Accounting Integration"
+        },
+        {
+            "catalogTitle": "ACCTG 6610",
+            "section": "002",
+            "courseTitle": "Accounting Integration"
+        },
+        {
+            "catalogTitle": "ACCTG 6610",
+            "section": "003",
+            "courseTitle": "Accounting Integration"
+        },
+        {
+            "catalogTitle": "ACCTG 6620",
+            "section": "001",
+            "courseTitle": "Business Tax Strategies"
+        },
+        {
+            "catalogTitle": "ACCTG 6620",
+            "section": "002",
+            "courseTitle": "Business Tax Strategies"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "001",
+            "courseTitle": "Tax for Business Mgrs"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "002",
+            "courseTitle": "E-Business"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "003",
+            "courseTitle": "Hardware & Software"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "004",
+            "courseTitle": "Telecommunications"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ACCTG 7410",
+            "section": "001",
+            "courseTitle": "Mis Res Sem"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "001",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "002",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

@@ -1,0 +1,914 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOL 1000",
+            "section": "001",
+            "courseTitle": "Gen Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1000",
+            "section": "002",
+            "courseTitle": "Gen Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1000",
+            "section": "003",
+            "courseTitle": "Gen Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1000",
+            "section": "004",
+            "courseTitle": "Gen Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1000",
+            "section": "005",
+            "courseTitle": "Gen Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1000",
+            "section": "020",
+            "courseTitle": "Gen Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1320",
+            "section": "001",
+            "courseTitle": "Intro Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 1400",
+            "section": "001",
+            "courseTitle": "Intr Envirnmntl Science"
+        },
+        {
+            "catalogTitle": "BIOL 1400",
+            "section": "050",
+            "courseTitle": "Intr Envirnmntl Science"
+        },
+        {
+            "catalogTitle": "BIOL 1960",
+            "section": "070",
+            "courseTitle": "Topics In Biology"
+        },
+        {
+            "catalogTitle": "BIOL 2001",
+            "section": "001",
+            "courseTitle": "Principles Biology I"
+        },
+        {
+            "catalogTitle": "BIOL 2002",
+            "section": "001",
+            "courseTitle": "Principles Biology II"
+        },
+        {
+            "catalogTitle": "BIOL 2115",
+            "section": "001",
+            "courseTitle": "Basic Lab Technique"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "001",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "002",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "003",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "004",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "005",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "006",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "007",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "008",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "009",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "010",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "011",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "012",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2315",
+            "section": "013",
+            "courseTitle": "Human Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 2320",
+            "section": "001",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 2320",
+            "section": "002",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 2320",
+            "section": "003",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 2400",
+            "section": "001",
+            "courseTitle": "Princ Wldlf Ecol Consrv"
+        },
+        {
+            "catalogTitle": "BIOL 2870",
+            "section": "001",
+            "courseTitle": "Faculty Research Sem"
+        },
+        {
+            "catalogTitle": "BIOL 3080",
+            "section": "001",
+            "courseTitle": "Predental Orientation"
+        },
+        {
+            "catalogTitle": "BIOL 3115",
+            "section": "001",
+            "courseTitle": "Cmptr Appl Cell Bio Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3115",
+            "section": "002",
+            "courseTitle": "Cmptr Appl Cell Bio Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3115",
+            "section": "003",
+            "courseTitle": "Cmptr Appl Cell Bio Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3215",
+            "section": "001",
+            "courseTitle": "Cell Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3215",
+            "section": "002",
+            "courseTitle": "Cell Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3215",
+            "section": "003",
+            "courseTitle": "Cell Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3240",
+            "section": "001",
+            "courseTitle": "Intro Cell Neurobiology"
+        },
+        {
+            "catalogTitle": "BIOL 3245",
+            "section": "001",
+            "courseTitle": "Cell Neurobiology Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3245",
+            "section": "002",
+            "courseTitle": "Cell Neurobiology Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3245",
+            "section": "003",
+            "courseTitle": "Cell Neurobiology Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3310",
+            "section": "001",
+            "courseTitle": "Comparative Vert Morph"
+        },
+        {
+            "catalogTitle": "BIOL 3315",
+            "section": "001",
+            "courseTitle": "Compar Vert Morph Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3315",
+            "section": "002",
+            "courseTitle": "Compar Vert Morph Lab"
+        },
+        {
+            "catalogTitle": "BIOL 3330",
+            "section": "001",
+            "courseTitle": "Behav Neurobiology"
+        },
+        {
+            "catalogTitle": "BIOL 3340",
+            "section": "001",
+            "courseTitle": "Intro Plant Biol"
+        },
+        {
+            "catalogTitle": "BIOL 3475",
+            "section": "001",
+            "courseTitle": "Biol Envtl Issues"
+        },
+        {
+            "catalogTitle": "BIOL 3475",
+            "section": "002",
+            "courseTitle": "Biol Envtl Issues"
+        },
+        {
+            "catalogTitle": "BIOL 3510",
+            "section": "001",
+            "courseTitle": "Biological Chemistry I"
+        },
+        {
+            "catalogTitle": "BIOL 4876",
+            "section": "001",
+            "courseTitle": "Journal Club Seminar"
+        },
+        {
+            "catalogTitle": "BIOL 4950",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "BIOL 4950",
+            "section": "064",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "0",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "002",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "003",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "004",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "005",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "006",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "007",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "008",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "009",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "010",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "011",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "012",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "013",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "014",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "015",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "016",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "017",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "018",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "019",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "020",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "021",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "022",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "023",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "024",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "025",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "026",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "027",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "028",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "029",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "030",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "031",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "032",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "033",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "034",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "035",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "036",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "037",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "038",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "039",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "040",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "041",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "042",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "043",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "044",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "045",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "046",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "047",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "048",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "049",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "050",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "051",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "052",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "053",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "054",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "055",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "056",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "057",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "058",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "059",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "060",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "061",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "062",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "063",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "064",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "065",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "066",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "067",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "068",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "069",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "080",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "BIOL 5011",
+            "section": "001",
+            "courseTitle": "Mathematical Biology I"
+        },
+        {
+            "catalogTitle": "BIOL 5110",
+            "section": "001",
+            "courseTitle": "Molec Biol/Gen Eng"
+        },
+        {
+            "catalogTitle": "BIOL 5215",
+            "section": "001",
+            "courseTitle": "Advanced Cell Lab"
+        },
+        {
+            "catalogTitle": "BIOL 5215",
+            "section": "002",
+            "courseTitle": "Advanced Cell Lab"
+        },
+        {
+            "catalogTitle": "BIOL 5312",
+            "section": "001",
+            "courseTitle": "Human Dissection"
+        },
+        {
+            "catalogTitle": "BIOL 5313",
+            "section": "001",
+            "courseTitle": "Teaching Anatomy"
+        },
+        {
+            "catalogTitle": "BIOL 5314",
+            "section": "001",
+            "courseTitle": "Anatomy Colloquium"
+        },
+        {
+            "catalogTitle": "BIOL 5460",
+            "section": "001",
+            "courseTitle": "Plant Ecology"
+        },
+        {
+            "catalogTitle": "BIOL 5900",
+            "section": "001",
+            "courseTitle": "Tchg Experience"
+        },
+        {
+            "catalogTitle": "BIOL 5900",
+            "section": "002",
+            "courseTitle": "Tchg Experience"
+        },
+        {
+            "catalogTitle": "BIOL 6245",
+            "section": "001",
+            "courseTitle": "Neurophysiology Lab"
+        },
+        {
+            "catalogTitle": "BIOL 6900",
+            "section": "001",
+            "courseTitle": "Tchg Experience"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "064",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "065",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "066",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "067",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "068",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "069",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "071",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "70",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "064",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "065",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "066",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "067",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "068",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "069",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "070",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "071",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 7106",
+            "section": "001",
+            "courseTitle": "Sem Biochem/Molec"
+        },
+        {
+            "catalogTitle": "BIOL 7206",
+            "section": "001",
+            "courseTitle": "Sem Cell/Devel/Gen"
+        },
+        {
+            "catalogTitle": "BIOL 7961",
+            "section": "001",
+            "courseTitle": "Adv Tpcs: Biochem/Molec"
+        },
+        {
+            "catalogTitle": "BIOL 7962",
+            "section": "001",
+            "courseTitle": "Adv Tpcs:Cell/Devel/Gen"
+        },
+        {
+            "catalogTitle": "BIOL 7963",
+            "section": "001",
+            "courseTitle": "Adv Tpcs:Phys/Organisml"
+        },
+        {
+            "catalogTitle": "BIOL 7964",
+            "section": "001",
+            "courseTitle": "Adv Tpcs: Ecol/Evol"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "064",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "065",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "066",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "067",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "068",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "069",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "070",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "071",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "072",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "073",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "074",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "075",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "076",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "077",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "078",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "079",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "080",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "081",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "082",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "083",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7971",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MST 6975",
+            "section": "001",
+            "courseTitle": "Professional Project"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

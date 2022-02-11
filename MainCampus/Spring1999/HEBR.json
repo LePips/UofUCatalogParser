@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 1020",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 3020",
+            "section": "001",
+            "courseTitle": "3rd Yr Israeli Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 4300",
+            "section": "001",
+            "courseTitle": "Jewish/Israeli Culture"
+        },
+        {
+            "catalogTitle": "HEBR 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "HEBR 6300",
+            "section": "001",
+            "courseTitle": "Jewish/Israeli Culture"
+        },
+        {
+            "catalogTitle": "HEBR 6601",
+            "section": "001",
+            "courseTitle": "Bible Poet/Proph/Wisdom"
+        },
+        {
+            "catalogTitle": "HEBR 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-MA"
+        }
+    ]
+}

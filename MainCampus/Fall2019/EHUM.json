@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EHUM 6101",
+            "section": "001",
+            "courseTitle": "Foundations: Envr. Hum."
+        },
+        {
+            "catalogTitle": "EHUM 6102",
+            "section": "001",
+            "courseTitle": "Field Methods in EH"
+        },
+        {
+            "catalogTitle": "EHUM 6103",
+            "section": "001",
+            "courseTitle": "Ecology of Residency"
+        },
+        {
+            "catalogTitle": "EHUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "EHUM 6804",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        },
+        {
+            "catalogTitle": "EHUM 6850",
+            "section": "001",
+            "courseTitle": "Issues in Environ Hum"
+        },
+        {
+            "catalogTitle": "EHUM 6900",
+            "section": "005",
+            "courseTitle": "Environmental Leadership"
+        },
+        {
+            "catalogTitle": "EHUM 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EHUM 6970",
+            "section": "001",
+            "courseTitle": "Thesis/Proj Rsrch: M.A."
+        }
+    ]
+}

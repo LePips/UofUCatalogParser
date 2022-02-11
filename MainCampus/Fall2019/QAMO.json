@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "QAMO 3010",
+            "section": "001",
+            "courseTitle": "Business Economics"
+        },
+        {
+            "catalogTitle": "QAMO 3040",
+            "section": "001",
+            "courseTitle": "Business Econometrics 2"
+        },
+        {
+            "catalogTitle": "QAMO 4020",
+            "section": "001",
+            "courseTitle": "Personnel Economics"
+        },
+        {
+            "catalogTitle": "QAMO 4060",
+            "section": "001",
+            "courseTitle": "Econ of Bus Taxation"
+        }
+    ]
+}

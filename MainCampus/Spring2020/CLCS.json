@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "001",
+            "courseTitle": "From Grimm to Disney"
+        },
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "002",
+            "courseTitle": "Russian Fairy Tales"
+        },
+        {
+            "catalogTitle": "CLCS 3940",
+            "section": "001",
+            "courseTitle": "Community Engaged Learn"
+        },
+        {
+            "catalogTitle": "CLCS 4900",
+            "section": "003",
+            "courseTitle": "19th Cen Russian Lit"
+        },
+        {
+            "catalogTitle": "CLCS 4970",
+            "section": "001",
+            "courseTitle": "Culture and Identity"
+        },
+        {
+            "catalogTitle": "CLCS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "CLCS 6900",
+            "section": "001",
+            "courseTitle": "Ecocriticism - Interdisciplina"
+        },
+        {
+            "catalogTitle": "CLCS 6960",
+            "section": "001",
+            "courseTitle": "Nonthesis/Project"
+        },
+        {
+            "catalogTitle": "CLCS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CLCS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "CLCS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CLCS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

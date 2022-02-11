@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6260",
+            "section": "001",
+            "courseTitle": "Land Use Law"
+        },
+        {
+            "catalogTitle": "REDEV 6371",
+            "section": "001",
+            "courseTitle": "Systems Complexity"
+        },
+        {
+            "catalogTitle": "REDEV 6410",
+            "section": "001",
+            "courseTitle": "Site Development"
+        },
+        {
+            "catalogTitle": "REDEV 6450",
+            "section": "002",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6720",
+            "section": "001",
+            "courseTitle": "Land & Trans Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "006",
+            "courseTitle": "Neg and Dispute Resolution"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "008",
+            "courseTitle": "Small Town & Resort Planning"
+        }
+    ]
+}

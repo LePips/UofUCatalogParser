@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RDLGY 6900",
+            "section": "001",
+            "courseTitle": "Spec Topics Med Imaging"
+        },
+        {
+            "catalogTitle": "RDLGY 7060",
+            "section": "001",
+            "courseTitle": "Diagnostic Radiology"
+        },
+        {
+            "catalogTitle": "RDLGY 7070",
+            "section": "001",
+            "courseTitle": "Radiology Research"
+        },
+        {
+            "catalogTitle": "RDLGY 7310",
+            "section": "001",
+            "courseTitle": "Adv Magnetic Reson Imag"
+        }
+    ]
+}

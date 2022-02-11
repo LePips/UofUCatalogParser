@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DRAW 3120",
+            "section": "001",
+            "courseTitle": "Figure Structure"
+        },
+        {
+            "catalogTitle": "DRAW 3130",
+            "section": "001",
+            "courseTitle": "Drawing I"
+        },
+        {
+            "catalogTitle": "DRAW 3130",
+            "section": "002",
+            "courseTitle": "Drawing I"
+        },
+        {
+            "catalogTitle": "DRAW 3135",
+            "section": "001",
+            "courseTitle": "Digital Drawing"
+        },
+        {
+            "catalogTitle": "DRAW 3180",
+            "section": "001",
+            "courseTitle": "Drawing Installation"
+        },
+        {
+            "catalogTitle": "DRAW 4110",
+            "section": "001",
+            "courseTitle": "Drawing II"
+        },
+        {
+            "catalogTitle": "DRAW 4120",
+            "section": "001",
+            "courseTitle": "Life Drawing"
+        },
+        {
+            "catalogTitle": "DRAW 4140",
+            "section": "001",
+            "courseTitle": "Drawing III"
+        }
+    ]
+}

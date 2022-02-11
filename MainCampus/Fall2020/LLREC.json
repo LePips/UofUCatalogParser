@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 671",
+            "section": "001",
+            "courseTitle": "Beginning Fly Fishing"
+        },
+        {
+            "catalogTitle": "LLREC 777",
+            "section": "001",
+            "courseTitle": "Kayaking Made Easy"
+        },
+        {
+            "catalogTitle": "LLREC 800",
+            "section": "001",
+            "courseTitle": "Backcountry Car Camping"
+        },
+        {
+            "catalogTitle": "LLREC 902",
+            "section": "001",
+            "courseTitle": "Tenkara"
+        },
+        {
+            "catalogTitle": "LLREC 914",
+            "section": "001",
+            "courseTitle": "Moonlight Hike in the Wasatch"
+        },
+        {
+            "catalogTitle": "LLREC 915",
+            "section": "002",
+            "courseTitle": "Bicycle Maintenance"
+        }
+    ]
+}

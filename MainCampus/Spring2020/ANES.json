@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANES 7000",
+            "section": "001",
+            "courseTitle": "Anesthesiology Away"
+        },
+        {
+            "catalogTitle": "ANES 7040",
+            "section": "001",
+            "courseTitle": "Clerkship"
+        },
+        {
+            "catalogTitle": "ANES 7050",
+            "section": "001",
+            "courseTitle": "Adv Anesth Clerkship"
+        },
+        {
+            "catalogTitle": "ANES 7070",
+            "section": "001",
+            "courseTitle": "Mgt of Chronic Pain"
+        },
+        {
+            "catalogTitle": "ANES 7930",
+            "section": "001",
+            "courseTitle": "Special Research Pblms"
+        }
+    ]
+}

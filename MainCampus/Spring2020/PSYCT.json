@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSYCT 7200",
+            "section": "001",
+            "courseTitle": "Clerkship"
+        },
+        {
+            "catalogTitle": "PSYCT 7200",
+            "section": "002",
+            "courseTitle": "Clerkship"
+        },
+        {
+            "catalogTitle": "PSYCT 7400",
+            "section": "001",
+            "courseTitle": "Subinternship-UHOSP"
+        },
+        {
+            "catalogTitle": "PSYCT 7410",
+            "section": "001",
+            "courseTitle": "Subinternship-V.A."
+        },
+        {
+            "catalogTitle": "PSYCT 7420",
+            "section": "001",
+            "courseTitle": "Subinternship-UNI"
+        },
+        {
+            "catalogTitle": "PSYCT 7441",
+            "section": "001",
+            "courseTitle": "Consult/Liaison-U Hosp"
+        },
+        {
+            "catalogTitle": "PSYCT 7442",
+            "section": "001",
+            "courseTitle": "Consult/Liaison - VA"
+        },
+        {
+            "catalogTitle": "PSYCT 7450",
+            "section": "001",
+            "courseTitle": "Outpatient Psychiatry"
+        },
+        {
+            "catalogTitle": "PSYCT 7460",
+            "section": "001",
+            "courseTitle": "Child Psychiatry"
+        },
+        {
+            "catalogTitle": "PSYCT 7530",
+            "section": "001",
+            "courseTitle": "Triple Board Elective"
+        },
+        {
+            "catalogTitle": "PSYCT 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        }
+    ]
+}

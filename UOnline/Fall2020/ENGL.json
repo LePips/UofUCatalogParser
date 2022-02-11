@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGL 1200",
+            "section": "290",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "ENGL 2090",
+            "section": "290",
+            "courseTitle": "Video Game Storytelling"
+        },
+        {
+            "catalogTitle": "ENGL 2335",
+            "section": "290",
+            "courseTitle": "Young Adult Literature"
+        },
+        {
+            "catalogTitle": "ENGL 3780",
+            "section": "290",
+            "courseTitle": "Global/Transnatnl Lit"
+        },
+        {
+            "catalogTitle": "ENGL 5650",
+            "section": "290",
+            "courseTitle": "Adv Sem Lit Study"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHYSL 5100",
+            "section": "001",
+            "courseTitle": "Carpal Tunnel Syndrome"
+        },
+        {
+            "catalogTitle": "PHYSL 6020",
+            "section": "001",
+            "courseTitle": "Neurophysiology"
+        },
+        {
+            "catalogTitle": "PHYSL 6060",
+            "section": "001",
+            "courseTitle": "Neurophysiology"
+        },
+        {
+            "catalogTitle": "PHYSL 6910",
+            "section": "001",
+            "courseTitle": "Physiology Practicum I"
+        },
+        {
+            "catalogTitle": "PHYSL 6930",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "PHYSL 6950",
+            "section": "001",
+            "courseTitle": "Cell Structure/Function"
+        },
+        {
+            "catalogTitle": "PHYSL 6960",
+            "section": "001",
+            "courseTitle": "Chemosensory Systems"
+        },
+        {
+            "catalogTitle": "PHYSL 7710",
+            "section": "001",
+            "courseTitle": "Physiology Seminar"
+        },
+        {
+            "catalogTitle": "PHYSL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "PHYSL 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

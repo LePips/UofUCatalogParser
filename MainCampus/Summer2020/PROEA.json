@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROEA 101",
+            "section": "001",
+            "courseTitle": "Agile 101 for Bus"
+        },
+        {
+            "catalogTitle": "PROEA 150",
+            "section": "001",
+            "courseTitle": "Bookkeeper w/quickbooks Cert"
+        },
+        {
+            "catalogTitle": "PROEA 415",
+            "section": "003",
+            "courseTitle": "Feedback, Expectations, Delega"
+        },
+        {
+            "catalogTitle": "PROEA 601",
+            "section": "001",
+            "courseTitle": "Fundamentals of Project Mgt I"
+        },
+        {
+            "catalogTitle": "PROEA 602",
+            "section": "001",
+            "courseTitle": "Fundamentals of Project Mgt II"
+        },
+        {
+            "catalogTitle": "PROEA 603",
+            "section": "001",
+            "courseTitle": "Project Risk Management"
+        },
+        {
+            "catalogTitle": "PROEA 604",
+            "section": "003",
+            "courseTitle": "Project Leadership"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "AEROS 1011",
+            "section": "001",
+            "courseTitle": "Air Force Today II"
+        },
+        {
+            "catalogTitle": "AEROS 1011",
+            "section": "002",
+            "courseTitle": "Air Force Today II"
+        },
+        {
+            "catalogTitle": "AEROS 1111",
+            "section": "001",
+            "courseTitle": "Gen Mil Ldrshp Lab II"
+        },
+        {
+            "catalogTitle": "AEROS 2006",
+            "section": "001",
+            "courseTitle": "AFROTC Pt"
+        },
+        {
+            "catalogTitle": "AEROS 2011",
+            "section": "001",
+            "courseTitle": "Air Force Way II"
+        },
+        {
+            "catalogTitle": "AEROS 2011",
+            "section": "002",
+            "courseTitle": "Air Force Way II"
+        },
+        {
+            "catalogTitle": "AEROS 2111",
+            "section": "001",
+            "courseTitle": "Gen Mil Ldrshp Lab IV"
+        },
+        {
+            "catalogTitle": "AEROS 3011",
+            "section": "001",
+            "courseTitle": "Mgt & Leadership II"
+        },
+        {
+            "catalogTitle": "AEROS 3011",
+            "section": "002",
+            "courseTitle": "Mgt & Leadership II"
+        },
+        {
+            "catalogTitle": "AEROS 3111",
+            "section": "001",
+            "courseTitle": "POC Ldrshp Lab II"
+        },
+        {
+            "catalogTitle": "AEROS 4011",
+            "section": "001",
+            "courseTitle": "National Security II"
+        },
+        {
+            "catalogTitle": "AEROS 4011",
+            "section": "002",
+            "courseTitle": "National Security II"
+        },
+        {
+            "catalogTitle": "AEROS 4111",
+            "section": "001",
+            "courseTitle": "POC Ldrshp Lab IV"
+        },
+        {
+            "catalogTitle": "AEROS 4990",
+            "section": "001",
+            "courseTitle": "Directed Study"
+        }
+    ]
+}

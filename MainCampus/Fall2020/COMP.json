@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "011",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "012",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "013",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "014",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 1010",
+            "section": "018",
+            "courseTitle": "Programming for All 1"
+        },
+        {
+            "catalogTitle": "COMP 5005",
+            "section": "001",
+            "courseTitle": "Program for Engineers"
+        },
+        {
+            "catalogTitle": "COMP 6005",
+            "section": "001",
+            "courseTitle": "Program for Engineers"
+        }
+    ]
+}

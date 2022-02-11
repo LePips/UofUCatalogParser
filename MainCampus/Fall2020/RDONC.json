@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RDONC 7000",
+            "section": "001",
+            "courseTitle": "Radiation Oncology Away"
+        },
+        {
+            "catalogTitle": "RDONC 7010",
+            "section": "001",
+            "courseTitle": "Clinical Radiation Onc"
+        },
+        {
+            "catalogTitle": "RDONC 7070",
+            "section": "001",
+            "courseTitle": "Rad Oncology Research"
+        }
+    ]
+}

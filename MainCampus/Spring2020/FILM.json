@@ -1,0 +1,354 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 220",
+            "section": "001",
+            "courseTitle": "Intro to Film"
+        },
+        {
+            "catalogTitle": "FILM 220",
+            "section": "002",
+            "courseTitle": "Intro to Film"
+        },
+        {
+            "catalogTitle": "FILM 250",
+            "section": "004",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 251",
+            "section": "001",
+            "courseTitle": "Intro Media Arts Prod"
+        },
+        {
+            "catalogTitle": "FILM 340",
+            "section": "001",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 452",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 452",
+            "section": "002",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 483",
+            "section": "001",
+            "courseTitle": "Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 484",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 1100",
+            "section": "001",
+            "courseTitle": "Film Festival Workshop"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "001",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "002",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "090",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1600",
+            "section": "090",
+            "courseTitle": "Animation:Then,Now,Next"
+        },
+        {
+            "catalogTitle": "FILM 1600",
+            "section": "091",
+            "courseTitle": "Animation:Then,Now,Next"
+        },
+        {
+            "catalogTitle": "FILM 1600",
+            "section": "092",
+            "courseTitle": "Animation:Then,Now,Next"
+        },
+        {
+            "catalogTitle": "FILM 1600",
+            "section": "093",
+            "courseTitle": "Animation:Then,Now,Next"
+        },
+        {
+            "catalogTitle": "FILM 1610",
+            "section": "001",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 1610",
+            "section": "002",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "001",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "002",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "003",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "004",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2510",
+            "section": "001",
+            "courseTitle": "Intro Media Arts Prod"
+        },
+        {
+            "catalogTitle": "FILM 2650",
+            "section": "001",
+            "courseTitle": "Storyboarding"
+        },
+        {
+            "catalogTitle": "FILM 3100",
+            "section": "001",
+            "courseTitle": "Intro to Doc Studies"
+        },
+        {
+            "catalogTitle": "FILM 3110",
+            "section": "001",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 3120",
+            "section": "001",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 3150",
+            "section": "001",
+            "courseTitle": "Experimental Film Hist"
+        },
+        {
+            "catalogTitle": "FILM 3420",
+            "section": "001",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 3420",
+            "section": "002",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 3520",
+            "section": "001",
+            "courseTitle": "Soc Justice Documentary"
+        },
+        {
+            "catalogTitle": "FILM 3530",
+            "section": "001",
+            "courseTitle": "Directing "
+        },
+        {
+            "catalogTitle": "FILM 3570",
+            "section": "001",
+            "courseTitle": "Digital Cinematography"
+        },
+        {
+            "catalogTitle": "FILM 3620",
+            "section": "002",
+            "courseTitle": "Computer Animation II"
+        },
+        {
+            "catalogTitle": "FILM 3630",
+            "section": "001",
+            "courseTitle": "Trad Animation II"
+        },
+        {
+            "catalogTitle": "FILM 3820",
+            "section": "001",
+            "courseTitle": "Short Screenplay"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "001",
+            "courseTitle": "Color Grading"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "002",
+            "courseTitle": "Social Media Tactics for F&MA"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "003",
+            "courseTitle": "Immersive Media"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "004",
+            "courseTitle": "Exploring Motion thru Animatio"
+        },
+        {
+            "catalogTitle": "FILM 4210",
+            "section": "003",
+            "courseTitle": "Comedy Films"
+        },
+        {
+            "catalogTitle": "FILM 4510",
+            "section": "001",
+            "courseTitle": "Advanced Doc Filmmaking"
+        },
+        {
+            "catalogTitle": "FILM 4555",
+            "section": "001",
+            "courseTitle": "Filmmaking: Post-Prod"
+        },
+        {
+            "catalogTitle": "FILM 4580",
+            "section": "001",
+            "courseTitle": "Producing Indie Film"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "002",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 4830",
+            "section": "001",
+            "courseTitle": "Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 4840",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 4900",
+            "section": "001",
+            "courseTitle": "Internship in Film"
+        },
+        {
+            "catalogTitle": "FILM 5570",
+            "section": "001",
+            "courseTitle": "Produc & Directing II"
+        },
+        {
+            "catalogTitle": "FILM 6100",
+            "section": "001",
+            "courseTitle": "Film Festival Workshop"
+        },
+        {
+            "catalogTitle": "FILM 6110",
+            "section": "001",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 6120",
+            "section": "001",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 6150",
+            "section": "001",
+            "courseTitle": "Experimental Film Hist"
+        },
+        {
+            "catalogTitle": "FILM 6370",
+            "section": "003",
+            "courseTitle": "Comedy Films"
+        },
+        {
+            "catalogTitle": "FILM 6420",
+            "section": "001",
+            "courseTitle": "Sound for Film & DM"
+        },
+        {
+            "catalogTitle": "FILM 6510",
+            "section": "001",
+            "courseTitle": "Advanced Doc Filmmaking"
+        },
+        {
+            "catalogTitle": "FILM 6515",
+            "section": "001",
+            "courseTitle": "Intro Media Arts Prod"
+        },
+        {
+            "catalogTitle": "FILM 6530",
+            "section": "001",
+            "courseTitle": "Film Directing Styles"
+        },
+        {
+            "catalogTitle": "FILM 6555",
+            "section": "001",
+            "courseTitle": "Filmmaking: Post-Prod"
+        },
+        {
+            "catalogTitle": "FILM 6570",
+            "section": "001",
+            "courseTitle": "Produc & Directing II"
+        },
+        {
+            "catalogTitle": "FILM 6580",
+            "section": "001",
+            "courseTitle": "Producing Indie Film"
+        },
+        {
+            "catalogTitle": "FILM 6620",
+            "section": "002",
+            "courseTitle": "Computer Animation II"
+        },
+        {
+            "catalogTitle": "FILM 6640",
+            "section": "001",
+            "courseTitle": "Trad Animation II"
+        },
+        {
+            "catalogTitle": "FILM 6820",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 6830",
+            "section": "001",
+            "courseTitle": "Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 6840",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 6945",
+            "section": "002",
+            "courseTitle": "Ultra-High Definition Cinema"
+        },
+        {
+            "catalogTitle": "FILM 6945",
+            "section": "003",
+            "courseTitle": "Color Grading"
+        }
+    ]
+}

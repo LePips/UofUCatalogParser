@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "002",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "050",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 2010",
+            "section": "001",
+            "courseTitle": "Inter Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 3040",
+            "section": "001",
+            "courseTitle": "Fifth Sem Russian"
+        },
+        {
+            "catalogTitle": "RUSS 3060",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "RUSS 4550",
+            "section": "050",
+            "courseTitle": "Russian Culture"
+        },
+        {
+            "catalogTitle": "RUSS 4580",
+            "section": "001",
+            "courseTitle": "Reading Russian Press"
+        },
+        {
+            "catalogTitle": "RUSS 4710",
+            "section": "001",
+            "courseTitle": "Surv-19Th Cen Russ Lit"
+        },
+        {
+            "catalogTitle": "RUSS 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "RUSS 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "RUSS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        }
+    ]
+}

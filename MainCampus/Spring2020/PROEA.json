@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROEA 101",
+            "section": "001",
+            "courseTitle": "Agile 101 for Bus"
+        },
+        {
+            "catalogTitle": "PROEA 150",
+            "section": "001",
+            "courseTitle": "Bookkeeper w/quickbooks Cert"
+        },
+        {
+            "catalogTitle": "PROEA 601",
+            "section": "001",
+            "courseTitle": "Fundamentals of Project Mgt I"
+        },
+        {
+            "catalogTitle": "PROEA 602",
+            "section": "001",
+            "courseTitle": "Fundamentals of Project Mgt II"
+        }
+    ]
+}

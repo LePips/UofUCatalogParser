@@ -1,0 +1,284 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEO 100",
+            "section": "001",
+            "courseTitle": "Science in Cinema"
+        },
+        {
+            "catalogTitle": "GEO 104",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 592",
+            "section": "014",
+            "courseTitle": "Earth and the Planets"
+        },
+        {
+            "catalogTitle": "GEO 1000",
+            "section": "001",
+            "courseTitle": "Science in Cinema"
+        },
+        {
+            "catalogTitle": "GEO 1040",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 1040",
+            "section": "002",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 1100",
+            "section": "001",
+            "courseTitle": "Evolving Earth"
+        },
+        {
+            "catalogTitle": "GEO 2100",
+            "section": "001",
+            "courseTitle": "Reactive Earth"
+        },
+        {
+            "catalogTitle": "GEO 2100",
+            "section": "002",
+            "courseTitle": "Reactive Earth"
+        },
+        {
+            "catalogTitle": "GEO 2100",
+            "section": "003",
+            "courseTitle": "Reactive Earth"
+        },
+        {
+            "catalogTitle": "GEO 2500",
+            "section": "001",
+            "courseTitle": "Wasatch in the Field"
+        },
+        {
+            "catalogTitle": "GEO 3020",
+            "section": "001",
+            "courseTitle": "Mineralogy"
+        },
+        {
+            "catalogTitle": "GEO 3020",
+            "section": "002",
+            "courseTitle": "Mineralogy"
+        },
+        {
+            "catalogTitle": "GEO 3030",
+            "section": "090",
+            "courseTitle": "Living with Quakes"
+        },
+        {
+            "catalogTitle": "GEO 3040",
+            "section": "001",
+            "courseTitle": "Sedimentology & Stratig"
+        },
+        {
+            "catalogTitle": "GEO 3040",
+            "section": "002",
+            "courseTitle": "Sedimentology & Stratig"
+        },
+        {
+            "catalogTitle": "GEO 3100",
+            "section": "001",
+            "courseTitle": "Dynamic Earth"
+        },
+        {
+            "catalogTitle": "GEO 3368",
+            "section": "090",
+            "courseTitle": "Energy Choices"
+        },
+        {
+            "catalogTitle": "GEO 3400",
+            "section": "002",
+            "courseTitle": "Computational Methods"
+        },
+        {
+            "catalogTitle": "GEO 3800",
+            "section": "001",
+            "courseTitle": "The Oceans"
+        },
+        {
+            "catalogTitle": "GEO 3900",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "GEO 4970",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "GEO 5210",
+            "section": "002",
+            "courseTitle": "Seismology I"
+        },
+        {
+            "catalogTitle": "GEO 5250",
+            "section": "001",
+            "courseTitle": "Inversion Theory"
+        },
+        {
+            "catalogTitle": "GEO 5270",
+            "section": "001",
+            "courseTitle": "Geomorphology"
+        },
+        {
+            "catalogTitle": "GEO 5350",
+            "section": "001",
+            "courseTitle": "Groundwater"
+        },
+        {
+            "catalogTitle": "GEO 5368",
+            "section": "090",
+            "courseTitle": "Energy Choices"
+        },
+        {
+            "catalogTitle": "GEO 5370",
+            "section": "001",
+            "courseTitle": "Environ. Contaminants"
+        },
+        {
+            "catalogTitle": "GEO 5510",
+            "section": "001",
+            "courseTitle": "PICP 1a"
+        },
+        {
+            "catalogTitle": "GEO 5520",
+            "section": "001",
+            "courseTitle": "PICP 1b"
+        },
+        {
+            "catalogTitle": "GEO 5900",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "001",
+            "courseTitle": "DLS-Undergraduate"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "014",
+            "courseTitle": "Earth and the Planets"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "015",
+            "courseTitle": "Numerical Methods"
+        },
+        {
+            "catalogTitle": "GEO 6211",
+            "section": "002",
+            "courseTitle": "Seismology I"
+        },
+        {
+            "catalogTitle": "GEO 6250",
+            "section": "001",
+            "courseTitle": "Inversion Theory & Apps"
+        },
+        {
+            "catalogTitle": "GEO 6270",
+            "section": "001",
+            "courseTitle": "Geomorphology"
+        },
+        {
+            "catalogTitle": "GEO 6350",
+            "section": "001",
+            "courseTitle": "Groundwater"
+        },
+        {
+            "catalogTitle": "GEO 6370",
+            "section": "001",
+            "courseTitle": "Environ. Contaminants"
+        },
+        {
+            "catalogTitle": "GEO 6510",
+            "section": "001",
+            "courseTitle": "PICP 1a"
+        },
+        {
+            "catalogTitle": "GEO 6520",
+            "section": "001",
+            "courseTitle": "PICP 1b"
+        },
+        {
+            "catalogTitle": "GEO 6665",
+            "section": "001",
+            "courseTitle": "Paleophysiology"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "001",
+            "courseTitle": "DLS-Graduate"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "002",
+            "courseTitle": "Grad-EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "003",
+            "courseTitle": "Nano & Micro Part Transport"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "012",
+            "courseTitle": "Mineralogy"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "013",
+            "courseTitle": "Phys Pro Earth Sci"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "014",
+            "courseTitle": "Geophysics Grad Discuss"
+        },
+        {
+            "catalogTitle": "GEO 6950",
+            "section": "001",
+            "courseTitle": "Reviews Earth Sci"
+        },
+        {
+            "catalogTitle": "GEO 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GEO 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "001",
+            "courseTitle": "EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "003",
+            "courseTitle": "Nano & Micro Part Transport"
+        },
+        {
+            "catalogTitle": "GEO 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "GEO 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

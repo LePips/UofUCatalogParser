@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENVST 2050",
+            "section": "290",
+            "courseTitle": "Intro to ENVST Science"
+        },
+        {
+            "catalogTitle": "ENVST 2100",
+            "section": "290",
+            "courseTitle": "Intro Env & Sustain"
+        },
+        {
+            "catalogTitle": "ENVST 3364",
+            "section": "290",
+            "courseTitle": "Global Sustainability"
+        },
+        {
+            "catalogTitle": "ENVST 3365",
+            "section": "290",
+            "courseTitle": "Enviro Justice"
+        }
+    ]
+}

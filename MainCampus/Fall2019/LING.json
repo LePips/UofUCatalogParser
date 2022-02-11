@@ -1,0 +1,234 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 120",
+            "section": "002",
+            "courseTitle": "Intr Study Language"
+        },
+        {
+            "catalogTitle": "LING 120",
+            "section": "090",
+            "courseTitle": "Intr Study Language"
+        },
+        {
+            "catalogTitle": "LING 169",
+            "section": "090",
+            "courseTitle": "Bad Words & Taboo Terms"
+        },
+        {
+            "catalogTitle": "LING 322",
+            "section": "090",
+            "courseTitle": "World Englishes"
+        },
+        {
+            "catalogTitle": "LING 350",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 360",
+            "section": "090",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 401",
+            "section": "001",
+            "courseTitle": "Intro Phonetics&Phonolg"
+        },
+        {
+            "catalogTitle": "LING 402",
+            "section": "001",
+            "courseTitle": "Intro To Syntax"
+        },
+        {
+            "catalogTitle": "LING 415",
+            "section": "001",
+            "courseTitle": "Forensic Linguistics"
+        },
+        {
+            "catalogTitle": "LING 1069",
+            "section": "090",
+            "courseTitle": "Bad Words & Taboo Terms"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "090",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 3220",
+            "section": "090",
+            "courseTitle": "World Englishes"
+        },
+        {
+            "catalogTitle": "LING 3300",
+            "section": "090",
+            "courseTitle": "Computers & Language"
+        },
+        {
+            "catalogTitle": "LING 3470",
+            "section": "001",
+            "courseTitle": "Language & Culture"
+        },
+        {
+            "catalogTitle": "LING 3475",
+            "section": "070",
+            "courseTitle": "Language Myths"
+        },
+        {
+            "catalogTitle": "LING 3500",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 3510",
+            "section": "001",
+            "courseTitle": "Grammar and Stylistics"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "090",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 4010",
+            "section": "001",
+            "courseTitle": "Intro Phonetics&Phonolg"
+        },
+        {
+            "catalogTitle": "LING 4020",
+            "section": "001",
+            "courseTitle": "Intro To Syntax"
+        },
+        {
+            "catalogTitle": "LING 4130",
+            "section": "001",
+            "courseTitle": "Intro Historical Ling"
+        },
+        {
+            "catalogTitle": "LING 4150",
+            "section": "001",
+            "courseTitle": "Forensic Linguistics"
+        },
+        {
+            "catalogTitle": "LING 4160",
+            "section": "002",
+            "courseTitle": "Language and Cognition"
+        },
+        {
+            "catalogTitle": "LING 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "LING 5025",
+            "section": "001",
+            "courseTitle": "Second Lang Acquisition"
+        },
+        {
+            "catalogTitle": "LING 5170",
+            "section": "001",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LING 5295",
+            "section": "090",
+            "courseTitle": "Russian Phonetics"
+        },
+        {
+            "catalogTitle": "LING 5810",
+            "section": "090",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 5813",
+            "section": "090",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 5813",
+            "section": "095",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 5900",
+            "section": "001",
+            "courseTitle": "Senior Capstone"
+        },
+        {
+            "catalogTitle": "LING 6011",
+            "section": "001",
+            "courseTitle": "Graduate Phonology"
+        },
+        {
+            "catalogTitle": "LING 6021",
+            "section": "001",
+            "courseTitle": "Graduate Syntax"
+        },
+        {
+            "catalogTitle": "LING 6030",
+            "section": "001",
+            "courseTitle": "Grad Semantics I"
+        },
+        {
+            "catalogTitle": "LING 6080",
+            "section": "001",
+            "courseTitle": "Forensic Linguistics"
+        },
+        {
+            "catalogTitle": "LING 6080",
+            "section": "003",
+            "courseTitle": "Formal Research Methods"
+        },
+        {
+            "catalogTitle": "LING 6130",
+            "section": "001",
+            "courseTitle": "Intro to Hist Ling"
+        },
+        {
+            "catalogTitle": "LING 6810",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "001",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7960",
+            "section": "001",
+            "courseTitle": "PhD Comp Exam Prep"
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        }
+    ]
+}

@@ -23,8 +23,11 @@ class SemesterParser:
 
         print(f'\nBeginning to parse semester: { self.catalogName }\nCampus: { self.campus.title }')
 
-        homePage = self.getHomePage()
-        self.parseHomePage(homePage)
+        try:
+            homePage = self.getHomePage()
+            self.parseHomePage(homePage)
+        except:
+            print(f'Semester doesn''t exist at campus: { self.campus.title }')
 
         for subject in list(self.subjects.keys()):
             subjectAbbr = subject.split(' - ')[0]
@@ -154,7 +157,7 @@ if __name__ == '__main__':
     # TODO: arguments for not parsing files that already exist, or override
 
     for campus in allCampuses:
-        for semester in campus.semesters:
+        for semester in list(campus.semesters)[:2]:
             subjectParser = SemesterParser(campus, semester,  campus.semesters[semester])
             subjectParser.parseSemester()
             subjectParser.writeFiles()

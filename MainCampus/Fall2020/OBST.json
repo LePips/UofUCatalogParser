@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OBST 7000",
+            "section": "001",
+            "courseTitle": "Ob/Gyn Away "
+        },
+        {
+            "catalogTitle": "OBST 7010",
+            "section": "001",
+            "courseTitle": "OBGYN Clerkship"
+        },
+        {
+            "catalogTitle": "OBST 7010",
+            "section": "002",
+            "courseTitle": "OBGYN Clerkship"
+        },
+        {
+            "catalogTitle": "OBST 7030",
+            "section": "001",
+            "courseTitle": "Perinatal Medicine"
+        },
+        {
+            "catalogTitle": "OBST 7040",
+            "section": "001",
+            "courseTitle": "Gyn-Onc Sub-Internship"
+        },
+        {
+            "catalogTitle": "OBST 7050",
+            "section": "001",
+            "courseTitle": "Subinternship"
+        },
+        {
+            "catalogTitle": "OBST 7060",
+            "section": "001",
+            "courseTitle": "Preceptorship"
+        },
+        {
+            "catalogTitle": "OBST 7080",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OBST 7110",
+            "section": "001",
+            "courseTitle": "Womens Health Elective"
+        },
+        {
+            "catalogTitle": "OBST 7500",
+            "section": "001",
+            "courseTitle": "Core Sub-I: OB/GYN"
+        },
+        {
+            "catalogTitle": "OBST 7550",
+            "section": "001",
+            "courseTitle": "Core Sub-I: GYNONC"
+        }
+    ]
+}

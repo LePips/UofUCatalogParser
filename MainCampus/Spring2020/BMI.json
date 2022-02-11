@@ -1,0 +1,254 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 605",
+            "section": "090",
+            "courseTitle": "Stats for Biomed Info"
+        },
+        {
+            "catalogTitle": "BMI 609",
+            "section": "001",
+            "courseTitle": "Bioinfo in Practice:RNA"
+        },
+        {
+            "catalogTitle": "BMI 611",
+            "section": "001",
+            "courseTitle": "Research Design"
+        },
+        {
+            "catalogTitle": "BMI 620",
+            "section": "001",
+            "courseTitle": "Standards in BMI"
+        },
+        {
+            "catalogTitle": "BMI 644",
+            "section": "001",
+            "courseTitle": "Clin Info Sys Architec"
+        },
+        {
+            "catalogTitle": "BMI 6016",
+            "section": "001",
+            "courseTitle": "Biomedical Data Quality"
+        },
+        {
+            "catalogTitle": "BMI 6019",
+            "section": "001",
+            "courseTitle": "Bioinfo in Practice:RNA"
+        },
+        {
+            "catalogTitle": "BMI 6060",
+            "section": "001",
+            "courseTitle": "Applied Comp. Genomics"
+        },
+        {
+            "catalogTitle": "BMI 6103",
+            "section": "001",
+            "courseTitle": "Systems Modeling"
+        },
+        {
+            "catalogTitle": "BMI 6103",
+            "section": "090",
+            "courseTitle": "Systems Modeling "
+        },
+        {
+            "catalogTitle": "BMI 6105",
+            "section": "090",
+            "courseTitle": "Stats for Biomed Info"
+        },
+        {
+            "catalogTitle": "BMI 6106",
+            "section": "001",
+            "courseTitle": "Prob & Stats for Biomed"
+        },
+        {
+            "catalogTitle": "BMI 6111",
+            "section": "002",
+            "courseTitle": "Research Design I"
+        },
+        {
+            "catalogTitle": "BMI 6115",
+            "section": "001",
+            "courseTitle": "Biomed Text Processing"
+        },
+        {
+            "catalogTitle": "BMI 6115",
+            "section": "090",
+            "courseTitle": "Biomed Text Processing"
+        },
+        {
+            "catalogTitle": "BMI 6120",
+            "section": "001",
+            "courseTitle": "Standards in BMI"
+        },
+        {
+            "catalogTitle": "BMI 6120",
+            "section": "090",
+            "courseTitle": "Standards in BMI"
+        },
+        {
+            "catalogTitle": "BMI 6305",
+            "section": "001",
+            "courseTitle": "Leadership Principles"
+        },
+        {
+            "catalogTitle": "BMI 6305",
+            "section": "090",
+            "courseTitle": "Leadership Principles"
+        },
+        {
+            "catalogTitle": "BMI 6440",
+            "section": "001",
+            "courseTitle": "Clin Info Sys Architec"
+        },
+        {
+            "catalogTitle": "BMI 6440",
+            "section": "090",
+            "courseTitle": "Clin Info Sys Architec"
+        },
+        {
+            "catalogTitle": "BMI 6810",
+            "section": "001",
+            "courseTitle": "DBMI Business Seminar"
+        },
+        {
+            "catalogTitle": "BMI 6810",
+            "section": "090",
+            "courseTitle": "DBMI Business Seminar"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "001",
+            "courseTitle": "Global Health Practicum"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "002",
+            "courseTitle": "Global Health Practicum"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "005",
+            "courseTitle": "Data Science Scholar"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "007",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "012",
+            "courseTitle": "Translational SIG"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "014",
+            "courseTitle": "Symbolic SIG"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "019",
+            "courseTitle": "Translational SIG"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "023",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6975",
+            "section": "001",
+            "courseTitle": "Non-Thesis Caps Proj MS"
+        },
+        {
+            "catalogTitle": "BMI 7050",
+            "section": "001",
+            "courseTitle": "Res Biomed Informatics"
+        },
+        {
+            "catalogTitle": "BMI 7060",
+            "section": "001",
+            "courseTitle": "Medical Informatics"
+        },
+        {
+            "catalogTitle": "BMI 7901",
+            "section": "001",
+            "courseTitle": "BMI Independent Study"
+        },
+        {
+            "catalogTitle": "BMI 7901",
+            "section": "002",
+            "courseTitle": "BMI Independent Study"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "001",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "002",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "011",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "012",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "013",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "014",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "015",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "016",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "BMI 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration - PhD"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HINDI 102",
+            "section": "001",
+            "courseTitle": "Beginning Hindi-Urdu II"
+        },
+        {
+            "catalogTitle": "HINDI 1020",
+            "section": "001",
+            "courseTitle": "Beginning Hindi-Urdu II"
+        },
+        {
+            "catalogTitle": "HINDI 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HINDI 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HINDI 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

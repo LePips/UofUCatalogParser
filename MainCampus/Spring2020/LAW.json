@@ -1,0 +1,349 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LAW 6060",
+            "section": "001",
+            "courseTitle": "Constitutional Law I"
+        },
+        {
+            "catalogTitle": "LAW 6060",
+            "section": "002",
+            "courseTitle": "Constitutional Law I"
+        },
+        {
+            "catalogTitle": "LAW 6100",
+            "section": "001",
+            "courseTitle": "Criminal Law"
+        },
+        {
+            "catalogTitle": "LAW 6100",
+            "section": "002",
+            "courseTitle": "Criminal Law"
+        },
+        {
+            "catalogTitle": "LAW 6100",
+            "section": "003",
+            "courseTitle": "Criminal Law"
+        },
+        {
+            "catalogTitle": "LAW 6120",
+            "section": "001",
+            "courseTitle": "Property"
+        },
+        {
+            "catalogTitle": "LAW 6120",
+            "section": "002",
+            "courseTitle": "Property"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "001",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "002",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "003",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6370",
+            "section": "001",
+            "courseTitle": "Cntrcts in the Mod Econ"
+        },
+        {
+            "catalogTitle": "LAW 6390",
+            "section": "001",
+            "courseTitle": "Bs IP Lbr&Eply n Md Ecn"
+        },
+        {
+            "catalogTitle": "LAW 6800",
+            "section": "001",
+            "courseTitle": "Comp Legal Studies"
+        },
+        {
+            "catalogTitle": "LAW 7000",
+            "section": "001",
+            "courseTitle": " Civil Procedure II"
+        },
+        {
+            "catalogTitle": "LAW 7002",
+            "section": "001",
+            "courseTitle": "Federal Courts"
+        },
+        {
+            "catalogTitle": "LAW 7010",
+            "section": "001",
+            "courseTitle": "Med/Adv Negotiation"
+        },
+        {
+            "catalogTitle": "LAW 7013",
+            "section": "001",
+            "courseTitle": "Sec Law: Pub Companies"
+        },
+        {
+            "catalogTitle": "LAW 7015",
+            "section": "001",
+            "courseTitle": "Real Estate Development"
+        },
+        {
+            "catalogTitle": "LAW 7016",
+            "section": "001",
+            "courseTitle": "Family Law Practice Lab"
+        },
+        {
+            "catalogTitle": "LAW 7030",
+            "section": "001",
+            "courseTitle": "Criminal Procedure"
+        },
+        {
+            "catalogTitle": "LAW 7033",
+            "section": "001",
+            "courseTitle": "Mindful Lawyering"
+        },
+        {
+            "catalogTitle": "LAW 7040",
+            "section": "001",
+            "courseTitle": "Evidence"
+        },
+        {
+            "catalogTitle": "LAW 7050",
+            "section": "001",
+            "courseTitle": "Bus Organizations"
+        },
+        {
+            "catalogTitle": "LAW 7070",
+            "section": "001",
+            "courseTitle": "Federal Income Tax"
+        },
+        {
+            "catalogTitle": "LAW 7071",
+            "section": "001",
+            "courseTitle": "Tax Business Entities"
+        },
+        {
+            "catalogTitle": "LAW 7072",
+            "section": "001",
+            "courseTitle": "Trial Advocacy"
+        },
+        {
+            "catalogTitle": "LAW 7072",
+            "section": "002",
+            "courseTitle": "Trial Advocacy"
+        },
+        {
+            "catalogTitle": "LAW 7072",
+            "section": "003",
+            "courseTitle": "Trial Advocacy"
+        },
+        {
+            "catalogTitle": "LAW 7072",
+            "section": "004",
+            "courseTitle": "Trial Advocacy"
+        },
+        {
+            "catalogTitle": "LAW 7072",
+            "section": "005",
+            "courseTitle": "Trial Advocacy"
+        },
+        {
+            "catalogTitle": "LAW 7072",
+            "section": "006",
+            "courseTitle": "Trial Advocacy"
+        },
+        {
+            "catalogTitle": "LAW 7074",
+            "section": "001",
+            "courseTitle": "Family Law"
+        },
+        {
+            "catalogTitle": "LAW 7080",
+            "section": "001",
+            "courseTitle": "Legal Drafting"
+        },
+        {
+            "catalogTitle": "LAW 7080",
+            "section": "002",
+            "courseTitle": "Trademark & Unfair Competition"
+        },
+        {
+            "catalogTitle": "LAW 7080",
+            "section": "004",
+            "courseTitle": "International Legal Research"
+        },
+        {
+            "catalogTitle": "LAW 7220",
+            "section": "002",
+            "courseTitle": "Oil and Gas"
+        },
+        {
+            "catalogTitle": "LAW 7300",
+            "section": "001",
+            "courseTitle": "Administrative Law"
+        },
+        {
+            "catalogTitle": "LAW 7410",
+            "section": "001",
+            "courseTitle": "Constitutional Law II"
+        },
+        {
+            "catalogTitle": "LAW 7560",
+            "section": "001",
+            "courseTitle": "Adv Legal Resrch"
+        },
+        {
+            "catalogTitle": "LAW 7570",
+            "section": "001",
+            "courseTitle": "Patent Document Draftng"
+        },
+        {
+            "catalogTitle": "LAW 7570",
+            "section": "002",
+            "courseTitle": "Real Estate Drafting"
+        },
+        {
+            "catalogTitle": "LAW 7602",
+            "section": "001",
+            "courseTitle": "Estate Planning"
+        },
+        {
+            "catalogTitle": "LAW 7700",
+            "section": "001",
+            "courseTitle": "Land Use Control"
+        },
+        {
+            "catalogTitle": "LAW 7775",
+            "section": "001",
+            "courseTitle": "Bus Bankruptcy: Reorgs"
+        },
+        {
+            "catalogTitle": "LAW 7788",
+            "section": "001",
+            "courseTitle": "New Ventures"
+        },
+        {
+            "catalogTitle": "LAW 7789",
+            "section": "001",
+            "courseTitle": "Prsptvs Counter-Terror"
+        },
+        {
+            "catalogTitle": "LAW 7793",
+            "section": "001",
+            "courseTitle": "Juvenile Court Law"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "001",
+            "courseTitle": "Toxic Torts:Pollution & Hlth"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "002",
+            "courseTitle": "Curr Iss in Bus Law"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "003",
+            "courseTitle": "Curr Iss in Bus Law"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "004",
+            "courseTitle": "Debating Gun Law and Policy"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "005",
+            "courseTitle": "Cyberlaw and Internet Privacy"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "006",
+            "courseTitle": "Current Issues in IP Law"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "007",
+            "courseTitle": "Current Issues in Family Law"
+        },
+        {
+            "catalogTitle": "LAW 7817",
+            "section": "001",
+            "courseTitle": "Immigration: Dtnd Imgrt"
+        },
+        {
+            "catalogTitle": "LAW 7829",
+            "section": "001",
+            "courseTitle": "Innocence Law"
+        },
+        {
+            "catalogTitle": "LAW 7838",
+            "section": "001",
+            "courseTitle": "Conflict Management"
+        },
+        {
+            "catalogTitle": "LAW 7839",
+            "section": "001",
+            "courseTitle": "19th Cent Disadv Groups"
+        },
+        {
+            "catalogTitle": "LAW 7849",
+            "section": "001",
+            "courseTitle": "Federal Indian Law"
+        },
+        {
+            "catalogTitle": "LAW 7878",
+            "section": "001",
+            "courseTitle": "Terrorism Sim. Design"
+        },
+        {
+            "catalogTitle": "LAW 7886",
+            "section": "001",
+            "courseTitle": "Statutory Interpret"
+        },
+        {
+            "catalogTitle": "LAW 7889",
+            "section": "001",
+            "courseTitle": "Law and Biomedicine"
+        },
+        {
+            "catalogTitle": "LAW 7900",
+            "section": "001",
+            "courseTitle": "Legal Profession"
+        },
+        {
+            "catalogTitle": "LAW 7910",
+            "section": "001",
+            "courseTitle": "Medieval English Law"
+        },
+        {
+            "catalogTitle": "LAW 7960",
+            "section": "001",
+            "courseTitle": "T.A. Legal Writing"
+        },
+        {
+            "catalogTitle": "LAW 7960",
+            "section": "002",
+            "courseTitle": "T.A. Legal Writing"
+        },
+        {
+            "catalogTitle": "LAW 7960",
+            "section": "003",
+            "courseTitle": "T.A. Legal Writing"
+        },
+        {
+            "catalogTitle": "LAW 7981",
+            "section": "001",
+            "courseTitle": "Utah Law Review"
+        },
+        {
+            "catalogTitle": "LAW 7990",
+            "section": "001",
+            "courseTitle": "Criminal Process"
+        }
+    ]
+}

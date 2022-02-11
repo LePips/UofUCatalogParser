@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "090",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "091",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "092",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 3910",
+            "section": "090",
+            "courseTitle": "Experiencing Pub. Hist."
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "001",
+            "courseTitle": "Humans & Their Animals"
+        },
+        {
+            "catalogTitle": "HIST 5100",
+            "section": "001",
+            "courseTitle": "Internship in History"
+        },
+        {
+            "catalogTitle": "HIST 6910",
+            "section": "090",
+            "courseTitle": "Experiencing Pub. Hist."
+        }
+    ]
+}

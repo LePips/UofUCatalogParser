@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 380",
+            "section": "001",
+            "courseTitle": "Visual Arts & Health"
+        },
+        {
+            "catalogTitle": "FA 1610",
+            "section": "001",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FA 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 2000",
+            "section": "002",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 3135",
+            "section": "001",
+            "courseTitle": "Digital Drawing"
+        },
+        {
+            "catalogTitle": "FA 3300",
+            "section": "001",
+            "courseTitle": "Intro to Computer Music"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "002",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "090",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "FA 3700",
+            "section": "001",
+            "courseTitle": "Digital Imaging"
+        },
+        {
+            "catalogTitle": "FA 3801",
+            "section": "001",
+            "courseTitle": "Visual Arts & Health"
+        },
+        {
+            "catalogTitle": "FA 4000",
+            "section": "001",
+            "courseTitle": "Integrating the Arts"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CVP 6002",
+            "section": "001",
+            "courseTitle": "Perfusion Science 2"
+        },
+        {
+            "catalogTitle": "CVP 6020",
+            "section": "001",
+            "courseTitle": "Perfusion Lab 2"
+        },
+        {
+            "catalogTitle": "CVP 6071",
+            "section": "001",
+            "courseTitle": "Perfusion Pharmacology"
+        },
+        {
+            "catalogTitle": "CVP 6200",
+            "section": "001",
+            "courseTitle": "Research Methodologies"
+        },
+        {
+            "catalogTitle": "CVP 6201",
+            "section": "001",
+            "courseTitle": "Masters Project 1"
+        },
+        {
+            "catalogTitle": "CVP 6301",
+            "section": "001",
+            "courseTitle": "Procedure Observ & Lec"
+        },
+        {
+            "catalogTitle": "CVP 6401",
+            "section": "001",
+            "courseTitle": "Perfusion AP & Sur. Rep"
+        },
+        {
+            "catalogTitle": "CVP 6502",
+            "section": "001",
+            "courseTitle": "Interdisciplinary HC 2"
+        },
+        {
+            "catalogTitle": "CVP 6631",
+            "section": "001",
+            "courseTitle": "Medical Physiology 2"
+        }
+    ]
+}

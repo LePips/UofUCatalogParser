@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LANG 2560",
+            "section": "001",
+            "courseTitle": "Russian Persp 1880-pres"
+        },
+        {
+            "catalogTitle": "LANG 2560",
+            "section": "002",
+            "courseTitle": "Russian Persp 1880-pres"
+        },
+        {
+            "catalogTitle": "LANG 2700",
+            "section": "001",
+            "courseTitle": "Holocaust Literature"
+        },
+        {
+            "catalogTitle": "LANG 3620",
+            "section": "001",
+            "courseTitle": "French Theatrical Cult"
+        },
+        {
+            "catalogTitle": "LANG 5265",
+            "section": "001",
+            "courseTitle": "Topics In Romance Ling"
+        },
+        {
+            "catalogTitle": "LANG 5410",
+            "section": "001",
+            "courseTitle": "L2 Methodology: K-12"
+        },
+        {
+            "catalogTitle": "LANG 6410",
+            "section": "001",
+            "courseTitle": "L2 Methodology: Adult"
+        },
+        {
+            "catalogTitle": "LANG 6420",
+            "section": "001",
+            "courseTitle": "Practicum & Mat Develop"
+        }
+    ]
+}

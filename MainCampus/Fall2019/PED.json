@@ -1,0 +1,234 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PED 575",
+            "section": "001",
+            "courseTitle": "Genomic Analysis I"
+        },
+        {
+            "catalogTitle": "PED 651",
+            "section": "001",
+            "courseTitle": "Mat Neo Survival"
+        },
+        {
+            "catalogTitle": "PED 5400",
+            "section": "090",
+            "courseTitle": "Intro to Clin Pharm"
+        },
+        {
+            "catalogTitle": "PED 5500",
+            "section": "001",
+            "courseTitle": "Intro to Global Health"
+        },
+        {
+            "catalogTitle": "PED 5600",
+            "section": "001",
+            "courseTitle": "IRB Student Volunteer"
+        },
+        {
+            "catalogTitle": "PED 5600",
+            "section": "002",
+            "courseTitle": "IRB Student Volunteer"
+        },
+        {
+            "catalogTitle": "PED 5700",
+            "section": "001",
+            "courseTitle": "Srvy Peds Rsrch-In-Prog"
+        },
+        {
+            "catalogTitle": "PED 5700",
+            "section": "090",
+            "courseTitle": "Srvy Peds Rsrch-In-Prog"
+        },
+        {
+            "catalogTitle": "PED 5701",
+            "section": "001",
+            "courseTitle": "Survey Pediatric RIP II"
+        },
+        {
+            "catalogTitle": "PED 5701",
+            "section": "090",
+            "courseTitle": "Survey Pediatric RIP II"
+        },
+        {
+            "catalogTitle": "PED 5750",
+            "section": "001",
+            "courseTitle": "Genomic Analysis I"
+        },
+        {
+            "catalogTitle": "PED 5900",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch Mthds I"
+        },
+        {
+            "catalogTitle": "PED 5901",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch Mthds II"
+        },
+        {
+            "catalogTitle": "PED 5902",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch&Medicine"
+        },
+        {
+            "catalogTitle": "PED 5950",
+            "section": "001",
+            "courseTitle": "Peds Clinical Research"
+        },
+        {
+            "catalogTitle": "PED 5950",
+            "section": "002",
+            "courseTitle": "Peds Clinical Research"
+        },
+        {
+            "catalogTitle": "PED 5950",
+            "section": "003",
+            "courseTitle": "Peds Clinical Research"
+        },
+        {
+            "catalogTitle": "PED 5999",
+            "section": "001",
+            "courseTitle": "Peds Leadership Exp"
+        },
+        {
+            "catalogTitle": "PED 6500",
+            "section": "001",
+            "courseTitle": "Intro to Global Health"
+        },
+        {
+            "catalogTitle": "PED 6515",
+            "section": "001",
+            "courseTitle": "Mat Neo Survival"
+        },
+        {
+            "catalogTitle": "PED 6810",
+            "section": "001",
+            "courseTitle": "EPAC Focus "
+        },
+        {
+            "catalogTitle": "PED 6830",
+            "section": "001",
+            "courseTitle": "Quality ImprovementEPAC"
+        },
+        {
+            "catalogTitle": "PED 6840",
+            "section": "001",
+            "courseTitle": "PED Outpat. Exper. EPAC"
+        },
+        {
+            "catalogTitle": "PED 6850",
+            "section": "001",
+            "courseTitle": "PED ACC for EPAC"
+        },
+        {
+            "catalogTitle": "PED 6860",
+            "section": "001",
+            "courseTitle": "Internship for EPAC"
+        },
+        {
+            "catalogTitle": "PED 7000",
+            "section": "001",
+            "courseTitle": "Pediatric Away"
+        },
+        {
+            "catalogTitle": "PED 7010",
+            "section": "001",
+            "courseTitle": "Pediatric Clerkship"
+        },
+        {
+            "catalogTitle": "PED 7010",
+            "section": "002",
+            "courseTitle": "Pediatric Clerkship"
+        },
+        {
+            "catalogTitle": "PED 7030",
+            "section": "001",
+            "courseTitle": "Core Sub-Internship"
+        },
+        {
+            "catalogTitle": "PED 7050",
+            "section": "001",
+            "courseTitle": "Preceptorship"
+        },
+        {
+            "catalogTitle": "PED 7070",
+            "section": "001",
+            "courseTitle": "Pediatric ICU"
+        },
+        {
+            "catalogTitle": "PED 7080",
+            "section": "001",
+            "courseTitle": "Endocrinology"
+        },
+        {
+            "catalogTitle": "PED 7110",
+            "section": "001",
+            "courseTitle": "Infectious Disease"
+        },
+        {
+            "catalogTitle": "PED 7140",
+            "section": "001",
+            "courseTitle": "Pediatric Cardiology"
+        },
+        {
+            "catalogTitle": "PED 7160",
+            "section": "001",
+            "courseTitle": "Hematology-Oncology"
+        },
+        {
+            "catalogTitle": "PED 7180",
+            "section": "001",
+            "courseTitle": "Child Abuse & Neglect"
+        },
+        {
+            "catalogTitle": "PED 7230",
+            "section": "001",
+            "courseTitle": "Gastroenterology"
+        },
+        {
+            "catalogTitle": "PED 7240",
+            "section": "001",
+            "courseTitle": "Neonatology & NBICU"
+        },
+        {
+            "catalogTitle": "PED 7270",
+            "section": "001",
+            "courseTitle": "Pediatric Research"
+        },
+        {
+            "catalogTitle": "PED 7280",
+            "section": "001",
+            "courseTitle": "PediatricHeme/Onc Sub-I"
+        },
+        {
+            "catalogTitle": "PED 7290",
+            "section": "001",
+            "courseTitle": "Pediatric IV/Wound Care"
+        },
+        {
+            "catalogTitle": "PED 7320",
+            "section": "001",
+            "courseTitle": "Pediatric ED"
+        },
+        {
+            "catalogTitle": "PED 7800",
+            "section": "001",
+            "courseTitle": "Clinical Pharmacology"
+        },
+        {
+            "catalogTitle": "PED 7800",
+            "section": "002",
+            "courseTitle": "Journal Club"
+        },
+        {
+            "catalogTitle": "PED 7810",
+            "section": "001",
+            "courseTitle": "Research in Clin. Pharmacology"
+        },
+        {
+            "catalogTitle": "PED 7820",
+            "section": "001",
+            "courseTitle": "Special Seminar Series"
+        }
+    ]
+}

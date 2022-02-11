@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENVST 2000",
+            "section": "290",
+            "courseTitle": "First Year Seminar"
+        },
+        {
+            "catalogTitle": "ENVST 2050",
+            "section": "290",
+            "courseTitle": "Intro to ENVST Science"
+        },
+        {
+            "catalogTitle": "ENVST 2100",
+            "section": "290",
+            "courseTitle": "Intro Env & Sustain"
+        }
+    ]
+}

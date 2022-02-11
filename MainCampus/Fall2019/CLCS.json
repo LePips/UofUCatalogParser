@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CLCS 3940",
+            "section": "001",
+            "courseTitle": "Community Engaged Learn"
+        },
+        {
+            "catalogTitle": "CLCS 4900",
+            "section": "001",
+            "courseTitle": "Jap Empire to Kor Wave"
+        },
+        {
+            "catalogTitle": "CLCS 4900",
+            "section": "002",
+            "courseTitle": "20th Cen Russian Lit"
+        },
+        {
+            "catalogTitle": "CLCS 4940",
+            "section": "001",
+            "courseTitle": "Film & Culture"
+        },
+        {
+            "catalogTitle": "CLCS 6680",
+            "section": "001",
+            "courseTitle": "Text and Image"
+        },
+        {
+            "catalogTitle": "CLCS 6960",
+            "section": "001",
+            "courseTitle": "Nonthesis/Project"
+        },
+        {
+            "catalogTitle": "CLCS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CLCS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

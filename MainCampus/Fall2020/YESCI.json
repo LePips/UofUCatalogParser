@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESCI 524",
+            "section": "001",
+            "courseTitle": "Legendary LEGO League (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 533",
+            "section": "001",
+            "courseTitle": "Junior Animation (Age 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 551",
+            "section": "001",
+            "courseTitle": "Arctic Animation (Age 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 552",
+            "section": "001",
+            "courseTitle": "Minecraft Madness (9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 552",
+            "section": "002",
+            "courseTitle": "Minecraft Madness (9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 553",
+            "section": "001",
+            "courseTitle": "Winter Wonder Bots I (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 554",
+            "section": "001",
+            "courseTitle": "Frosty Fun w/ Scratch 1 (8-10)"
+        }
+    ]
+}

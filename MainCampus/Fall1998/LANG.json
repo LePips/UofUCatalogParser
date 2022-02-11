@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LANG 2550",
+            "section": "001",
+            "courseTitle": "Theory Russian Culture"
+        },
+        {
+            "catalogTitle": "LANG 5265",
+            "section": "001",
+            "courseTitle": "Topics In Romance Ling"
+        },
+        {
+            "catalogTitle": "LANG 5410",
+            "section": "001",
+            "courseTitle": "L2 Methodology: K-12"
+        },
+        {
+            "catalogTitle": "LANG 6410",
+            "section": "001",
+            "courseTitle": "L2 Methodology: Adult"
+        },
+        {
+            "catalogTitle": "LANG 6420",
+            "section": "001",
+            "courseTitle": "Practicum & Mat Develop"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 1611",
+            "section": "001",
+            "courseTitle": "Freshman Seminar  II"
+        },
+        {
+            "catalogTitle": "ARCH 1615",
+            "section": "001",
+            "courseTitle": "Intro To Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "001",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "002",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 2635",
+            "section": "001",
+            "courseTitle": "Photographic Seeing"
+        },
+        {
+            "catalogTitle": "ARCH 3011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio II"
+        },
+        {
+            "catalogTitle": "ARCH 3051",
+            "section": "001",
+            "courseTitle": "Architect'l Comm II"
+        },
+        {
+            "catalogTitle": "ARCH 3211",
+            "section": "001",
+            "courseTitle": "Surv-World Architctr II"
+        },
+        {
+            "catalogTitle": "ARCH 3371",
+            "section": "001",
+            "courseTitle": "Materials Construction"
+        },
+        {
+            "catalogTitle": "ARCH 4011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IV"
+        },
+        {
+            "catalogTitle": "ARCH 4110",
+            "section": "001",
+            "courseTitle": "Determ Arch Design"
+        },
+        {
+            "catalogTitle": "ARCH 4311",
+            "section": "001",
+            "courseTitle": "Arch'l Structures II"
+        },
+        {
+            "catalogTitle": "ARCH 4351",
+            "section": "001",
+            "courseTitle": "Environm'l Controls II"
+        },
+        {
+            "catalogTitle": "ARCH 4965",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "003",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "004",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IVG"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6051",
+            "section": "001",
+            "courseTitle": "Professional Comm"
+        },
+        {
+            "catalogTitle": "ARCH 6053",
+            "section": "001",
+            "courseTitle": "Modeling II"
+        },
+        {
+            "catalogTitle": "ARCH 6110",
+            "section": "001",
+            "courseTitle": "Determ Arch Design G"
+        },
+        {
+            "catalogTitle": "ARCH 6234",
+            "section": "001",
+            "courseTitle": "Amer Beaux Arts"
+        },
+        {
+            "catalogTitle": "ARCH 6271",
+            "section": "001",
+            "courseTitle": "Contemporary  Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6272",
+            "section": "001",
+            "courseTitle": "Representation Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6302",
+            "section": "001",
+            "courseTitle": "Adv Struct Typology"
+        },
+        {
+            "catalogTitle": "ARCH 6302",
+            "section": "002",
+            "courseTitle": "Adv Struct Typology"
+        },
+        {
+            "catalogTitle": "ARCH 6311",
+            "section": "001",
+            "courseTitle": "Arch'L Structures IIG"
+        },
+        {
+            "catalogTitle": "ARCH 6351",
+            "section": "001",
+            "courseTitle": "Environm'L Controls IIG"
+        },
+        {
+            "catalogTitle": "ARCH 6352",
+            "section": "001",
+            "courseTitle": "Sustainable Design"
+        },
+        {
+            "catalogTitle": "ARCH 6370",
+            "section": "001",
+            "courseTitle": "Advanced Tech Const"
+        },
+        {
+            "catalogTitle": "ARCH 6411",
+            "section": "001",
+            "courseTitle": "Program Dev II"
+        },
+        {
+            "catalogTitle": "ARCH 6590",
+            "section": "001",
+            "courseTitle": "Internship-Preservation"
+        },
+        {
+            "catalogTitle": "ARCH 6590",
+            "section": "002",
+            "courseTitle": "Internship-Preservation"
+        },
+        {
+            "catalogTitle": "ARCH 6701",
+            "section": "001",
+            "courseTitle": "Law For Architects"
+        },
+        {
+            "catalogTitle": "ARCH 6702",
+            "section": "001",
+            "courseTitle": "Arch Pract-Phil II"
+        },
+        {
+            "catalogTitle": "ARCH 6770",
+            "section": "001",
+            "courseTitle": "Arch Service Intern"
+        },
+        {
+            "catalogTitle": "ARCH 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6950",
+            "section": "002",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "002",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "003",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "004",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6965",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ARCH 6965",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ARCH 6971",
+            "section": "001",
+            "courseTitle": "Master's Project"
+        },
+        {
+            "catalogTitle": "ARCH 6985",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

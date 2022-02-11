@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "290",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "290",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3011",
+            "section": "290",
+            "courseTitle": "Arts and Humanities"
+        },
+        {
+            "catalogTitle": "WRTG 3012",
+            "section": "290",
+            "courseTitle": "Social Sciences"
+        },
+        {
+            "catalogTitle": "WRTG 3014",
+            "section": "290",
+            "courseTitle": "Scientific Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "290",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "290",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3870",
+            "section": "290",
+            "courseTitle": "Wrtg as Social Practice"
+        }
+    ]
+}

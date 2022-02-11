@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MST 6021",
+            "section": "001",
+            "courseTitle": "Strategy and Marketing"
+        },
+        {
+            "catalogTitle": "MST 6022",
+            "section": "001",
+            "courseTitle": "Operations Management"
+        },
+        {
+            "catalogTitle": "MST 6023",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MST 6500",
+            "section": "001",
+            "courseTitle": "Scientific Reasoning"
+        },
+        {
+            "catalogTitle": "MST 6500",
+            "section": "002",
+            "courseTitle": "Scientific Reasoning"
+        },
+        {
+            "catalogTitle": "MST 6963",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MST 6974",
+            "section": "001",
+            "courseTitle": "Project Planning"
+        },
+        {
+            "catalogTitle": "MST 6975",
+            "section": "001",
+            "courseTitle": "Professional Project"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MST 6980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

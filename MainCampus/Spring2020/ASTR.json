@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTR 105",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 108",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "ASTR 1050",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 1080",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "ASTR 4090",
+            "section": "001",
+            "courseTitle": "Stellar Astrophysics"
+        },
+        {
+            "catalogTitle": "ASTR 5590",
+            "section": "001",
+            "courseTitle": "High Energy Astro"
+        },
+        {
+            "catalogTitle": "ASTR 6410",
+            "section": "001",
+            "courseTitle": "Intro to Astro Research"
+        },
+        {
+            "catalogTitle": "ASTR 7130",
+            "section": "001",
+            "courseTitle": "Radiative Processes"
+        }
+    ]
+}

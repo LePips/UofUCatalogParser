@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "301",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "302",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "303",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "301",
+            "courseTitle": "Intermediate Writing"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BART 3360",
+            "section": "001",
+            "courseTitle": "Letterpress I"
+        },
+        {
+            "catalogTitle": "BART 3365",
+            "section": "001",
+            "courseTitle": "Bookbinding I"
+        },
+        {
+            "catalogTitle": "BART 4390",
+            "section": "001",
+            "courseTitle": "Artists' Books I"
+        },
+        {
+            "catalogTitle": "BART 4395",
+            "section": "001",
+            "courseTitle": "Artists' Books II"
+        }
+    ]
+}

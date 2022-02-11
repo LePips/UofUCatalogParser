@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "290",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 3020",
+            "section": "290",
+            "courseTitle": "Social Psychology"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "290",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3140",
+            "section": "290",
+            "courseTitle": "Social Theory"
+        },
+        {
+            "catalogTitle": "SOC 3480",
+            "section": "290",
+            "courseTitle": "Environmental Sociology"
+        },
+        {
+            "catalogTitle": "SOC 4890",
+            "section": "290",
+            "courseTitle": "CSBS Internship Program"
+        },
+        {
+            "catalogTitle": "SOC 4891",
+            "section": "290",
+            "courseTitle": "CSBS Internship: Crim"
+        },
+        {
+            "catalogTitle": "SOC 4892",
+            "section": "290",
+            "courseTitle": "CSBS Internship: Divers"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 111",
+            "section": "001",
+            "courseTitle": "Intro to Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "001",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 4910",
+            "section": "009",
+            "courseTitle": "Ind Research"
+        },
+        {
+            "catalogTitle": "FILM 4950",
+            "section": "003",
+            "courseTitle": "Production Project"
+        }
+    ]
+}

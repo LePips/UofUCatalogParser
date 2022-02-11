@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CRIM 101",
+            "section": "001",
+            "courseTitle": "Intro Criminal Justice"
+        },
+        {
+            "catalogTitle": "CRIM 1010",
+            "section": "001",
+            "courseTitle": "Intro Criminal Justice"
+        },
+        {
+            "catalogTitle": "CRIM 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "CRIM 4999",
+            "section": "003",
+            "courseTitle": "Honors Thesis Project"
+        }
+    ]
+}

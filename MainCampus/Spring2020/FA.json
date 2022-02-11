@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 3135",
+            "section": "001",
+            "courseTitle": "Digital Drawing"
+        },
+        {
+            "catalogTitle": "FA 3801",
+            "section": "001",
+            "courseTitle": "Spec Topic in Fine Arts"
+        },
+        {
+            "catalogTitle": "FA 4000",
+            "section": "001",
+            "courseTitle": "Integrating the Arts"
+        },
+        {
+            "catalogTitle": "FA 4950",
+            "section": "001",
+            "courseTitle": "Interdisciplin Capstone"
+        }
+    ]
+}

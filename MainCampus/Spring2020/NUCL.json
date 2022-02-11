@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 3100",
+            "section": "001",
+            "courseTitle": "Radiation Interactions"
+        },
+        {
+            "catalogTitle": "NUCL 3200",
+            "section": "001",
+            "courseTitle": "Radiochemistry I"
+        },
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "006",
+            "courseTitle": "Independent Research"
+        },
+        {
+            "catalogTitle": "NUCL 6060",
+            "section": "001",
+            "courseTitle": "Reactor & Policy"
+        },
+        {
+            "catalogTitle": "NUCL 7100",
+            "section": "001",
+            "courseTitle": "Nuclear Instrumentation"
+        },
+        {
+            "catalogTitle": "NUCL 7220",
+            "section": "001",
+            "courseTitle": "Analytical Nuclear Fore"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

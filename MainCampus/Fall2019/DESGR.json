@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DESGR 1100",
+            "section": "001",
+            "courseTitle": "Communication Design 1"
+        },
+        {
+            "catalogTitle": "DESGR 1100",
+            "section": "002",
+            "courseTitle": "Communication Design 1"
+        },
+        {
+            "catalogTitle": "DESGR 1600",
+            "section": "001",
+            "courseTitle": "Typography 1"
+        },
+        {
+            "catalogTitle": "DESGR 1600",
+            "section": "002",
+            "courseTitle": "Typography 1"
+        }
+    ]
+}

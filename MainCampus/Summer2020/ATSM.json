@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATSM 6100",
+            "section": "001",
+            "courseTitle": "Intro to Acute Care"
+        },
+        {
+            "catalogTitle": "ATSM 6300",
+            "section": "001",
+            "courseTitle": "Intro EBP"
+        },
+        {
+            "catalogTitle": "ATSM 6800",
+            "section": "001",
+            "courseTitle": "AT Hlth Care Profession"
+        },
+        {
+            "catalogTitle": "ATSM 6810",
+            "section": "001",
+            "courseTitle": "Best Prac Hlth Care Del"
+        }
+    ]
+}

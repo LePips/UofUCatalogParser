@@ -1,0 +1,324 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OEHS 6370",
+            "section": "090",
+            "courseTitle": "Occupational Epi"
+        },
+        {
+            "catalogTitle": "OEHS 6504",
+            "section": "002",
+            "courseTitle": "Clin Beh Asp Prev Med"
+        },
+        {
+            "catalogTitle": "OEHS 6504",
+            "section": "090",
+            "courseTitle": "Clin Beh Asp Prev Med"
+        },
+        {
+            "catalogTitle": "OEHS 6702",
+            "section": "001",
+            "courseTitle": "Adv Topics-Occ/Env"
+        },
+        {
+            "catalogTitle": "OEHS 6715",
+            "section": "001",
+            "courseTitle": "Occ Health & Safety"
+        },
+        {
+            "catalogTitle": "OEHS 6730",
+            "section": "001",
+            "courseTitle": "Quant Expos Assessment"
+        },
+        {
+            "catalogTitle": "OEHS 6750",
+            "section": "090",
+            "courseTitle": "Fundamentals of IH"
+        },
+        {
+            "catalogTitle": "OEHS 6751",
+            "section": "001",
+            "courseTitle": "Advanced IH"
+        },
+        {
+            "catalogTitle": "OEHS 6752",
+            "section": "001",
+            "courseTitle": "Intro Ind Env Tox Phys"
+        },
+        {
+            "catalogTitle": "OEHS 6752",
+            "section": "090",
+            "courseTitle": "Intro Ind Env Tox Phys"
+        },
+        {
+            "catalogTitle": "OEHS 6753",
+            "section": "001",
+            "courseTitle": "Industrial Ventilation"
+        },
+        {
+            "catalogTitle": "OEHS 6760",
+            "section": "001",
+            "courseTitle": "Admin Mgt Hlth & Safety"
+        },
+        {
+            "catalogTitle": "OEHS 6910",
+            "section": "001",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "OEHS 6910",
+            "section": "003",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "OEHS 6910",
+            "section": "005",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "OEHS 6910",
+            "section": "006",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "OEHS 6910",
+            "section": "007",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "OEHS 6910",
+            "section": "008",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "OEHS 6910",
+            "section": "009",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "OEHS 6910",
+            "section": "010",
+            "courseTitle": "Project Research"
+        },
+        {
+            "catalogTitle": "OEHS 6952",
+            "section": "001",
+            "courseTitle": "Readings Environ Health"
+        },
+        {
+            "catalogTitle": "OEHS 6953",
+            "section": "001",
+            "courseTitle": "Read in Occ Health"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "011",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6957",
+            "section": "012",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 6976",
+            "section": "001",
+            "courseTitle": "Funded Proj Res-MSOH"
+        },
+        {
+            "catalogTitle": "OEHS 6978",
+            "section": "001",
+            "courseTitle": "Funded Thesis Res-MSOH"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "006",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "007",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "008",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "009",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "010",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "011",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 6987",
+            "section": "012",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 7081",
+            "section": "001",
+            "courseTitle": "Writing & Communication"
+        },
+        {
+            "catalogTitle": "OEHS 7715",
+            "section": "001",
+            "courseTitle": "Adv Occ Solutions"
+        },
+        {
+            "catalogTitle": "OEHS 7720",
+            "section": "001",
+            "courseTitle": "Occ Injury Epi"
+        },
+        {
+            "catalogTitle": "OEHS 7975",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 7975",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 7975",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 7977",
+            "section": "001",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "OEHS 7977",
+            "section": "002",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "OEHS 7977",
+            "section": "003",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "OEHS 7977",
+            "section": "004",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "OEHS 7977",
+            "section": "005",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "OEHS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 7980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 7980",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 7987",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}
