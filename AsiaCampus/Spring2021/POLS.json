@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "301",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "302",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "303",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "301",
+            "courseTitle": "Intro Intntl Relation"
+        }
+    ]
+}

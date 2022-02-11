@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UC 1020",
+            "section": "001",
+            "courseTitle": "Introduction to Premed"
+        },
+        {
+            "catalogTitle": "UC 1030",
+            "section": "001",
+            "courseTitle": "Intro to Predental"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "001",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "002",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "003",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UC 1060",
+            "section": "001",
+            "courseTitle": "Introduction to Prelaw"
+        }
+    ]
+}

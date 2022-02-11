@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BALLE 2800",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BALLE 2800",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BALLE 4670",
+            "section": "001",
+            "courseTitle": "Performance Credit: Pro"
+        },
+        {
+            "catalogTitle": "BALLE 4720",
+            "section": "001",
+            "courseTitle": "Pointe/Variations: Pro"
+        },
+        {
+            "catalogTitle": "BALLE 4790",
+            "section": "001",
+            "courseTitle": "Technique: Pro"
+        },
+        {
+            "catalogTitle": "BALLE 4800",
+            "section": "001",
+            "courseTitle": "Ind Study General"
+        },
+        {
+            "catalogTitle": "BALLE 4800",
+            "section": "002",
+            "courseTitle": "Ind Study General"
+        }
+    ]
+}

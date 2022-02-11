@@ -1,0 +1,154 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2010",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "001",
+            "courseTitle": "Analysis & Design"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "002",
+            "courseTitle": "Analysis & Design"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "090",
+            "courseTitle": "Analysis & Design"
+        },
+        {
+            "catalogTitle": "IS 6480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 6484",
+            "section": "001",
+            "courseTitle": "Advanced Data Mgmt"
+        },
+        {
+            "catalogTitle": "IS 6485",
+            "section": "001",
+            "courseTitle": "Digital (Web) Analytics"
+        },
+        {
+            "catalogTitle": "IS 6571",
+            "section": "001",
+            "courseTitle": "Digital Forensics"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "001",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "002",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "003",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6641",
+            "section": "001",
+            "courseTitle": "Cloud Computing"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "002",
+            "courseTitle": "IT Leadership and Strategy"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "001",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "002",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "003",
+            "courseTitle": "Big Data Engineering"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "004",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "001",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "002",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "003",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "004",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration PhD"
+        }
+    ]
+}

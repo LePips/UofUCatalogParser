@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECS 4111",
+            "section": "001",
+            "courseTitle": "School & Society"
+        },
+        {
+            "catalogTitle": "ECS 4150",
+            "section": "001",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 4150",
+            "section": "002",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 6632",
+            "section": "001",
+            "courseTitle": "Rsrch Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 6632",
+            "section": "002",
+            "courseTitle": "Rsrch Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 6643",
+            "section": "001",
+            "courseTitle": "Affirmative Action"
+        },
+        {
+            "catalogTitle": "ECS 6710",
+            "section": "001",
+            "courseTitle": "Culture & School Success"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "001",
+            "courseTitle": "AITTP"
+        },
+        {
+            "catalogTitle": "ECS 6955",
+            "section": "001",
+            "courseTitle": "Fld Proj in Education"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "001",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "001",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "001",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "001",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "002",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 1020",
+            "section": "001",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 1020",
+            "section": "002",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 1020",
+            "section": "003",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 2010",
+            "section": "002",
+            "courseTitle": "Intrm German I"
+        },
+        {
+            "catalogTitle": "GERM 2020",
+            "section": "001",
+            "courseTitle": "Intrm German II"
+        },
+        {
+            "catalogTitle": "GERM 2020",
+            "section": "002",
+            "courseTitle": "Intrm German II"
+        },
+        {
+            "catalogTitle": "GERM 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 4900",
+            "section": "002",
+            "courseTitle": "Max Lang & Lit Degree"
+        },
+        {
+            "catalogTitle": "GERM 4900",
+            "section": "003",
+            "courseTitle": "New German Film"
+        },
+        {
+            "catalogTitle": "GERM 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GERM 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language"
+        },
+        {
+            "catalogTitle": "GERM 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language"
+        },
+        {
+            "catalogTitle": "GERM 7300",
+            "section": "003",
+            "courseTitle": "Graduate Language"
+        },
+        {
+            "catalogTitle": "GERM 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "GERM 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult"
+        },
+        {
+            "catalogTitle": "GERM 7990",
+            "section": "001",
+            "courseTitle": "Cont Regist-PhD"
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHARM 5110",
+            "section": "001",
+            "courseTitle": "Foundations of Biochem"
+        },
+        {
+            "catalogTitle": "PHARM 5120",
+            "section": "001",
+            "courseTitle": "Foundations of PHCEU"
+        },
+        {
+            "catalogTitle": "PHARM 5130",
+            "section": "001",
+            "courseTitle": "Foundations of Imm Path"
+        },
+        {
+            "catalogTitle": "PHARM 5140",
+            "section": "001",
+            "courseTitle": "Patient-Centered Care"
+        },
+        {
+            "catalogTitle": "PHARM 5141",
+            "section": "001",
+            "courseTitle": "Foundations Pro Pract 1"
+        },
+        {
+            "catalogTitle": "PHARM 5150",
+            "section": "001",
+            "courseTitle": "Recitation"
+        },
+        {
+            "catalogTitle": "PHARM 6240",
+            "section": "001",
+            "courseTitle": "Drug Lit Eval I"
+        },
+        {
+            "catalogTitle": "PHARM 6242",
+            "section": "001",
+            "courseTitle": "Pharm Compounding"
+        },
+        {
+            "catalogTitle": "PHARM 6242",
+            "section": "002",
+            "courseTitle": "Pharm Compounding"
+        },
+        {
+            "catalogTitle": "PHARM 6242",
+            "section": "003",
+            "courseTitle": "Pharm Compounding"
+        },
+        {
+            "catalogTitle": "PHARM 6250",
+            "section": "001",
+            "courseTitle": "Recitation"
+        },
+        {
+            "catalogTitle": "PHARM 6252",
+            "section": "001",
+            "courseTitle": "Integrated Pharma I"
+        },
+        {
+            "catalogTitle": "PHARM 6310",
+            "section": "001",
+            "courseTitle": "IPE Telem - A/Geriatric"
+        },
+        {
+            "catalogTitle": "PHARM 6713",
+            "section": "001",
+            "courseTitle": "IPE Sim Diabetes"
+        },
+        {
+            "catalogTitle": "PHARM 6810",
+            "section": "001",
+            "courseTitle": "Disaster Prep/Response"
+        },
+        {
+            "catalogTitle": "PHARM 7541",
+            "section": "002",
+            "courseTitle": "CEL Elective"
+        },
+        {
+            "catalogTitle": "PHARM 7541",
+            "section": "003",
+            "courseTitle": "CEL Elective"
+        },
+        {
+            "catalogTitle": "PHARM 7542",
+            "section": "001",
+            "courseTitle": "Asthma Camp"
+        },
+        {
+            "catalogTitle": "PHARM 7543",
+            "section": "001",
+            "courseTitle": "Cancer Camp"
+        },
+        {
+            "catalogTitle": "PHARM 7544",
+            "section": "001",
+            "courseTitle": "Diabetes Camp"
+        },
+        {
+            "catalogTitle": "PHARM 7547",
+            "section": "001",
+            "courseTitle": "Leadership & Advocacy"
+        },
+        {
+            "catalogTitle": "PHARM 7548",
+            "section": "001",
+            "courseTitle": "Health Informatics"
+        },
+        {
+            "catalogTitle": "PHARM 7562",
+            "section": "001",
+            "courseTitle": "Outcomes Research Elect"
+        },
+        {
+            "catalogTitle": "PHARM 7564",
+            "section": "001",
+            "courseTitle": "Psychopharmacology"
+        },
+        {
+            "catalogTitle": "PHARM 7566",
+            "section": "001",
+            "courseTitle": "Meta Analysis"
+        },
+        {
+            "catalogTitle": "PHARM 7700",
+            "section": "001",
+            "courseTitle": "Acute Care- Adult Med"
+        },
+        {
+            "catalogTitle": "PHARM 7700",
+            "section": "002",
+            "courseTitle": "Acute Care- Adult Med"
+        },
+        {
+            "catalogTitle": "PHARM 7700",
+            "section": "003",
+            "courseTitle": "Acute Care- Adult Med"
+        },
+        {
+            "catalogTitle": "PHARM 7700",
+            "section": "004",
+            "courseTitle": "Acute Care- Adult Med"
+        },
+        {
+            "catalogTitle": "PHARM 7701",
+            "section": "001",
+            "courseTitle": "Acute Care-Cardiology"
+        },
+        {
+            "catalogTitle": "PHARM 7702",
+            "section": "001",
+            "courseTitle": "Acute Care- Card Intens"
+        },
+        {
+            "catalogTitle": "PHARM 7703",
+            "section": "001",
+            "courseTitle": "Acute Care-Crit Care"
+        },
+        {
+            "catalogTitle": "PHARM 7704",
+            "section": "001",
+            "courseTitle": "Acute Care- Oncol ICU"
+        },
+        {
+            "catalogTitle": "PHARM 7705",
+            "section": "001",
+            "courseTitle": "Acute Care- Neuro ICU"
+        },
+        {
+            "catalogTitle": "PHARM 7706",
+            "section": "001",
+            "courseTitle": "Acute Care- Shock-Trau"
+        },
+        {
+            "catalogTitle": "PHARM 7707",
+            "section": "001",
+            "courseTitle": "Acute Care- Solid Orga"
+        },
+        {
+            "catalogTitle": "PHARM 7708",
+            "section": "001",
+            "courseTitle": "Acute Care Inf disease"
+        },
+        {
+            "catalogTitle": "PHARM 7708",
+            "section": "002",
+            "courseTitle": "Acute Care Inf disease"
+        },
+        {
+            "catalogTitle": "PHARM 7709",
+            "section": "001",
+            "courseTitle": "Acute Care-Med/Surg"
+        },
+        {
+            "catalogTitle": "PHARM 7710",
+            "section": "001",
+            "courseTitle": "Acute Care- Neurology"
+        },
+        {
+            "catalogTitle": "PHARM 7711",
+            "section": "001",
+            "courseTitle": "Acute Care- Oncology"
+        },
+        {
+            "catalogTitle": "PHARM 7712",
+            "section": "001",
+            "courseTitle": "Acute Care-Ortho/Neur"
+        },
+        {
+            "catalogTitle": "PHARM 7713",
+            "section": "001",
+            "courseTitle": "Acute Care-Post-op Su"
+        },
+        {
+            "catalogTitle": "PHARM 7714",
+            "section": "001",
+            "courseTitle": "Acute Care-Pulmonolog"
+        },
+        {
+            "catalogTitle": "PHARM 7715",
+            "section": "001",
+            "courseTitle": "Acute Care-Rehab Medi"
+        },
+        {
+            "catalogTitle": "PHARM 7716",
+            "section": "001",
+            "courseTitle": "Acute Care-Respir ICU"
+        },
+        {
+            "catalogTitle": "PHARM 7717",
+            "section": "001",
+            "courseTitle": "Acute Care-Surg Intens"
+        },
+        {
+            "catalogTitle": "PHARM 7718",
+            "section": "001",
+            "courseTitle": "Acute Care-Surgic Serv"
+        },
+        {
+            "catalogTitle": "PHARM 7719",
+            "section": "001",
+            "courseTitle": "Acute Care-Psychiatry"
+        },
+        {
+            "catalogTitle": "PHARM 7720",
+            "section": "001",
+            "courseTitle": "Acute Care-Anticoagul"
+        },
+        {
+            "catalogTitle": "PHARM 7721",
+            "section": "001",
+            "courseTitle": "Acute Care-Thorac ICU"
+        },
+        {
+            "catalogTitle": "PHARM 7722",
+            "section": "001",
+            "courseTitle": "Acute Care- Burn"
+        },
+        {
+            "catalogTitle": "PHARM 7723",
+            "section": "001",
+            "courseTitle": "Acute Care- Other"
+        },
+        {
+            "catalogTitle": "PHARM 7740",
+            "section": "001",
+            "courseTitle": "Amb Care- General"
+        },
+        {
+            "catalogTitle": "PHARM 7740",
+            "section": "002",
+            "courseTitle": "Amb Care- General"
+        },
+        {
+            "catalogTitle": "PHARM 7740",
+            "section": "003",
+            "courseTitle": "Amb Care- General"
+        },
+        {
+            "catalogTitle": "PHARM 7740",
+            "section": "004",
+            "courseTitle": "Amb Care- General"
+        },
+        {
+            "catalogTitle": "PHARM 7740",
+            "section": "005",
+            "courseTitle": "Amb Care- General"
+        },
+        {
+            "catalogTitle": "PHARM 7741",
+            "section": "001",
+            "courseTitle": "Amb Care- Transplant"
+        },
+        {
+            "catalogTitle": "PHARM 7742",
+            "section": "001",
+            "courseTitle": "Amb Care- Diabetes"
+        },
+        {
+            "catalogTitle": "PHARM 7743",
+            "section": "001",
+            "courseTitle": "Amb Care- Gastroentero"
+        },
+        {
+            "catalogTitle": "PHARM 7744",
+            "section": "001",
+            "courseTitle": "Amb Care- Pulmonary"
+        },
+        {
+            "catalogTitle": "PHARM 7744",
+            "section": "002",
+            "courseTitle": "Amb Care- Pulmonary"
+        },
+        {
+            "catalogTitle": "PHARM 7745",
+            "section": "001",
+            "courseTitle": "Amb Care- Oncology"
+        },
+        {
+            "catalogTitle": "PHARM 7746",
+            "section": "001",
+            "courseTitle": "Amb Care- Family Pract"
+        },
+        {
+            "catalogTitle": "PHARM 7746",
+            "section": "002",
+            "courseTitle": "Amb Care- Family Pract"
+        },
+        {
+            "catalogTitle": "PHARM 7746",
+            "section": "003",
+            "courseTitle": "Amb Care- Family Pract"
+        },
+        {
+            "catalogTitle": "PHARM 7746",
+            "section": "004",
+            "courseTitle": "Amb Care- Family Pract"
+        },
+        {
+            "catalogTitle": "PHARM 7747",
+            "section": "001",
+            "courseTitle": "Amb Care- Anticoagulat"
+        },
+        {
+            "catalogTitle": "PHARM 7748",
+            "section": "001",
+            "courseTitle": "Amb Care-Neurology"
+        },
+        {
+            "catalogTitle": "PHARM 7749",
+            "section": "001",
+            "courseTitle": "Amb Care- Psychiatry"
+        },
+        {
+            "catalogTitle": "PHARM 7750",
+            "section": "001",
+            "courseTitle": "Amb Care- Geriatrics"
+        },
+        {
+            "catalogTitle": "PHARM 7751",
+            "section": "001",
+            "courseTitle": "Amb Care- Rheumatology"
+        },
+        {
+            "catalogTitle": "PHARM 7752",
+            "section": "001",
+            "courseTitle": "Amb Care- Internal Med"
+        },
+        {
+            "catalogTitle": "PHARM 7753",
+            "section": "001",
+            "courseTitle": "Amb Care- Other"
+        },
+        {
+            "catalogTitle": "PHARM 7760",
+            "section": "001",
+            "courseTitle": "CIS - Drug Information"
+        },
+        {
+            "catalogTitle": "PHARM 7761",
+            "section": "001",
+            "courseTitle": "CIS - Medication Safet"
+        },
+        {
+            "catalogTitle": "PHARM 7762",
+            "section": "001",
+            "courseTitle": "CIS - Pharm Out Researc"
+        },
+        {
+            "catalogTitle": "PHARM 7762",
+            "section": "002",
+            "courseTitle": "CIS - Pharm Out Researc"
+        },
+        {
+            "catalogTitle": "PHARM 7762",
+            "section": "003",
+            "courseTitle": "CIS - Pharm Out Researc"
+        },
+        {
+            "catalogTitle": "PHARM 7763",
+            "section": "001",
+            "courseTitle": "CIS - Informatics"
+        },
+        {
+            "catalogTitle": "PHARM 7764",
+            "section": "001",
+            "courseTitle": "CIS - Poison Control"
+        },
+        {
+            "catalogTitle": "PHARM 7764",
+            "section": "002",
+            "courseTitle": "CIS - Poison Control"
+        },
+        {
+            "catalogTitle": "PHARM 7765",
+            "section": "001",
+            "courseTitle": "CIS - Health Plans"
+        },
+        {
+            "catalogTitle": "PHARM 7766",
+            "section": "001",
+            "courseTitle": "CIS - Population Manag"
+        },
+        {
+            "catalogTitle": "PHARM 7767",
+            "section": "001",
+            "courseTitle": "CIS - Other"
+        },
+        {
+            "catalogTitle": "PHARM 7770",
+            "section": "001",
+            "courseTitle": "Advanced Community"
+        },
+        {
+            "catalogTitle": "PHARM 7770",
+            "section": "002",
+            "courseTitle": "Advanced Community"
+        },
+        {
+            "catalogTitle": "PHARM 7770",
+            "section": "003",
+            "courseTitle": "Advanced Community"
+        },
+        {
+            "catalogTitle": "PHARM 7771",
+            "section": "001",
+            "courseTitle": "Adv Comm- Compounding"
+        },
+        {
+            "catalogTitle": "PHARM 7772",
+            "section": "001",
+            "courseTitle": "Adv Comm-Sterile Comp"
+        },
+        {
+            "catalogTitle": "PHARM 7773",
+            "section": "001",
+            "courseTitle": "Adv Comm- MTM Practice"
+        },
+        {
+            "catalogTitle": "PHARM 7774",
+            "section": "001",
+            "courseTitle": "Adv Comm - Diabetes"
+        },
+        {
+            "catalogTitle": "PHARM 7775",
+            "section": "001",
+            "courseTitle": "Adv Comm Long-term Care"
+        },
+        {
+            "catalogTitle": "PHARM 7776",
+            "section": "001",
+            "courseTitle": "Adv Comm Oncology Clini"
+        },
+        {
+            "catalogTitle": "PHARM 7780",
+            "section": "001",
+            "courseTitle": "Advanced Health Systems"
+        },
+        {
+            "catalogTitle": "PHARM 7780",
+            "section": "002",
+            "courseTitle": "Advanced Health Systems"
+        },
+        {
+            "catalogTitle": "PHARM 7780",
+            "section": "003",
+            "courseTitle": "Advanced Health Systems"
+        },
+        {
+            "catalogTitle": "PHARM 7781",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-Corp Mngmt"
+        },
+        {
+            "catalogTitle": "PHARM 7782",
+            "section": "001",
+            "courseTitle": "Adv Hleath Sys-Inpat Pharm"
+        },
+        {
+            "catalogTitle": "PHARM 7783",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-Surg Serv"
+        },
+        {
+            "catalogTitle": "PHARM 7784",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-Manag Care"
+        },
+        {
+            "catalogTitle": "PHARM 7785",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-Comm Mngmt"
+        },
+        {
+            "catalogTitle": "PHARM 7786",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-Int Proc Con"
+        },
+        {
+            "catalogTitle": "PHARM 7787",
+            "section": "001",
+            "courseTitle": "Adv Hea Sys-Amb Spec Ph Mngt"
+        },
+        {
+            "catalogTitle": "PHARM 7788",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-MTMPractic"
+        },
+        {
+            "catalogTitle": "PHARM 7789",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-Onc Acu Care"
+        },
+        {
+            "catalogTitle": "PHARM 7790",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-Pharm Admin"
+        },
+        {
+            "catalogTitle": "PHARM 7791",
+            "section": "001",
+            "courseTitle": "Adv Health Sys-Other"
+        },
+        {
+            "catalogTitle": "PHARM 7800",
+            "section": "001",
+            "courseTitle": "APPE Elective"
+        },
+        {
+            "catalogTitle": "PHARM 7800",
+            "section": "002",
+            "courseTitle": "APPE Elective"
+        },
+        {
+            "catalogTitle": "PHARM 7800",
+            "section": "003",
+            "courseTitle": "APPE Elective"
+        },
+        {
+            "catalogTitle": "PHARM 7801",
+            "section": "001",
+            "courseTitle": "APPE Elc-BoneMarTransp"
+        },
+        {
+            "catalogTitle": "PHARM 7802",
+            "section": "001",
+            "courseTitle": "APPE Elec-EmergDept"
+        },
+        {
+            "catalogTitle": "PHARM 7803",
+            "section": "001",
+            "courseTitle": "APPE Elec-FoodDrugAdmin"
+        },
+        {
+            "catalogTitle": "PHARM 7804",
+            "section": "001",
+            "courseTitle": "APPE Elec-Hematology"
+        },
+        {
+            "catalogTitle": "PHARM 7805",
+            "section": "001",
+            "courseTitle": "APPE Elec-Industry"
+        },
+        {
+            "catalogTitle": "PHARM 7806",
+            "section": "001",
+            "courseTitle": "APPE Elec-IntPharmPract"
+        },
+        {
+            "catalogTitle": "PHARM 7807",
+            "section": "001",
+            "courseTitle": "APPE Elec-InvestigDrugs"
+        },
+        {
+            "catalogTitle": "PHARM 7808",
+            "section": "001",
+            "courseTitle": "APPE Elec-Newborn ICU"
+        },
+        {
+            "catalogTitle": "PHARM 7809",
+            "section": "001",
+            "courseTitle": "APPE Elec-Renal Nephrol"
+        },
+        {
+            "catalogTitle": "PHARM 7810",
+            "section": "001",
+            "courseTitle": "APPE Elec-PediatricEmer"
+        },
+        {
+            "catalogTitle": "PHARM 7811",
+            "section": "001",
+            "courseTitle": "APPE Elec-Pediatric Med"
+        },
+        {
+            "catalogTitle": "PHARM 7812",
+            "section": "001",
+            "courseTitle": "APPE Elec-PediaInfecDis"
+        },
+        {
+            "catalogTitle": "PHARM 7813",
+            "section": "001",
+            "courseTitle": "APPE Elec-Populat Manag"
+        },
+        {
+            "catalogTitle": "PHARM 7814",
+            "section": "001",
+            "courseTitle": "APPE Elec-Reg&Licens"
+        },
+        {
+            "catalogTitle": "PHARM 7815",
+            "section": "001",
+            "courseTitle": "APPE Elec-SpecPharmServ"
+        },
+        {
+            "catalogTitle": "PHARM 7816",
+            "section": "001",
+            "courseTitle": "APPE Elec-Trans of Care"
+        },
+        {
+            "catalogTitle": "PHARM 7817",
+            "section": "001",
+            "courseTitle": "APPE Elec- Sub Abuse"
+        },
+        {
+            "catalogTitle": "PHARM 7818",
+            "section": "001",
+            "courseTitle": "APPE Elec- Infec Disea"
+        },
+        {
+            "catalogTitle": "PHARM 7921",
+            "section": "001",
+            "courseTitle": "Continuing Ed"
+        },
+        {
+            "catalogTitle": "PHARM 7945",
+            "section": "001",
+            "courseTitle": "Diabetes Elective"
+        }
+    ]
+}

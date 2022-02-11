@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHG 451",
+            "section": "001",
+            "courseTitle": "Introducton to Antiques"
+        },
+        {
+            "catalogTitle": "LLHG 456",
+            "section": "001",
+            "courseTitle": "Interior Paintng & Faux"
+        },
+        {
+            "catalogTitle": "LLHG 456",
+            "section": "002",
+            "courseTitle": "Interior Paintng & Faux"
+        },
+        {
+            "catalogTitle": "LLHG 500",
+            "section": "001",
+            "courseTitle": "Design W/ Fresh Flowers"
+        },
+        {
+            "catalogTitle": "LLHG 509",
+            "section": "001",
+            "courseTitle": "Xeriscape by Design"
+        },
+        {
+            "catalogTitle": "LLHG 511",
+            "section": "001",
+            "courseTitle": "Fall Perenials"
+        },
+        {
+            "catalogTitle": "LLHG 519",
+            "section": "001",
+            "courseTitle": "Bulb Gardening"
+        },
+        {
+            "catalogTitle": "LLHG 520",
+            "section": "001",
+            "courseTitle": "Trees and Shrubs"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PTGSE 102",
+            "section": "001",
+            "courseTitle": "Beg Ptgse II"
+        },
+        {
+            "catalogTitle": "PTGSE 202",
+            "section": "001",
+            "courseTitle": "Intrm Portugese II"
+        },
+        {
+            "catalogTitle": "PTGSE 306",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "PTGSE 451",
+            "section": "001",
+            "courseTitle": "Business Portuguese"
+        },
+        {
+            "catalogTitle": "PTGSE 1020",
+            "section": "001",
+            "courseTitle": "Beg Portugese II"
+        },
+        {
+            "catalogTitle": "PTGSE 2020",
+            "section": "001",
+            "courseTitle": "Intrm Portugese II"
+        },
+        {
+            "catalogTitle": "PTGSE 3060",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "PTGSE 3580",
+            "section": "001",
+            "courseTitle": "Contemporary Issues"
+        },
+        {
+            "catalogTitle": "PTGSE 4510",
+            "section": "001",
+            "courseTitle": "Business Portuguese"
+        },
+        {
+            "catalogTitle": "PTGSE 4630",
+            "section": "001",
+            "courseTitle": "Intro Brazilian Lit"
+        },
+        {
+            "catalogTitle": "PTGSE 6580",
+            "section": "001",
+            "courseTitle": "Contemporary Issues"
+        },
+        {
+            "catalogTitle": "PTGSE 6630",
+            "section": "001",
+            "courseTitle": "Brazilian Literature"
+        },
+        {
+            "catalogTitle": "PTGSE 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

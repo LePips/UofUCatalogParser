@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction I"
+        },
+        {
+            "catalogTitle": "LLWRC 768",
+            "section": "001",
+            "courseTitle": "Create Dynamic Characters"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "001",
+            "courseTitle": "Creative Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "002",
+            "courseTitle": "Creative Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 813",
+            "section": "001",
+            "courseTitle": "Food Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 825",
+            "section": "001",
+            "courseTitle": "Creative Writing II"
+        },
+        {
+            "catalogTitle": "LLWRC 842",
+            "section": "001",
+            "courseTitle": "Creative Writing Bootcamp"
+        },
+        {
+            "catalogTitle": "LLWRC 845",
+            "section": "001",
+            "courseTitle": "Self-Publishing Children's Boo"
+        },
+        {
+            "catalogTitle": "LLWRC 854",
+            "section": "001",
+            "courseTitle": "Revision and Querying"
+        },
+        {
+            "catalogTitle": "LLWRC 855",
+            "section": "001",
+            "courseTitle": "Fantastic Fiction"
+        },
+        {
+            "catalogTitle": "LLWRC 856",
+            "section": "001",
+            "courseTitle": "Romance Writing Workshop"
+        }
+    ]
+}

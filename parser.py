@@ -4,6 +4,7 @@ import re
 
 from bs4 import BeautifulSoup
 from campus import allCampuses
+from optparse import OptionParser
 from urllib import request
 from urllib.parse import quote
 
@@ -155,9 +156,16 @@ class SemesterParser:
 
 if __name__ == '__main__':
 
+    parser = OptionParser()
+    parser.add_option('-s', type = 'int', dest = 'startYear')
+    parser.add_option('-e', type = 'int', dest = 'endYear')
+    (options, args)= parser.parse_args()
+
     # TODO: arguments for not parsing files that already exist, or override
 
     for campus in allCampuses:
+        campus.filterRange(options.startYear, options.endYear)
+
         for semester in list(campus.semesters):
             subjectParser = SemesterParser(campus, semester,  campus.semesters[semester])
             subjectParser.parseSemester()

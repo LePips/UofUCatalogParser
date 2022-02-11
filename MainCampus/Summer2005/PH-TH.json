@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PH TH 6090",
+            "section": "005",
+            "courseTitle": "Res & Evidence Practice"
+        },
+        {
+            "catalogTitle": "PH TH 6830",
+            "section": "001",
+            "courseTitle": "Clinical Experience III"
+        },
+        {
+            "catalogTitle": "PH TH 6850",
+            "section": "001",
+            "courseTitle": "Clinical Experience IV"
+        },
+        {
+            "catalogTitle": "PH TH 6900",
+            "section": "001",
+            "courseTitle": "Clinical Internship III"
+        },
+        {
+            "catalogTitle": "PH TH 6920",
+            "section": "001",
+            "courseTitle": "Indiv Study & Research"
+        }
+    ]
+}

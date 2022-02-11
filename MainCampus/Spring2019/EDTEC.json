@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 102",
+            "section": "001",
+            "courseTitle": "Python Prog Cert"
+        },
+        {
+            "catalogTitle": "EDTEC 103",
+            "section": "001",
+            "courseTitle": "Outlook for Workplace Producti"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "001",
+            "courseTitle": "Excel Beginner"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "002",
+            "courseTitle": "Excel Beginner"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "003",
+            "courseTitle": "Excel Beginner"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "002",
+            "courseTitle": "Excel Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "003",
+            "courseTitle": "Excel Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "002",
+            "courseTitle": "Excel Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 457",
+            "section": "001",
+            "courseTitle": "Illustrator Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 458",
+            "section": "001",
+            "courseTitle": "Illustrator Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 459",
+            "section": "001",
+            "courseTitle": "CSS/HTML Coding - Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 460",
+            "section": "001",
+            "courseTitle": "CSS/HTML Coding Level - 2"
+        },
+        {
+            "catalogTitle": "EDTEC 470",
+            "section": "001",
+            "courseTitle": "InDesign Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 471",
+            "section": "001",
+            "courseTitle": "InDesign Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 475",
+            "section": "001",
+            "courseTitle": "JavaScript - Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 476",
+            "section": "001",
+            "courseTitle": "JavaScript - Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 503",
+            "section": "001",
+            "courseTitle": "Premiere Pro"
+        },
+        {
+            "catalogTitle": "EDTEC 505",
+            "section": "001",
+            "courseTitle": "Google Analytics Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 506",
+            "section": "001",
+            "courseTitle": "Google Analytics Level 2"
+        }
+    ]
+}

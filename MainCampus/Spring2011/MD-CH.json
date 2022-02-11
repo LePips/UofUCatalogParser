@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD CH 5120",
+            "section": "001",
+            "courseTitle": "Physiological Chem II"
+        },
+        {
+            "catalogTitle": "MD CH 5220",
+            "section": "001",
+            "courseTitle": "Organic Med Chem II"
+        },
+        {
+            "catalogTitle": "MD CH 5613",
+            "section": "001",
+            "courseTitle": "Nucleic Acid/Prot Chem"
+        },
+        {
+            "catalogTitle": "MD CH 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MD CH 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MD CH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-MS"
+        },
+        {
+            "catalogTitle": "MD CH 7095",
+            "section": "001",
+            "courseTitle": "Molecular Modeling"
+        },
+        {
+            "catalogTitle": "MD CH 7890",
+            "section": "001",
+            "courseTitle": "Research Seminar"
+        },
+        {
+            "catalogTitle": "MD CH 7891",
+            "section": "001",
+            "courseTitle": "Med Biol Chem"
+        },
+        {
+            "catalogTitle": "MD CH 7895",
+            "section": "001",
+            "courseTitle": "Med Biol Chem"
+        },
+        {
+            "catalogTitle": "MD CH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MD CH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult PhD"
+        },
+        {
+            "catalogTitle": "MD CH 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg PhD"
+        }
+    ]
+}

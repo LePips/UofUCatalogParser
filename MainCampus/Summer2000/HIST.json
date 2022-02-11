@@ -1,0 +1,114 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HIST 1010",
+            "section": "001",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1020",
+            "section": "001",
+            "courseTitle": "Western Civ SN 1300"
+        },
+        {
+            "catalogTitle": "HIST 1050",
+            "section": "001",
+            "courseTitle": "World History"
+        },
+        {
+            "catalogTitle": "HIST 1210",
+            "section": "001",
+            "courseTitle": "Asian Civ: Traditions"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "001",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 2700",
+            "section": "001",
+            "courseTitle": "US History To 1877"
+        },
+        {
+            "catalogTitle": "HIST 3000",
+            "section": "001",
+            "courseTitle": "Understanding History"
+        },
+        {
+            "catalogTitle": "HIST 4320",
+            "section": "001",
+            "courseTitle": "America At War"
+        },
+        {
+            "catalogTitle": "HIST 4380",
+            "section": "001",
+            "courseTitle": "Environmental History"
+        },
+        {
+            "catalogTitle": "HIST 4430",
+            "section": "001",
+            "courseTitle": "Hist Mid E Natn States"
+        },
+        {
+            "catalogTitle": "HIST 4920",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        },
+        {
+            "catalogTitle": "HIST 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "HIST 5100",
+            "section": "001",
+            "courseTitle": "Internship Public Hist"
+        },
+        {
+            "catalogTitle": "HIST 5900",
+            "section": "001",
+            "courseTitle": "Indep Research Study"
+        },
+        {
+            "catalogTitle": "HIST 5910",
+            "section": "001",
+            "courseTitle": "Special Studies"
+        },
+        {
+            "catalogTitle": "HIST 6430",
+            "section": "001",
+            "courseTitle": "Mid East: Nation States"
+        },
+        {
+            "catalogTitle": "HIST 6920",
+            "section": "001",
+            "courseTitle": "Sp St-Middle East Hist"
+        },
+        {
+            "catalogTitle": "HIST 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "HIST 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "HIST 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "HIST 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regist-Ph D"
+        }
+    ]
+}

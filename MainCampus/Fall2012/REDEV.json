@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6040",
+            "section": "001",
+            "courseTitle": "Physical Plan Analysis"
+        },
+        {
+            "catalogTitle": "REDEV 6100",
+            "section": "001",
+            "courseTitle": "Urban Theory & Form"
+        },
+        {
+            "catalogTitle": "REDEV 6371",
+            "section": "001",
+            "courseTitle": "Systems Complexity"
+        },
+        {
+            "catalogTitle": "REDEV 6450",
+            "section": "001",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6460",
+            "section": "001",
+            "courseTitle": "R.E. Market Analysis"
+        },
+        {
+            "catalogTitle": "REDEV 6500",
+            "section": "001",
+            "courseTitle": "Pres. Theory & Practice"
+        }
+    ]
+}

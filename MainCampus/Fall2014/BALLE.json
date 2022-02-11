@@ -1,0 +1,284 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BALLE 114",
+            "section": "001",
+            "courseTitle": "Ballet I Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 116",
+            "section": "001",
+            "courseTitle": "Ballet II Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 119",
+            "section": "001",
+            "courseTitle": "Ballet III Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 338",
+            "section": "001",
+            "courseTitle": "Intermediate Jazz I"
+        },
+        {
+            "catalogTitle": "BALLE 1140",
+            "section": "001",
+            "courseTitle": "Ballet I Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 1160",
+            "section": "001",
+            "courseTitle": "Ballet II Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 1190",
+            "section": "001",
+            "courseTitle": "Ballet III Non-Majors"
+        },
+        {
+            "catalogTitle": "BALLE 1400",
+            "section": "001",
+            "courseTitle": "Hlth & Well for Dancers"
+        },
+        {
+            "catalogTitle": "BALLE 1500",
+            "section": "001",
+            "courseTitle": "Elements Of Music"
+        },
+        {
+            "catalogTitle": "BALLE 2200",
+            "section": "001",
+            "courseTitle": "Pointe Var Lowr Div"
+        },
+        {
+            "catalogTitle": "BALLE 2290",
+            "section": "001",
+            "courseTitle": "Technique Lower Div II"
+        },
+        {
+            "catalogTitle": "BALLE 2291",
+            "section": "001",
+            "courseTitle": "Technique for Men I"
+        },
+        {
+            "catalogTitle": "BALLE 2300",
+            "section": "001",
+            "courseTitle": "Character Dance I"
+        },
+        {
+            "catalogTitle": "BALLE 2300",
+            "section": "002",
+            "courseTitle": "Character Dance I"
+        },
+        {
+            "catalogTitle": "BALLE 2320",
+            "section": "001",
+            "courseTitle": "Modern Technique I"
+        },
+        {
+            "catalogTitle": "BALLE 2380",
+            "section": "001",
+            "courseTitle": "Beg./Int. Jazz I"
+        },
+        {
+            "catalogTitle": "BALLE 2800",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BALLE 3200",
+            "section": "001",
+            "courseTitle": "Pointe Var Upper Div I"
+        },
+        {
+            "catalogTitle": "BALLE 3290",
+            "section": "001",
+            "courseTitle": "Technique Upper Div I"
+        },
+        {
+            "catalogTitle": "BALLE 3291",
+            "section": "001",
+            "courseTitle": "Technique for Men II"
+        },
+        {
+            "catalogTitle": "BALLE 3300",
+            "section": "001",
+            "courseTitle": "Pilates Reformer"
+        },
+        {
+            "catalogTitle": "BALLE 3300",
+            "section": "002",
+            "courseTitle": "Pilates Reformer"
+        },
+        {
+            "catalogTitle": "BALLE 3380",
+            "section": "001",
+            "courseTitle": "Intermediate Jazz I"
+        },
+        {
+            "catalogTitle": "BALLE 3900",
+            "section": "001",
+            "courseTitle": "Performance Credit-Other"
+        },
+        {
+            "catalogTitle": "BALLE 4200",
+            "section": "001",
+            "courseTitle": "Pointe/Var Upper Div II"
+        },
+        {
+            "catalogTitle": "BALLE 4290",
+            "section": "001",
+            "courseTitle": "Technique Upper Div II"
+        },
+        {
+            "catalogTitle": "BALLE 4291",
+            "section": "001",
+            "courseTitle": "Technique for Men III"
+        },
+        {
+            "catalogTitle": "BALLE 4401",
+            "section": "001",
+            "courseTitle": "Kinesiology I"
+        },
+        {
+            "catalogTitle": "BALLE 4410",
+            "section": "090",
+            "courseTitle": "Ballet History"
+        },
+        {
+            "catalogTitle": "BALLE 4425",
+            "section": "001",
+            "courseTitle": "Repertoire: Prof'l"
+        },
+        {
+            "catalogTitle": "BALLE 4500",
+            "section": "001",
+            "courseTitle": "Pointe/Var Ut Ball Co"
+        },
+        {
+            "catalogTitle": "BALLE 4560",
+            "section": "001",
+            "courseTitle": "Partner Adagio I"
+        },
+        {
+            "catalogTitle": "BALLE 4580",
+            "section": "001",
+            "courseTitle": "Adv Partner Adagio"
+        },
+        {
+            "catalogTitle": "BALLE 4585",
+            "section": "001",
+            "courseTitle": "Partner: Professional"
+        },
+        {
+            "catalogTitle": "BALLE 4590",
+            "section": "001",
+            "courseTitle": "Ballet Tech UB"
+        },
+        {
+            "catalogTitle": "BALLE 4591",
+            "section": "001",
+            "courseTitle": "Technique for Men: UB"
+        },
+        {
+            "catalogTitle": "BALLE 4605",
+            "section": "001",
+            "courseTitle": "Perf Credit: Showcase"
+        },
+        {
+            "catalogTitle": "BALLE 4610",
+            "section": "001",
+            "courseTitle": "Perf Credit: Char Da Ens"
+        },
+        {
+            "catalogTitle": "BALLE 4630",
+            "section": "001",
+            "courseTitle": "Perf Credit: Ballet Ens"
+        },
+        {
+            "catalogTitle": "BALLE 4650",
+            "section": "001",
+            "courseTitle": "Perf Credit: UB"
+        },
+        {
+            "catalogTitle": "BALLE 4665",
+            "section": "001",
+            "courseTitle": "Performance: BW"
+        },
+        {
+            "catalogTitle": "BALLE 4670",
+            "section": "001",
+            "courseTitle": "Preformance: Prof'l"
+        },
+        {
+            "catalogTitle": "BALLE 4700",
+            "section": "001",
+            "courseTitle": "Choreography I"
+        },
+        {
+            "catalogTitle": "BALLE 4700",
+            "section": "002",
+            "courseTitle": "Choreography I"
+        },
+        {
+            "catalogTitle": "BALLE 4720",
+            "section": "001",
+            "courseTitle": "Pointe: Professional"
+        },
+        {
+            "catalogTitle": "BALLE 4721",
+            "section": "001",
+            "courseTitle": "Pointe: BW"
+        },
+        {
+            "catalogTitle": "BALLE 4722",
+            "section": "001",
+            "courseTitle": "Men's Class: BW"
+        },
+        {
+            "catalogTitle": "BALLE 4725",
+            "section": "001",
+            "courseTitle": "Men's Class: Prof'l"
+        },
+        {
+            "catalogTitle": "BALLE 4730",
+            "section": "001",
+            "courseTitle": "Choreography and Prod."
+        },
+        {
+            "catalogTitle": "BALLE 4730",
+            "section": "002",
+            "courseTitle": "Choreography and Prod."
+        },
+        {
+            "catalogTitle": "BALLE 4780",
+            "section": "001",
+            "courseTitle": "Ballet Methodology"
+        },
+        {
+            "catalogTitle": "BALLE 4790",
+            "section": "001",
+            "courseTitle": "Technique: Prof'l"
+        },
+        {
+            "catalogTitle": "BALLE 4795",
+            "section": "001",
+            "courseTitle": "Technique: BW"
+        },
+        {
+            "catalogTitle": "BALLE 4800",
+            "section": "001",
+            "courseTitle": "Ind Study General"
+        },
+        {
+            "catalogTitle": "BALLE 4940",
+            "section": "001",
+            "courseTitle": "Senior Capstone"
+        },
+        {
+            "catalogTitle": "BALLE 4960",
+            "section": "001",
+            "courseTitle": "Senior Capstone Honors"
+        }
+    ]
+}

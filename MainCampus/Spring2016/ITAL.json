@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 102",
+            "section": "001",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 102",
+            "section": "002",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 202",
+            "section": "001",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 212",
+            "section": "001",
+            "courseTitle": "Accel Interm ITAL"
+        },
+        {
+            "catalogTitle": "ITAL 455",
+            "section": "001",
+            "courseTitle": "Topics In Culture"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "001",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "002",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2020",
+            "section": "001",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2120",
+            "section": "001",
+            "courseTitle": "Accel Interm ITAL"
+        },
+        {
+            "catalogTitle": "ITAL 4550",
+            "section": "001",
+            "courseTitle": "Topics In Culture"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

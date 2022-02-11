@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "STAT 6869",
+            "section": "001",
+            "courseTitle": "Adv Methods in Stats"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "090",
+            "courseTitle": "Statistics in Epidemiology"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "091",
+            "courseTitle": "Clinical Trials for Statistics"
+        }
+    ]
+}

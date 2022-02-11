@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MUSC 303",
+            "section": "001",
+            "courseTitle": "Beg Classical Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 311",
+            "section": "001",
+            "courseTitle": "Musical Style I"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "001",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "001",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1460",
+            "section": "090",
+            "courseTitle": "Intro to Music Theory"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "001",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 3003",
+            "section": "001",
+            "courseTitle": "Begin Classic Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 3110",
+            "section": "001",
+            "courseTitle": "Musical Style I"
+        },
+        {
+            "catalogTitle": "MUSC 4630",
+            "section": "001",
+            "courseTitle": "Music Lit: Classical"
+        },
+        {
+            "catalogTitle": "MUSC 6630",
+            "section": "001",
+            "courseTitle": "Mus Lit Clasical Master"
+        },
+        {
+            "catalogTitle": "MUSC 6730",
+            "section": "001",
+            "courseTitle": "Music Dev & Mus Learn"
+        },
+        {
+            "catalogTitle": "MUSC 6790",
+            "section": "001",
+            "courseTitle": "Music Education Seminar"
+        }
+    ]
+}

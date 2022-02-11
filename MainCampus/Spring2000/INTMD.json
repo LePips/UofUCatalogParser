@@ -1,0 +1,229 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "INTMD 7040",
+            "section": "001",
+            "courseTitle": "Foundations Geriatrics"
+        },
+        {
+            "catalogTitle": "INTMD 7060",
+            "section": "001",
+            "courseTitle": "Pulmonary O.S."
+        },
+        {
+            "catalogTitle": "INTMD 7070",
+            "section": "001",
+            "courseTitle": "Nephrology Organ System"
+        },
+        {
+            "catalogTitle": "INTMD 7090",
+            "section": "001",
+            "courseTitle": "Musculoskeletal O.S."
+        },
+        {
+            "catalogTitle": "INTMD 7100",
+            "section": "001",
+            "courseTitle": "Endocrinology O.S."
+        },
+        {
+            "catalogTitle": "INTMD 7110",
+            "section": "001",
+            "courseTitle": "G.I./Nutrition O.S."
+        },
+        {
+            "catalogTitle": "INTMD 7200",
+            "section": "001",
+            "courseTitle": "Internal Med Clerkship"
+        },
+        {
+            "catalogTitle": "INTMD 7500",
+            "section": "001",
+            "courseTitle": "Honors Program"
+        },
+        {
+            "catalogTitle": "INTMD 7510",
+            "section": "001",
+            "courseTitle": "Subinternship-UHOSP"
+        },
+        {
+            "catalogTitle": "INTMD 7520",
+            "section": "001",
+            "courseTitle": "Subinternship-LDS"
+        },
+        {
+            "catalogTitle": "INTMD 7530",
+            "section": "001",
+            "courseTitle": "Externship"
+        },
+        {
+            "catalogTitle": "INTMD 7540",
+            "section": "001",
+            "courseTitle": "Emergency Med V.A."
+        },
+        {
+            "catalogTitle": "INTMD 7550",
+            "section": "001",
+            "courseTitle": "Subinternship-VAMC"
+        },
+        {
+            "catalogTitle": "INTMD 7560",
+            "section": "001",
+            "courseTitle": "Medical Ethics"
+        },
+        {
+            "catalogTitle": "INTMD 7580",
+            "section": "001",
+            "courseTitle": "International Health"
+        },
+        {
+            "catalogTitle": "INTMD 7590",
+            "section": "001",
+            "courseTitle": "Hemostasis"
+        },
+        {
+            "catalogTitle": "INTMD 7600",
+            "section": "001",
+            "courseTitle": "Hem/Onc Clerkship"
+        },
+        {
+            "catalogTitle": "INTMD 7610",
+            "section": "001",
+            "courseTitle": "Endocrinology Clerkship"
+        },
+        {
+            "catalogTitle": "INTMD 7620",
+            "section": "001",
+            "courseTitle": "Cardiology Clerkship"
+        },
+        {
+            "catalogTitle": "INTMD 7630",
+            "section": "001",
+            "courseTitle": "Gastroenterology Clerk"
+        },
+        {
+            "catalogTitle": "INTMD 7640",
+            "section": "001",
+            "courseTitle": "Pulmonary Dis Clerkship"
+        },
+        {
+            "catalogTitle": "INTMD 7650",
+            "section": "001",
+            "courseTitle": "Inf Dis Clerkship"
+        },
+        {
+            "catalogTitle": "INTMD 7670",
+            "section": "001",
+            "courseTitle": "Nephrology Clerkship"
+        },
+        {
+            "catalogTitle": "INTMD 7680",
+            "section": "001",
+            "courseTitle": "Rheumatology Clerkship"
+        },
+        {
+            "catalogTitle": "INTMD 7690",
+            "section": "001",
+            "courseTitle": "Palliative Care"
+        },
+        {
+            "catalogTitle": "INTMD 7700",
+            "section": "001",
+            "courseTitle": "General Internal Med"
+        },
+        {
+            "catalogTitle": "INTMD 7740",
+            "section": "001",
+            "courseTitle": "Clinical Medical Ethics"
+        },
+        {
+            "catalogTitle": "INTMD 7760",
+            "section": "001",
+            "courseTitle": "Applied Nutrition Clerk"
+        },
+        {
+            "catalogTitle": "INTMD 7770",
+            "section": "001",
+            "courseTitle": "Preventive Cardiology"
+        },
+        {
+            "catalogTitle": "INTMD 7780",
+            "section": "001",
+            "courseTitle": "Preceptorship"
+        },
+        {
+            "catalogTitle": "INTMD 7790",
+            "section": "001",
+            "courseTitle": "Shock Trauma-LDS"
+        },
+        {
+            "catalogTitle": "INTMD 7800",
+            "section": "001",
+            "courseTitle": "Hem/Onc Research"
+        },
+        {
+            "catalogTitle": "INTMD 7810",
+            "section": "001",
+            "courseTitle": "Endocrinology Research"
+        },
+        {
+            "catalogTitle": "INTMD 7820",
+            "section": "001",
+            "courseTitle": "Nephrology Research"
+        },
+        {
+            "catalogTitle": "INTMD 7830",
+            "section": "001",
+            "courseTitle": "Gastroentrolgy Research"
+        },
+        {
+            "catalogTitle": "INTMD 7840",
+            "section": "001",
+            "courseTitle": "Pulmonary Dis Research"
+        },
+        {
+            "catalogTitle": "INTMD 7850",
+            "section": "001",
+            "courseTitle": "Cardiology Research"
+        },
+        {
+            "catalogTitle": "INTMD 7860",
+            "section": "001",
+            "courseTitle": "Rheumatology Research"
+        },
+        {
+            "catalogTitle": "INTMD 7880",
+            "section": "001",
+            "courseTitle": "Infectious Dis Research"
+        },
+        {
+            "catalogTitle": "INTMD 7890",
+            "section": "001",
+            "courseTitle": "Reflections On Ethics"
+        },
+        {
+            "catalogTitle": "INTMD 7910",
+            "section": "001",
+            "courseTitle": "Gen Int Med Research"
+        },
+        {
+            "catalogTitle": "INTMD 7930",
+            "section": "001",
+            "courseTitle": "LDS Coronary Care"
+        },
+        {
+            "catalogTitle": "INTMD 7940",
+            "section": "001",
+            "courseTitle": "Medical ICU"
+        },
+        {
+            "catalogTitle": "INTMD 7950",
+            "section": "001",
+            "courseTitle": "Geriatrics Research"
+        },
+        {
+            "catalogTitle": "INTMD 7960",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARTH 101",
+            "section": "090",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 343",
+            "section": "001",
+            "courseTitle": "Contemporary Art"
+        },
+        {
+            "catalogTitle": "ARTH 1010",
+            "section": "090",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "001",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 3430",
+            "section": "001",
+            "courseTitle": "Contemporary Art"
+        },
+        {
+            "catalogTitle": "ARTH 4850",
+            "section": "001",
+            "courseTitle": "Art History Internship"
+        },
+        {
+            "catalogTitle": "ARTH 6970",
+            "section": "001",
+            "courseTitle": "Proj/Thesis Rsrch: MA"
+        },
+        {
+            "catalogTitle": "ARTH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation MA"
+        }
+    ]
+}

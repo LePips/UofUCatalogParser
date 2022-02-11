@@ -1,0 +1,419 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SOC 101",
+            "section": "010",
+            "courseTitle": "Introduction to Sociology"
+        },
+        {
+            "catalogTitle": "SOC 101",
+            "section": "070",
+            "courseTitle": "Introduction to Sociology"
+        },
+        {
+            "catalogTitle": "SOC 303",
+            "section": "010",
+            "courseTitle": "Social Structure"
+        },
+        {
+            "catalogTitle": "SOC 337",
+            "section": "001",
+            "courseTitle": "Sociology of Gender"
+        },
+        {
+            "catalogTitle": "SOC 338",
+            "section": "070",
+            "courseTitle": "Race/Ethnicity/Cls/Gender"
+        },
+        {
+            "catalogTitle": "SOC 348",
+            "section": "001",
+            "courseTitle": "Soc of Marriage & Family"
+        },
+        {
+            "catalogTitle": "SOC 361",
+            "section": "070",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "001",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "002",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "003",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "004",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "010",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "070",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1015",
+            "section": "090",
+            "courseTitle": "Intro to Data Analysis"
+        },
+        {
+            "catalogTitle": "SOC 1020",
+            "section": "001",
+            "courseTitle": "Social Problems"
+        },
+        {
+            "catalogTitle": "SOC 3020",
+            "section": "001",
+            "courseTitle": "Social Psychology"
+        },
+        {
+            "catalogTitle": "SOC 3030",
+            "section": "001",
+            "courseTitle": "Social Structure"
+        },
+        {
+            "catalogTitle": "SOC 3030",
+            "section": "010",
+            "courseTitle": "Social Structure"
+        },
+        {
+            "catalogTitle": "SOC 3040",
+            "section": "001",
+            "courseTitle": "Sociology of Religion"
+        },
+        {
+            "catalogTitle": "SOC 3111",
+            "section": "001",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "SOC 3111",
+            "section": "002",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "SOC 3111",
+            "section": "020",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "001",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "002",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "010",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "070",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3140",
+            "section": "001",
+            "courseTitle": "Social Theory"
+        },
+        {
+            "catalogTitle": "SOC 3140",
+            "section": "002",
+            "courseTitle": "Social Theory"
+        },
+        {
+            "catalogTitle": "SOC 3140",
+            "section": "020",
+            "courseTitle": "Social Theory"
+        },
+        {
+            "catalogTitle": "SOC 3337",
+            "section": "001",
+            "courseTitle": "Sociology Of Gender"
+        },
+        {
+            "catalogTitle": "SOC 3365",
+            "section": "001",
+            "courseTitle": "Ethnic Minorities Amer"
+        },
+        {
+            "catalogTitle": "SOC 3380",
+            "section": "001",
+            "courseTitle": "Race/Ethncty/Cls/Gender"
+        },
+        {
+            "catalogTitle": "SOC 3380",
+            "section": "070",
+            "courseTitle": "Race/Ethncty/Cls/Gender"
+        },
+        {
+            "catalogTitle": "SOC 3393",
+            "section": "001",
+            "courseTitle": "Diversity Internship"
+        },
+        {
+            "catalogTitle": "SOC 3433",
+            "section": "020",
+            "courseTitle": "Orgs and Entrepreneurs"
+        },
+        {
+            "catalogTitle": "SOC 3435",
+            "section": "001",
+            "courseTitle": "Soc Of Econ Development"
+        },
+        {
+            "catalogTitle": "SOC 3436",
+            "section": "001",
+            "courseTitle": "Global Social Structure"
+        },
+        {
+            "catalogTitle": "SOC 3439",
+            "section": "001",
+            "courseTitle": "Contemp Chinese Society"
+        },
+        {
+            "catalogTitle": "SOC 3560",
+            "section": "001",
+            "courseTitle": "Deviant Beh/Soc Control"
+        },
+        {
+            "catalogTitle": "SOC 3560",
+            "section": "010",
+            "courseTitle": "Deviant Beh/Soc Control"
+        },
+        {
+            "catalogTitle": "SOC 3561",
+            "section": "001",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "SOC 3561",
+            "section": "002",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "SOC 3561",
+            "section": "010",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "SOC 3561",
+            "section": "020",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "SOC 3562",
+            "section": "001",
+            "courseTitle": "Juvenile Delinquency"
+        },
+        {
+            "catalogTitle": "SOC 3562",
+            "section": "010",
+            "courseTitle": "Juvenile Delinquency"
+        },
+        {
+            "catalogTitle": "SOC 3563",
+            "section": "010",
+            "courseTitle": "Policing in U.S. Society"
+        },
+        {
+            "catalogTitle": "SOC 3567",
+            "section": "010",
+            "courseTitle": "White Collar Crime"
+        },
+        {
+            "catalogTitle": "SOC 3593",
+            "section": "001",
+            "courseTitle": "Criminology Internship"
+        },
+        {
+            "catalogTitle": "SOC 3638",
+            "section": "001",
+            "courseTitle": "Soc of Marriage & Fam"
+        },
+        {
+            "catalogTitle": "SOC 3638",
+            "section": "010",
+            "courseTitle": "Soc of Marriage & Fam"
+        },
+        {
+            "catalogTitle": "SOC 3650",
+            "section": "001",
+            "courseTitle": "Population & Society"
+        },
+        {
+            "catalogTitle": "SOC 3671",
+            "section": "001",
+            "courseTitle": "Soc Of Health"
+        },
+        {
+            "catalogTitle": "SOC 3671",
+            "section": "070",
+            "courseTitle": "Soc Of Health"
+        },
+        {
+            "catalogTitle": "SOC 3673",
+            "section": "001",
+            "courseTitle": "Social Epidemiology"
+        },
+        {
+            "catalogTitle": "SOC 3769",
+            "section": "001",
+            "courseTitle": "Race, Ethncty, & Health"
+        },
+        {
+            "catalogTitle": "SOC 3877",
+            "section": "001",
+            "courseTitle": "Pre-Senior Thesis Sem"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SOC 3952",
+            "section": "001",
+            "courseTitle": "Individual Internships"
+        },
+        {
+            "catalogTitle": "SOC 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "SOC 5120",
+            "section": "001",
+            "courseTitle": "Statistics I"
+        },
+        {
+            "catalogTitle": "SOC 5965",
+            "section": "001",
+            "courseTitle": "Population and Health"
+        },
+        {
+            "catalogTitle": "SOC 6010",
+            "section": "001",
+            "courseTitle": "Proseminar in Sociology"
+        },
+        {
+            "catalogTitle": "SOC 6120",
+            "section": "001",
+            "courseTitle": "Statistics I"
+        },
+        {
+            "catalogTitle": "SOC 6800",
+            "section": "001",
+            "courseTitle": "Profess Development"
+        },
+        {
+            "catalogTitle": "SOC 6950",
+            "section": "001",
+            "courseTitle": "Indiv Research-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6951",
+            "section": "001",
+            "courseTitle": "Dir Reading-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6965",
+            "section": "001",
+            "courseTitle": "Population and Health"
+        },
+        {
+            "catalogTitle": "SOC 6965",
+            "section": "002",
+            "courseTitle": "Statistical Instruction"
+        },
+        {
+            "catalogTitle": "SOC 6977",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6988",
+            "section": "001",
+            "courseTitle": "Fac Consult-Masters"
+        },
+        {
+            "catalogTitle": "SOC 7800",
+            "section": "001",
+            "courseTitle": "Profess Development"
+        },
+        {
+            "catalogTitle": "SOC 7911",
+            "section": "001",
+            "courseTitle": "Comp Intern Readings I"
+        },
+        {
+            "catalogTitle": "SOC 7912",
+            "section": "001",
+            "courseTitle": "Comp Intern Readings II"
+        },
+        {
+            "catalogTitle": "SOC 7921",
+            "section": "001",
+            "courseTitle": "Pop/Health Readings I"
+        },
+        {
+            "catalogTitle": "SOC 7922",
+            "section": "001",
+            "courseTitle": "Pop/Health Readings II"
+        },
+        {
+            "catalogTitle": "SOC 7941",
+            "section": "001",
+            "courseTitle": "Research Instruction I"
+        },
+        {
+            "catalogTitle": "SOC 7950",
+            "section": "001",
+            "courseTitle": "Indiv Research-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7951",
+            "section": "001",
+            "courseTitle": "Directed Reading-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7977",
+            "section": "001",
+            "courseTitle": "Dissert Research-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7988",
+            "section": "001",
+            "courseTitle": "Fac Consultation-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7999",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

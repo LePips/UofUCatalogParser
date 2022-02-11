@@ -1,0 +1,109 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PAS 6000",
+            "section": "001",
+            "courseTitle": "UPAP Mission 1"
+        },
+        {
+            "catalogTitle": "PAS 6000",
+            "section": "045",
+            "courseTitle": "UPAP Mission 1"
+        },
+        {
+            "catalogTitle": "PAS 6001",
+            "section": "001",
+            "courseTitle": "EBP 1"
+        },
+        {
+            "catalogTitle": "PAS 6001",
+            "section": "045",
+            "courseTitle": "EBP 1"
+        },
+        {
+            "catalogTitle": "PAS 6002",
+            "section": "001",
+            "courseTitle": "Applied Anatomy"
+        },
+        {
+            "catalogTitle": "PAS 6002",
+            "section": "045",
+            "courseTitle": "Applied Anatomy"
+        },
+        {
+            "catalogTitle": "PAS 6003",
+            "section": "001",
+            "courseTitle": "Medical Physiology"
+        },
+        {
+            "catalogTitle": "PAS 6003",
+            "section": "045",
+            "courseTitle": "Medical Physiology"
+        },
+        {
+            "catalogTitle": "PAS 6004",
+            "section": "001",
+            "courseTitle": "Health and Disease"
+        },
+        {
+            "catalogTitle": "PAS 6004",
+            "section": "045",
+            "courseTitle": "Health and Disease"
+        },
+        {
+            "catalogTitle": "PAS 6005",
+            "section": "001",
+            "courseTitle": "Data and Med Interview"
+        },
+        {
+            "catalogTitle": "PAS 6005",
+            "section": "045",
+            "courseTitle": "Data and Med Interview"
+        },
+        {
+            "catalogTitle": "PAS 6006",
+            "section": "001",
+            "courseTitle": "Infectious Disease"
+        },
+        {
+            "catalogTitle": "PAS 6006",
+            "section": "045",
+            "courseTitle": "Infectious Disease"
+        },
+        {
+            "catalogTitle": "PAS 6007",
+            "section": "001",
+            "courseTitle": "Clinical Pharmacology"
+        },
+        {
+            "catalogTitle": "PAS 6007",
+            "section": "045",
+            "courseTitle": "Clinical Pharmacology"
+        },
+        {
+            "catalogTitle": "PAS 6300",
+            "section": "002",
+            "courseTitle": "UPAP Mission 4"
+        },
+        {
+            "catalogTitle": "PAS 6302",
+            "section": "002",
+            "courseTitle": "Women's Health"
+        },
+        {
+            "catalogTitle": "PAS 6303",
+            "section": "002",
+            "courseTitle": "Inpatient Medicine"
+        },
+        {
+            "catalogTitle": "PAS 6304",
+            "section": "002",
+            "courseTitle": "Topics in Medicine 2"
+        },
+        {
+            "catalogTitle": "PAS 6971",
+            "section": "002",
+            "courseTitle": "Master's Project 2"
+        }
+    ]
+}

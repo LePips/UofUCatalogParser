@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NURS 2100",
+            "section": "290",
+            "courseTitle": "Human Dev: Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 3010",
+            "section": "290",
+            "courseTitle": "Nutrition Intervention"
+        },
+        {
+            "catalogTitle": "NURS 3107",
+            "section": "290",
+            "courseTitle": "Nursing/Health Promo"
+        },
+        {
+            "catalogTitle": "NURS 3108",
+            "section": "290",
+            "courseTitle": "Evidence Based Prac"
+        },
+        {
+            "catalogTitle": "NURS 4110",
+            "section": "290",
+            "courseTitle": "Global Health Nursing"
+        },
+        {
+            "catalogTitle": "NURS 4116",
+            "section": "290",
+            "courseTitle": "Public Health Nursing"
+        },
+        {
+            "catalogTitle": "NURS 4140",
+            "section": "290",
+            "courseTitle": "Nursing Leadership"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "290",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 5905",
+            "section": "290",
+            "courseTitle": "Clinical Physiology"
+        }
+    ]
+}

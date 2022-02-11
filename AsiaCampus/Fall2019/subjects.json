@@ -1,0 +1,29 @@
+{
+    "semester": "Fall2019",
+    "id": "1198",
+    "subjects": {
+        "ART": "Art",
+        "BIOL": "Biology",
+        "BMI": "Biomedical Informatics",
+        "CHEM": "Chemistry",
+        "CHIN": "Chinese",
+        "CMP": "City & Metropolitan Planning",
+        "COMM": "Communication",
+        "CVEEN": "Civil and Environmental Engineering",
+        "EAS": "English for Academic Success",
+        "ECS": "Education, Culture and Society",
+        "ESSF": "ESS Fitness Courses",
+        "FILM": "Film and Media Arts",
+        "GEO": "Geology and Geophysics",
+        "HIST": "History",
+        "LDRSP": "Leadership",
+        "MATH": "Mathematics",
+        "MUSC": "Music",
+        "PBHLT": "Public Health",
+        "PHYS": "Physics",
+        "POLS": "Political Science",
+        "PSY": "Psychology",
+        "UGS": "Undergraduate Studies",
+        "WRTG": "Writing and Rhetoric Studies"
+    }
+}

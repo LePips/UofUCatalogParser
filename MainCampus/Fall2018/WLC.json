@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "WLC 202",
+            "section": "002",
+            "courseTitle": "Language in Society"
+        },
+        {
+            "catalogTitle": "WLC 2010",
+            "section": "001",
+            "courseTitle": "Intro Stdy Lit & Cultr"
+        },
+        {
+            "catalogTitle": "WLC 2020",
+            "section": "001",
+            "courseTitle": "Language in Society"
+        },
+        {
+            "catalogTitle": "WLC 4900",
+            "section": "001",
+            "courseTitle": "Peer Advising"
+        },
+        {
+            "catalogTitle": "WLC 5015",
+            "section": "001",
+            "courseTitle": "Found. Dual Lang Imm."
+        },
+        {
+            "catalogTitle": "WLC 5410",
+            "section": "090",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "WLC 6015",
+            "section": "001",
+            "courseTitle": "Found. Dual Lang Imm."
+        },
+        {
+            "catalogTitle": "WLC 6410",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "WLC 6600",
+            "section": "001",
+            "courseTitle": "Intro Research/Biblio"
+        }
+    ]
+}

@@ -1,3 +1,134 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MID E 1546",
+            "section": "001",
+            "courseTitle": "Mid-East Civ: Modern"
+        },
+        {
+            "catalogTitle": "MID E 2055",
+            "section": "001",
+            "courseTitle": "Arabic Culture & Civ"
+        },
+        {
+            "catalogTitle": "MID E 3733",
+            "section": "001",
+            "courseTitle": "Anthropology Of Judaism"
+        },
+        {
+            "catalogTitle": "MID E 4158",
+            "section": "001",
+            "courseTitle": "Trends In Modern Islam"
+        },
+        {
+            "catalogTitle": "MID E 4172",
+            "section": "001",
+            "courseTitle": "Surv-Modern Arabic Lit"
+        },
+        {
+            "catalogTitle": "MID E 4230",
+            "section": "001",
+            "courseTitle": "Jewish/Israeli Culture"
+        },
+        {
+            "catalogTitle": "MID E 4316",
+            "section": "001",
+            "courseTitle": "Persian Authors/Genres"
+        },
+        {
+            "catalogTitle": "MID E 4328",
+            "section": "001",
+            "courseTitle": "Trends Mod Persian Lit"
+        },
+        {
+            "catalogTitle": "MID E 4549",
+            "section": "001",
+            "courseTitle": "Major Issues Mid E Hist"
+        },
+        {
+            "catalogTitle": "MID E 4880",
+            "section": "001",
+            "courseTitle": "Lit of Arab Resaisannce"
+        },
+        {
+            "catalogTitle": "MID E 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "MID E 5645",
+            "section": "001",
+            "courseTitle": "Polit Violnce Terrorism"
+        },
+        {
+            "catalogTitle": "MID E 5647",
+            "section": "001",
+            "courseTitle": "Intntl Relations Mid E"
+        },
+        {
+            "catalogTitle": "MID E 5733",
+            "section": "001",
+            "courseTitle": "Anthropology Of Judaism"
+        },
+        {
+            "catalogTitle": "MID E 6158",
+            "section": "001",
+            "courseTitle": "Trends In Modern Islam"
+        },
+        {
+            "catalogTitle": "MID E 6172",
+            "section": "001",
+            "courseTitle": "Surv-Modern Arab Lit"
+        },
+        {
+            "catalogTitle": "MID E 6230",
+            "section": "001",
+            "courseTitle": "Jewish/Israeli Culture"
+        },
+        {
+            "catalogTitle": "MID E 6261",
+            "section": "001",
+            "courseTitle": "Bible Poet/Proph/Wisdom"
+        },
+        {
+            "catalogTitle": "MID E 6316",
+            "section": "001",
+            "courseTitle": "Persian Authors/Genres"
+        },
+        {
+            "catalogTitle": "MID E 6328",
+            "section": "001",
+            "courseTitle": "Trends Mod Persian Lit"
+        },
+        {
+            "catalogTitle": "MID E 6549",
+            "section": "001",
+            "courseTitle": "Major Issues Mid E Hist"
+        },
+        {
+            "catalogTitle": "MID E 6645",
+            "section": "001",
+            "courseTitle": "Polit Violnce/Terrorism"
+        },
+        {
+            "catalogTitle": "MID E 6647",
+            "section": "001",
+            "courseTitle": "Intntl Rel Mid East"
+        },
+        {
+            "catalogTitle": "MID E 6684",
+            "section": "001",
+            "courseTitle": "Sem-Middle East Politcs"
+        },
+        {
+            "catalogTitle": "MID E 6880",
+            "section": "001",
+            "courseTitle": "Lit of Arab Resaisannce"
+        },
+        {
+            "catalogTitle": "MID E 7589",
+            "section": "001",
+            "courseTitle": "Seminar Mid E History"
+        }
+    ]
 }

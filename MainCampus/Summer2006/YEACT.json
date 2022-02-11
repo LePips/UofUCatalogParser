@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEACT 203",
+            "section": "001",
+            "courseTitle": "Filmmaking (Age7-12)"
+        },
+        {
+            "catalogTitle": "YEACT 203",
+            "section": "002",
+            "courseTitle": "Filmmaking (Age7-12)"
+        },
+        {
+            "catalogTitle": "YEACT 205",
+            "section": "001",
+            "courseTitle": "My Play-Doh Lives (Age 7-12)"
+        },
+        {
+            "catalogTitle": "YEACT 205",
+            "section": "002",
+            "courseTitle": "My Play-Doh Lives (Age 7-12)"
+        },
+        {
+            "catalogTitle": "YEACT 208",
+            "section": "001",
+            "courseTitle": "Filmmaking Intensive(Age10-15)"
+        },
+        {
+            "catalogTitle": "YEACT 208",
+            "section": "002",
+            "courseTitle": "Filmmaking Intensive(Age10-15)"
+        },
+        {
+            "catalogTitle": "YEACT 314",
+            "section": "001",
+            "courseTitle": "Produce Music Video"
+        },
+        {
+            "catalogTitle": "YEACT 316",
+            "section": "001",
+            "courseTitle": "Screenwriting (Age 13-16)"
+        },
+        {
+            "catalogTitle": "YEACT 317",
+            "section": "002",
+            "courseTitle": "Documentary Filmaking (13-16)"
+        }
+    ]
+}

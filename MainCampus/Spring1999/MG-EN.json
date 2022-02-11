@@ -1,3 +1,169 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "001",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "002",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "003",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "004",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 3400",
+            "section": "001",
+            "courseTitle": "Mine Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 3400",
+            "section": "002",
+            "courseTitle": "Mine Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 3980",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 4990",
+            "section": "001",
+            "courseTitle": "Mining Seminar"
+        },
+        {
+            "catalogTitle": "MG EN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "MG EN 5010",
+            "section": "001",
+            "courseTitle": "Undrgrnd Mining Methods"
+        },
+        {
+            "catalogTitle": "MG EN 5030",
+            "section": "001",
+            "courseTitle": "Materials Handling"
+        },
+        {
+            "catalogTitle": "MG EN 5060",
+            "section": "001",
+            "courseTitle": "Heat/Energy Systems"
+        },
+        {
+            "catalogTitle": "MG EN 5080",
+            "section": "001",
+            "courseTitle": "Reclamation"
+        },
+        {
+            "catalogTitle": "MG EN 5090",
+            "section": "001",
+            "courseTitle": "Undrgrnd Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 5090",
+            "section": "002",
+            "courseTitle": "Undrgrnd Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 5120",
+            "section": "001",
+            "courseTitle": "Surface Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 5120",
+            "section": "002",
+            "courseTitle": "Surface Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 5150",
+            "section": "001",
+            "courseTitle": "Mechanics of Materials"
+        },
+        {
+            "catalogTitle": "MG EN 5150",
+            "section": "002",
+            "courseTitle": "Mechanics of Materials"
+        },
+        {
+            "catalogTitle": "MG EN 5170",
+            "section": "001",
+            "courseTitle": "Mine Admin & Finance"
+        },
+        {
+            "catalogTitle": "MG EN 5290",
+            "section": "001",
+            "courseTitle": "FEM In Geomechanics"
+        },
+        {
+            "catalogTitle": "MG EN 5550",
+            "section": "001",
+            "courseTitle": "Explosives/Rock Blast"
+        },
+        {
+            "catalogTitle": "MG EN 5555",
+            "section": "001",
+            "courseTitle": "Envir Engin Seminar"
+        },
+        {
+            "catalogTitle": "MG EN 5970",
+            "section": "001",
+            "courseTitle": "Intern Program"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MG EN 7800",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MG EN 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
 }

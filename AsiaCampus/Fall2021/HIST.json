@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "301",
+            "courseTitle": "American History"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "302",
+            "courseTitle": "American History"
+        },
+        {
+            "catalogTitle": "HIST 4920",
+            "section": "301",
+            "courseTitle": "Directed Reading"
+        }
+    ]
+}

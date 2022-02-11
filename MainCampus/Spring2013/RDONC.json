@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RDONC 7010",
+            "section": "001",
+            "courseTitle": "Clinical Radiation Onc"
+        },
+        {
+            "catalogTitle": "RDONC 7040",
+            "section": "001",
+            "courseTitle": "Radiation Biol Research"
+        },
+        {
+            "catalogTitle": "RDONC 7070",
+            "section": "001",
+            "courseTitle": "Rad Oncology Research"
+        },
+        {
+            "catalogTitle": "RDONC 7080",
+            "section": "001",
+            "courseTitle": "Radiation Biology"
+        }
+    ]
+}

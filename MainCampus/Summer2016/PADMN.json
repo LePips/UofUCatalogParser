@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PADMN 6210",
+            "section": "001",
+            "courseTitle": "Pub Admin & Law"
+        },
+        {
+            "catalogTitle": "PADMN 6289",
+            "section": "001",
+            "courseTitle": "Research Design-P.A."
+        },
+        {
+            "catalogTitle": "PADMN 6323",
+            "section": "090",
+            "courseTitle": "Policy Analysis"
+        },
+        {
+            "catalogTitle": "PADMN 6335",
+            "section": "090",
+            "courseTitle": "Governance & Economy"
+        },
+        {
+            "catalogTitle": "PADMN 6380",
+            "section": "001",
+            "courseTitle": "Pub. Budget & Fin"
+        },
+        {
+            "catalogTitle": "PADMN 6870",
+            "section": "001",
+            "courseTitle": "Sem-Public Admin Ethics"
+        },
+        {
+            "catalogTitle": "PADMN 6910",
+            "section": "001",
+            "courseTitle": "Public Admin Intern"
+        },
+        {
+            "catalogTitle": "PADMN 6965",
+            "section": "001",
+            "courseTitle": "Imm. & Refugee Policy"
+        },
+        {
+            "catalogTitle": "PADMN 6965",
+            "section": "002",
+            "courseTitle": "Local Gov. Econ Dev."
+        },
+        {
+            "catalogTitle": "PADMN 6965",
+            "section": "003",
+            "courseTitle": "National Security Policy"
+        }
+    ]
+}

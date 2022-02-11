@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 284",
+            "section": "001",
+            "courseTitle": "Monday Wine School"
+        },
+        {
+            "catalogTitle": "LLFW 297",
+            "section": "001",
+            "courseTitle": "Sushi Making"
+        },
+        {
+            "catalogTitle": "LLFW 297",
+            "section": "002",
+            "courseTitle": "Sushi Making"
+        },
+        {
+            "catalogTitle": "LLFW 299",
+            "section": "002",
+            "courseTitle": "Mastering Martinis"
+        },
+        {
+            "catalogTitle": "LLFW 305",
+            "section": "001",
+            "courseTitle": "Cocktails for the Cultured"
+        },
+        {
+            "catalogTitle": "LLFW 305",
+            "section": "002",
+            "courseTitle": "Cocktails for the Cultured"
+        },
+        {
+            "catalogTitle": "LLFW 317",
+            "section": "001",
+            "courseTitle": "Raw Foods"
+        },
+        {
+            "catalogTitle": "LLFW 346",
+            "section": "001",
+            "courseTitle": "Eating Local"
+        },
+        {
+            "catalogTitle": "LLFW 373",
+            "section": "001",
+            "courseTitle": "Summer Whites"
+        },
+        {
+            "catalogTitle": "LLFW 401",
+            "section": "001",
+            "courseTitle": "Secrets of Salt"
+        },
+        {
+            "catalogTitle": "LLFW 402",
+            "section": "001",
+            "courseTitle": "Raw Desserts"
+        },
+        {
+            "catalogTitle": "LLFW 403",
+            "section": "001",
+            "courseTitle": "Value Wines: New World"
+        },
+        {
+            "catalogTitle": "LLFW 404",
+            "section": "001",
+            "courseTitle": "Value Wines: Old World"
+        }
+    ]
+}

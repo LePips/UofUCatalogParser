@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "002",
+            "courseTitle": "Guitar: Beginning I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "003",
+            "courseTitle": "Guitar: Beginning I"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning II"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "002",
+            "courseTitle": "Guitar: Beginning II"
+        },
+        {
+            "catalogTitle": "LLMT 389",
+            "section": "001",
+            "courseTitle": "Intro to the Didjeridoo"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improvisional Acting"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "002",
+            "courseTitle": "Improvisational Acting"
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELI 25",
+            "section": "001",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 25",
+            "section": "002",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "001",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "002",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "003",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "004",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "005",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 40",
+            "section": "001",
+            "courseTitle": "Listening & Speaking 2"
+        },
+        {
+            "catalogTitle": "ELI 40",
+            "section": "002",
+            "courseTitle": "Listening & Speaking 2"
+        },
+        {
+            "catalogTitle": "ELI 45",
+            "section": "001",
+            "courseTitle": "Reading/Writing 2"
+        },
+        {
+            "catalogTitle": "ELI 45",
+            "section": "002",
+            "courseTitle": "Reading/Writing 2"
+        },
+        {
+            "catalogTitle": "ELI 50",
+            "section": "001",
+            "courseTitle": "Listening & Speaking 3"
+        },
+        {
+            "catalogTitle": "ELI 50",
+            "section": "002",
+            "courseTitle": "Listening & Speaking 3"
+        },
+        {
+            "catalogTitle": "ELI 55",
+            "section": "001",
+            "courseTitle": "Reading/Writing 3"
+        },
+        {
+            "catalogTitle": "ELI 55",
+            "section": "002",
+            "courseTitle": "Reading/Writing 3"
+        },
+        {
+            "catalogTitle": "ELI 60",
+            "section": "001",
+            "courseTitle": "Listening Skills 4"
+        },
+        {
+            "catalogTitle": "ELI 60",
+            "section": "002",
+            "courseTitle": "Listening Skills 4"
+        },
+        {
+            "catalogTitle": "ELI 65",
+            "section": "001",
+            "courseTitle": "Reading/Writing 4"
+        },
+        {
+            "catalogTitle": "ELI 65",
+            "section": "002",
+            "courseTitle": "Reading/Writing 4"
+        },
+        {
+            "catalogTitle": "ELI 66",
+            "section": "001",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 66",
+            "section": "002",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 69",
+            "section": "001",
+            "courseTitle": "Accent Reduction"
+        },
+        {
+            "catalogTitle": "ELI 69",
+            "section": "002",
+            "courseTitle": "Accent Reduction"
+        },
+        {
+            "catalogTitle": "ELI 69",
+            "section": "003",
+            "courseTitle": "Accent Reduction"
+        },
+        {
+            "catalogTitle": "ELI 70",
+            "section": "001",
+            "courseTitle": "Listening with Video"
+        },
+        {
+            "catalogTitle": "ELI 70",
+            "section": "002",
+            "courseTitle": "Listening with Video"
+        },
+        {
+            "catalogTitle": "ELI 72",
+            "section": "001",
+            "courseTitle": "Theatrical Production"
+        },
+        {
+            "catalogTitle": "ELI 72",
+            "section": "002",
+            "courseTitle": "Theatrical Production"
+        },
+        {
+            "catalogTitle": "ELI 75",
+            "section": "001",
+            "courseTitle": "Rd/Wrtg For Acd Purposes I"
+        },
+        {
+            "catalogTitle": "ELI 75",
+            "section": "002",
+            "courseTitle": "Rd/Wrtg For Acd Purposes I"
+        },
+        {
+            "catalogTitle": "ELI 76",
+            "section": "001",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ELI 76",
+            "section": "002",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ELI 79",
+            "section": "001",
+            "courseTitle": "Grammar 5"
+        },
+        {
+            "catalogTitle": "ELI 79",
+            "section": "002",
+            "courseTitle": "Grammar 5"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "002",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 85",
+            "section": "001",
+            "courseTitle": "Rdng/Wrtng Acad Purps 2"
+        },
+        {
+            "catalogTitle": "ELI 85",
+            "section": "002",
+            "courseTitle": "Rdng/Wrtng Acad Purps 2"
+        },
+        {
+            "catalogTitle": "ELI 85",
+            "section": "003",
+            "courseTitle": "Rdng/Wrtng Acad Purps 2"
+        },
+        {
+            "catalogTitle": "ELI 87",
+            "section": "001",
+            "courseTitle": "Lang Skills thru News"
+        },
+        {
+            "catalogTitle": "ELI 87",
+            "section": "002",
+            "courseTitle": "Lang Skills thru News"
+        },
+        {
+            "catalogTitle": "ELI 88",
+            "section": "001",
+            "courseTitle": "Listening/Speaking 5"
+        },
+        {
+            "catalogTitle": "ELI 88",
+            "section": "002",
+            "courseTitle": "Listening/Speaking 5"
+        },
+        {
+            "catalogTitle": "ELI 88",
+            "section": "003",
+            "courseTitle": "Listening/Speaking 5"
+        },
+        {
+            "catalogTitle": "ELI 89",
+            "section": "001",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 89",
+            "section": "002",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 92",
+            "section": "001",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 92",
+            "section": "002",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 97",
+            "section": "001",
+            "courseTitle": "Adv English Grammar"
+        },
+        {
+            "catalogTitle": "ELI 97",
+            "section": "002",
+            "courseTitle": "Adv English Grammar"
+        },
+        {
+            "catalogTitle": "ELI 98",
+            "section": "001",
+            "courseTitle": "America & The World"
+        }
+    ]
+}

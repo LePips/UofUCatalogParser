@@ -1,0 +1,429 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NURS 2100",
+            "section": "090",
+            "courseTitle": "Human Dev: Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 3100",
+            "section": "002",
+            "courseTitle": "Intro to Prof Nursing"
+        },
+        {
+            "catalogTitle": "NURS 3100",
+            "section": "010",
+            "courseTitle": "Intro to Prof Nursing"
+        },
+        {
+            "catalogTitle": "NURS 3105",
+            "section": "002",
+            "courseTitle": "Foundations Clinic Care"
+        },
+        {
+            "catalogTitle": "NURS 3107",
+            "section": "002",
+            "courseTitle": "Nursing/Health Promo"
+        },
+        {
+            "catalogTitle": "NURS 3107",
+            "section": "093",
+            "courseTitle": "Nursing/Health Promo"
+        },
+        {
+            "catalogTitle": "NURS 3108",
+            "section": "002",
+            "courseTitle": "Evidence Based Prac"
+        },
+        {
+            "catalogTitle": "NURS 3108",
+            "section": "093",
+            "courseTitle": "Evidence Based Prac"
+        },
+        {
+            "catalogTitle": "NURS 3261",
+            "section": "002",
+            "courseTitle": "Nrsg Mngt: Drug Therapy"
+        },
+        {
+            "catalogTitle": "NURS 4110",
+            "section": "093",
+            "courseTitle": "Global Health Nursing"
+        },
+        {
+            "catalogTitle": "NURS 4116",
+            "section": "093",
+            "courseTitle": "Public Health Nursing"
+        },
+        {
+            "catalogTitle": "NURS 4140",
+            "section": "093",
+            "courseTitle": "Enhanced Prof Nursing"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "002",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "003",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "004",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "010",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "093",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4155",
+            "section": "002",
+            "courseTitle": "Clinical Capstone"
+        },
+        {
+            "catalogTitle": "NURS 4505",
+            "section": "001",
+            "courseTitle": "Concepts Critical Care"
+        },
+        {
+            "catalogTitle": "NURS 4800",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "NURS 4800",
+            "section": "002",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "NURS 5050",
+            "section": "090",
+            "courseTitle": "Best Prac in Geriatric"
+        },
+        {
+            "catalogTitle": "NURS 5550",
+            "section": "090",
+            "courseTitle": "Practical Stats"
+        },
+        {
+            "catalogTitle": "NURS 5600",
+            "section": "001",
+            "courseTitle": "Globl Hlth Study Abroad"
+        },
+        {
+            "catalogTitle": "NURS 5905",
+            "section": "090",
+            "courseTitle": "Clinical Physiology"
+        },
+        {
+            "catalogTitle": "NURS 6001",
+            "section": "090",
+            "courseTitle": "Professional Role/Collab"
+        },
+        {
+            "catalogTitle": "NURS 6001",
+            "section": "091",
+            "courseTitle": "Professional Role/Collab"
+        },
+        {
+            "catalogTitle": "NURS 6006",
+            "section": "090",
+            "courseTitle": "Adv Pharmacotherapeutic"
+        },
+        {
+            "catalogTitle": "NURS 6018",
+            "section": "090",
+            "courseTitle": "Sim in Nursing Ed"
+        },
+        {
+            "catalogTitle": "NURS 6052",
+            "section": "001",
+            "courseTitle": "Adv Pharm NMW/WHNP"
+        },
+        {
+            "catalogTitle": "NURS 6060",
+            "section": "090",
+            "courseTitle": "US Health Care"
+        },
+        {
+            "catalogTitle": "NURS 6112",
+            "section": "001",
+            "courseTitle": "Mgt of Intrapartum Comp"
+        },
+        {
+            "catalogTitle": "NURS 6325",
+            "section": "001",
+            "courseTitle": "Psych/MH Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6470",
+            "section": "090",
+            "courseTitle": "Care Management"
+        },
+        {
+            "catalogTitle": "NURS 6553",
+            "section": "090",
+            "courseTitle": "Issues Reproductive Hlt"
+        },
+        {
+            "catalogTitle": "NURS 6772",
+            "section": "090",
+            "courseTitle": "QI in Healthcare"
+        },
+        {
+            "catalogTitle": "NURS 6803",
+            "section": "001",
+            "courseTitle": "Clin Database Design"
+        },
+        {
+            "catalogTitle": "NURS 6910",
+            "section": "001",
+            "courseTitle": "Adv Clinical Immersion"
+        },
+        {
+            "catalogTitle": "NURS 6960",
+            "section": "003",
+            "courseTitle": "Midvale Clinic Practicum"
+        },
+        {
+            "catalogTitle": "NURS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NURS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NURS 7015",
+            "section": "090",
+            "courseTitle": "Leadership and Advocacy"
+        },
+        {
+            "catalogTitle": "NURS 7015",
+            "section": "091",
+            "courseTitle": "Leadership and Advocacy"
+        },
+        {
+            "catalogTitle": "NURS 7020",
+            "section": "001",
+            "courseTitle": "Advanced Phys Assess"
+        },
+        {
+            "catalogTitle": "NURS 7022",
+            "section": "001",
+            "courseTitle": "Adv Ped Hlth Promo/Assm"
+        },
+        {
+            "catalogTitle": "NURS 7070",
+            "section": "001",
+            "courseTitle": "Multivariate Statistics"
+        },
+        {
+            "catalogTitle": "NURS 7106",
+            "section": "001",
+            "courseTitle": "Advancing Science"
+        },
+        {
+            "catalogTitle": "NURS 7107",
+            "section": "001",
+            "courseTitle": "Qualitative Inquiry I"
+        },
+        {
+            "catalogTitle": "NURS 7462",
+            "section": "001",
+            "courseTitle": "AdvAcute/Critical Patho"
+        },
+        {
+            "catalogTitle": "NURS 7500",
+            "section": "090",
+            "courseTitle": "Evidence-Based Pract II"
+        },
+        {
+            "catalogTitle": "NURS 7510",
+            "section": "001",
+            "courseTitle": "Social Context of Med"
+        },
+        {
+            "catalogTitle": "NURS 7604",
+            "section": "001",
+            "courseTitle": "PCNP Residency"
+        },
+        {
+            "catalogTitle": "NURS 7614",
+            "section": "001",
+            "courseTitle": "NMW Practicum III"
+        },
+        {
+            "catalogTitle": "NURS 7615",
+            "section": "001",
+            "courseTitle": "WHNP Practicum III"
+        },
+        {
+            "catalogTitle": "NURS 7619",
+            "section": "001",
+            "courseTitle": "WHNP Residency"
+        },
+        {
+            "catalogTitle": "NURS 7652",
+            "section": "001",
+            "courseTitle": "Adult Acute Care Res."
+        },
+        {
+            "catalogTitle": "NURS 7701",
+            "section": "001",
+            "courseTitle": "DNP Scholarly Project I"
+        },
+        {
+            "catalogTitle": "NURS 7780",
+            "section": "001",
+            "courseTitle": "Research Immersion"
+        },
+        {
+            "catalogTitle": "NURS 7910",
+            "section": "001",
+            "courseTitle": "Adv Clinical Immersion"
+        },
+        {
+            "catalogTitle": "NURS 7920",
+            "section": "001",
+            "courseTitle": "PC Community Engagement"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "015",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "016",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "017",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "018",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "019",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "020",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "021",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "026",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "028",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "030",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

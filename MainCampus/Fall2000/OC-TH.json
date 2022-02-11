@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OC TH 3000",
+            "section": "001",
+            "courseTitle": "Intro to Occup Therapy"
+        },
+        {
+            "catalogTitle": "OC TH 5020",
+            "section": "001",
+            "courseTitle": "Kinesiomechanics"
+        },
+        {
+            "catalogTitle": "OC TH 5020",
+            "section": "002",
+            "courseTitle": "Kinesiomechanics"
+        },
+        {
+            "catalogTitle": "OC TH 5020",
+            "section": "003",
+            "courseTitle": "Kinesiomechanics"
+        },
+        {
+            "catalogTitle": "OC TH 5020",
+            "section": "004",
+            "courseTitle": "Kinesiomechanics"
+        },
+        {
+            "catalogTitle": "OC TH 5050",
+            "section": "001",
+            "courseTitle": "Adv Human Anatomy"
+        },
+        {
+            "catalogTitle": "OC TH 5050",
+            "section": "002",
+            "courseTitle": "Adv Human Anatomy"
+        },
+        {
+            "catalogTitle": "OC TH 5070",
+            "section": "001",
+            "courseTitle": "Pathophysiology"
+        },
+        {
+            "catalogTitle": "OC TH 5200",
+            "section": "001",
+            "courseTitle": "Hx & Found of Occ Prac"
+        },
+        {
+            "catalogTitle": "OC TH 6120",
+            "section": "001",
+            "courseTitle": "Occup & Prac-Theory I"
+        },
+        {
+            "catalogTitle": "OC TH 6140",
+            "section": "001",
+            "courseTitle": "Occup & Prac-Skills I"
+        },
+        {
+            "catalogTitle": "OC TH 6160",
+            "section": "001",
+            "courseTitle": "Occup & Pract-Eval I"
+        },
+        {
+            "catalogTitle": "OC TH 6920",
+            "section": "001",
+            "courseTitle": "Pro Seminar III"
+        }
+    ]
+}

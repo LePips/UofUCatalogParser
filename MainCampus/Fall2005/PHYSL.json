@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHYSL 5300",
+            "section": "001",
+            "courseTitle": "Molecular Physiology"
+        },
+        {
+            "catalogTitle": "PHYSL 6040",
+            "section": "001",
+            "courseTitle": "Cellular Neurosci"
+        },
+        {
+            "catalogTitle": "PHYSL 6070",
+            "section": "001",
+            "courseTitle": "Systemic Physiology"
+        },
+        {
+            "catalogTitle": "PHYSL 6245",
+            "section": "001",
+            "courseTitle": "Neurophysiology Lab"
+        },
+        {
+            "catalogTitle": "PHYSL 6300",
+            "section": "001",
+            "courseTitle": "Molecular Physiology"
+        },
+        {
+            "catalogTitle": "PHYSL 7920",
+            "section": "001",
+            "courseTitle": "Topics Chemical Senses"
+        },
+        {
+            "catalogTitle": "PHYSL 7930",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "PHYSL 7940",
+            "section": "001",
+            "courseTitle": "Faculty Rotation"
+        },
+        {
+            "catalogTitle": "PHYSL 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Res: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYSL 7970",
+            "section": "002",
+            "courseTitle": "Dissertation Res: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYSL 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PHYSL 7990",
+            "section": "001",
+            "courseTitle": "Continuing Reg: Ph.D."
+        }
+    ]
+}

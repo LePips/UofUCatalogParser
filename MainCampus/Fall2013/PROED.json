@@ -1,0 +1,329 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 111",
+            "section": "005",
+            "courseTitle": "Finance for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 112",
+            "section": "005",
+            "courseTitle": "Finance for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 113",
+            "section": "005",
+            "courseTitle": "Accounting"
+        },
+        {
+            "catalogTitle": "PROED 135",
+            "section": "030",
+            "courseTitle": "Bookkeeping Online"
+        },
+        {
+            "catalogTitle": "PROED 300",
+            "section": "005",
+            "courseTitle": "HRM Certificate Prog"
+        },
+        {
+            "catalogTitle": "PROED 301",
+            "section": "005",
+            "courseTitle": "Strategic Planning"
+        },
+        {
+            "catalogTitle": "PROED 302",
+            "section": "005",
+            "courseTitle": "Total Rewards"
+        },
+        {
+            "catalogTitle": "PROED 303",
+            "section": "005",
+            "courseTitle": "Nego. and Conflict Mgt."
+        },
+        {
+            "catalogTitle": "PROED 304",
+            "section": "005",
+            "courseTitle": "Employment Law"
+        },
+        {
+            "catalogTitle": "PROED 305",
+            "section": "005",
+            "courseTitle": "Benefits and Policies"
+        },
+        {
+            "catalogTitle": "PROED 306",
+            "section": "005",
+            "courseTitle": "Employee Recruitment/Selection"
+        },
+        {
+            "catalogTitle": "PROED 308",
+            "section": "005",
+            "courseTitle": "Org. Training Development"
+        },
+        {
+            "catalogTitle": "PROED 309",
+            "section": "005",
+            "courseTitle": "HR Essentials"
+        },
+        {
+            "catalogTitle": "PROED 401",
+            "section": "005",
+            "courseTitle": "Collaborative Leadership"
+        },
+        {
+            "catalogTitle": "PROED 402",
+            "section": "005",
+            "courseTitle": "Managing Collaboratively"
+        },
+        {
+            "catalogTitle": "PROED 403",
+            "section": "005",
+            "courseTitle": "Teams of Trust"
+        },
+        {
+            "catalogTitle": "PROED 427",
+            "section": "005",
+            "courseTitle": "Emotional Intelligence"
+        },
+        {
+            "catalogTitle": "PROED 430",
+            "section": "005",
+            "courseTitle": "Intro to Data Driven Leadershi"
+        },
+        {
+            "catalogTitle": "PROED 437",
+            "section": "005",
+            "courseTitle": "Visual Leadership"
+        },
+        {
+            "catalogTitle": "PROED 501",
+            "section": "005",
+            "courseTitle": "Foundations of NP Sector"
+        },
+        {
+            "catalogTitle": "PROED 503",
+            "section": "005",
+            "courseTitle": "Fundraising Fundamentals"
+        },
+        {
+            "catalogTitle": "PROED 504",
+            "section": "005",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "PROED 506",
+            "section": "005",
+            "courseTitle": "Mrkting for Nonprofits"
+        },
+        {
+            "catalogTitle": "PROED 521",
+            "section": "005",
+            "courseTitle": "Creating NP Boards"
+        },
+        {
+            "catalogTitle": "PROED 524",
+            "section": "005",
+            "courseTitle": "Fed & State Tax Compliance"
+        },
+        {
+            "catalogTitle": "PROED 532",
+            "section": "005",
+            "courseTitle": "Financial Forum for NP"
+        },
+        {
+            "catalogTitle": "PROED 543",
+            "section": "005",
+            "courseTitle": "Nonprofit Wrap Up"
+        },
+        {
+            "catalogTitle": "PROED 549",
+            "section": "005",
+            "courseTitle": "Marketing Message"
+        },
+        {
+            "catalogTitle": "PROED 562",
+            "section": "005",
+            "courseTitle": "Volunteer Mgmt for NP"
+        },
+        {
+            "catalogTitle": "PROED 606",
+            "section": "005",
+            "courseTitle": "Project Scheduling"
+        },
+        {
+            "catalogTitle": "PROED 610",
+            "section": "005",
+            "courseTitle": "PMP Exam Preparation"
+        },
+        {
+            "catalogTitle": "PROED 610",
+            "section": "042",
+            "courseTitle": "PMP Exam Preparation"
+        },
+        {
+            "catalogTitle": "PROED 611",
+            "section": "005",
+            "courseTitle": "Fundamentals of PM"
+        },
+        {
+            "catalogTitle": "PROED 612",
+            "section": "005",
+            "courseTitle": "Fundamentals of PM II"
+        },
+        {
+            "catalogTitle": "PROED 622",
+            "section": "005",
+            "courseTitle": "PM Project Leadership & Teams"
+        },
+        {
+            "catalogTitle": "PROED 631",
+            "section": "030",
+            "courseTitle": "PM Fundamentals Online"
+        },
+        {
+            "catalogTitle": "PROED 632",
+            "section": "030",
+            "courseTitle": "Proj Risk Mgmt Online"
+        },
+        {
+            "catalogTitle": "PROED 641",
+            "section": "042",
+            "courseTitle": "Project Mgmt Training Camp"
+        },
+        {
+            "catalogTitle": "PROED 643",
+            "section": "042",
+            "courseTitle": "Guiding Organizational Change"
+        },
+        {
+            "catalogTitle": "PROED 647",
+            "section": "030",
+            "courseTitle": "Applied PM Online Certificate"
+        },
+        {
+            "catalogTitle": "PROED 700",
+            "section": "005",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "PROED 720",
+            "section": "005",
+            "courseTitle": "Effective Presentations"
+        },
+        {
+            "catalogTitle": "PROED 727",
+            "section": "005",
+            "courseTitle": "Difficult Conversations"
+        },
+        {
+            "catalogTitle": "PROED 841",
+            "section": "007",
+            "courseTitle": "Treasurers Academy"
+        },
+        {
+            "catalogTitle": "PROED 841",
+            "section": "060",
+            "courseTitle": "Treasurers Academy"
+        },
+        {
+            "catalogTitle": "PROED 851",
+            "section": "001",
+            "courseTitle": "Envision Tomorrow Plus: Lvl 1"
+        },
+        {
+            "catalogTitle": "PROED 851",
+            "section": "002",
+            "courseTitle": "Envision Tomorrow Plus: Lvl 1"
+        },
+        {
+            "catalogTitle": "PROED 851",
+            "section": "003",
+            "courseTitle": "Envision Tomorrow Plus: Lvl 1"
+        },
+        {
+            "catalogTitle": "PROED 851",
+            "section": "004",
+            "courseTitle": "Envision Tomorrow Plus: Lvl 1"
+        },
+        {
+            "catalogTitle": "PROED 852",
+            "section": "001",
+            "courseTitle": "Envision Tomorrow Plus: Lvl 2"
+        },
+        {
+            "catalogTitle": "PROED 852",
+            "section": "002",
+            "courseTitle": "Envision Tomorrow Plus: Lvl 2"
+        },
+        {
+            "catalogTitle": "PROED 852",
+            "section": "003",
+            "courseTitle": "Envision Tomorrow Plus: Lvl 2"
+        },
+        {
+            "catalogTitle": "PROED 875",
+            "section": "007",
+            "courseTitle": "Public Safety Best Practices"
+        },
+        {
+            "catalogTitle": "PROED 911",
+            "section": "030",
+            "courseTitle": "Nutrition and You"
+        },
+        {
+            "catalogTitle": "PROED 912",
+            "section": "030",
+            "courseTitle": "Weight Management"
+        },
+        {
+            "catalogTitle": "PROED 913",
+            "section": "030",
+            "courseTitle": "Sports Nutrition"
+        },
+        {
+            "catalogTitle": "PROED 914",
+            "section": "030",
+            "courseTitle": "Public Nutrition"
+        },
+        {
+            "catalogTitle": "PROED 916",
+            "section": "030",
+            "courseTitle": "Anatomy and Kinesiology"
+        },
+        {
+            "catalogTitle": "PROED 917",
+            "section": "030",
+            "courseTitle": "Exercise Physiology"
+        },
+        {
+            "catalogTitle": "PROED 918",
+            "section": "030",
+            "courseTitle": "Health Risk Profiles"
+        },
+        {
+            "catalogTitle": "PROED 919",
+            "section": "030",
+            "courseTitle": "Business for Personal Trainers"
+        },
+        {
+            "catalogTitle": "PROED 920",
+            "section": "030",
+            "courseTitle": "Exercise Prescriptions"
+        },
+        {
+            "catalogTitle": "PROED 922",
+            "section": "030",
+            "courseTitle": "Nutritional Analysis"
+        },
+        {
+            "catalogTitle": "PROED 923",
+            "section": "030",
+            "courseTitle": "Functional Flexibility"
+        },
+        {
+            "catalogTitle": "PROED 924",
+            "section": "030",
+            "courseTitle": "Weight Training Techniques"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 216",
+            "section": "001",
+            "courseTitle": "Investments 101"
+        },
+        {
+            "catalogTitle": "LLBUS 228",
+            "section": "001",
+            "courseTitle": "Principles of Investing"
+        },
+        {
+            "catalogTitle": "LLBUS 230",
+            "section": "001",
+            "courseTitle": "Professional Speaking"
+        },
+        {
+            "catalogTitle": "LLBUS 231",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "LLBUS 233",
+            "section": "001",
+            "courseTitle": "Authentic Leadership"
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 1610",
+            "section": "001",
+            "courseTitle": "Arch & Planning LEAP I"
+        },
+        {
+            "catalogTitle": "ARCH 1615",
+            "section": "001",
+            "courseTitle": "Intro To Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 1630",
+            "section": "001",
+            "courseTitle": "Architectural Graphics"
+        },
+        {
+            "catalogTitle": "ARCH 1630",
+            "section": "002",
+            "courseTitle": "Architectural Graphics"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "001",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "002",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 3010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio I"
+        },
+        {
+            "catalogTitle": "ARCH 3010",
+            "section": "002",
+            "courseTitle": "Arch'l Studio I"
+        },
+        {
+            "catalogTitle": "ARCH 3010",
+            "section": "003",
+            "courseTitle": "Arch'l Studio I"
+        },
+        {
+            "catalogTitle": "ARCH 3050",
+            "section": "001",
+            "courseTitle": "Architect'l Comm I"
+        },
+        {
+            "catalogTitle": "ARCH 3210",
+            "section": "001",
+            "courseTitle": "Surv-World Architctr I"
+        },
+        {
+            "catalogTitle": "ARCH 3371",
+            "section": "001",
+            "courseTitle": "Materials Construction"
+        },
+        {
+            "catalogTitle": "ARCH 3371",
+            "section": "002",
+            "courseTitle": "Materials Construction"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "002",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "003",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 4200",
+            "section": "001",
+            "courseTitle": "Japanese Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 4311",
+            "section": "001",
+            "courseTitle": "Arch'l Structures II"
+        },
+        {
+            "catalogTitle": "ARCH 4350",
+            "section": "001",
+            "courseTitle": "Environm'l Controls I"
+        },
+        {
+            "catalogTitle": "ARCH 4850",
+            "section": "001",
+            "courseTitle": "Human Dimension Des"
+        },
+        {
+            "catalogTitle": "ARCH 4955",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "003",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "004",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "005",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "006",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IIIG"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "003",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6016",
+            "section": "001",
+            "courseTitle": "Elective Grad Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6050",
+            "section": "001",
+            "courseTitle": "Visual Communication"
+        },
+        {
+            "catalogTitle": "ARCH 6052",
+            "section": "001",
+            "courseTitle": "Digital Media"
+        },
+        {
+            "catalogTitle": "ARCH 6054",
+            "section": "001",
+            "courseTitle": "Contract Documents"
+        },
+        {
+            "catalogTitle": "ARCH 6115",
+            "section": "001",
+            "courseTitle": "Spec. Program Prep"
+        },
+        {
+            "catalogTitle": "ARCH 6115",
+            "section": "002",
+            "courseTitle": "Spec. Program Prep"
+        },
+        {
+            "catalogTitle": "ARCH 6120",
+            "section": "001",
+            "courseTitle": "Arch'l Photog Bldg"
+        },
+        {
+            "catalogTitle": "ARCH 6200",
+            "section": "001",
+            "courseTitle": "Japanese Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 6205",
+            "section": "001",
+            "courseTitle": "Scandinavian Architectr"
+        },
+        {
+            "catalogTitle": "ARCH 6210",
+            "section": "001",
+            "courseTitle": "Surv World Arch IG"
+        },
+        {
+            "catalogTitle": "ARCH 6239",
+            "section": "001",
+            "courseTitle": "Primary Images in Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 6261",
+            "section": "001",
+            "courseTitle": "Contemporary Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6271",
+            "section": "001",
+            "courseTitle": "Contemporary Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6301",
+            "section": "001",
+            "courseTitle": "Adv Struct Material"
+        },
+        {
+            "catalogTitle": "ARCH 6302",
+            "section": "001",
+            "courseTitle": "Adv Struct Typology"
+        },
+        {
+            "catalogTitle": "ARCH 6302",
+            "section": "002",
+            "courseTitle": "Adv Struct Typology"
+        },
+        {
+            "catalogTitle": "ARCH 6311",
+            "section": "001",
+            "courseTitle": "Arch'L Structures IIG"
+        },
+        {
+            "catalogTitle": "ARCH 6350",
+            "section": "001",
+            "courseTitle": "Environm'L Controls IG"
+        },
+        {
+            "catalogTitle": "ARCH 6370",
+            "section": "001",
+            "courseTitle": "Advanced Tech Const"
+        },
+        {
+            "catalogTitle": "ARCH 6371",
+            "section": "001",
+            "courseTitle": "Intensive Mat & Const"
+        },
+        {
+            "catalogTitle": "ARCH 6371",
+            "section": "002",
+            "courseTitle": "Intensive Mat & Const"
+        },
+        {
+            "catalogTitle": "ARCH 6500",
+            "section": "001",
+            "courseTitle": "Pres. Theory & Practice"
+        },
+        {
+            "catalogTitle": "ARCH 6700",
+            "section": "002",
+            "courseTitle": "Arch Pract-Phil I"
+        },
+        {
+            "catalogTitle": "ARCH 6720",
+            "section": "002",
+            "courseTitle": "Project Finance/Econmcs"
+        },
+        {
+            "catalogTitle": "ARCH 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        }
+    ]
+}

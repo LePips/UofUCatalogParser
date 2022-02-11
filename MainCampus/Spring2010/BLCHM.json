@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "001",
+            "courseTitle": "Journal Club/Grant Wrtg"
+        },
+        {
+            "catalogTitle": "BLCHM 6460",
+            "section": "001",
+            "courseTitle": "Protein Chemistry"
+        },
+        {
+            "catalogTitle": "BLCHM 6500",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        }
+    ]
+}

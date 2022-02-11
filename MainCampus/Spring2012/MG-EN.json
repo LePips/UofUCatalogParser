@@ -1,0 +1,254 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MG EN 501",
+            "section": "001",
+            "courseTitle": "Undrgrnd Mining Methods"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "001",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "002",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "003",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "004",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "005",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "006",
+            "courseTitle": "Technical Communication"
+        },
+        {
+            "catalogTitle": "MG EN 3400",
+            "section": "001",
+            "courseTitle": "Mine Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 3400",
+            "section": "002",
+            "courseTitle": "Mine Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 4990",
+            "section": "001",
+            "courseTitle": "Mining Seminar"
+        },
+        {
+            "catalogTitle": "MG EN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "MG EN 5010",
+            "section": "001",
+            "courseTitle": "Undrgrnd Mining Methods"
+        },
+        {
+            "catalogTitle": "MG EN 5080",
+            "section": "001",
+            "courseTitle": "Permitting and Reclamation"
+        },
+        {
+            "catalogTitle": "MG EN 5090",
+            "section": "001",
+            "courseTitle": "Undrgrnd Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 5090",
+            "section": "002",
+            "courseTitle": "Undrgrnd Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 5110",
+            "section": "001",
+            "courseTitle": "Operations Research"
+        },
+        {
+            "catalogTitle": "MG EN 5120",
+            "section": "001",
+            "courseTitle": "Surface Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 5120",
+            "section": "002",
+            "courseTitle": "Surface Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 5150",
+            "section": "001",
+            "courseTitle": "Mechanics of Materials"
+        },
+        {
+            "catalogTitle": "MG EN 5150",
+            "section": "002",
+            "courseTitle": "Mechanics of Materials"
+        },
+        {
+            "catalogTitle": "MG EN 5170",
+            "section": "001",
+            "courseTitle": "Mine Admin & Finance"
+        },
+        {
+            "catalogTitle": "MG EN 5290",
+            "section": "001",
+            "courseTitle": "FEM & Numerical Models"
+        },
+        {
+            "catalogTitle": "MG EN 5290",
+            "section": "002",
+            "courseTitle": "FEM & Numerical Models"
+        },
+        {
+            "catalogTitle": "MG EN 5970",
+            "section": "001",
+            "courseTitle": "Intern Program"
+        },
+        {
+            "catalogTitle": "MG EN 5970",
+            "section": "002",
+            "courseTitle": "Intern Program"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "002",
+            "courseTitle": "SURVCADD"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "003",
+            "courseTitle": "Mechanics of Materials Lab"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "004",
+            "courseTitle": "Risk Management"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "005",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "006",
+            "courseTitle": "Surface Mine Design Lecture"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "007",
+            "courseTitle": "Surface Mine Design Lab"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "008",
+            "courseTitle": "Advanced Mine Finance"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "002",
+            "courseTitle": "Surface Mine Design"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "003",
+            "courseTitle": "FEM & Numerical Models"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "004",
+            "courseTitle": "SURVCADD"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "005",
+            "courseTitle": "Operations Research"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "006",
+            "courseTitle": "Underground Mining Methods/Des"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "007",
+            "courseTitle": "Mine Administration & Finance"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "009",
+            "courseTitle": "Experimental Rock Mechanics"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "010",
+            "courseTitle": "Risk Management"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "013",
+            "courseTitle": "Permitting & Reclamation"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "015",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "MG EN 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MG EN 7800",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MG EN 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

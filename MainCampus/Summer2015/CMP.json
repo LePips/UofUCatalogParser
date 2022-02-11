@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CMP 541",
+            "section": "001",
+            "courseTitle": "Site Planning"
+        },
+        {
+            "catalogTitle": "CMP 696",
+            "section": "002",
+            "courseTitle": "Real Estate Dev Due Diligence"
+        },
+        {
+            "catalogTitle": "CMP 3200",
+            "section": "001",
+            "courseTitle": "Ecology for Planners"
+        },
+        {
+            "catalogTitle": "CMP 4960",
+            "section": "001",
+            "courseTitle": "Site Development"
+        },
+        {
+            "catalogTitle": "CMP 6390",
+            "section": "001",
+            "courseTitle": "Sustainability Planning"
+        },
+        {
+            "catalogTitle": "CMP 6410",
+            "section": "001",
+            "courseTitle": "Site Development"
+        },
+        {
+            "catalogTitle": "CMP 6450",
+            "section": "090",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "CMP 6950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 6960",
+            "section": "002",
+            "courseTitle": "Real Estate Dev Due Diligence"
+        },
+        {
+            "catalogTitle": "CMP 6960",
+            "section": "003",
+            "courseTitle": "Chicago Lab"
+        },
+        {
+            "catalogTitle": "CMP 6971",
+            "section": "001",
+            "courseTitle": "Professional Project"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CMP 7970",
+            "section": "001",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "CMP 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

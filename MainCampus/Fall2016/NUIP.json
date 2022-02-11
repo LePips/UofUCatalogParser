@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUIP 6383",
+            "section": "001",
+            "courseTitle": "Muscle Physiology"
+        },
+        {
+            "catalogTitle": "NUIP 6440",
+            "section": "001",
+            "courseTitle": "Macronutrient Metabolsm"
+        },
+        {
+            "catalogTitle": "NUIP 6440",
+            "section": "090",
+            "courseTitle": "Macronutrient Metabolsm"
+        },
+        {
+            "catalogTitle": "NUIP 6450",
+            "section": "001",
+            "courseTitle": "Nutrition Biochemistry"
+        },
+        {
+            "catalogTitle": "NUIP 7850",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        }
+    ]
+}

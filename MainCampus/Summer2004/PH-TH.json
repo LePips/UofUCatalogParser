@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PH TH 5880",
+            "section": "001",
+            "courseTitle": "Clinical Experience II"
+        },
+        {
+            "catalogTitle": "PH TH 5900",
+            "section": "001",
+            "courseTitle": "Clinical Internship I"
+        },
+        {
+            "catalogTitle": "PH TH 6870",
+            "section": "001",
+            "courseTitle": "Clinical Experience III"
+        },
+        {
+            "catalogTitle": "PH TH 6880",
+            "section": "001",
+            "courseTitle": "Clinical Experience IV"
+        },
+        {
+            "catalogTitle": "PH TH 6890",
+            "section": "001",
+            "courseTitle": "Clinical Internship II"
+        },
+        {
+            "catalogTitle": "PH TH 6920",
+            "section": "001",
+            "courseTitle": "Indiv Study & Research"
+        }
+    ]
+}

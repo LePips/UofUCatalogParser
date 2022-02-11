@@ -1,0 +1,359 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LAW 6060",
+            "section": "001",
+            "courseTitle": "Constitutional Law I"
+        },
+        {
+            "catalogTitle": "LAW 6060",
+            "section": "002",
+            "courseTitle": "Constitutional Law I"
+        },
+        {
+            "catalogTitle": "LAW 6060",
+            "section": "003",
+            "courseTitle": "Constitutional Law I"
+        },
+        {
+            "catalogTitle": "LAW 6100",
+            "section": "001",
+            "courseTitle": "Criminal Law"
+        },
+        {
+            "catalogTitle": "LAW 6100",
+            "section": "002",
+            "courseTitle": "Criminal Law"
+        },
+        {
+            "catalogTitle": "LAW 6120",
+            "section": "001",
+            "courseTitle": "Property"
+        },
+        {
+            "catalogTitle": "LAW 6120",
+            "section": "002",
+            "courseTitle": "Property"
+        },
+        {
+            "catalogTitle": "LAW 6120",
+            "section": "003",
+            "courseTitle": "Property"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "001",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "002",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "003",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 6180",
+            "section": "004",
+            "courseTitle": "Legal Methods"
+        },
+        {
+            "catalogTitle": "LAW 7002",
+            "section": "001",
+            "courseTitle": "Federal Courts"
+        },
+        {
+            "catalogTitle": "LAW 7003",
+            "section": "001",
+            "courseTitle": "Conflict of Laws"
+        },
+        {
+            "catalogTitle": "LAW 7010",
+            "section": "001",
+            "courseTitle": "Mediation/Adv Negotiation"
+        },
+        {
+            "catalogTitle": "LAW 7030",
+            "section": "001",
+            "courseTitle": "Criminal Procedure"
+        },
+        {
+            "catalogTitle": "LAW 7040",
+            "section": "001",
+            "courseTitle": "Evidence"
+        },
+        {
+            "catalogTitle": "LAW 7050",
+            "section": "001",
+            "courseTitle": "Bus Organizations"
+        },
+        {
+            "catalogTitle": "LAW 7051",
+            "section": "001",
+            "courseTitle": "Business Planning"
+        },
+        {
+            "catalogTitle": "LAW 7052",
+            "section": "001",
+            "courseTitle": "Int'l Business Transact"
+        },
+        {
+            "catalogTitle": "LAW 7056",
+            "section": "001",
+            "courseTitle": "Corporate Finance"
+        },
+        {
+            "catalogTitle": "LAW 7060",
+            "section": "001",
+            "courseTitle": "Commercial Law"
+        },
+        {
+            "catalogTitle": "LAW 7072",
+            "section": "001",
+            "courseTitle": "Trial Advocacy"
+        },
+        {
+            "catalogTitle": "LAW 7074",
+            "section": "001",
+            "courseTitle": "Family Law"
+        },
+        {
+            "catalogTitle": "LAW 7080",
+            "section": "001",
+            "courseTitle": "Cyberlaw and E-Commerce"
+        },
+        {
+            "catalogTitle": "LAW 7098",
+            "section": "001",
+            "courseTitle": "Traynor Moot Court"
+        },
+        {
+            "catalogTitle": "LAW 7230",
+            "section": "001",
+            "courseTitle": "Water Law"
+        },
+        {
+            "catalogTitle": "LAW 7250",
+            "section": "001",
+            "courseTitle": "Wildlife Law"
+        },
+        {
+            "catalogTitle": "LAW 7250",
+            "section": "002",
+            "courseTitle": "Envirmntl Conflict Resolution"
+        },
+        {
+            "catalogTitle": "LAW 7260",
+            "section": "001",
+            "courseTitle": "Environmental Practice"
+        },
+        {
+            "catalogTitle": "LAW 7300",
+            "section": "001",
+            "courseTitle": "Administrative Law"
+        },
+        {
+            "catalogTitle": "LAW 7350",
+            "section": "001",
+            "courseTitle": "Immigration Law"
+        },
+        {
+            "catalogTitle": "LAW 7410",
+            "section": "001",
+            "courseTitle": "Constitutional Law II"
+        },
+        {
+            "catalogTitle": "LAW 7420",
+            "section": "001",
+            "courseTitle": "Rights of Crime Victims"
+        },
+        {
+            "catalogTitle": "LAW 7440",
+            "section": "001",
+            "courseTitle": "Teaching Law in H.S."
+        },
+        {
+            "catalogTitle": "LAW 7560",
+            "section": "001",
+            "courseTitle": "Adv Legal Resrch"
+        },
+        {
+            "catalogTitle": "LAW 7570",
+            "section": "001",
+            "courseTitle": "Drafting: Contracts"
+        },
+        {
+            "catalogTitle": "LAW 7600",
+            "section": "001",
+            "courseTitle": "Trusts & Estates"
+        },
+        {
+            "catalogTitle": "LAW 7602",
+            "section": "001",
+            "courseTitle": "Estate Planning"
+        },
+        {
+            "catalogTitle": "LAW 7631",
+            "section": "001",
+            "courseTitle": "European Union Law"
+        },
+        {
+            "catalogTitle": "LAW 7760",
+            "section": "001",
+            "courseTitle": "Patent Law"
+        },
+        {
+            "catalogTitle": "LAW 7773",
+            "section": "001",
+            "courseTitle": "IP Licensing"
+        },
+        {
+            "catalogTitle": "LAW 7775",
+            "section": "001",
+            "courseTitle": "Bus Bankruptcy: Reorgs"
+        },
+        {
+            "catalogTitle": "LAW 7779",
+            "section": "001",
+            "courseTitle": "Amer Health Care System"
+        },
+        {
+            "catalogTitle": "LAW 7782",
+            "section": "001",
+            "courseTitle": "Justice Thru Research"
+        },
+        {
+            "catalogTitle": "LAW 7786",
+            "section": "001",
+            "courseTitle": "Jurisprudence"
+        },
+        {
+            "catalogTitle": "LAW 7788",
+            "section": "001",
+            "courseTitle": "New Ventures"
+        },
+        {
+            "catalogTitle": "LAW 7789",
+            "section": "001",
+            "courseTitle": "Prsptvs Counter-Terror"
+        },
+        {
+            "catalogTitle": "LAW 7793",
+            "section": "001",
+            "courseTitle": "Juvenile Court Law"
+        },
+        {
+            "catalogTitle": "LAW 7797",
+            "section": "001",
+            "courseTitle": "International Bankruptcy"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "001",
+            "courseTitle": "Law, Religion & Environmntlsm"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "002",
+            "courseTitle": "Corporate Citizenship"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "003",
+            "courseTitle": "Int'l Law Foreign Investment"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "004",
+            "courseTitle": "Takings"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "005",
+            "courseTitle": "Climate Change"
+        },
+        {
+            "catalogTitle": "LAW 7836",
+            "section": "001",
+            "courseTitle": "Leg Issues Archaeology"
+        },
+        {
+            "catalogTitle": "LAW 7844",
+            "section": "001",
+            "courseTitle": "Public Policy Practicum"
+        },
+        {
+            "catalogTitle": "LAW 7851",
+            "section": "001",
+            "courseTitle": "Real Estate Trans/Finan"
+        },
+        {
+            "catalogTitle": "LAW 7863",
+            "section": "001",
+            "courseTitle": "Legislation"
+        },
+        {
+            "catalogTitle": "LAW 7876",
+            "section": "001",
+            "courseTitle": "Copyright Law"
+        },
+        {
+            "catalogTitle": "LAW 7877",
+            "section": "001",
+            "courseTitle": "Int'l Law Colloquium"
+        },
+        {
+            "catalogTitle": "LAW 7878",
+            "section": "001",
+            "courseTitle": "Terrorism Sim. Design"
+        },
+        {
+            "catalogTitle": "LAW 7900",
+            "section": "001",
+            "courseTitle": "Legal Profession"
+        },
+        {
+            "catalogTitle": "LAW 7910",
+            "section": "001",
+            "courseTitle": "Medieval English Law"
+        },
+        {
+            "catalogTitle": "LAW 7910",
+            "section": "002",
+            "courseTitle": "American Legal History"
+        },
+        {
+            "catalogTitle": "LAW 7920",
+            "section": "001",
+            "courseTitle": "Lawyering Skills Survey"
+        },
+        {
+            "catalogTitle": "LAW 7940",
+            "section": "001",
+            "courseTitle": "Judicial Process"
+        },
+        {
+            "catalogTitle": "LAW 7981",
+            "section": "001",
+            "courseTitle": "JLFS"
+        },
+        {
+            "catalogTitle": "LAW 7981",
+            "section": "002",
+            "courseTitle": "Utah Environmental Law Review"
+        },
+        {
+            "catalogTitle": "LAW 7981",
+            "section": "003",
+            "courseTitle": "Utah Law Review"
+        },
+        {
+            "catalogTitle": "LAW 7990",
+            "section": "001",
+            "courseTitle": "Criminal Process"
+        }
+    ]
+}

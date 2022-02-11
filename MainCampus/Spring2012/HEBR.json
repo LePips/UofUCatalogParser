@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 102",
+            "section": "001",
+            "courseTitle": "Beg Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 202",
+            "section": "001",
+            "courseTitle": "Interm Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 1020",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 4300",
+            "section": "001",
+            "courseTitle": "Jewish/Israeli Culture"
+        },
+        {
+            "catalogTitle": "HEBR 6300",
+            "section": "001",
+            "courseTitle": "Jewish/Israeli Culture"
+        },
+        {
+            "catalogTitle": "HEBR 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 7300",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 663",
+            "section": "001",
+            "courseTitle": "Bike Repair I"
+        },
+        {
+            "catalogTitle": "LLREC 670",
+            "section": "001",
+            "courseTitle": "Sculling"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "001",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 746",
+            "section": "001",
+            "courseTitle": "Beg. Golf Women"
+        },
+        {
+            "catalogTitle": "LLREC 750",
+            "section": "001",
+            "courseTitle": "Backyard Hikes"
+        },
+        {
+            "catalogTitle": "LLREC 756",
+            "section": "001",
+            "courseTitle": "A Walking Tour of SL Treasure"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 767",
+            "section": "001",
+            "courseTitle": "How to Plan a Backpack Trip"
+        }
+    ]
+}

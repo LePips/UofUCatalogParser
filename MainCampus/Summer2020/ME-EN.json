@@ -1,3 +1,109 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "001",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2030",
+            "section": "001",
+            "courseTitle": "Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2300",
+            "section": "001",
+            "courseTitle": "Thermodynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2550",
+            "section": "001",
+            "courseTitle": "Prob & Stats for Eng"
+        },
+        {
+            "catalogTitle": "ME EN 3000",
+            "section": "001",
+            "courseTitle": "Design of Mech Elements"
+        },
+        {
+            "catalogTitle": "ME EN 3220",
+            "section": "001",
+            "courseTitle": "Dynamic Sys & Control"
+        },
+        {
+            "catalogTitle": "ME EN 3400",
+            "section": "001",
+            "courseTitle": "Prof Comm for MEs"
+        },
+        {
+            "catalogTitle": "ME EN 3400",
+            "section": "002",
+            "courseTitle": "Prof Comm for MEs"
+        },
+        {
+            "catalogTitle": "ME EN 3650",
+            "section": "001",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 3710",
+            "section": "001",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 5050",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ME EN 5200",
+            "section": "001",
+            "courseTitle": "Classical Control Sys"
+        },
+        {
+            "catalogTitle": "ME EN 5510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "001",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "002",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "003",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 6050",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ME EN 6200",
+            "section": "001",
+            "courseTitle": "Classical Control Sys"
+        },
+        {
+            "catalogTitle": "ME EN 6510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "001",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation"
+        }
+    ]
 }

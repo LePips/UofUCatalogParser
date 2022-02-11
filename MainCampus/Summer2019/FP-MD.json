@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FP MD 6001",
+            "section": "001",
+            "courseTitle": "Clinical Medicine I"
+        },
+        {
+            "catalogTitle": "FP MD 6002",
+            "section": "001",
+            "courseTitle": "Bioscience"
+        },
+        {
+            "catalogTitle": "FP MD 6003",
+            "section": "001",
+            "courseTitle": "Emergency Medicine"
+        },
+        {
+            "catalogTitle": "FP MD 6010",
+            "section": "001",
+            "courseTitle": "Clinical Science"
+        },
+        {
+            "catalogTitle": "FP MD 6023",
+            "section": "001",
+            "courseTitle": "Specialty Care III"
+        },
+        {
+            "catalogTitle": "FP MD 6033",
+            "section": "001",
+            "courseTitle": "Drug T Primary Care III"
+        },
+        {
+            "catalogTitle": "FP MD 6040",
+            "section": "001",
+            "courseTitle": "Intro Prof Issues"
+        },
+        {
+            "catalogTitle": "FP MD 6043",
+            "section": "001",
+            "courseTitle": "Patient Problem Mgt III"
+        },
+        {
+            "catalogTitle": "FP MD 6053",
+            "section": "001",
+            "courseTitle": "Evidence-Based Med III"
+        },
+        {
+            "catalogTitle": "FP MD 6062",
+            "section": "001",
+            "courseTitle": "Clinical Skills II"
+        },
+        {
+            "catalogTitle": "FP MD 6705",
+            "section": "001",
+            "courseTitle": "Occ & Env. Medicine"
+        },
+        {
+            "catalogTitle": "FP MD 6706",
+            "section": "001",
+            "courseTitle": "Aerospace Medicine"
+        },
+        {
+            "catalogTitle": "FP MD 7180",
+            "section": "001",
+            "courseTitle": "Fam Med Clerkship"
+        },
+        {
+            "catalogTitle": "FP MD 7200",
+            "section": "001",
+            "courseTitle": "Fam Med Preceptorship"
+        },
+        {
+            "catalogTitle": "FP MD 7210",
+            "section": "001",
+            "courseTitle": "Fam Med Subinternship"
+        },
+        {
+            "catalogTitle": "FP MD 7220",
+            "section": "001",
+            "courseTitle": "Fam Med Leadership Prog"
+        },
+        {
+            "catalogTitle": "FP MD 7400",
+            "section": "001",
+            "courseTitle": "Fam Med Sp Projects"
+        }
+    ]
+}

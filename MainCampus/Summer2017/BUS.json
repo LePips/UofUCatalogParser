@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BUS 105",
+            "section": "001",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 290",
+            "section": "001",
+            "courseTitle": "Intro International Bus"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "001",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "002",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 2900",
+            "section": "001",
+            "courseTitle": "Intro International Bus"
+        },
+        {
+            "catalogTitle": "BUS 3820",
+            "section": "001",
+            "courseTitle": "The Economics of Sports"
+        },
+        {
+            "catalogTitle": "BUS 3870",
+            "section": "001",
+            "courseTitle": "Class, Race & Dream"
+        },
+        {
+            "catalogTitle": "BUS 3920",
+            "section": "001",
+            "courseTitle": "Erly-Mdrn Theatre as Markets"
+        },
+        {
+            "catalogTitle": "BUS 3940",
+            "section": "001",
+            "courseTitle": "Global in Lit & Film"
+        },
+        {
+            "catalogTitle": "BUS 5880",
+            "section": "001",
+            "courseTitle": "Business Intern Program"
+        }
+    ]
+}

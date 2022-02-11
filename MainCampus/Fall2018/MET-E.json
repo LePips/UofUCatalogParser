@@ -1,0 +1,304 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MET E 1610",
+            "section": "001",
+            "courseTitle": "Intr Extract Metallurgy"
+        },
+        {
+            "catalogTitle": "MET E 1630",
+            "section": "001",
+            "courseTitle": "Intro Metallurgical E.I"
+        },
+        {
+            "catalogTitle": "MET E 3070",
+            "section": "001",
+            "courseTitle": "Statistical Methods"
+        },
+        {
+            "catalogTitle": "MET E 3070",
+            "section": "002",
+            "courseTitle": "Statistical Methods"
+        },
+        {
+            "catalogTitle": "MET E 3200",
+            "section": "001",
+            "courseTitle": "Comp Methods in Met Eng"
+        },
+        {
+            "catalogTitle": "MET E 4990",
+            "section": "001",
+            "courseTitle": "Undergraduate Seminar"
+        },
+        {
+            "catalogTitle": "MET E 5050",
+            "section": "001",
+            "courseTitle": "Non-Crystalline Solids"
+        },
+        {
+            "catalogTitle": "MET E 5210",
+            "section": "001",
+            "courseTitle": "Nuclear Materials"
+        },
+        {
+            "catalogTitle": "MET E 5250",
+            "section": "001",
+            "courseTitle": "X-ray Diffraction"
+        },
+        {
+            "catalogTitle": "MET E 5260",
+            "section": "001",
+            "courseTitle": "Physical Metallurgy I"
+        },
+        {
+            "catalogTitle": "MET E 5270",
+            "section": "001",
+            "courseTitle": "Powder Metallurgy"
+        },
+        {
+            "catalogTitle": "MET E 5450",
+            "section": "001",
+            "courseTitle": "Mechanical Metallurgy"
+        },
+        {
+            "catalogTitle": "MET E 5680",
+            "section": "001",
+            "courseTitle": "Mineral Processing II"
+        },
+        {
+            "catalogTitle": "MET E 5680",
+            "section": "002",
+            "courseTitle": "Mineral Processing II"
+        },
+        {
+            "catalogTitle": "MET E 5680",
+            "section": "003",
+            "courseTitle": "Mineral Processing II"
+        },
+        {
+            "catalogTitle": "MET E 5710",
+            "section": "001",
+            "courseTitle": "High Temp Chem Process"
+        },
+        {
+            "catalogTitle": "MET E 5710",
+            "section": "002",
+            "courseTitle": "High Temp Chem Process"
+        },
+        {
+            "catalogTitle": "MET E 5800",
+            "section": "001",
+            "courseTitle": "Renewable Energy"
+        },
+        {
+            "catalogTitle": "MET E 5910",
+            "section": "004",
+            "courseTitle": "Intro to Statistical Methods"
+        },
+        {
+            "catalogTitle": "MET E 6210",
+            "section": "001",
+            "courseTitle": "Nuclear Materials"
+        },
+        {
+            "catalogTitle": "MET E 6250",
+            "section": "001",
+            "courseTitle": "X-ray Diffraction"
+        },
+        {
+            "catalogTitle": "MET E 6260",
+            "section": "001",
+            "courseTitle": "Physical Metallurgy I"
+        },
+        {
+            "catalogTitle": "MET E 6270",
+            "section": "001",
+            "courseTitle": "Powder Metallurgy"
+        },
+        {
+            "catalogTitle": "MET E 6450",
+            "section": "001",
+            "courseTitle": "Mechanical Metallurgy"
+        },
+        {
+            "catalogTitle": "MET E 6680",
+            "section": "001",
+            "courseTitle": "Mineral Processing II"
+        },
+        {
+            "catalogTitle": "MET E 6680",
+            "section": "002",
+            "courseTitle": "Mineral Processing II"
+        },
+        {
+            "catalogTitle": "MET E 6680",
+            "section": "003",
+            "courseTitle": "Mineral Processing II"
+        },
+        {
+            "catalogTitle": "MET E 6710",
+            "section": "001",
+            "courseTitle": "High Temp Chem Process"
+        },
+        {
+            "catalogTitle": "MET E 6710",
+            "section": "002",
+            "courseTitle": "High Temp Chem Process"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "009",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "012",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 7800",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "MET E 7910",
+            "section": "001",
+            "courseTitle": "Renewable Energy"
+        },
+        {
+            "catalogTitle": "MET E 7910",
+            "section": "002",
+            "courseTitle": "Selected Topics"
+        },
+        {
+            "catalogTitle": "MET E 7910",
+            "section": "014",
+            "courseTitle": "Adv Comput Methods in MET E"
+        },
+        {
+            "catalogTitle": "MET E 7920",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 7920",
+            "section": "011",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 7920",
+            "section": "012",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 7920",
+            "section": "013",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

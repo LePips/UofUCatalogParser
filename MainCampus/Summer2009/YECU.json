@@ -1,0 +1,404 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YECU 20",
+            "section": "001",
+            "courseTitle": "College Days (Age 13-15)"
+        },
+        {
+            "catalogTitle": "YECU 401",
+            "section": "001",
+            "courseTitle": "Club U'ology (Age 5-13)"
+        },
+        {
+            "catalogTitle": "YECU 401",
+            "section": "002",
+            "courseTitle": "Club U'ology (Age 5-13)"
+        },
+        {
+            "catalogTitle": "YECU 401",
+            "section": "003",
+            "courseTitle": "Club U'ology (Age 5-13)"
+        },
+        {
+            "catalogTitle": "YECU 402",
+            "section": "001",
+            "courseTitle": "Technology Craze in Green Ways"
+        },
+        {
+            "catalogTitle": "YECU 402",
+            "section": "002",
+            "courseTitle": "Technology Craze in Green Ways"
+        },
+        {
+            "catalogTitle": "YECU 402",
+            "section": "003",
+            "courseTitle": "Technology Craze in Green Ways"
+        },
+        {
+            "catalogTitle": "YECU 403",
+            "section": "001",
+            "courseTitle": "Quest of the Caped Critters"
+        },
+        {
+            "catalogTitle": "YECU 403",
+            "section": "002",
+            "courseTitle": "Quest of the Caped Critters"
+        },
+        {
+            "catalogTitle": "YECU 403",
+            "section": "003",
+            "courseTitle": "Quest of the Caped Critters"
+        },
+        {
+            "catalogTitle": "YECU 404",
+            "section": "001",
+            "courseTitle": "Into the Wild Wasatch (5-13)"
+        },
+        {
+            "catalogTitle": "YECU 404",
+            "section": "002",
+            "courseTitle": "Into the Wild Wasatch (5-13)"
+        },
+        {
+            "catalogTitle": "YECU 404",
+            "section": "003",
+            "courseTitle": "Into the Wild Wasatch (5-13)"
+        },
+        {
+            "catalogTitle": "YECU 405",
+            "section": "001",
+            "courseTitle": "Tropical Island Adventure (5-1"
+        },
+        {
+            "catalogTitle": "YECU 405",
+            "section": "002",
+            "courseTitle": "Tropical Island Adventure (5-1"
+        },
+        {
+            "catalogTitle": "YECU 405",
+            "section": "003",
+            "courseTitle": "Tropical Island Adventure (5-1"
+        },
+        {
+            "catalogTitle": "YECU 406",
+            "section": "001",
+            "courseTitle": "A Wizard's \"Wand\"erful World"
+        },
+        {
+            "catalogTitle": "YECU 406",
+            "section": "002",
+            "courseTitle": "A Wizard's \"Wand\"erful World"
+        },
+        {
+            "catalogTitle": "YECU 406",
+            "section": "003",
+            "courseTitle": "A Wizard's \"Wand\"erful World"
+        },
+        {
+            "catalogTitle": "YECU 407",
+            "section": "001",
+            "courseTitle": "Brains, Beakers, Bubbles (5-13"
+        },
+        {
+            "catalogTitle": "YECU 407",
+            "section": "002",
+            "courseTitle": "Brains, Beakers, Bubbles (5-13"
+        },
+        {
+            "catalogTitle": "YECU 407",
+            "section": "003",
+            "courseTitle": "Brains, Beakers, Bubbles (5-13"
+        },
+        {
+            "catalogTitle": "YECU 408",
+            "section": "001",
+            "courseTitle": "\"U\" Marks the Spot"
+        },
+        {
+            "catalogTitle": "YECU 408",
+            "section": "002",
+            "courseTitle": "\"U\" Marks the Spot"
+        },
+        {
+            "catalogTitle": "YECU 408",
+            "section": "003",
+            "courseTitle": "\"U\" Marks the Spot"
+        },
+        {
+            "catalogTitle": "YECU 409",
+            "section": "001",
+            "courseTitle": "Your Claim to Fame (5-13)"
+        },
+        {
+            "catalogTitle": "YECU 409",
+            "section": "002",
+            "courseTitle": "Your Claim to Fame (5-13)"
+        },
+        {
+            "catalogTitle": "YECU 409",
+            "section": "003",
+            "courseTitle": "Your Claim to Fame (5-13)"
+        },
+        {
+            "catalogTitle": "YECU 410",
+            "section": "001",
+            "courseTitle": "Scientific Super Sleuth"
+        },
+        {
+            "catalogTitle": "YECU 410",
+            "section": "002",
+            "courseTitle": "Scientific Super Sleuth"
+        },
+        {
+            "catalogTitle": "YECU 410",
+            "section": "003",
+            "courseTitle": "Scientific Super Sleuth"
+        },
+        {
+            "catalogTitle": "YECU 411",
+            "section": "001",
+            "courseTitle": "Splish Splash Bash"
+        },
+        {
+            "catalogTitle": "YECU 411",
+            "section": "002",
+            "courseTitle": "Splish Splash Bash"
+        },
+        {
+            "catalogTitle": "YECU 411",
+            "section": "003",
+            "courseTitle": "Splish Splash Bash"
+        },
+        {
+            "catalogTitle": "YECU 422",
+            "section": "001",
+            "courseTitle": "Technology Craze in Green Ways"
+        },
+        {
+            "catalogTitle": "YECU 422",
+            "section": "002",
+            "courseTitle": "Technology Craze in Green Ways"
+        },
+        {
+            "catalogTitle": "YECU 423",
+            "section": "001",
+            "courseTitle": "Quest of the Caped Critters"
+        },
+        {
+            "catalogTitle": "YECU 423",
+            "section": "002",
+            "courseTitle": "Quest of the Caped Critters"
+        },
+        {
+            "catalogTitle": "YECU 425",
+            "section": "001",
+            "courseTitle": "Tropical Island Adventure"
+        },
+        {
+            "catalogTitle": "YECU 425",
+            "section": "002",
+            "courseTitle": "Tropical Island Adventure"
+        },
+        {
+            "catalogTitle": "YECU 426",
+            "section": "001",
+            "courseTitle": "A Wizards Wonderful World"
+        },
+        {
+            "catalogTitle": "YECU 426",
+            "section": "002",
+            "courseTitle": "A Wizards Wonderful World"
+        },
+        {
+            "catalogTitle": "YECU 428",
+            "section": "001",
+            "courseTitle": "U Marks the Spot"
+        },
+        {
+            "catalogTitle": "YECU 428",
+            "section": "002",
+            "courseTitle": "U Marks the Spot"
+        },
+        {
+            "catalogTitle": "YECU 429",
+            "section": "001",
+            "courseTitle": "Your Claim to Fame"
+        },
+        {
+            "catalogTitle": "YECU 429",
+            "section": "002",
+            "courseTitle": "Your Claim to Fame"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "001",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "002",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "003",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "004",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "005",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "006",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "007",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "008",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "009",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "010",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "011",
+            "courseTitle": "Two Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "001",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "002",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "003",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "004",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "005",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "006",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "007",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "008",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "009",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "010",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "011",
+            "courseTitle": "Five Day Lounge (Age 5-15)"
+        },
+        {
+            "catalogTitle": "YECU 920",
+            "section": "001",
+            "courseTitle": "Bountiful: Two Day Club U Loun"
+        },
+        {
+            "catalogTitle": "YECU 920",
+            "section": "002",
+            "courseTitle": "Bountiful: Two Day Club U Loun"
+        },
+        {
+            "catalogTitle": "YECU 920",
+            "section": "003",
+            "courseTitle": "Bountiful: Two Day Club U Loun"
+        },
+        {
+            "catalogTitle": "YECU 920",
+            "section": "004",
+            "courseTitle": "Bountiful: Two Day Club U Loun"
+        },
+        {
+            "catalogTitle": "YECU 920",
+            "section": "005",
+            "courseTitle": "Bountiful: Two Day Club U Loun"
+        },
+        {
+            "catalogTitle": "YECU 920",
+            "section": "006",
+            "courseTitle": "Bountiful: Two Day Club U Loun"
+        },
+        {
+            "catalogTitle": "YECU 921",
+            "section": "001",
+            "courseTitle": "Bountiful: Five Day Club U Lou"
+        },
+        {
+            "catalogTitle": "YECU 921",
+            "section": "002",
+            "courseTitle": "Bountiful: Five Day Club U Lou"
+        },
+        {
+            "catalogTitle": "YECU 921",
+            "section": "003",
+            "courseTitle": "Bountiful: Five Day Club U Lou"
+        },
+        {
+            "catalogTitle": "YECU 921",
+            "section": "004",
+            "courseTitle": "Bountiful: Five Day Club U Lou"
+        },
+        {
+            "catalogTitle": "YECU 921",
+            "section": "005",
+            "courseTitle": "Bountiful: Five Day Club U Lou"
+        },
+        {
+            "catalogTitle": "YECU 921",
+            "section": "006",
+            "courseTitle": "Bountiful: Five Day Club U Lou"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 3000",
+            "section": "001",
+            "courseTitle": "Nuclear Principles"
+        },
+        {
+            "catalogTitle": "NUCL 5000",
+            "section": "001",
+            "courseTitle": "Health Physics"
+        },
+        {
+            "catalogTitle": "NUCL 5030",
+            "section": "001",
+            "courseTitle": "Nuclear Principles"
+        },
+        {
+            "catalogTitle": "NUCL 5100",
+            "section": "001",
+            "courseTitle": "Reactor Physics"
+        },
+        {
+            "catalogTitle": "NUCL 6030",
+            "section": "001",
+            "courseTitle": "Nuclear Principles"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

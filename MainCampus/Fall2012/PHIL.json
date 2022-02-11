@@ -1,0 +1,274 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 100",
+            "section": "060",
+            "courseTitle": "Intro: Survey of Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 102",
+            "section": "001",
+            "courseTitle": "Intro: God, Faith, & Reason"
+        },
+        {
+            "catalogTitle": "PHIL 125",
+            "section": "001",
+            "courseTitle": "Reasning/Rational Decision Mkg"
+        },
+        {
+            "catalogTitle": "PHIL 353",
+            "section": "001",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "060",
+            "courseTitle": "Intro: Survey of Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "090",
+            "courseTitle": "Intro: Survey of Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1001",
+            "section": "001",
+            "courseTitle": "Intro: Ethical Dilemmas"
+        },
+        {
+            "catalogTitle": "PHIL 1001",
+            "section": "090",
+            "courseTitle": "Intro: Ethical Dilemmas"
+        },
+        {
+            "catalogTitle": "PHIL 1002",
+            "section": "001",
+            "courseTitle": "Intro: God, Faith, & Reason"
+        },
+        {
+            "catalogTitle": "PHIL 1003",
+            "section": "001",
+            "courseTitle": "Intro: Human Nature"
+        },
+        {
+            "catalogTitle": "PHIL 1003",
+            "section": "090",
+            "courseTitle": "Intro: Human Nature"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "001",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 2080",
+            "section": "001",
+            "courseTitle": "Phil Issues Feminism"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "001",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3210",
+            "section": "001",
+            "courseTitle": "Fnds Probability/Stat"
+        },
+        {
+            "catalogTitle": "PHIL 3310",
+            "section": "001",
+            "courseTitle": "Science And Society"
+        },
+        {
+            "catalogTitle": "PHIL 3370",
+            "section": "001",
+            "courseTitle": "Philosophy of Biology"
+        },
+        {
+            "catalogTitle": "PHIL 3400",
+            "section": "001",
+            "courseTitle": "Mind, Lang, Reality"
+        },
+        {
+            "catalogTitle": "PHIL 3500",
+            "section": "001",
+            "courseTitle": "Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "001",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "001",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3710",
+            "section": "001",
+            "courseTitle": "Phil Of Law"
+        },
+        {
+            "catalogTitle": "PHIL 3730",
+            "section": "001",
+            "courseTitle": "Justice & Int Affairs"
+        },
+        {
+            "catalogTitle": "PHIL 3730",
+            "section": "002",
+            "courseTitle": "Justice & Int Affairs"
+        },
+        {
+            "catalogTitle": "PHIL 4010",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        },
+        {
+            "catalogTitle": "PHIL 4120",
+            "section": "001",
+            "courseTitle": "Early Modern Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 4130",
+            "section": "001",
+            "courseTitle": "19th Century Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 5110",
+            "section": "001",
+            "courseTitle": "Ancient Medieval Phil"
+        },
+        {
+            "catalogTitle": "PHIL 5192",
+            "section": "001",
+            "courseTitle": "Building Evolutionary Trees"
+        },
+        {
+            "catalogTitle": "PHIL 5193",
+            "section": "001",
+            "courseTitle": "John Stuart Mill"
+        },
+        {
+            "catalogTitle": "PHIL 5450",
+            "section": "001",
+            "courseTitle": "Philosophy Of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 5500",
+            "section": "001",
+            "courseTitle": "Contemp Ethical Theory"
+        },
+        {
+            "catalogTitle": "PHIL 6110",
+            "section": "001",
+            "courseTitle": "Ancient Medieval Phil"
+        },
+        {
+            "catalogTitle": "PHIL 6192",
+            "section": "001",
+            "courseTitle": "Building Evolutionary Trees"
+        },
+        {
+            "catalogTitle": "PHIL 6193",
+            "section": "001",
+            "courseTitle": "John Stuart Mill"
+        },
+        {
+            "catalogTitle": "PHIL 6450",
+            "section": "001",
+            "courseTitle": "Phil Of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 6500",
+            "section": "001",
+            "courseTitle": "Contemporary Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 6910",
+            "section": "004",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 6920",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "PHIL 6970",
+            "section": "004",
+            "courseTitle": "MA/MS Thesis Research"
+        },
+        {
+            "catalogTitle": "PHIL 6980",
+            "section": "004",
+            "courseTitle": "Faculty Consult M.A."
+        },
+        {
+            "catalogTitle": "PHIL 7010",
+            "section": "001",
+            "courseTitle": "Proseminar"
+        },
+        {
+            "catalogTitle": "PHIL 7020",
+            "section": "001",
+            "courseTitle": "Sem Phil Traditions"
+        },
+        {
+            "catalogTitle": "PHIL 7400",
+            "section": "001",
+            "courseTitle": "Seminar Metaphysics"
+        },
+        {
+            "catalogTitle": "PHIL 7570",
+            "section": "001",
+            "courseTitle": "Research Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7980",
+            "section": "004",
+            "courseTitle": "Faculty Consult, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis., Ph.D"
+        }
+    ]
+}

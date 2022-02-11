@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "002",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "003",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improvisational Acting"
+        },
+        {
+            "catalogTitle": "LLMT 398",
+            "section": "001",
+            "courseTitle": "Fingerstyle Guitar"
+        },
+        {
+            "catalogTitle": "LLMT 401",
+            "section": "001",
+            "courseTitle": "Intro to Singing"
+        },
+        {
+            "catalogTitle": "LLMT 406",
+            "section": "001",
+            "courseTitle": "Blues Harmonica I"
+        },
+        {
+            "catalogTitle": "LLMT 406",
+            "section": "002",
+            "courseTitle": "Blues Harmonica I"
+        },
+        {
+            "catalogTitle": "LLMT 410",
+            "section": "001",
+            "courseTitle": "Choral Singing"
+        }
+    ]
+}

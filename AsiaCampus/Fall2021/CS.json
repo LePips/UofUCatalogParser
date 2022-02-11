@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CS 1420",
+            "section": "301",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 1420",
+            "section": "302",
+            "courseTitle": "Accel Obj-Orient Prog"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "301",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "302",
+            "courseTitle": "Intro Alg & Data Struct"
+        }
+    ]
+}

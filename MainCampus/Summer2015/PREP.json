@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PREP 100",
+            "section": "001",
+            "courseTitle": "LSAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "001",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "002",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "010",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "033",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "001",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "002",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "010",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "033",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 500",
+            "section": "005",
+            "courseTitle": "TOEFL Prep Course"
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 220",
+            "section": "003",
+            "courseTitle": "Intro to Film"
+        },
+        {
+            "catalogTitle": "FILM 332",
+            "section": "070",
+            "courseTitle": "History of Film"
+        },
+        {
+            "catalogTitle": "FILM 388",
+            "section": "001",
+            "courseTitle": "Acting in Film and Television"
+        },
+        {
+            "catalogTitle": "FILM 435",
+            "section": "001",
+            "courseTitle": "Adv Film/TV Acting"
+        },
+        {
+            "catalogTitle": "FILM 452",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 1900",
+            "section": "001",
+            "courseTitle": "Film Festival Wkshp"
+        },
+        {
+            "catalogTitle": "FILM 2200",
+            "section": "001",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2200",
+            "section": "002",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2200",
+            "section": "003",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 3210",
+            "section": "095",
+            "courseTitle": "Amer Film & Culture"
+        },
+        {
+            "catalogTitle": "FILM 3210",
+            "section": "096",
+            "courseTitle": "Amer Film & Culture"
+        },
+        {
+            "catalogTitle": "FILM 3210",
+            "section": "097",
+            "courseTitle": "Amer Film & Culture"
+        },
+        {
+            "catalogTitle": "FILM 3210",
+            "section": "098",
+            "courseTitle": "Amer Film & Culture"
+        },
+        {
+            "catalogTitle": "FILM 3210",
+            "section": "099",
+            "courseTitle": "Amer Film & Culture"
+        },
+        {
+            "catalogTitle": "FILM 3320",
+            "section": "001",
+            "courseTitle": "History of Film"
+        },
+        {
+            "catalogTitle": "FILM 3320",
+            "section": "002",
+            "courseTitle": "History of Film"
+        },
+        {
+            "catalogTitle": "FILM 3320",
+            "section": "070",
+            "courseTitle": "History of Film"
+        },
+        {
+            "catalogTitle": "FILM 3710",
+            "section": "001",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3710",
+            "section": "002",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3750",
+            "section": "001",
+            "courseTitle": "Third World Cinema"
+        },
+        {
+            "catalogTitle": "FILM 3760",
+            "section": "001",
+            "courseTitle": "Iranian Cinema"
+        },
+        {
+            "catalogTitle": "FILM 3880",
+            "section": "001",
+            "courseTitle": "Acting For Film/TV"
+        },
+        {
+            "catalogTitle": "FILM 3930",
+            "section": "002",
+            "courseTitle": "Undergrad Research Proj"
+        },
+        {
+            "catalogTitle": "FILM 3930",
+            "section": "003",
+            "courseTitle": "Undergrad Research Proj"
+        },
+        {
+            "catalogTitle": "FILM 4220",
+            "section": "001",
+            "courseTitle": "Film Study"
+        },
+        {
+            "catalogTitle": "FILM 4220",
+            "section": "002",
+            "courseTitle": "Film Study"
+        },
+        {
+            "catalogTitle": "FILM 4350",
+            "section": "001",
+            "courseTitle": "Adv Film/TV Acting"
+        },
+        {
+            "catalogTitle": "FILM 4375",
+            "section": "001",
+            "courseTitle": "Film and the Law"
+        },
+        {
+            "catalogTitle": "FILM 4510",
+            "section": "001",
+            "courseTitle": "Intermediate Animation"
+        },
+        {
+            "catalogTitle": "FILM 4520",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 4530",
+            "section": "001",
+            "courseTitle": "Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 4540",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 4710",
+            "section": "001",
+            "courseTitle": "Computer Animation II"
+        },
+        {
+            "catalogTitle": "FILM 4740",
+            "section": "001",
+            "courseTitle": "Animation Film Survey"
+        },
+        {
+            "catalogTitle": "FILM 4800",
+            "section": "001",
+            "courseTitle": "Animation Project I"
+        },
+        {
+            "catalogTitle": "FILM 4870",
+            "section": "001",
+            "courseTitle": "Study Film Theory/Crit"
+        },
+        {
+            "catalogTitle": "FILM 4930",
+            "section": "001",
+            "courseTitle": "Independent Research"
+        },
+        {
+            "catalogTitle": "FILM 4960",
+            "section": "001",
+            "courseTitle": "Indiv Proj-Film Prod"
+        },
+        {
+            "catalogTitle": "FILM 4960",
+            "section": "002",
+            "courseTitle": "Indiv Proj-Film Prod"
+        },
+        {
+            "catalogTitle": "FILM 4970",
+            "section": "001",
+            "courseTitle": "Indiv Proj-Film Acting"
+        },
+        {
+            "catalogTitle": "FILM 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "FILM 6480",
+            "section": "001",
+            "courseTitle": "Grad Film Directing"
+        },
+        {
+            "catalogTitle": "FILM 6490",
+            "section": "001",
+            "courseTitle": "Grad Videography"
+        },
+        {
+            "catalogTitle": "FILM 6510",
+            "section": "001",
+            "courseTitle": "Graduate Animation II"
+        },
+        {
+            "catalogTitle": "FILM 6520",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 6530",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 6540",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 6570",
+            "section": "001",
+            "courseTitle": "History of Film"
+        },
+        {
+            "catalogTitle": "FILM 6620",
+            "section": "001",
+            "courseTitle": "Grad Film Prod II"
+        },
+        {
+            "catalogTitle": "FILM 6640",
+            "section": "001",
+            "courseTitle": "Grad Post Prod II"
+        },
+        {
+            "catalogTitle": "FILM 6710",
+            "section": "001",
+            "courseTitle": "Grad Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 6710",
+            "section": "002",
+            "courseTitle": "Grad Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 6740",
+            "section": "001",
+            "courseTitle": "Grad Animat Film Surv"
+        },
+        {
+            "catalogTitle": "FILM 6760",
+            "section": "001",
+            "courseTitle": "Adv Grad Comp Animation"
+        },
+        {
+            "catalogTitle": "FILM 6790",
+            "section": "001",
+            "courseTitle": "Grad Film Fest Wkshp"
+        },
+        {
+            "catalogTitle": "FILM 6870",
+            "section": "001",
+            "courseTitle": "Study Film Theory/Crit"
+        },
+        {
+            "catalogTitle": "FILM 6870",
+            "section": "002",
+            "courseTitle": "Study Film Theory/Crit"
+        },
+        {
+            "catalogTitle": "FILM 6870",
+            "section": "003",
+            "courseTitle": "Study Film Theory/Crit"
+        },
+        {
+            "catalogTitle": "FILM 6900",
+            "section": "002",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "FILM 6900",
+            "section": "003",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "FILM 6900",
+            "section": "004",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "FILM 6950",
+            "section": "003",
+            "courseTitle": "Grad Res Proj"
+        },
+        {
+            "catalogTitle": "FILM 6950",
+            "section": "004",
+            "courseTitle": "Grad Res Proj"
+        },
+        {
+            "catalogTitle": "FILM 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "FILM 7870",
+            "section": "001",
+            "courseTitle": "Sem-Film"
+        },
+        {
+            "catalogTitle": "FILM 7870",
+            "section": "002",
+            "courseTitle": "Sem-Film"
+        }
+    ]
+}

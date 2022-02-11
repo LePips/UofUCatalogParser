@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEPRS 9",
+            "section": "001",
+            "courseTitle": "Space Aces"
+        },
+        {
+            "catalogTitle": "YEPRS 11",
+            "section": "002",
+            "courseTitle": "Cookin' in the Kitchen"
+        },
+        {
+            "catalogTitle": "YEPRS 22",
+            "section": "001",
+            "courseTitle": "Spanish Fiesta"
+        },
+        {
+            "catalogTitle": "YEPRS 23",
+            "section": "001",
+            "courseTitle": "Lego Mania"
+        }
+    ]
+}

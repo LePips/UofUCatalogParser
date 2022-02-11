@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RHSCI 7900",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "RHSCI 7900",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "RHSCI 7900",
+            "section": "012",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "RHSCI 7970",
+            "section": "009",
+            "courseTitle": "Dissertation Credits"
+        },
+        {
+            "catalogTitle": "RHSCI 7970",
+            "section": "012",
+            "courseTitle": "Dissertation Credits"
+        }
+    ]
+}

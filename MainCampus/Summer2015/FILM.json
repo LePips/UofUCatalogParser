@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "001",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2600",
+            "section": "001",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 2700",
+            "section": "090",
+            "courseTitle": "Intro to Videogames"
+        },
+        {
+            "catalogTitle": "FILM 3411",
+            "section": "001",
+            "courseTitle": "Editing I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "001",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "002",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3610",
+            "section": "001",
+            "courseTitle": "Computer Animation I"
+        },
+        {
+            "catalogTitle": "FILM 3710",
+            "section": "001",
+            "courseTitle": "Traditnl Game Develpmnt"
+        },
+        {
+            "catalogTitle": "FILM 3720",
+            "section": "001",
+            "courseTitle": "Altrn Game Development"
+        },
+        {
+            "catalogTitle": "FILM 3810",
+            "section": "001",
+            "courseTitle": "Screenplay"
+        },
+        {
+            "catalogTitle": "FILM 4850",
+            "section": "001",
+            "courseTitle": "Prose To Screenplay"
+        },
+        {
+            "catalogTitle": "FILM 6411",
+            "section": "001",
+            "courseTitle": "Grad Editing I"
+        },
+        {
+            "catalogTitle": "FILM 6500",
+            "section": "001",
+            "courseTitle": "Grad Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 6850",
+            "section": "001",
+            "courseTitle": "Prose to Screenplay"
+        }
+    ]
+}

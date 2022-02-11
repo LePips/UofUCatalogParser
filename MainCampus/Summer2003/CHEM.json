@@ -1,0 +1,334 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CHEM 1030",
+            "section": "001",
+            "courseTitle": "Chem,Drugs,Toxins"
+        },
+        {
+            "catalogTitle": "CHEM 1030",
+            "section": "090",
+            "courseTitle": "Chem,Drugs,Toxins"
+        },
+        {
+            "catalogTitle": "CHEM 1120",
+            "section": "001",
+            "courseTitle": "Elem Bioorg Chemistry"
+        },
+        {
+            "catalogTitle": "CHEM 1120",
+            "section": "002",
+            "courseTitle": "Elem Bioorg Chemistry"
+        },
+        {
+            "catalogTitle": "CHEM 1120",
+            "section": "003",
+            "courseTitle": "Elem Bioorg Chemistry"
+        },
+        {
+            "catalogTitle": "CHEM 1200",
+            "section": "001",
+            "courseTitle": "Prep For Gen Chem I"
+        },
+        {
+            "catalogTitle": "CHEM 1200",
+            "section": "002",
+            "courseTitle": "Prep For Gen Chem I"
+        },
+        {
+            "catalogTitle": "CHEM 1210",
+            "section": "001",
+            "courseTitle": "General Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 1210",
+            "section": "002",
+            "courseTitle": "General Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 1210",
+            "section": "003",
+            "courseTitle": "General Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 1210",
+            "section": "004",
+            "courseTitle": "General Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 1220",
+            "section": "001",
+            "courseTitle": "General Chemistry II"
+        },
+        {
+            "catalogTitle": "CHEM 1220",
+            "section": "002",
+            "courseTitle": "General Chemistry II"
+        },
+        {
+            "catalogTitle": "CHEM 1220",
+            "section": "003",
+            "courseTitle": "General Chemistry II"
+        },
+        {
+            "catalogTitle": "CHEM 1220",
+            "section": "004",
+            "courseTitle": "General Chemistry II"
+        },
+        {
+            "catalogTitle": "CHEM 1230",
+            "section": "001",
+            "courseTitle": "General Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 1230",
+            "section": "002",
+            "courseTitle": "General Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 1230",
+            "section": "003",
+            "courseTitle": "General Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 1230",
+            "section": "004",
+            "courseTitle": "General Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 1230",
+            "section": "005",
+            "courseTitle": "General Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 1230",
+            "section": "006",
+            "courseTitle": "General Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 1230",
+            "section": "007",
+            "courseTitle": "General Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 1240",
+            "section": "001",
+            "courseTitle": "General Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 1240",
+            "section": "002",
+            "courseTitle": "General Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 1240",
+            "section": "003",
+            "courseTitle": "General Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 1240",
+            "section": "004",
+            "courseTitle": "General Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 1240",
+            "section": "005",
+            "courseTitle": "General Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 1240",
+            "section": "006",
+            "courseTitle": "General Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 2310",
+            "section": "001",
+            "courseTitle": "Organic Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 2310",
+            "section": "002",
+            "courseTitle": "Organic Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 2310",
+            "section": "003",
+            "courseTitle": "Organic Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 2310",
+            "section": "004",
+            "courseTitle": "Organic Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 2320",
+            "section": "001",
+            "courseTitle": "Organic Chemistry II"
+        },
+        {
+            "catalogTitle": "CHEM 2320",
+            "section": "002",
+            "courseTitle": "Organic Chemistry II"
+        },
+        {
+            "catalogTitle": "CHEM 2320",
+            "section": "003",
+            "courseTitle": "Organic Chemistry II"
+        },
+        {
+            "catalogTitle": "CHEM 2330",
+            "section": "001",
+            "courseTitle": "Organic Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 2330",
+            "section": "002",
+            "courseTitle": "Organic Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 2330",
+            "section": "003",
+            "courseTitle": "Organic Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 2330",
+            "section": "004",
+            "courseTitle": "Organic Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 2330",
+            "section": "005",
+            "courseTitle": "Organic Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 2330",
+            "section": "006",
+            "courseTitle": "Organic Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 2330",
+            "section": "007",
+            "courseTitle": "Organic Chemistry Lab I"
+        },
+        {
+            "catalogTitle": "CHEM 2340",
+            "section": "001",
+            "courseTitle": "Organic Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 2340",
+            "section": "002",
+            "courseTitle": "Organic Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 2340",
+            "section": "003",
+            "courseTitle": "Organic Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 2340",
+            "section": "004",
+            "courseTitle": "Organic Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 2340",
+            "section": "005",
+            "courseTitle": "Organic Chem Lab II"
+        },
+        {
+            "catalogTitle": "CHEM 3000",
+            "section": "001",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "CHEM 3000",
+            "section": "002",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "CHEM 3000",
+            "section": "003",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "CHEM 3000",
+            "section": "004",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "CHEM 3010",
+            "section": "001",
+            "courseTitle": "Quant Analyt Chem"
+        },
+        {
+            "catalogTitle": "CHEM 3510",
+            "section": "090",
+            "courseTitle": "Biological Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 4800",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "CHEM 4900",
+            "section": "001",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "CHEM 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Proj"
+        },
+        {
+            "catalogTitle": "CHEM 5380",
+            "section": "050",
+            "courseTitle": "Spec Topics Mod Chem Ed"
+        },
+        {
+            "catalogTitle": "CHEM 6900",
+            "section": "001",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "CHEM 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research:Masters"
+        },
+        {
+            "catalogTitle": "CHEM 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research:Masters"
+        },
+        {
+            "catalogTitle": "CHEM 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research:Masters"
+        },
+        {
+            "catalogTitle": "CHEM 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CHEM 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "CHEM 7970",
+            "section": "033",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "CHEM 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CHEM 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration: PhD"
+        }
+    ]
+}

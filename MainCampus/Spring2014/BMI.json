@@ -1,0 +1,114 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 611",
+            "section": "090",
+            "courseTitle": "Research Design"
+        },
+        {
+            "catalogTitle": "BMI 620",
+            "section": "090",
+            "courseTitle": "Clin & Pub Hlth Termin"
+        },
+        {
+            "catalogTitle": "BMI 6105",
+            "section": "090",
+            "courseTitle": "Stats for Biomed Info"
+        },
+        {
+            "catalogTitle": "BMI 6111",
+            "section": "090",
+            "courseTitle": "Research Design"
+        },
+        {
+            "catalogTitle": "BMI 6112",
+            "section": "001",
+            "courseTitle": "Research Design"
+        },
+        {
+            "catalogTitle": "BMI 6120",
+            "section": "090",
+            "courseTitle": "Clin & Pub Hlth Term I"
+        },
+        {
+            "catalogTitle": "BMI 6125",
+            "section": "001",
+            "courseTitle": "Clin & Pub Hlth Term II"
+        },
+        {
+            "catalogTitle": "BMI 6440",
+            "section": "001",
+            "courseTitle": "Clin Info Sys Architec"
+        },
+        {
+            "catalogTitle": "BMI 6530",
+            "section": "001",
+            "courseTitle": "Bioinfo Data Integ & An"
+        },
+        {
+            "catalogTitle": "BMI 6730",
+            "section": "001",
+            "courseTitle": "Consumer Hlth Infrmtcs"
+        },
+        {
+            "catalogTitle": "BMI 6801",
+            "section": "001",
+            "courseTitle": "RIP-Clinical Infrmtcs"
+        },
+        {
+            "catalogTitle": "BMI 6803",
+            "section": "001",
+            "courseTitle": "RIP-Trans Infrmtcs"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "001",
+            "courseTitle": "Healthcare Quality Informatics"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "002",
+            "courseTitle": "Healthcare Quality Informatics"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "003",
+            "courseTitle": "Midvale Clinic Practicum"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6975",
+            "section": "001",
+            "courseTitle": "Non-Thesis Caps Proj MS"
+        },
+        {
+            "catalogTitle": "BMI 7000",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "BMI 7010",
+            "section": "001",
+            "courseTitle": "Journal Club"
+        },
+        {
+            "catalogTitle": "BMI 7050",
+            "section": "001",
+            "courseTitle": "Res Biomed Informatics"
+        },
+        {
+            "catalogTitle": "BMI 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "BMI 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration - PhD"
+        }
+    ]
+}

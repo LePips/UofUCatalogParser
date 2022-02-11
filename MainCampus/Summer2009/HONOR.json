@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HONOR 2101",
+            "section": "001",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2102",
+            "section": "001",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 3100",
+            "section": "001",
+            "courseTitle": "We are the Ones"
+        },
+        {
+            "catalogTitle": "HONOR 3500",
+            "section": "001",
+            "courseTitle": "Honors Internship"
+        },
+        {
+            "catalogTitle": "HONOR 3500",
+            "section": "002",
+            "courseTitle": "Honors Internship"
+        },
+        {
+            "catalogTitle": "HONOR 3600",
+            "section": "001",
+            "courseTitle": "Honors Tutorial"
+        },
+        {
+            "catalogTitle": "HONOR 4473",
+            "section": "001",
+            "courseTitle": "Shakespeare at Cedar City"
+        },
+        {
+            "catalogTitle": "HONOR 4473",
+            "section": "002",
+            "courseTitle": "Photographic Seeing"
+        }
+    ]
+}

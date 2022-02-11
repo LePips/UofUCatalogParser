@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESCI 442",
+            "section": "001",
+            "courseTitle": "Computer Gaming"
+        },
+        {
+            "catalogTitle": "YESCI 516",
+            "section": "001",
+            "courseTitle": "Creature Connection"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "001",
+            "courseTitle": "Lego Mania"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "002",
+            "courseTitle": "Lego Mania"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "001",
+            "courseTitle": "Legomania II"
+        }
+    ]
+}

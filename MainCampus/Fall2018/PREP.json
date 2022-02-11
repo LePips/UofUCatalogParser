@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PREP 100",
+            "section": "003",
+            "courseTitle": "LSAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 100",
+            "section": "004",
+            "courseTitle": "LSAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 100",
+            "section": "005",
+            "courseTitle": "LSAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "004",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "005",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "006",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "003",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "004",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "005",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "006",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "016",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 500",
+            "section": "001",
+            "courseTitle": "TOEFL Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 500",
+            "section": "002",
+            "courseTitle": "TOEFL Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 525",
+            "section": "091",
+            "courseTitle": "Online TOEFL Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 600",
+            "section": "003",
+            "courseTitle": "Praxis Core Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "001",
+            "courseTitle": "Math Refresher"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "002",
+            "courseTitle": "Math Refresher"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "003",
+            "courseTitle": "Math Refresher"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "004",
+            "courseTitle": "Math Refresher"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "005",
+            "courseTitle": "Math Refresher"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UGS 1060",
+            "section": "001",
+            "courseTitle": "Learning Portfolio Dev."
+        },
+        {
+            "catalogTitle": "UGS 3025",
+            "section": "001",
+            "courseTitle": "Service Scholar Seminar"
+        },
+        {
+            "catalogTitle": "UGS 3050",
+            "section": "001",
+            "courseTitle": "Innovation Roadmap"
+        },
+        {
+            "catalogTitle": "UGS 3051",
+            "section": "001",
+            "courseTitle": "Innovation Scholar Port"
+        },
+        {
+            "catalogTitle": "UGS 4800",
+            "section": "001",
+            "courseTitle": "Undergrad Research UROP"
+        },
+        {
+            "catalogTitle": "UGS 4810",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

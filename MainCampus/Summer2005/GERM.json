@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GERM 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 4880",
+            "section": "003",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 4880",
+            "section": "004",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "GERM 6880",
+            "section": "005",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language"
+        },
+        {
+            "catalogTitle": "GERM 7700",
+            "section": "102",
+            "courseTitle": "Germ for Reading Comprehension"
+        },
+        {
+            "catalogTitle": "GERM 7900",
+            "section": "001",
+            "courseTitle": "German for Reading Comp"
+        },
+        {
+            "catalogTitle": "GERM 7900",
+            "section": "002",
+            "courseTitle": "German for Reading Comp"
+        }
+    ]
+}

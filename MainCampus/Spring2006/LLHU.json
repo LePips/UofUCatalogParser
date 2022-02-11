@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHU 300",
+            "section": "001",
+            "courseTitle": "Comparative Religion"
+        },
+        {
+            "catalogTitle": "LLHU 311",
+            "section": "001",
+            "courseTitle": "Italian Art"
+        },
+        {
+            "catalogTitle": "LLHU 336",
+            "section": "001",
+            "courseTitle": "Lost in Translation"
+        },
+        {
+            "catalogTitle": "LLHU 337",
+            "section": "001",
+            "courseTitle": "Understanding Islam"
+        },
+        {
+            "catalogTitle": "LLHU 338",
+            "section": "001",
+            "courseTitle": "Why Sci-Fi?"
+        },
+        {
+            "catalogTitle": "LLHU 340",
+            "section": "001",
+            "courseTitle": "The Routes West"
+        },
+        {
+            "catalogTitle": "LLHU 341",
+            "section": "001",
+            "courseTitle": "What the Bleep?"
+        }
+    ]
+}

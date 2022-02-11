@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 406",
+            "section": "001",
+            "courseTitle": "Blues Harmonica I"
+        },
+        {
+            "catalogTitle": "LLMT 415",
+            "section": "001",
+            "courseTitle": "African Drumming"
+        },
+        {
+            "catalogTitle": "LLMT 429",
+            "section": "001",
+            "courseTitle": "Beginning Banjo"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 434",
+            "section": "001",
+            "courseTitle": "Beethoven"
+        },
+        {
+            "catalogTitle": "LLMT 435",
+            "section": "001",
+            "courseTitle": "Intermediate African Drumming"
+        },
+        {
+            "catalogTitle": "LLMT 436",
+            "section": "001",
+            "courseTitle": "Beginning Mandolin"
+        }
+    ]
+}

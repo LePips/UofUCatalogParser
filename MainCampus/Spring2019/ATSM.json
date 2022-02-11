@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATSM 3300",
+            "section": "001",
+            "courseTitle": "Intro to Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 3310",
+            "section": "002",
+            "courseTitle": "Intro Sports Med Lab"
+        },
+        {
+            "catalogTitle": "ATSM 3400",
+            "section": "001",
+            "courseTitle": "Clinical Exam I"
+        },
+        {
+            "catalogTitle": "ATSM 3401",
+            "section": "001",
+            "courseTitle": "Intro Clinical Practice"
+        },
+        {
+            "catalogTitle": "ATSM 3403",
+            "section": "001",
+            "courseTitle": "Advanced Practice in AT"
+        },
+        {
+            "catalogTitle": "ATSM 3405",
+            "section": "001",
+            "courseTitle": "Psych Influences in AT"
+        },
+        {
+            "catalogTitle": "ATSM 3406",
+            "section": "001",
+            "courseTitle": "Sports Med Internship"
+        },
+        {
+            "catalogTitle": "ATSM 3406",
+            "section": "002",
+            "courseTitle": "Sports Med Internship"
+        },
+        {
+            "catalogTitle": "ATSM 3420",
+            "section": "001",
+            "courseTitle": "Prof Responsibility"
+        },
+        {
+            "catalogTitle": "ATSM 3430",
+            "section": "001",
+            "courseTitle": "Ther Intervention I"
+        },
+        {
+            "catalogTitle": "ATSM 3490",
+            "section": "001",
+            "courseTitle": "Health Care Admin"
+        },
+        {
+            "catalogTitle": "ATSM 4011",
+            "section": "001",
+            "courseTitle": "Application of EBP"
+        },
+        {
+            "catalogTitle": "ATSM 4880",
+            "section": "001",
+            "courseTitle": "Scholarship Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 4880",
+            "section": "002",
+            "courseTitle": "Scholarship Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 4880",
+            "section": "003",
+            "courseTitle": "Scholarship Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 5401",
+            "section": "001",
+            "courseTitle": "Clinical Internship I"
+        },
+        {
+            "catalogTitle": "ATSM 5403",
+            "section": "001",
+            "courseTitle": "Clinical Internship III"
+        },
+        {
+            "catalogTitle": "ATSM 6040",
+            "section": "001",
+            "courseTitle": "Gross Anatomy"
+        },
+        {
+            "catalogTitle": "ATSM 6211",
+            "section": "002",
+            "courseTitle": "Clinical Seminar II"
+        },
+        {
+            "catalogTitle": "ATSM 6250",
+            "section": "001",
+            "courseTitle": "Trends in Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 6910",
+            "section": "001",
+            "courseTitle": "Masters Internship"
+        },
+        {
+            "catalogTitle": "ATSM 6950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ATSM 6970",
+            "section": "001",
+            "courseTitle": "Thesis: Masters"
+        },
+        {
+            "catalogTitle": "ATSM 7830",
+            "section": "002",
+            "courseTitle": "Journal Readings"
+        }
+    ]
+}

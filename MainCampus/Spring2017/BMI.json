@@ -1,0 +1,154 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 605",
+            "section": "090",
+            "courseTitle": "Stats for Biomed Info"
+        },
+        {
+            "catalogTitle": "BMI 620",
+            "section": "090",
+            "courseTitle": "Clin & Pub Hlth Termin"
+        },
+        {
+            "catalogTitle": "BMI 695",
+            "section": "004",
+            "courseTitle": "Computational Methods"
+        },
+        {
+            "catalogTitle": "BMI 6060",
+            "section": "001",
+            "courseTitle": "Applied Comp. Genomics"
+        },
+        {
+            "catalogTitle": "BMI 6060",
+            "section": "002",
+            "courseTitle": "Applied Comp. Genomics"
+        },
+        {
+            "catalogTitle": "BMI 6105",
+            "section": "090",
+            "courseTitle": "Stats for Biomed Info"
+        },
+        {
+            "catalogTitle": "BMI 6105",
+            "section": "092",
+            "courseTitle": "Stats for Biomed Info"
+        },
+        {
+            "catalogTitle": "BMI 6111",
+            "section": "001",
+            "courseTitle": "Research Design"
+        },
+        {
+            "catalogTitle": "BMI 6111",
+            "section": "002",
+            "courseTitle": "Research Design"
+        },
+        {
+            "catalogTitle": "BMI 6120",
+            "section": "001",
+            "courseTitle": "Clin & Pub Hlth Term I"
+        },
+        {
+            "catalogTitle": "BMI 6120",
+            "section": "002",
+            "courseTitle": "Clin & Pub Hlth Term I"
+        },
+        {
+            "catalogTitle": "BMI 6125",
+            "section": "001",
+            "courseTitle": "Clin & Pub Hlth Term II"
+        },
+        {
+            "catalogTitle": "BMI 6125",
+            "section": "002",
+            "courseTitle": "Clin & Pub Hlth Term II"
+        },
+        {
+            "catalogTitle": "BMI 6440",
+            "section": "001",
+            "courseTitle": "Clin Info Sys Architec"
+        },
+        {
+            "catalogTitle": "BMI 6440",
+            "section": "002",
+            "courseTitle": "Clin Info Sys Architec"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "001",
+            "courseTitle": "Global Health Practicum"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "002",
+            "courseTitle": "Global Health Practicum"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "003",
+            "courseTitle": "Computational Methods"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "004",
+            "courseTitle": "Computational Methods"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "005",
+            "courseTitle": "Data Science Scholar"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "007",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6975",
+            "section": "001",
+            "courseTitle": "Non-Thesis Caps Proj MS"
+        },
+        {
+            "catalogTitle": "BMI 7000",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "BMI 7010",
+            "section": "001",
+            "courseTitle": "Journal Club"
+        },
+        {
+            "catalogTitle": "BMI 7010",
+            "section": "002",
+            "courseTitle": "Journal Club"
+        },
+        {
+            "catalogTitle": "BMI 7010",
+            "section": "003",
+            "courseTitle": "Advanced Genome Analysis JC"
+        },
+        {
+            "catalogTitle": "BMI 7050",
+            "section": "001",
+            "courseTitle": "Res Biomed Informatics"
+        },
+        {
+            "catalogTitle": "BMI 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "BMI 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration - PhD"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "001",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "060",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "001",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "060",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 201",
+            "section": "004",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 201",
+            "section": "060",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "001",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "004",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "060",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "001",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "060",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "001",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "060",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "004",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "060",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "001",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "004",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "060",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 3060",
+            "section": "001",
+            "courseTitle": "Adv Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 4550",
+            "section": "001",
+            "courseTitle": "Spanish Civilization"
+        },
+        {
+            "catalogTitle": "SPAN 4560",
+            "section": "090",
+            "courseTitle": "Cultr/Cust Span America"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "001",
+            "courseTitle": "Literatura Andina"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "002",
+            "courseTitle": "Hispanic-American Short-Story"
+        },
+        {
+            "catalogTitle": "SPAN 4990",
+            "section": "006",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "SPAN 6900",
+            "section": "015",
+            "courseTitle": "Issues Spanish World"
+        }
+    ]
+}

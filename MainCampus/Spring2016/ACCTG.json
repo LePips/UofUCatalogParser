@@ -1,0 +1,349 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "001",
+            "courseTitle": "Survey of Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "002",
+            "courseTitle": "Survey of Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "003",
+            "courseTitle": "Survey of Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "004",
+            "courseTitle": "Survey of Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "005",
+            "courseTitle": "Survey of Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "006",
+            "courseTitle": "Survey of Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "007",
+            "courseTitle": "Survey of Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 3600",
+            "section": "001",
+            "courseTitle": "Principles of Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 3600",
+            "section": "002",
+            "courseTitle": "Principles of Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 3600",
+            "section": "003",
+            "courseTitle": "Principles of Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 3600",
+            "section": "004",
+            "courseTitle": "Principles of Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 3600",
+            "section": "006",
+            "courseTitle": "Principles of Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 3600",
+            "section": "007",
+            "courseTitle": "Principles of Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 3601",
+            "section": "001",
+            "courseTitle": "Honors Princ of Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "ACCTG 5000",
+            "section": "001",
+            "courseTitle": "Acctg Decision Making"
+        },
+        {
+            "catalogTitle": "ACCTG 5000",
+            "section": "090",
+            "courseTitle": "Acctg Decision Making"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "001",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "002",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "003",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "001",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "002",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "003",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "001",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "002",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5140",
+            "section": "001",
+            "courseTitle": "International Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 5140",
+            "section": "002",
+            "courseTitle": "International Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "002",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "003",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "004",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "001",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "002",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "001",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "002",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "002",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "003",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 5620",
+            "section": "001",
+            "courseTitle": "Bus Valuation &Analysis"
+        },
+        {
+            "catalogTitle": "ACCTG 6001",
+            "section": "001",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6001",
+            "section": "002",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6350",
+            "section": "001",
+            "courseTitle": "Partnership Tax"
+        },
+        {
+            "catalogTitle": "ACCTG 6370",
+            "section": "001",
+            "courseTitle": "State & Local Tax"
+        },
+        {
+            "catalogTitle": "ACCTG 6380",
+            "section": "001",
+            "courseTitle": "Adv Federal Tax Issues"
+        },
+        {
+            "catalogTitle": "ACCTG 6400",
+            "section": "001",
+            "courseTitle": "Adv Excel & Access Tech"
+        },
+        {
+            "catalogTitle": "ACCTG 6400",
+            "section": "002",
+            "courseTitle": "Adv Excel & Access Tech"
+        },
+        {
+            "catalogTitle": "ACCTG 6510",
+            "section": "001",
+            "courseTitle": "Cases Auditing/Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 6540",
+            "section": "001",
+            "courseTitle": "Fraud/Forensic Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 6620",
+            "section": "001",
+            "courseTitle": "Bus Valuation &Analysis"
+        },
+        {
+            "catalogTitle": "ACCTG 6620",
+            "section": "002",
+            "courseTitle": "Bus Valuation &Analysis"
+        },
+        {
+            "catalogTitle": "ACCTG 6620",
+            "section": "003",
+            "courseTitle": "Bus Valuation &Analysis"
+        },
+        {
+            "catalogTitle": "ACCTG 6660",
+            "section": "001",
+            "courseTitle": "Fin Acctg Reporting"
+        },
+        {
+            "catalogTitle": "ACCTG 6661",
+            "section": "001",
+            "courseTitle": "Fin Acctg Reporting"
+        },
+        {
+            "catalogTitle": "ACCTG 6670",
+            "section": "001",
+            "courseTitle": "Advanced Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 6671",
+            "section": "001",
+            "courseTitle": "Advanced Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 6680",
+            "section": "001",
+            "courseTitle": "Corp Governance&Comm"
+        },
+        {
+            "catalogTitle": "ACCTG 6681",
+            "section": "001",
+            "courseTitle": "Corporate Governance"
+        },
+        {
+            "catalogTitle": "ACCTG 6700",
+            "section": "001",
+            "courseTitle": "Contemporary Issues"
+        },
+        {
+            "catalogTitle": "ACCTG 6735",
+            "section": "001",
+            "courseTitle": "Business/Tax Strategies"
+        },
+        {
+            "catalogTitle": "ACCTG 6735",
+            "section": "002",
+            "courseTitle": "Business/Tax Strategies"
+        },
+        {
+            "catalogTitle": "ACCTG 6850",
+            "section": "001",
+            "courseTitle": "Accounting Ethics"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "001",
+            "courseTitle": "Accounting Communication"
+        },
+        {
+            "catalogTitle": "ACCTG 7120",
+            "section": "001",
+            "courseTitle": "Fin Acctg Res II"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "001",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "002",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ACCTG 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

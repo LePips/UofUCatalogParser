@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "301",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 1080",
+            "section": "301",
+            "courseTitle": "Love and Relationships"
+        },
+        {
+            "catalogTitle": "PSY 2010",
+            "section": "301",
+            "courseTitle": "Psy as a Sci & Profssn"
+        },
+        {
+            "catalogTitle": "PSY 2120",
+            "section": "301",
+            "courseTitle": "Memory & Cog in Life"
+        },
+        {
+            "catalogTitle": "PSY 2200",
+            "section": "301",
+            "courseTitle": "Chldhd/Adlscnt Develop"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "301",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3140",
+            "section": "301",
+            "courseTitle": "Cognitive Neuropsych"
+        },
+        {
+            "catalogTitle": "PSY 3215",
+            "section": "301",
+            "courseTitle": "Development in Infancy"
+        },
+        {
+            "catalogTitle": "PSY 3250",
+            "section": "301",
+            "courseTitle": "Abnormal Child Psych"
+        },
+        {
+            "catalogTitle": "PSY 4800",
+            "section": "302",
+            "courseTitle": "Res Experience/General"
+        },
+        {
+            "catalogTitle": "PSY 4800",
+            "section": "303",
+            "courseTitle": "Res Experience/General"
+        },
+        {
+            "catalogTitle": "PSY 4800",
+            "section": "304",
+            "courseTitle": "Res Experience/General"
+        },
+        {
+            "catalogTitle": "PSY 4951",
+            "section": "301",
+            "courseTitle": "Special Projects"
+        }
+    ]
+}

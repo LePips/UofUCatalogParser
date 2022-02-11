@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MIL S 1010",
+            "section": "001",
+            "courseTitle": "Intro to the Army"
+        },
+        {
+            "catalogTitle": "MIL S 1020",
+            "section": "001",
+            "courseTitle": "Intr Profession of Arms"
+        },
+        {
+            "catalogTitle": "MIL S 1020",
+            "section": "003",
+            "courseTitle": "Intr Profession of Arms"
+        },
+        {
+            "catalogTitle": "MIL S 1060",
+            "section": "001",
+            "courseTitle": "Physical Readiness"
+        },
+        {
+            "catalogTitle": "MIL S 2010",
+            "section": "001",
+            "courseTitle": "Ldrsp & Decision Making"
+        },
+        {
+            "catalogTitle": "MIL S 2020",
+            "section": "001",
+            "courseTitle": "Doctrine & Team Develop"
+        },
+        {
+            "catalogTitle": "MIL S 2020",
+            "section": "002",
+            "courseTitle": "Doctrine & Team Develop"
+        },
+        {
+            "catalogTitle": "MIL S 2090",
+            "section": "001",
+            "courseTitle": "Ranger Challenge"
+        },
+        {
+            "catalogTitle": "MIL S 2950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MIL S 3010",
+            "section": "001",
+            "courseTitle": "Training Management"
+        },
+        {
+            "catalogTitle": "MIL S 3020",
+            "section": "001",
+            "courseTitle": "Applied Leadership"
+        },
+        {
+            "catalogTitle": "MIL S 3020",
+            "section": "002",
+            "courseTitle": "Applied Leadership"
+        },
+        {
+            "catalogTitle": "MIL S 3950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MIL S 3960",
+            "section": "001",
+            "courseTitle": "Military History Leader"
+        },
+        {
+            "catalogTitle": "MIL S 4010",
+            "section": "001",
+            "courseTitle": "The Army Officer"
+        },
+        {
+            "catalogTitle": "MIL S 4020",
+            "section": "001",
+            "courseTitle": "Company Grade Ldrsp"
+        },
+        {
+            "catalogTitle": "MIL S 4950",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        }
+    ]
+}

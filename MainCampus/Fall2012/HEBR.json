@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 101",
+            "section": "001",
+            "courseTitle": "Beg Biblical Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 112",
+            "section": "001",
+            "courseTitle": "Accel Beginning HEBR"
+        },
+        {
+            "catalogTitle": "HEBR 1010",
+            "section": "001",
+            "courseTitle": "Beg Biblical Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 1120",
+            "section": "001",
+            "courseTitle": "Accel Beginning HEBR"
+        },
+        {
+            "catalogTitle": "HEBR 3010",
+            "section": "001",
+            "courseTitle": "3rd Yr Israeli Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 7300",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 7300",
+            "section": "005",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

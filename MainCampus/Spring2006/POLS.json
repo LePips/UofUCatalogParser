@@ -1,0 +1,444 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "001",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "002",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "003",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "004",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "005",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "020",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "089",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "090",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "001",
+            "courseTitle": "Intro Intntl Relation"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "002",
+            "courseTitle": "Intro Intntl Relation"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "090",
+            "courseTitle": "Intro Intntl Relation"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "001",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "002",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "020",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "090",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 2300",
+            "section": "001",
+            "courseTitle": "Political Ideologies"
+        },
+        {
+            "catalogTitle": "POLS 3000",
+            "section": "001",
+            "courseTitle": "Liberalism & Critics"
+        },
+        {
+            "catalogTitle": "POLS 3001",
+            "section": "001",
+            "courseTitle": "Political Analysis"
+        },
+        {
+            "catalogTitle": "POLS 3001",
+            "section": "002",
+            "courseTitle": "Political Analysis"
+        },
+        {
+            "catalogTitle": "POLS 3020",
+            "section": "001",
+            "courseTitle": "Neighborhood Democracy"
+        },
+        {
+            "catalogTitle": "POLS 3030",
+            "section": "001",
+            "courseTitle": "State/Local Gov"
+        },
+        {
+            "catalogTitle": "POLS 3030",
+            "section": "002",
+            "courseTitle": "State/Local Gov"
+        },
+        {
+            "catalogTitle": "POLS 3030",
+            "section": "090",
+            "courseTitle": "State/Local Gov"
+        },
+        {
+            "catalogTitle": "POLS 3030",
+            "section": "091",
+            "courseTitle": "State/Local Gov"
+        },
+        {
+            "catalogTitle": "POLS 3110",
+            "section": "001",
+            "courseTitle": "Legislative Process"
+        },
+        {
+            "catalogTitle": "POLS 3120",
+            "section": "001",
+            "courseTitle": "Political Parties"
+        },
+        {
+            "catalogTitle": "POLS 3140",
+            "section": "001",
+            "courseTitle": "Gender And Politics"
+        },
+        {
+            "catalogTitle": "POLS 3170",
+            "section": "001",
+            "courseTitle": "Interest Groups"
+        },
+        {
+            "catalogTitle": "POLS 3180",
+            "section": "001",
+            "courseTitle": "Voting/Elections/Pub Op"
+        },
+        {
+            "catalogTitle": "POLS 3300",
+            "section": "001",
+            "courseTitle": "Intro To Public Admin"
+        },
+        {
+            "catalogTitle": "POLS 3440",
+            "section": "001",
+            "courseTitle": "Comparative Pol-Mid E"
+        },
+        {
+            "catalogTitle": "POLS 3460",
+            "section": "001",
+            "courseTitle": "Govt/Politics Japan"
+        },
+        {
+            "catalogTitle": "POLS 3520",
+            "section": "001",
+            "courseTitle": "Gov. and Politics of Mexico"
+        },
+        {
+            "catalogTitle": "POLS 3910",
+            "section": "001",
+            "courseTitle": "Political Forum Series"
+        },
+        {
+            "catalogTitle": "POLS 4844",
+            "section": "001",
+            "courseTitle": "Utah's Hlth Editorial Bd"
+        },
+        {
+            "catalogTitle": "POLS 4900",
+            "section": "079",
+            "courseTitle": "Political Internship"
+        },
+        {
+            "catalogTitle": "POLS 4901",
+            "section": "079",
+            "courseTitle": "Pol Internship-SL"
+        },
+        {
+            "catalogTitle": "POLS 4910",
+            "section": "079",
+            "courseTitle": "Public Admin Intern"
+        },
+        {
+            "catalogTitle": "POLS 4950",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "POLS 4960",
+            "section": "001",
+            "courseTitle": "Egypt Study Abroad"
+        },
+        {
+            "catalogTitle": "POLS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "POLS 5001",
+            "section": "001",
+            "courseTitle": "Quant Analysis-Pol S"
+        },
+        {
+            "catalogTitle": "POLS 5010",
+            "section": "001",
+            "courseTitle": "Late Modern Pol Thought"
+        },
+        {
+            "catalogTitle": "POLS 5212",
+            "section": "001",
+            "courseTitle": "Civil Rights&Liberties"
+        },
+        {
+            "catalogTitle": "POLS 5321",
+            "section": "001",
+            "courseTitle": "Health Policy"
+        },
+        {
+            "catalogTitle": "POLS 5322",
+            "section": "001",
+            "courseTitle": "Environmental Policy"
+        },
+        {
+            "catalogTitle": "POLS 5410",
+            "section": "001",
+            "courseTitle": "New Democracies"
+        },
+        {
+            "catalogTitle": "POLS 5420",
+            "section": "001",
+            "courseTitle": "European Union"
+        },
+        {
+            "catalogTitle": "POLS 5450",
+            "section": "001",
+            "courseTitle": "Polit Violnce Terrorism"
+        },
+        {
+            "catalogTitle": "POLS 5470",
+            "section": "001",
+            "courseTitle": "Intntl Relations Mid E"
+        },
+        {
+            "catalogTitle": "POLS 5490",
+            "section": "001",
+            "courseTitle": "Inter Rel Latin America"
+        },
+        {
+            "catalogTitle": "POLS 5560",
+            "section": "001",
+            "courseTitle": "Devel Revenue/Nonprofit"
+        },
+        {
+            "catalogTitle": "POLS 5660",
+            "section": "001",
+            "courseTitle": "American Foreign Policy"
+        },
+        {
+            "catalogTitle": "POLS 5800",
+            "section": "001",
+            "courseTitle": "Theory Intntl Relatns"
+        },
+        {
+            "catalogTitle": "POLS 5810",
+            "section": "001",
+            "courseTitle": "Immig, Race & Ethnicity in Ame"
+        },
+        {
+            "catalogTitle": "POLS 5810",
+            "section": "002",
+            "courseTitle": "Religion & Interntnl Relations"
+        },
+        {
+            "catalogTitle": "POLS 5810",
+            "section": "003",
+            "courseTitle": "Public Policy & American Dream"
+        },
+        {
+            "catalogTitle": "POLS 5810",
+            "section": "004",
+            "courseTitle": "Islam and Democracy"
+        },
+        {
+            "catalogTitle": "POLS 5965",
+            "section": "001",
+            "courseTitle": "Federalism"
+        },
+        {
+            "catalogTitle": "POLS 5965",
+            "section": "002",
+            "courseTitle": "Retention Reward & Recognition"
+        },
+        {
+            "catalogTitle": "POLS 5965",
+            "section": "003",
+            "courseTitle": "PA Issues-Crim Justice System"
+        },
+        {
+            "catalogTitle": "POLS 5965",
+            "section": "004",
+            "courseTitle": "Community Non-Profit Org."
+        },
+        {
+            "catalogTitle": "POLS 6001",
+            "section": "001",
+            "courseTitle": "Quant Analysis-Pol S"
+        },
+        {
+            "catalogTitle": "POLS 6070",
+            "section": "001",
+            "courseTitle": "Research Design/Amer/Pa"
+        },
+        {
+            "catalogTitle": "POLS 6202",
+            "section": "001",
+            "courseTitle": "Teaching Pol Science II"
+        },
+        {
+            "catalogTitle": "POLS 6321",
+            "section": "001",
+            "courseTitle": "Health Policy"
+        },
+        {
+            "catalogTitle": "POLS 6322",
+            "section": "001",
+            "courseTitle": "Environmental Policy"
+        },
+        {
+            "catalogTitle": "POLS 6410",
+            "section": "001",
+            "courseTitle": "New Democracies"
+        },
+        {
+            "catalogTitle": "POLS 6440",
+            "section": "001",
+            "courseTitle": "Nation/Ethnc Conflict"
+        },
+        {
+            "catalogTitle": "POLS 6490",
+            "section": "001",
+            "courseTitle": "Intntl Rel Latin Am"
+        },
+        {
+            "catalogTitle": "POLS 6560",
+            "section": "001",
+            "courseTitle": "Devel Revenue/Nonprofit"
+        },
+        {
+            "catalogTitle": "POLS 6660",
+            "section": "001",
+            "courseTitle": "American Foreign Policy"
+        },
+        {
+            "catalogTitle": "POLS 6690",
+            "section": "101",
+            "courseTitle": "Found Intntl Security"
+        },
+        {
+            "catalogTitle": "POLS 6740",
+            "section": "001",
+            "courseTitle": "Political Change"
+        },
+        {
+            "catalogTitle": "POLS 6844",
+            "section": "001",
+            "courseTitle": "Utah's Hlth-Editor Bd"
+        },
+        {
+            "catalogTitle": "POLS 6880",
+            "section": "001",
+            "courseTitle": "Hlth Service Admin Sem"
+        },
+        {
+            "catalogTitle": "POLS 6965",
+            "section": "001",
+            "courseTitle": "Federalism"
+        },
+        {
+            "catalogTitle": "POLS 6965",
+            "section": "002",
+            "courseTitle": "Retention Reward & Recognition"
+        },
+        {
+            "catalogTitle": "POLS 6965",
+            "section": "003",
+            "courseTitle": "PA Issues-Crim Justice System"
+        },
+        {
+            "catalogTitle": "POLS 6965",
+            "section": "004",
+            "courseTitle": "Community Non-Profit Org."
+        },
+        {
+            "catalogTitle": "POLS 6968",
+            "section": "001",
+            "courseTitle": "Intntl Rel Adv Sem"
+        },
+        {
+            "catalogTitle": "POLS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "POLS 6975",
+            "section": "001",
+            "courseTitle": "Indep Resrch-Masters"
+        },
+        {
+            "catalogTitle": "POLS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "POLS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "POLS 7975",
+            "section": "001",
+            "courseTitle": "Indep Doctoral Resrch"
+        },
+        {
+            "catalogTitle": "POLS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "POLS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

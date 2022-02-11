@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANTH 1000",
+            "section": "301",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 4186",
+            "section": "301",
+            "courseTitle": "Human Ecology"
+        },
+        {
+            "catalogTitle": "ANTH 4186",
+            "section": "302",
+            "courseTitle": "Human Ecology"
+        }
+    ]
+}

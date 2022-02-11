@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 5750",
+            "section": "001",
+            "courseTitle": "Med for Eng/Scientists"
+        },
+        {
+            "catalogTitle": "BMI 6010",
+            "section": "001",
+            "courseTitle": "Fnd Healthcare Informat"
+        },
+        {
+            "catalogTitle": "BMI 6030",
+            "section": "001",
+            "courseTitle": "Fnds Bioinformatics"
+        },
+        {
+            "catalogTitle": "BMI 6300",
+            "section": "001",
+            "courseTitle": "Medical Decision Making"
+        },
+        {
+            "catalogTitle": "BMI 6700",
+            "section": "001",
+            "courseTitle": "Pub Health Informatics"
+        },
+        {
+            "catalogTitle": "BMI 6801",
+            "section": "001",
+            "courseTitle": "RIP-Clinical Infrmtcs"
+        },
+        {
+            "catalogTitle": "BMI 6802",
+            "section": "001",
+            "courseTitle": "RIP: Pop & Pub Hlth Inf"
+        },
+        {
+            "catalogTitle": "BMI 6803",
+            "section": "001",
+            "courseTitle": "RIP-Trans Infrmtcs"
+        },
+        {
+            "catalogTitle": "BMI 6804",
+            "section": "001",
+            "courseTitle": "Implementation of Systems"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "008",
+            "courseTitle": "Teaching Assistantship"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "010",
+            "courseTitle": "Clinical Database Design"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult - M.S."
+        },
+        {
+            "catalogTitle": "BMI 7000",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "BMI 7010",
+            "section": "001",
+            "courseTitle": "Journal Club"
+        },
+        {
+            "catalogTitle": "BMI 7050",
+            "section": "001",
+            "courseTitle": "Res In Med Informatics"
+        },
+        {
+            "catalogTitle": "BMI 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "BMI 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult - PhD"
+        },
+        {
+            "catalogTitle": "BMI 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration - PhD"
+        }
+    ]
+}

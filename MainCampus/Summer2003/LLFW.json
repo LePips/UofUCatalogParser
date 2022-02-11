@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 254",
+            "section": "001",
+            "courseTitle": "Cuisines: Indian"
+        },
+        {
+            "catalogTitle": "LLFW 263",
+            "section": "002",
+            "courseTitle": "Fresh Fish"
+        },
+        {
+            "catalogTitle": "LLFW 266",
+            "section": "001",
+            "courseTitle": "Great Grilling"
+        },
+        {
+            "catalogTitle": "LLFW 269",
+            "section": "001",
+            "courseTitle": "White Wine and Cheese"
+        },
+        {
+            "catalogTitle": "LLFW 269",
+            "section": "002",
+            "courseTitle": "White Wine and Cheese"
+        },
+        {
+            "catalogTitle": "LLFW 281",
+            "section": "001",
+            "courseTitle": "Cuisines: Italian"
+        }
+    ]
+}

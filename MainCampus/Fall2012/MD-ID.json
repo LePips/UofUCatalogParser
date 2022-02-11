@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD ID 7170",
+            "section": "001",
+            "courseTitle": "Public Health"
+        },
+        {
+            "catalogTitle": "MD ID 7200",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MD ID 7300",
+            "section": "001",
+            "courseTitle": "Foundations of Med"
+        },
+        {
+            "catalogTitle": "MD ID 7340",
+            "section": "001",
+            "courseTitle": "Brain & Behavior"
+        },
+        {
+            "catalogTitle": "MD ID 7350",
+            "section": "001",
+            "courseTitle": "Metabolism & Reprodctn"
+        },
+        {
+            "catalogTitle": "MD ID 7360",
+            "section": "001",
+            "courseTitle": "Circ, Resp, Elimination"
+        }
+    ]
+}

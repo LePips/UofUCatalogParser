@@ -1,3 +1,249 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MG EN 505",
+            "section": "001",
+            "courseTitle": "Ventilation/Air Cond"
+        },
+        {
+            "catalogTitle": "MG EN 505",
+            "section": "002",
+            "courseTitle": "Ventilation/Air Cond"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "001",
+            "courseTitle": "Computational Skills"
+        },
+        {
+            "catalogTitle": "MG EN 1050",
+            "section": "002",
+            "courseTitle": "Computational Skills"
+        },
+        {
+            "catalogTitle": "MG EN 2400",
+            "section": "001",
+            "courseTitle": "Intro Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 2400",
+            "section": "003",
+            "courseTitle": "Intro Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 2400",
+            "section": "004",
+            "courseTitle": "Intro Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 2400",
+            "section": "005",
+            "courseTitle": "Intro Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 3010",
+            "section": "001",
+            "courseTitle": "Intro To Mining"
+        },
+        {
+            "catalogTitle": "MG EN 4990",
+            "section": "001",
+            "courseTitle": "Mining Seminar"
+        },
+        {
+            "catalogTitle": "MG EN 5020",
+            "section": "001",
+            "courseTitle": "Surface Mining Methods"
+        },
+        {
+            "catalogTitle": "MG EN 5030",
+            "section": "001",
+            "courseTitle": "Materials Handling"
+        },
+        {
+            "catalogTitle": "MG EN 5040",
+            "section": "001",
+            "courseTitle": "Engineering Design"
+        },
+        {
+            "catalogTitle": "MG EN 5040",
+            "section": "002",
+            "courseTitle": "Engineering Design"
+        },
+        {
+            "catalogTitle": "MG EN 5050",
+            "section": "001",
+            "courseTitle": "Ventilation/Air Cond"
+        },
+        {
+            "catalogTitle": "MG EN 5050",
+            "section": "002",
+            "courseTitle": "Ventilation/Air Cond"
+        },
+        {
+            "catalogTitle": "MG EN 5160",
+            "section": "001",
+            "courseTitle": "Rock Mechanics Apps"
+        },
+        {
+            "catalogTitle": "MG EN 5340",
+            "section": "003",
+            "courseTitle": "Mineral Evaluation"
+        },
+        {
+            "catalogTitle": "MG EN 5340",
+            "section": "004",
+            "courseTitle": "Mineral Evaluation"
+        },
+        {
+            "catalogTitle": "MG EN 5370",
+            "section": "001",
+            "courseTitle": "Data Management"
+        },
+        {
+            "catalogTitle": "MG EN 5970",
+            "section": "001",
+            "courseTitle": "Intern Program"
+        },
+        {
+            "catalogTitle": "MG EN 5970",
+            "section": "006",
+            "courseTitle": "Intern Program"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "012",
+            "courseTitle": "Applied Statistics 2"
+        },
+        {
+            "catalogTitle": "MG EN 6370",
+            "section": "001",
+            "courseTitle": "Data Management"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "007",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "009",
+            "courseTitle": "Surface Mining"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "012",
+            "courseTitle": "Applied Statistics 2"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "014",
+            "courseTitle": "Mineral Evaluation"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "015",
+            "courseTitle": "Risk Mgnt in Block Cave Design"
+        },
+        {
+            "catalogTitle": "MG EN 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MG EN 6910",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MG EN 6910",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MG EN 7800",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MG EN 7990",
+            "section": "002",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
 }

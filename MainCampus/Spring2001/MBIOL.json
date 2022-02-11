@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "001",
+            "courseTitle": "Sem Molecular Biology"
+        },
+        {
+            "catalogTitle": "MBIOL 6440",
+            "section": "001",
+            "courseTitle": "Gene Expression"
+        },
+        {
+            "catalogTitle": "MBIOL 6480",
+            "section": "001",
+            "courseTitle": "Cell Biology"
+        },
+        {
+            "catalogTitle": "MBIOL 6500",
+            "section": "001",
+            "courseTitle": "Topics In Molecular Bio"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        }
+    ]
+}

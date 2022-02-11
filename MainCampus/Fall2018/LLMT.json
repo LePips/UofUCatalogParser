@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 389",
+            "section": "001",
+            "courseTitle": "Australian Didgeridoo"
+        },
+        {
+            "catalogTitle": "LLMT 389",
+            "section": "002",
+            "courseTitle": "Australian Didgeridoo"
+        },
+        {
+            "catalogTitle": "LLMT 411",
+            "section": "001",
+            "courseTitle": "Blues Harmonica for Beg"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 456",
+            "section": "001",
+            "courseTitle": "Sundance 101"
+        },
+        {
+            "catalogTitle": "LLMT 460",
+            "section": "001",
+            "courseTitle": "Pop/Rock Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 463",
+            "section": "001",
+            "courseTitle": "Intermediate Improv"
+        },
+        {
+            "catalogTitle": "LLMT 464",
+            "section": "001",
+            "courseTitle": "Didgeridoo - Introduction"
+        }
+    ]
+}

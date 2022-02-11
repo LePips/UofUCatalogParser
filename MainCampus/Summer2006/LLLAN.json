@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLLAN 350",
+            "section": "001",
+            "courseTitle": "Conversational French I"
+        },
+        {
+            "catalogTitle": "LLLAN 351",
+            "section": "001",
+            "courseTitle": "Conversational French II"
+        },
+        {
+            "catalogTitle": "LLLAN 354",
+            "section": "001",
+            "courseTitle": "Conversationl Spanish I"
+        },
+        {
+            "catalogTitle": "LLLAN 354",
+            "section": "002",
+            "courseTitle": "Conversationl Spanish I"
+        },
+        {
+            "catalogTitle": "LLLAN 355",
+            "section": "001",
+            "courseTitle": "Conversational Span II"
+        },
+        {
+            "catalogTitle": "LLLAN 355",
+            "section": "002",
+            "courseTitle": "Conversational Span II"
+        },
+        {
+            "catalogTitle": "LLLAN 356",
+            "section": "001",
+            "courseTitle": "Conversational Span III"
+        },
+        {
+            "catalogTitle": "LLLAN 362",
+            "section": "001",
+            "courseTitle": "Conv Italian I"
+        },
+        {
+            "catalogTitle": "LLLAN 363",
+            "section": "001",
+            "courseTitle": "Converstional Italian II"
+        },
+        {
+            "catalogTitle": "LLLAN 364",
+            "section": "001",
+            "courseTitle": "Mandarin Chinese I"
+        },
+        {
+            "catalogTitle": "LLLAN 365",
+            "section": "001",
+            "courseTitle": "Mandarin Chinese II"
+        },
+        {
+            "catalogTitle": "LLLAN 373",
+            "section": "001",
+            "courseTitle": "Cont. Conversation German"
+        },
+        {
+            "catalogTitle": "LLLAN 378",
+            "section": "001",
+            "courseTitle": "Mandarin Chinese III"
+        }
+    ]
+}

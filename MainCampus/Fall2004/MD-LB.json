@@ -1,0 +1,139 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD LB 3600",
+            "section": "001",
+            "courseTitle": "Intro To Med Lab Sci"
+        },
+        {
+            "catalogTitle": "MD LB 3750",
+            "section": "001",
+            "courseTitle": "Clin Immunology Techniq"
+        },
+        {
+            "catalogTitle": "MD LB 3850",
+            "section": "001",
+            "courseTitle": "Body Fluids Analysis"
+        },
+        {
+            "catalogTitle": "MD LB 4300",
+            "section": "001",
+            "courseTitle": "Hematology I"
+        },
+        {
+            "catalogTitle": "MD LB 4300",
+            "section": "002",
+            "courseTitle": "Hematology I"
+        },
+        {
+            "catalogTitle": "MD LB 4310",
+            "section": "001",
+            "courseTitle": "Hematology II"
+        },
+        {
+            "catalogTitle": "MD LB 4500",
+            "section": "001",
+            "courseTitle": "Pathogenic Microbiology"
+        },
+        {
+            "catalogTitle": "MD LB 4550",
+            "section": "001",
+            "courseTitle": "Diag Cytopathology"
+        },
+        {
+            "catalogTitle": "MD LB 4560",
+            "section": "001",
+            "courseTitle": "Clinical Microscopy"
+        },
+        {
+            "catalogTitle": "MD LB 4570",
+            "section": "001",
+            "courseTitle": "Cytoprep Techniques"
+        },
+        {
+            "catalogTitle": "MD LB 4580",
+            "section": "001",
+            "courseTitle": "Diag Cytopathology"
+        },
+        {
+            "catalogTitle": "MD LB 4650",
+            "section": "001",
+            "courseTitle": "Clinical Cytopathology"
+        },
+        {
+            "catalogTitle": "MD LB 4990",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MD LB 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "MD LB 5130",
+            "section": "001",
+            "courseTitle": "Lab Management/Suprvsn"
+        },
+        {
+            "catalogTitle": "MD LB 5200",
+            "section": "001",
+            "courseTitle": "Applied Clinical Chem I"
+        },
+        {
+            "catalogTitle": "MD LB 5210",
+            "section": "001",
+            "courseTitle": "Applied Clin Chem II"
+        },
+        {
+            "catalogTitle": "MD LB 5300",
+            "section": "001",
+            "courseTitle": "Applied Clin Hemat I"
+        },
+        {
+            "catalogTitle": "MD LB 5310",
+            "section": "001",
+            "courseTitle": "Applied Clin Hemat II"
+        },
+        {
+            "catalogTitle": "MD LB 5400",
+            "section": "001",
+            "courseTitle": "Applied Clin Immuhem"
+        },
+        {
+            "catalogTitle": "MD LB 5500",
+            "section": "001",
+            "courseTitle": "Applied Clin Micro I"
+        },
+        {
+            "catalogTitle": "MD LB 5510",
+            "section": "001",
+            "courseTitle": "Applied Clin Micro II"
+        },
+        {
+            "catalogTitle": "MD LB 5530",
+            "section": "001",
+            "courseTitle": "Applied Clin Immunol"
+        },
+        {
+            "catalogTitle": "MD LB 5531",
+            "section": "001",
+            "courseTitle": "App Molec. Dx"
+        },
+        {
+            "catalogTitle": "MD LB 5532",
+            "section": "001",
+            "courseTitle": "App Imm II"
+        },
+        {
+            "catalogTitle": "MD LB 5533",
+            "section": "001",
+            "courseTitle": "App Mol Dx II"
+        },
+        {
+            "catalogTitle": "MD LB 5600",
+            "section": "001",
+            "courseTitle": "Clinical Electives"
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HIST 402",
+            "section": "001",
+            "courseTitle": "Roman Empire"
+        },
+        {
+            "catalogTitle": "HIST 441",
+            "section": "001",
+            "courseTitle": "Arabian Days Caliphates"
+        },
+        {
+            "catalogTitle": "HIST 1110",
+            "section": "001",
+            "courseTitle": "Western Civ SN 1300"
+        },
+        {
+            "catalogTitle": "HIST 1220",
+            "section": "001",
+            "courseTitle": "Asian Civ: Modern Hist"
+        },
+        {
+            "catalogTitle": "HIST 1310",
+            "section": "001",
+            "courseTitle": "Latin Amer Civ Sn 1820s"
+        },
+        {
+            "catalogTitle": "HIST 1500",
+            "section": "090",
+            "courseTitle": "World Hist to 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "001",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "001",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "002",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "003",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "070",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "090",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "091",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "092",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "093",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "094",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "095",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "096",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "097",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "098",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "099",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 2700",
+            "section": "090",
+            "courseTitle": "US History To 1877"
+        },
+        {
+            "catalogTitle": "HIST 2710",
+            "section": "001",
+            "courseTitle": "US History SN 1877"
+        },
+        {
+            "catalogTitle": "HIST 3100",
+            "section": "001",
+            "courseTitle": "Historian's Craft"
+        },
+        {
+            "catalogTitle": "HIST 3300",
+            "section": "001",
+            "courseTitle": "History Of Mexico"
+        },
+        {
+            "catalogTitle": "HIST 3530",
+            "section": "001",
+            "courseTitle": "Modern Japan"
+        },
+        {
+            "catalogTitle": "HIST 3560",
+            "section": "001",
+            "courseTitle": "Modern India"
+        },
+        {
+            "catalogTitle": "HIST 3590",
+            "section": "001",
+            "courseTitle": "Modern Southeast Asia"
+        },
+        {
+            "catalogTitle": "HIST 3910",
+            "section": "002",
+            "courseTitle": "History of Pacific Islands"
+        },
+        {
+            "catalogTitle": "HIST 3910",
+            "section": "003",
+            "courseTitle": "American Immigration"
+        },
+        {
+            "catalogTitle": "HIST 4020",
+            "section": "001",
+            "courseTitle": "Roman Empire"
+        },
+        {
+            "catalogTitle": "HIST 4260",
+            "section": "001",
+            "courseTitle": "French Colonial Empire"
+        },
+        {
+            "catalogTitle": "HIST 4290",
+            "section": "001",
+            "courseTitle": "Americas after Columbus"
+        },
+        {
+            "catalogTitle": "HIST 4380",
+            "section": "001",
+            "courseTitle": "US Environmental Hist"
+        },
+        {
+            "catalogTitle": "HIST 4400",
+            "section": "001",
+            "courseTitle": "Introduction to Islam"
+        },
+        {
+            "catalogTitle": "HIST 4410",
+            "section": "001",
+            "courseTitle": "Arabian Days Caliphates"
+        },
+        {
+            "catalogTitle": "HIST 4620",
+            "section": "001",
+            "courseTitle": "Topics In Gndr History"
+        },
+        {
+            "catalogTitle": "HIST 4660",
+            "section": "001",
+            "courseTitle": "History Of Utah"
+        },
+        {
+            "catalogTitle": "HIST 4700",
+            "section": "001",
+            "courseTitle": "Africn Am Hst 1890-Pres"
+        },
+        {
+            "catalogTitle": "HIST 4740",
+            "section": "001",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "HIST 4765",
+            "section": "001",
+            "courseTitle": "The Vietnam War"
+        },
+        {
+            "catalogTitle": "HIST 4770",
+            "section": "001",
+            "courseTitle": "Modern Warfare"
+        },
+        {
+            "catalogTitle": "HIST 4920",
+            "section": "001",
+            "courseTitle": "CLAC (SPAN): LAT AM CIV"
+        },
+        {
+            "catalogTitle": "HIST 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "001",
+            "courseTitle": "Conspiracies"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "004",
+            "courseTitle": "Resistance"
+        },
+        {
+            "catalogTitle": "HIST 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "HIST 5100",
+            "section": "001",
+            "courseTitle": "Internship Public Hist"
+        },
+        {
+            "catalogTitle": "HIST 6010",
+            "section": "001",
+            "courseTitle": "Roman Empire"
+        },
+        {
+            "catalogTitle": "HIST 6290",
+            "section": "001",
+            "courseTitle": "Americas after Columbus"
+        },
+        {
+            "catalogTitle": "HIST 6380",
+            "section": "001",
+            "courseTitle": "U.S. Environmental Hist"
+        },
+        {
+            "catalogTitle": "HIST 6410",
+            "section": "001",
+            "courseTitle": "Arabian Days: Caliphate"
+        },
+        {
+            "catalogTitle": "HIST 6900",
+            "section": "001",
+            "courseTitle": "Sp St-European History"
+        },
+        {
+            "catalogTitle": "HIST 6910",
+            "section": "001",
+            "courseTitle": "Sp St-American History"
+        },
+        {
+            "catalogTitle": "HIST 6940",
+            "section": "004",
+            "courseTitle": "Islamic Spain"
+        },
+        {
+            "catalogTitle": "HIST 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "HIST 7510",
+            "section": "001",
+            "courseTitle": "Prosem: US Hist Sn 1877"
+        },
+        {
+            "catalogTitle": "HIST 7720",
+            "section": "001",
+            "courseTitle": "Colloq Early Med Europe"
+        },
+        {
+            "catalogTitle": "HIST 7860",
+            "section": "001",
+            "courseTitle": "Sem-19,20 Cen America"
+        },
+        {
+            "catalogTitle": "HIST 7910",
+            "section": "001",
+            "courseTitle": "Seminar in Gndr History"
+        },
+        {
+            "catalogTitle": "HIST 7920",
+            "section": "001",
+            "courseTitle": "Seminar in Colonialism"
+        },
+        {
+            "catalogTitle": "HIST 7980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

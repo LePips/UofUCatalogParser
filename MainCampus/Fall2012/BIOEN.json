@@ -1,0 +1,284 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOEN 1010",
+            "section": "001",
+            "courseTitle": "Careers in BME"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "001",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "002",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "003",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "005",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "006",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 3070",
+            "section": "001",
+            "courseTitle": "Bioen Statistics"
+        },
+        {
+            "catalogTitle": "BIOEN 3091",
+            "section": "001",
+            "courseTitle": "Current Research in BME"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "001",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "002",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "003",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "004",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 4200",
+            "section": "001",
+            "courseTitle": "BIOEN Research"
+        },
+        {
+            "catalogTitle": "BIOEN 4201",
+            "section": "001",
+            "courseTitle": "Bioeng Project I"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "001",
+            "courseTitle": "BME Design II"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "002",
+            "courseTitle": "BME Design II"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "003",
+            "courseTitle": "BME Design II"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "004",
+            "courseTitle": "BME Design II"
+        },
+        {
+            "catalogTitle": "BIOEN 4990",
+            "section": "001",
+            "courseTitle": "Internships & Co-ops"
+        },
+        {
+            "catalogTitle": "BIOEN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "BIOEN 5070",
+            "section": "001",
+            "courseTitle": "Bioen Statistics"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "001",
+            "courseTitle": "Biosystems Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "002",
+            "courseTitle": "Biosystems Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "003",
+            "courseTitle": "Biosystems Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "001",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "002",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "003",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "004",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5401",
+            "section": "001",
+            "courseTitle": "Medical Imaging Sys"
+        },
+        {
+            "catalogTitle": "BIOEN 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 5950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6002",
+            "section": "001",
+            "courseTitle": "Molecular Biophysics"
+        },
+        {
+            "catalogTitle": "BIOEN 6003",
+            "section": "001",
+            "courseTitle": "Cellular Biophysics"
+        },
+        {
+            "catalogTitle": "BIOEN 6060",
+            "section": "001",
+            "courseTitle": "Scientific Presentation"
+        },
+        {
+            "catalogTitle": "BIOEN 6081",
+            "section": "001",
+            "courseTitle": "bioInnovate I"
+        },
+        {
+            "catalogTitle": "BIOEN 6090",
+            "section": "001",
+            "courseTitle": "Department Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6181",
+            "section": "001",
+            "courseTitle": "Clincl Problem Solve I"
+        },
+        {
+            "catalogTitle": "BIOEN 6440",
+            "section": "001",
+            "courseTitle": "Neural Engineering"
+        },
+        {
+            "catalogTitle": "BIOEN 6480",
+            "section": "001",
+            "courseTitle": "Biomechanics Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6640",
+            "section": "001",
+            "courseTitle": "Image Processing"
+        },
+        {
+            "catalogTitle": "BIOEN 6810",
+            "section": "001",
+            "courseTitle": "Medical Imaging Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "002",
+            "courseTitle": "TA Mentorship"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "006",
+            "courseTitle": "Studies in Neural Engineering"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6960",
+            "section": "001",
+            "courseTitle": "Research Project:  Me"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "019",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "063",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIOEN 7320",
+            "section": "001",
+            "courseTitle": "3 D Reconstruction Tech"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "061",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "062",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "083",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "085",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

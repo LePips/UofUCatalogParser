@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "C LIT 3600",
+            "section": "001",
+            "courseTitle": "What Is Literature"
+        },
+        {
+            "catalogTitle": "C LIT 3650",
+            "section": "001",
+            "courseTitle": "African Literature"
+        },
+        {
+            "catalogTitle": "C LIT 4900",
+            "section": "001",
+            "courseTitle": "19th Cen Russian Lit"
+        },
+        {
+            "catalogTitle": "C LIT 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "C LIT 6600",
+            "section": "001",
+            "courseTitle": "Intro Research/Biblio"
+        },
+        {
+            "catalogTitle": "C LIT 6640",
+            "section": "001",
+            "courseTitle": "Study Romanticism"
+        },
+        {
+            "catalogTitle": "C LIT 6730",
+            "section": "001",
+            "courseTitle": "Eminent Writers"
+        },
+        {
+            "catalogTitle": "C LIT 6760",
+            "section": "001",
+            "courseTitle": "Theo & Crit: Classicism"
+        },
+        {
+            "catalogTitle": "C LIT 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "C LIT 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "C LIT 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "C LIT 7900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "C LIT 7900",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "C LIT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "C LIT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "C LIT 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

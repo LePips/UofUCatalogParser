@@ -1,0 +1,539 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 150",
+            "section": "090",
+            "courseTitle": "Human Development"
+        },
+        {
+            "catalogTitle": "SW 300",
+            "section": "090",
+            "courseTitle": "Soc. Welfare Institution"
+        },
+        {
+            "catalogTitle": "SW 301",
+            "section": "090",
+            "courseTitle": "CM Orientation"
+        },
+        {
+            "catalogTitle": "SW 311",
+            "section": "090",
+            "courseTitle": "CM - Intro to SW Prac"
+        },
+        {
+            "catalogTitle": "SW 312",
+            "section": "090",
+            "courseTitle": "CM - Int Comm / Doc"
+        },
+        {
+            "catalogTitle": "SW 314",
+            "section": "090",
+            "courseTitle": "CM- Comm Pr / Advocacy"
+        },
+        {
+            "catalogTitle": "SW 578",
+            "section": "090",
+            "courseTitle": "SW Practice Methods"
+        },
+        {
+            "catalogTitle": "SW 623",
+            "section": "001",
+            "courseTitle": "Healing thru Creativity"
+        },
+        {
+            "catalogTitle": "SW 710",
+            "section": "001",
+            "courseTitle": "A&D Field Training III"
+        },
+        {
+            "catalogTitle": "SW 713",
+            "section": "001",
+            "courseTitle": "A&D Advanced F&R"
+        },
+        {
+            "catalogTitle": "SW 722",
+            "section": "001",
+            "courseTitle": "A&D Adv Counseling"
+        },
+        {
+            "catalogTitle": "SW 723",
+            "section": "001",
+            "courseTitle": "A&D Adv Prof Develop"
+        },
+        {
+            "catalogTitle": "SW 820",
+            "section": "001",
+            "courseTitle": "Equine-Asst Therapy for Facili"
+        },
+        {
+            "catalogTitle": "SW 1010",
+            "section": "090",
+            "courseTitle": "Soc Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 2300",
+            "section": "090",
+            "courseTitle": "Soc. Welfare Institution"
+        },
+        {
+            "catalogTitle": "SW 3000",
+            "section": "090",
+            "courseTitle": "Applied SW Statistics"
+        },
+        {
+            "catalogTitle": "SW 3100",
+            "section": "090",
+            "courseTitle": "HBSE I"
+        },
+        {
+            "catalogTitle": "SW 3200",
+            "section": "090",
+            "courseTitle": "HBSE II"
+        },
+        {
+            "catalogTitle": "SW 3550",
+            "section": "090",
+            "courseTitle": "Soc Div & Cultrl Undrstng"
+        },
+        {
+            "catalogTitle": "SW 3820",
+            "section": "001",
+            "courseTitle": "Equine-Asst Therapy for Facili"
+        },
+        {
+            "catalogTitle": "SW 4100",
+            "section": "090",
+            "courseTitle": "Global Com Bsd Resch"
+        },
+        {
+            "catalogTitle": "SW 4220",
+            "section": "090",
+            "courseTitle": "SW Practice II"
+        },
+        {
+            "catalogTitle": "SW 4330",
+            "section": "090",
+            "courseTitle": "SW Practice III"
+        },
+        {
+            "catalogTitle": "SW 4401",
+            "section": "090",
+            "courseTitle": "Soc Wk Rsrch & Eval"
+        },
+        {
+            "catalogTitle": "SW 4440",
+            "section": "090",
+            "courseTitle": "SW Practice IV"
+        },
+        {
+            "catalogTitle": "SW 4444",
+            "section": "090",
+            "courseTitle": "Advanced SW Writing"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "001",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "001",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "002",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 5710",
+            "section": "001",
+            "courseTitle": "A&D Field Training III"
+        },
+        {
+            "catalogTitle": "SW 5722",
+            "section": "001",
+            "courseTitle": "A&D Adv Counseling"
+        },
+        {
+            "catalogTitle": "SW 5723",
+            "section": "001",
+            "courseTitle": "A&D Adv Prof Develop"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "001",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "002",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6040",
+            "section": "045",
+            "courseTitle": "DSM"
+        },
+        {
+            "catalogTitle": "SW 6110",
+            "section": "730",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "SW 6121",
+            "section": "001",
+            "courseTitle": "Bridge Reflexive"
+        },
+        {
+            "catalogTitle": "SW 6121",
+            "section": "002",
+            "courseTitle": "Bridge Reflexive"
+        },
+        {
+            "catalogTitle": "SW 6121",
+            "section": "045",
+            "courseTitle": "Bridge Reflexive"
+        },
+        {
+            "catalogTitle": "SW 6200",
+            "section": "001",
+            "courseTitle": "Bridge - Practice"
+        },
+        {
+            "catalogTitle": "SW 6200",
+            "section": "002",
+            "courseTitle": "Bridge - Practice"
+        },
+        {
+            "catalogTitle": "SW 6200",
+            "section": "045",
+            "courseTitle": "Bridge - Practice"
+        },
+        {
+            "catalogTitle": "SW 6303",
+            "section": "730",
+            "courseTitle": "Ldrshp Dev - Child Welfare Sys"
+        },
+        {
+            "catalogTitle": "SW 6331",
+            "section": "090",
+            "courseTitle": "Issues in Repro Hlth"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "001",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "002",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "003",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "004",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "005",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "006",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "007",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "001",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "002",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "003",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "004",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "005",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "006",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "007",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "001",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "002",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "003",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "004",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "005",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "006",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "007",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "002",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "003",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "004",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "005",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "006",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "007",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "002",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "003",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "004",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "005",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "006",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "007",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6523",
+            "section": "738",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "001",
+            "courseTitle": "Healing thru Creativity"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "002",
+            "courseTitle": "Spirituality in Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "003",
+            "courseTitle": "Dialectic Behavioral Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "004",
+            "courseTitle": "Marriage and Family Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "005",
+            "courseTitle": "Clin Pract w/ Grief and Loss"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "006",
+            "courseTitle": "Advocacy & PR Skills for SWs"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "007",
+            "courseTitle": "Intro to Couples Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "009",
+            "courseTitle": "Mind Body Bridging"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "011",
+            "courseTitle": "Solution Focused Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "012",
+            "courseTitle": "Play Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "015",
+            "courseTitle": "Working with Trauma"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "016",
+            "courseTitle": "Sexuality in Clinical Setting"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "017",
+            "courseTitle": "Self Harming Behaviors"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "018",
+            "courseTitle": "Overview of Expressive Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "019",
+            "courseTitle": "Crisis Invervention"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "045",
+            "courseTitle": "Solution Focused Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "046",
+            "courseTitle": "Clin Pract w/ Grief and Loss"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "047",
+            "courseTitle": "Working with Trauma"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "048",
+            "courseTitle": "Marriage and Family Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "090",
+            "courseTitle": "ACT Therapy & Mindfulness"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "091",
+            "courseTitle": "ACT Therapy & Mindfulness"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "821",
+            "courseTitle": "Dissertation Research"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 650",
+            "section": "001",
+            "courseTitle": "Avalanche Workshop"
+        },
+        {
+            "catalogTitle": "LLREC 731",
+            "section": "001",
+            "courseTitle": "Skate Skiing"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "001",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "002",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 903",
+            "section": "001",
+            "courseTitle": "Bikepacking"
+        },
+        {
+            "catalogTitle": "LLREC 910",
+            "section": "001",
+            "courseTitle": "Snowshoe by Moonlight"
+        }
+    ]
+}

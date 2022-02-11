@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PH TX 2700",
+            "section": "001",
+            "courseTitle": "Common Medicines"
+        },
+        {
+            "catalogTitle": "PH TX 5990",
+            "section": "001",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PH TX 6720",
+            "section": "001",
+            "courseTitle": "Dev Neuropharm"
+        },
+        {
+            "catalogTitle": "PH TX 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "PH TX 7890",
+            "section": "001",
+            "courseTitle": "Research Seminar"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "001",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg PhD"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARAB 1010",
+            "section": "001",
+            "courseTitle": "Beginning Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 3010",
+            "section": "001",
+            "courseTitle": "Third Year Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 3200",
+            "section": "001",
+            "courseTitle": "Intro Arab Lit In Trans"
+        },
+        {
+            "catalogTitle": "ARAB 4010",
+            "section": "001",
+            "courseTitle": "Colloquial Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 4270",
+            "section": "001",
+            "courseTitle": "Ling Structure Arabic"
+        },
+        {
+            "catalogTitle": "ARAB 4910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ARAB 4910",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ARAB 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "ARAB 6010",
+            "section": "001",
+            "courseTitle": "Colloquial Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 6270",
+            "section": "001",
+            "courseTitle": "Ling Struct Arabic"
+        },
+        {
+            "catalogTitle": "ARAB 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ARAB 6920",
+            "section": "001",
+            "courseTitle": "Graduate Lang Study"
+        },
+        {
+            "catalogTitle": "ARAB 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research - M.A."
+        },
+        {
+            "catalogTitle": "ARAB 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation-MA"
+        },
+        {
+            "catalogTitle": "ARAB 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-MA"
+        },
+        {
+            "catalogTitle": "ARAB 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ARAB 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "ARAB 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-PhD"
+        }
+    ]
+}

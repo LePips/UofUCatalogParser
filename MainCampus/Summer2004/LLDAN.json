@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLDAN 206",
+            "section": "001",
+            "courseTitle": "Swing is King"
+        },
+        {
+            "catalogTitle": "LLDAN 210",
+            "section": "001",
+            "courseTitle": "Salsa & Merengue"
+        },
+        {
+            "catalogTitle": "LLDAN 215",
+            "section": "001",
+            "courseTitle": "Yoga-Strength & Toning"
+        },
+        {
+            "catalogTitle": "LLDAN 218",
+            "section": "001",
+            "courseTitle": "Pilates"
+        },
+        {
+            "catalogTitle": "LLDAN 230",
+            "section": "001",
+            "courseTitle": "Belly Dancing"
+        }
+    ]
+}

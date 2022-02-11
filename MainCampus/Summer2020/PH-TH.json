@@ -1,3 +1,114 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "PH TH 6010",
+            "section": "001",
+            "courseTitle": "Prof Practice I"
+        },
+        {
+            "catalogTitle": "PH TH 6040",
+            "section": "001",
+            "courseTitle": "Gross Anatomy"
+        },
+        {
+            "catalogTitle": "PH TH 6040",
+            "section": "002",
+            "courseTitle": "Gross Anatomy"
+        },
+        {
+            "catalogTitle": "PH TH 6050",
+            "section": "001",
+            "courseTitle": "Patient Safety Handling"
+        },
+        {
+            "catalogTitle": "PH TH 6060",
+            "section": "001",
+            "courseTitle": "Pathophysiology"
+        },
+        {
+            "catalogTitle": "PH TH 6130",
+            "section": "001",
+            "courseTitle": "Pharmacotherapeutics"
+        },
+        {
+            "catalogTitle": "PH TH 6820",
+            "section": "001",
+            "courseTitle": "ICE II"
+        },
+        {
+            "catalogTitle": "PH TH 6830",
+            "section": "001",
+            "courseTitle": "ICE III"
+        },
+        {
+            "catalogTitle": "PH TH 6850",
+            "section": "001",
+            "courseTitle": "ICE IV"
+        },
+        {
+            "catalogTitle": "PH TH 7220",
+            "section": "001",
+            "courseTitle": "Interventions III"
+        },
+        {
+            "catalogTitle": "PH TH 7220",
+            "section": "002",
+            "courseTitle": "Interventions III"
+        },
+        {
+            "catalogTitle": "PH TH 7260",
+            "section": "001",
+            "courseTitle": "Mgmt in Geriatrics"
+        },
+        {
+            "catalogTitle": "PH TH 7270",
+            "section": "001",
+            "courseTitle": "Health Behavior Change"
+        },
+        {
+            "catalogTitle": "PH TH 7810",
+            "section": "001",
+            "courseTitle": "Clinical Internship I"
+        },
+        {
+            "catalogTitle": "PH TH 7880",
+            "section": "001",
+            "courseTitle": "Terminal FTCE IV"
+        },
+        {
+            "catalogTitle": "PH TH 7930",
+            "section": "001",
+            "courseTitle": "Doctoral Seminar III"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "012",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "013",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "014",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7980",
+            "section": "014",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
 }

@@ -1,0 +1,804 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ED PS 260",
+            "section": "002",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 260",
+            "section": "003",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 260",
+            "section": "004",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 260",
+            "section": "007",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "001",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "002",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "003",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "004",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2625",
+            "section": "001",
+            "courseTitle": "Human Values & Relatnsp"
+        },
+        {
+            "catalogTitle": "ED PS 3010",
+            "section": "001",
+            "courseTitle": "Multicultural Issues"
+        },
+        {
+            "catalogTitle": "ED PS 3030",
+            "section": "001",
+            "courseTitle": "Research & Inquiry"
+        },
+        {
+            "catalogTitle": "ED PS 3030",
+            "section": "002",
+            "courseTitle": "Research & Inquiry"
+        },
+        {
+            "catalogTitle": "ED PS 3110",
+            "section": "001",
+            "courseTitle": "Learn, Lit, & Dev."
+        },
+        {
+            "catalogTitle": "ED PS 3110",
+            "section": "002",
+            "courseTitle": "Learn, Lit, & Dev."
+        },
+        {
+            "catalogTitle": "ED PS 3140",
+            "section": "001",
+            "courseTitle": "Technology in Classrooms"
+        },
+        {
+            "catalogTitle": "ED PS 3140",
+            "section": "002",
+            "courseTitle": "Technology in Classrooms"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "001",
+            "courseTitle": "Techniques of Counseling"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "078",
+            "courseTitle": "Career Services Internship"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "079",
+            "courseTitle": "Career Services Internship"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "080",
+            "courseTitle": "Successful Career Planning"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "081",
+            "courseTitle": "Successful Career Planning"
+        },
+        {
+            "catalogTitle": "ED PS 4330",
+            "section": "001",
+            "courseTitle": "Int Children's Lit"
+        },
+        {
+            "catalogTitle": "ED PS 4330",
+            "section": "002",
+            "courseTitle": "Int Children's Lit"
+        },
+        {
+            "catalogTitle": "ED PS 4330",
+            "section": "003",
+            "courseTitle": "Int Children's Lit"
+        },
+        {
+            "catalogTitle": "ED PS 4330",
+            "section": "004",
+            "courseTitle": "Int Children's Lit"
+        },
+        {
+            "catalogTitle": "ED PS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ED PS 5000",
+            "section": "001",
+            "courseTitle": "Writing & Assessment I"
+        },
+        {
+            "catalogTitle": "ED PS 5000",
+            "section": "002",
+            "courseTitle": "Writing & Assessment I"
+        },
+        {
+            "catalogTitle": "ED PS 5005",
+            "section": "001",
+            "courseTitle": "Writing Methods II"
+        },
+        {
+            "catalogTitle": "ED PS 5005",
+            "section": "002",
+            "courseTitle": "Writing Methods II"
+        },
+        {
+            "catalogTitle": "ED PS 5060",
+            "section": "090",
+            "courseTitle": "Forgiveness & Anger Reduction"
+        },
+        {
+            "catalogTitle": "ED PS 5061",
+            "section": "090",
+            "courseTitle": "Change Using Pos Psych"
+        },
+        {
+            "catalogTitle": "ED PS 5062",
+            "section": "090",
+            "courseTitle": "Coping w/Difficult People"
+        },
+        {
+            "catalogTitle": "ED PS 5063",
+            "section": "090",
+            "courseTitle": "Enhncng Happnss/Life Satisf"
+        },
+        {
+            "catalogTitle": "ED PS 5065",
+            "section": "090",
+            "courseTitle": "Quality Intimate Relatnshps"
+        },
+        {
+            "catalogTitle": "ED PS 5066",
+            "section": "090",
+            "courseTitle": "Growing from Traum Life Exp"
+        },
+        {
+            "catalogTitle": "ED PS 5151",
+            "section": "001",
+            "courseTitle": "Ed Tech for Secondary Ed"
+        },
+        {
+            "catalogTitle": "ED PS 5315",
+            "section": "001",
+            "courseTitle": "Reading Methods I"
+        },
+        {
+            "catalogTitle": "ED PS 5315",
+            "section": "002",
+            "courseTitle": "Reading Methods I"
+        },
+        {
+            "catalogTitle": "ED PS 5320",
+            "section": "001",
+            "courseTitle": "Reading Methods II"
+        },
+        {
+            "catalogTitle": "ED PS 5320",
+            "section": "002",
+            "courseTitle": "Reading Methods II"
+        },
+        {
+            "catalogTitle": "ED PS 5441",
+            "section": "090",
+            "courseTitle": "Integrating Technology I"
+        },
+        {
+            "catalogTitle": "ED PS 5441",
+            "section": "091",
+            "courseTitle": "Integrating Technology I"
+        },
+        {
+            "catalogTitle": "ED PS 5442",
+            "section": "090",
+            "courseTitle": "Integrating Technology II"
+        },
+        {
+            "catalogTitle": "ED PS 5950",
+            "section": "001",
+            "courseTitle": "Ind Reading/Resrch R&L"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "001",
+            "courseTitle": "Techniques of Counseling"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "002",
+            "courseTitle": "SAMS"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "004",
+            "courseTitle": "Special Topics Research"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "005",
+            "courseTitle": "Spaces and Behaviors"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "090",
+            "courseTitle": "Meditation & Stress"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "094",
+            "courseTitle": "Divorce: Life Reconstruction"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "096",
+            "courseTitle": "Forgiving and Respecting Self"
+        },
+        {
+            "catalogTitle": "ED PS 6000",
+            "section": "001",
+            "courseTitle": "Writing Methods I"
+        },
+        {
+            "catalogTitle": "ED PS 6000",
+            "section": "002",
+            "courseTitle": "Writing Methods I"
+        },
+        {
+            "catalogTitle": "ED PS 6005",
+            "section": "001",
+            "courseTitle": "Writing Methods II"
+        },
+        {
+            "catalogTitle": "ED PS 6005",
+            "section": "002",
+            "courseTitle": "Writing Methods II"
+        },
+        {
+            "catalogTitle": "ED PS 6030",
+            "section": "001",
+            "courseTitle": "Intro Research Design"
+        },
+        {
+            "catalogTitle": "ED PS 6051",
+            "section": "001",
+            "courseTitle": "LifeSpanDev: Adult"
+        },
+        {
+            "catalogTitle": "ED PS 6060",
+            "section": "090",
+            "courseTitle": "Forgiveness & Anger Reduction"
+        },
+        {
+            "catalogTitle": "ED PS 6061",
+            "section": "090",
+            "courseTitle": "Change Using Pos Psych"
+        },
+        {
+            "catalogTitle": "ED PS 6063",
+            "section": "090",
+            "courseTitle": "Enhncng Happnss/Life Satisf"
+        },
+        {
+            "catalogTitle": "ED PS 6065",
+            "section": "090",
+            "courseTitle": "Quality Intimate Relatnshps"
+        },
+        {
+            "catalogTitle": "ED PS 6066",
+            "section": "090",
+            "courseTitle": "Growing from Traum Life Exp"
+        },
+        {
+            "catalogTitle": "ED PS 6120",
+            "section": "001",
+            "courseTitle": "Comp Counseling & Guidance"
+        },
+        {
+            "catalogTitle": "ED PS 6120",
+            "section": "045",
+            "courseTitle": "Comp Counseling & Guidance"
+        },
+        {
+            "catalogTitle": "ED PS 6124",
+            "section": "060",
+            "courseTitle": "Children's Literature"
+        },
+        {
+            "catalogTitle": "ED PS 6125",
+            "section": "060",
+            "courseTitle": "Adolescent Literature"
+        },
+        {
+            "catalogTitle": "ED PS 6130",
+            "section": "060",
+            "courseTitle": "Writing Theory & Instr."
+        },
+        {
+            "catalogTitle": "ED PS 6151",
+            "section": "001",
+            "courseTitle": "Ed Tech for Secondary"
+        },
+        {
+            "catalogTitle": "ED PS 6300",
+            "section": "001",
+            "courseTitle": "Intro To Measurement"
+        },
+        {
+            "catalogTitle": "ED PS 6300",
+            "section": "045",
+            "courseTitle": "Intro To Measurement"
+        },
+        {
+            "catalogTitle": "ED PS 6315",
+            "section": "001",
+            "courseTitle": "Reading Methods I"
+        },
+        {
+            "catalogTitle": "ED PS 6315",
+            "section": "002",
+            "courseTitle": "Reading Methods I"
+        },
+        {
+            "catalogTitle": "ED PS 6321",
+            "section": "001",
+            "courseTitle": "Reading Methods"
+        },
+        {
+            "catalogTitle": "ED PS 6321",
+            "section": "002",
+            "courseTitle": "Reading Methods"
+        },
+        {
+            "catalogTitle": "ED PS 6330",
+            "section": "001",
+            "courseTitle": "Career Dev & Assessment"
+        },
+        {
+            "catalogTitle": "ED PS 6331",
+            "section": "002",
+            "courseTitle": "Int'l Child Lit"
+        },
+        {
+            "catalogTitle": "ED PS 6360",
+            "section": "001",
+            "courseTitle": "Multicultural Counselng"
+        },
+        {
+            "catalogTitle": "ED PS 6380",
+            "section": "001",
+            "courseTitle": "Acad Assess & Intervent"
+        },
+        {
+            "catalogTitle": "ED PS 6390",
+            "section": "001",
+            "courseTitle": "Interv In Schools"
+        },
+        {
+            "catalogTitle": "ED PS 6440",
+            "section": "001",
+            "courseTitle": "Human-Computer Interact"
+        },
+        {
+            "catalogTitle": "ED PS 6441",
+            "section": "090",
+            "courseTitle": "Integrating Tech I"
+        },
+        {
+            "catalogTitle": "ED PS 6441",
+            "section": "091",
+            "courseTitle": "Integrating Tech I"
+        },
+        {
+            "catalogTitle": "ED PS 6442",
+            "section": "090",
+            "courseTitle": "Integrating Tech II"
+        },
+        {
+            "catalogTitle": "ED PS 6446",
+            "section": "001",
+            "courseTitle": "Integration Ed Tech"
+        },
+        {
+            "catalogTitle": "ED PS 6470",
+            "section": "001",
+            "courseTitle": "Psych & Educ Consult"
+        },
+        {
+            "catalogTitle": "ED PS 6470",
+            "section": "045",
+            "courseTitle": "Psych & Educ Consult"
+        },
+        {
+            "catalogTitle": "ED PS 6510",
+            "section": "001",
+            "courseTitle": "Cognition"
+        },
+        {
+            "catalogTitle": "ED PS 6550",
+            "section": "001",
+            "courseTitle": "Soc Psych/Hum Diversity"
+        },
+        {
+            "catalogTitle": "ED PS 6709",
+            "section": "001",
+            "courseTitle": "Prac in School Counseling"
+        },
+        {
+            "catalogTitle": "ED PS 6709",
+            "section": "045",
+            "courseTitle": "Prac in School Counseling"
+        },
+        {
+            "catalogTitle": "ED PS 6710",
+            "section": "001",
+            "courseTitle": "Practicum In Counseling"
+        },
+        {
+            "catalogTitle": "ED PS 6712",
+            "section": "001",
+            "courseTitle": "Reading Research"
+        },
+        {
+            "catalogTitle": "ED PS 6750",
+            "section": "001",
+            "courseTitle": "Advanced Projects"
+        },
+        {
+            "catalogTitle": "ED PS 6821",
+            "section": "001",
+            "courseTitle": "Prof Iss in Sch Coun"
+        },
+        {
+            "catalogTitle": "ED PS 6821",
+            "section": "045",
+            "courseTitle": "Prof Iss in Sch Coun"
+        },
+        {
+            "catalogTitle": "ED PS 6900",
+            "section": "001",
+            "courseTitle": "Intern in School Coun"
+        },
+        {
+            "catalogTitle": "ED PS 6900",
+            "section": "045",
+            "courseTitle": "Intern in School Coun"
+        },
+        {
+            "catalogTitle": "ED PS 6910",
+            "section": "001",
+            "courseTitle": "Intern in Prof Coun"
+        },
+        {
+            "catalogTitle": "ED PS 6950",
+            "section": "001",
+            "courseTitle": "Indep Study & Spec Proj"
+        },
+        {
+            "catalogTitle": "ED PS 6950",
+            "section": "002",
+            "courseTitle": "Indep Study & Spec Proj"
+        },
+        {
+            "catalogTitle": "ED PS 6950",
+            "section": "003",
+            "courseTitle": "Indep Study & Spec Proj"
+        },
+        {
+            "catalogTitle": "ED PS 6950",
+            "section": "004",
+            "courseTitle": "Indep Study & Spec Proj"
+        },
+        {
+            "catalogTitle": "ED PS 6950",
+            "section": "005",
+            "courseTitle": "Indep Study & Spec Proj"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "001",
+            "courseTitle": "Res Seminar"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "002",
+            "courseTitle": "Res Seminar"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "003",
+            "courseTitle": "Res Seminar"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "004",
+            "courseTitle": "Res Seminar"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "005",
+            "courseTitle": "Res Seminar"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "006",
+            "courseTitle": "Res Seminar"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "008",
+            "courseTitle": "Spaces and Behaviors"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "060",
+            "courseTitle": "Vocabulary Instruction"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "090",
+            "courseTitle": "Meditation & Stress"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "092",
+            "courseTitle": "Forgiving and Respecting Self"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "094",
+            "courseTitle": "Divorce: Life Reconstruction"
+        },
+        {
+            "catalogTitle": "ED PS 6970",
+            "section": "001",
+            "courseTitle": "Grad Thesis: Masters"
+        },
+        {
+            "catalogTitle": "ED PS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ED PS 7020",
+            "section": "001",
+            "courseTitle": "Quantitative Methods II"
+        },
+        {
+            "catalogTitle": "ED PS 7051",
+            "section": "001",
+            "courseTitle": "LifeSpanDev: Adult"
+        },
+        {
+            "catalogTitle": "ED PS 7150",
+            "section": "001",
+            "courseTitle": "Indiv Child/Adoles Asse"
+        },
+        {
+            "catalogTitle": "ED PS 7180",
+            "section": "001",
+            "courseTitle": "Personality Assessment"
+        },
+        {
+            "catalogTitle": "ED PS 7330",
+            "section": "001",
+            "courseTitle": "Career Develpmnt Theory"
+        },
+        {
+            "catalogTitle": "ED PS 7380",
+            "section": "001",
+            "courseTitle": "Acad Assess &  Intervent"
+        },
+        {
+            "catalogTitle": "ED PS 7390",
+            "section": "001",
+            "courseTitle": "Interv In Schools"
+        },
+        {
+            "catalogTitle": "ED PS 7400",
+            "section": "001",
+            "courseTitle": "Adv Research Design"
+        },
+        {
+            "catalogTitle": "ED PS 7410",
+            "section": "001",
+            "courseTitle": "Single Sub Res Des"
+        },
+        {
+            "catalogTitle": "ED PS 7420",
+            "section": "001",
+            "courseTitle": "Qualitative Research"
+        },
+        {
+            "catalogTitle": "ED PS 7430",
+            "section": "001",
+            "courseTitle": "Res in Coun Psy"
+        },
+        {
+            "catalogTitle": "ED PS 7440",
+            "section": "001",
+            "courseTitle": "Learn Sciences Sem"
+        },
+        {
+            "catalogTitle": "ED PS 7470",
+            "section": "001",
+            "courseTitle": "Psych & Educ Consult"
+        },
+        {
+            "catalogTitle": "ED PS 7470",
+            "section": "045",
+            "courseTitle": "Psych & Educ Consult"
+        },
+        {
+            "catalogTitle": "ED PS 7510",
+            "section": "001",
+            "courseTitle": "Cognition"
+        },
+        {
+            "catalogTitle": "ED PS 7520",
+            "section": "001",
+            "courseTitle": "Psychology of Reading"
+        },
+        {
+            "catalogTitle": "ED PS 7550",
+            "section": "001",
+            "courseTitle": "Soc Psy Human Diver"
+        },
+        {
+            "catalogTitle": "ED PS 7600",
+            "section": "001",
+            "courseTitle": "Diagnostic Adult Psych"
+        },
+        {
+            "catalogTitle": "ED PS 7710",
+            "section": "001",
+            "courseTitle": "Practicum/Couns Psych"
+        },
+        {
+            "catalogTitle": "ED PS 7720",
+            "section": "001",
+            "courseTitle": "Practicum in Supervison"
+        },
+        {
+            "catalogTitle": "ED PS 7730",
+            "section": "001",
+            "courseTitle": "Sch Psych Practicum: Clinic"
+        },
+        {
+            "catalogTitle": "ED PS 7731",
+            "section": "001",
+            "courseTitle": "Sch Psy Prac: Field"
+        },
+        {
+            "catalogTitle": "ED PS 7732",
+            "section": "001",
+            "courseTitle": "Sch Psy Res Prac"
+        },
+        {
+            "catalogTitle": "ED PS 7750",
+            "section": "001",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "ED PS 7770",
+            "section": "001",
+            "courseTitle": "Field Practicum"
+        },
+        {
+            "catalogTitle": "ED PS 7790",
+            "section": "001",
+            "courseTitle": "Practicum In Teaching"
+        },
+        {
+            "catalogTitle": "ED PS 7790",
+            "section": "002",
+            "courseTitle": "Practicum In Teaching"
+        },
+        {
+            "catalogTitle": "ED PS 7831",
+            "section": "001",
+            "courseTitle": "School Psy Sem: Autism"
+        },
+        {
+            "catalogTitle": "ED PS 7832",
+            "section": "001",
+            "courseTitle": "SchPsy Sem: Faculty"
+        },
+        {
+            "catalogTitle": "ED PS 7833",
+            "section": "001",
+            "courseTitle": "Evidence Based Prac"
+        },
+        {
+            "catalogTitle": "ED PS 7834",
+            "section": "001",
+            "courseTitle": "Positive Behavior Sem"
+        },
+        {
+            "catalogTitle": "ED PS 7910",
+            "section": "001",
+            "courseTitle": "Internship-School Psych"
+        },
+        {
+            "catalogTitle": "ED PS 7920",
+            "section": "001",
+            "courseTitle": "Internship Couns Psych"
+        },
+        {
+            "catalogTitle": "ED PS 7950",
+            "section": "001",
+            "courseTitle": "Indep Study & Spec Proj"
+        },
+        {
+            "catalogTitle": "ED PS 7959",
+            "section": "001",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "001",
+            "courseTitle": "Res Seminar - Sch Psych"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "002",
+            "courseTitle": "Practicum Supervision"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "003",
+            "courseTitle": "Fem Multicultural Prac Sem"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "004",
+            "courseTitle": "Practicum Supervision"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "005",
+            "courseTitle": "Practicum Supervision"
+        },
+        {
+            "catalogTitle": "ED PS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ED PS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ED PS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

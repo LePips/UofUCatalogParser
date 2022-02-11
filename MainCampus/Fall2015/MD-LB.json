@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD LB 1010",
+            "section": "001",
+            "courseTitle": "Survey of MLS"
+        },
+        {
+            "catalogTitle": "MD LB 4550",
+            "section": "001",
+            "courseTitle": "Diag Cytopathology"
+        },
+        {
+            "catalogTitle": "MD LB 4560",
+            "section": "001",
+            "courseTitle": "Clinical Microscopy"
+        },
+        {
+            "catalogTitle": "MD LB 4570",
+            "section": "001",
+            "courseTitle": "Cytoprep Techniques"
+        },
+        {
+            "catalogTitle": "MD LB 4580",
+            "section": "001",
+            "courseTitle": "Diag Cytopathology"
+        },
+        {
+            "catalogTitle": "MD LB 4650",
+            "section": "001",
+            "courseTitle": "Clinical Cytopathology"
+        },
+        {
+            "catalogTitle": "MD LB 4990",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MD LB 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        }
+    ]
+}

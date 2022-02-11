@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "TURK 212",
+            "section": "001",
+            "courseTitle": "Accel Interm TURK"
+        },
+        {
+            "catalogTitle": "TURK 260",
+            "section": "001",
+            "courseTitle": "Turkish Conversation"
+        },
+        {
+            "catalogTitle": "TURK 301",
+            "section": "001",
+            "courseTitle": "Third Year Turkish I"
+        },
+        {
+            "catalogTitle": "TURK 2120",
+            "section": "001",
+            "courseTitle": "Accel Interm TURK"
+        },
+        {
+            "catalogTitle": "TURK 2600",
+            "section": "001",
+            "courseTitle": "Turkish Conversation"
+        },
+        {
+            "catalogTitle": "TURK 3010",
+            "section": "001",
+            "courseTitle": "Third Year Turkish I"
+        },
+        {
+            "catalogTitle": "TURK 7300",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "TURK 7300",
+            "section": "005",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

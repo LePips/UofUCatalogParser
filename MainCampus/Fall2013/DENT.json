@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DENT 7101",
+            "section": "001",
+            "courseTitle": "Dental Anatomy Lecture"
+        },
+        {
+            "catalogTitle": "DENT 7102",
+            "section": "001",
+            "courseTitle": "Dental Anatomy Lab"
+        },
+        {
+            "catalogTitle": "DENT 7103",
+            "section": "001",
+            "courseTitle": "Dental Mtrls Science"
+        },
+        {
+            "catalogTitle": "DENT 7103",
+            "section": "002",
+            "courseTitle": "Dental Mtrls Science"
+        },
+        {
+            "catalogTitle": "DENT 7103",
+            "section": "003",
+            "courseTitle": "Dental Mtrls Science"
+        },
+        {
+            "catalogTitle": "DENT 7104",
+            "section": "001",
+            "courseTitle": "History of Dentistry"
+        },
+        {
+            "catalogTitle": "DENT 7106",
+            "section": "001",
+            "courseTitle": "Human Form and Function"
+        },
+        {
+            "catalogTitle": "DENT 7111",
+            "section": "001",
+            "courseTitle": "CPR"
+        }
+    ]
+}

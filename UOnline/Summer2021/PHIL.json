@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "290",
+            "courseTitle": "Intro Survey Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "290",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 3310",
+            "section": "290",
+            "courseTitle": "Science And Society"
+        },
+        {
+            "catalogTitle": "PHIL 3350",
+            "section": "290",
+            "courseTitle": "Hist & Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 3440",
+            "section": "290",
+            "courseTitle": "Cognitive Science"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "290",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "290",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "290",
+            "courseTitle": "World Religions"
+        }
+    ]
+}

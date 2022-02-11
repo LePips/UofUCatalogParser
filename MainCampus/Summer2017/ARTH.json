@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARTH 1020",
+            "section": "090",
+            "courseTitle": "Art Now"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "001",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 4750",
+            "section": "005",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "ARTH 4850",
+            "section": "001",
+            "courseTitle": "Art History Internship"
+        },
+        {
+            "catalogTitle": "ARTH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: MA"
+        },
+        {
+            "catalogTitle": "ARTH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation MA"
+        }
+    ]
+}

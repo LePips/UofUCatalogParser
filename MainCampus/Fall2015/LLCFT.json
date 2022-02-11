@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLCFT 229",
+            "section": "001",
+            "courseTitle": "Beginning Metal Smithing"
+        },
+        {
+            "catalogTitle": "LLCFT 229",
+            "section": "002",
+            "courseTitle": "Beginning Metal Smithing"
+        },
+        {
+            "catalogTitle": "LLCFT 234",
+            "section": "001",
+            "courseTitle": "Introduction to Welding"
+        },
+        {
+            "catalogTitle": "LLCFT 234",
+            "section": "002",
+            "courseTitle": "Introduction to Welding"
+        },
+        {
+            "catalogTitle": "LLCFT 234",
+            "section": "003",
+            "courseTitle": "Introduction to Welding"
+        },
+        {
+            "catalogTitle": "LLCFT 234",
+            "section": "004",
+            "courseTitle": "Introduction to Welding"
+        },
+        {
+            "catalogTitle": "LLCFT 272",
+            "section": "001",
+            "courseTitle": "Beginning Apparel Sewing"
+        },
+        {
+            "catalogTitle": "LLCFT 274",
+            "section": "001",
+            "courseTitle": "Blacksmithing"
+        },
+        {
+            "catalogTitle": "LLCFT 279",
+            "section": "001",
+            "courseTitle": "Suminigashi"
+        },
+        {
+            "catalogTitle": "LLCFT 282",
+            "section": "001",
+            "courseTitle": "Intermediate Silversmithing -"
+        }
+    ]
+}

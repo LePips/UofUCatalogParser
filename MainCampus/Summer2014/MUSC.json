@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MUSC 110",
+            "section": "090",
+            "courseTitle": "Elements in Music"
+        },
+        {
+            "catalogTitle": "MUSC 126",
+            "section": "020",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 210",
+            "section": "001",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 303",
+            "section": "001",
+            "courseTitle": "Beg Classical Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 360",
+            "section": "001",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "090",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1120",
+            "section": "001",
+            "courseTitle": "Music Theory  II"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "001",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "020",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1460",
+            "section": "090",
+            "courseTitle": "Intro to Music Theory"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "001",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 3003",
+            "section": "001",
+            "courseTitle": "Begin Classic Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 3600",
+            "section": "001",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 4640",
+            "section": "001",
+            "courseTitle": "Music Lit: Romantic"
+        },
+        {
+            "catalogTitle": "MUSC 6640",
+            "section": "001",
+            "courseTitle": "Mus Lit Romantic Master"
+        },
+        {
+            "catalogTitle": "MUSC 6710",
+            "section": "001",
+            "courseTitle": "Adv Instr Methods"
+        }
+    ]
+}

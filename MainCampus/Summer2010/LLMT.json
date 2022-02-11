@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 389",
+            "section": "001",
+            "courseTitle": "Intro to the Didgeridoo"
+        },
+        {
+            "catalogTitle": "LLMT 406",
+            "section": "001",
+            "courseTitle": "Blues Harmonica I"
+        },
+        {
+            "catalogTitle": "LLMT 415",
+            "section": "001",
+            "courseTitle": "African Drumming"
+        },
+        {
+            "catalogTitle": "LLMT 417",
+            "section": "001",
+            "courseTitle": "Story Telling"
+        },
+        {
+            "catalogTitle": "LLMT 424",
+            "section": "001",
+            "courseTitle": "Shakespeare Alive!"
+        }
+    ]
+}

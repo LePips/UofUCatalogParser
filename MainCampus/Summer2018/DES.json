@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DES 2510",
+            "section": "001",
+            "courseTitle": "Design Studio"
+        },
+        {
+            "catalogTitle": "DES 2510",
+            "section": "002",
+            "courseTitle": "Design Studio"
+        },
+        {
+            "catalogTitle": "DES 2700",
+            "section": "001",
+            "courseTitle": "Visual Strategy"
+        },
+        {
+            "catalogTitle": "DES 3810",
+            "section": "001",
+            "courseTitle": "Soft Goods"
+        },
+        {
+            "catalogTitle": "DES 4011",
+            "section": "001",
+            "courseTitle": "Capstone Design Studio"
+        },
+        {
+            "catalogTitle": "DES 4955",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DES 4955",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DES 4955",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

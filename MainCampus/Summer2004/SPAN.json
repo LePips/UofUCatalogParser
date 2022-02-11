@@ -1,0 +1,109 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "002",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "002",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "001",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "002",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "003",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "001",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "002",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "003",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "001",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "004",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "001",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "004",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 3060",
+            "section": "001",
+            "courseTitle": "Adv Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 3950",
+            "section": "081",
+            "courseTitle": "SL-Spanish"
+        },
+        {
+            "catalogTitle": "SPAN 4510",
+            "section": "089",
+            "courseTitle": "Business Spanish"
+        },
+        {
+            "catalogTitle": "SPAN 4720",
+            "section": "001",
+            "courseTitle": "Hispanic Narrative"
+        },
+        {
+            "catalogTitle": "SPAN 4880",
+            "section": "008",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "001",
+            "courseTitle": "Community Volunteering"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "002",
+            "courseTitle": "Tchg Hispnc Cultr thrgh Film"
+        },
+        {
+            "catalogTitle": "SPAN 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SPAN 7900",
+            "section": "001",
+            "courseTitle": "Spanish for Reading Comprehens"
+        }
+    ]
+}

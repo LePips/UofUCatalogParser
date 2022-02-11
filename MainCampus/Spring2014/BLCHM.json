@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "001",
+            "courseTitle": "Peptide Drugs and Vaccines"
+        },
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "002",
+            "courseTitle": "Drug Discovery and Design"
+        },
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "003",
+            "courseTitle": "Journal Club/Grant Wrtg"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LANG 290",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "LANG 290",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "001",
+            "courseTitle": "Beginning Pashto I"
+        },
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "002",
+            "courseTitle": "Beginning Pashto II"
+        },
+        {
+            "catalogTitle": "LANG 5410",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

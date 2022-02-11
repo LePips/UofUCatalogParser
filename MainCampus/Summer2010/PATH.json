@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PATH 3900",
+            "section": "001",
+            "courseTitle": "Biomedical Chemistry"
+        },
+        {
+            "catalogTitle": "PATH 5533",
+            "section": "001",
+            "courseTitle": "App Mol Dx II"
+        },
+        {
+            "catalogTitle": "PATH 6070",
+            "section": "001",
+            "courseTitle": "Med Student Research"
+        },
+        {
+            "catalogTitle": "PATH 6520",
+            "section": "001",
+            "courseTitle": "ST-Medical Lab Science"
+        },
+        {
+            "catalogTitle": "PATH 6930",
+            "section": "001",
+            "courseTitle": "Directed Readings"
+        },
+        {
+            "catalogTitle": "PATH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: M.S."
+        },
+        {
+            "catalogTitle": "PATH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation:MS"
+        },
+        {
+            "catalogTitle": "PATH 7090",
+            "section": "001",
+            "courseTitle": "Neuropathology"
+        },
+        {
+            "catalogTitle": "PATH 7200",
+            "section": "002",
+            "courseTitle": "Interim Med Stu Rsrch"
+        },
+        {
+            "catalogTitle": "PATH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph D"
+        },
+        {
+            "catalogTitle": "PATH 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research: Ph D"
+        },
+        {
+            "catalogTitle": "PATH 7970",
+            "section": "017",
+            "courseTitle": "Thesis Research: Ph D"
+        },
+        {
+            "catalogTitle": "PATH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PATH 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

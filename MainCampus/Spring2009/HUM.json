@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 1010",
+            "section": "001",
+            "courseTitle": "Intell Trad of West"
+        },
+        {
+            "catalogTitle": "HUM 6102",
+            "section": "001",
+            "courseTitle": "Field Methods in EH"
+        },
+        {
+            "catalogTitle": "HUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "002",
+            "courseTitle": "Revisioning Stegner's \"Beyond\""
+        }
+    ]
+}

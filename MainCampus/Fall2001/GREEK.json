@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GREEK 1010",
+            "section": "001",
+            "courseTitle": "Beg Class Greek I"
+        },
+        {
+            "catalogTitle": "GREEK 2010",
+            "section": "001",
+            "courseTitle": "Intrm Class Grk I"
+        },
+        {
+            "catalogTitle": "GREEK 2015",
+            "section": "001",
+            "courseTitle": "Intrm Modern Greek I"
+        },
+        {
+            "catalogTitle": "GREEK 3610",
+            "section": "001",
+            "courseTitle": "Third Year Prose"
+        },
+        {
+            "catalogTitle": "GREEK 4610",
+            "section": "001",
+            "courseTitle": "Fourth Year Prose"
+        }
+    ]
+}

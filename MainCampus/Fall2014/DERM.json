@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DERM 7020",
+            "section": "001",
+            "courseTitle": "Derm Organ System"
+        },
+        {
+            "catalogTitle": "DERM 7500",
+            "section": "001",
+            "courseTitle": "Dermatolgy Career Track"
+        },
+        {
+            "catalogTitle": "DERM 7690",
+            "section": "001",
+            "courseTitle": "Dermatology Clerkship"
+        },
+        {
+            "catalogTitle": "DERM 7700",
+            "section": "001",
+            "courseTitle": "Medical Dermatology"
+        },
+        {
+            "catalogTitle": "DERM 7900",
+            "section": "001",
+            "courseTitle": "Dermatology Research"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANES 6900",
+            "section": "009",
+            "courseTitle": "BIOEN Tech in Anesthesiology"
+        },
+        {
+            "catalogTitle": "ANES 7040",
+            "section": "001",
+            "courseTitle": "Clerkship"
+        },
+        {
+            "catalogTitle": "ANES 7070",
+            "section": "001",
+            "courseTitle": "Mgt of Chronic Pain"
+        },
+        {
+            "catalogTitle": "ANES 7930",
+            "section": "001",
+            "courseTitle": "Special Research Pblms"
+        }
+    ]
+}

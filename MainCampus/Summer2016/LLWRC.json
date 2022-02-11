@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 754",
+            "section": "001",
+            "courseTitle": "Poetry Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction I"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "001",
+            "courseTitle": "Creative Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 787",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction II"
+        },
+        {
+            "catalogTitle": "LLWRC 837",
+            "section": "001",
+            "courseTitle": "A Study in Mystery"
+        },
+        {
+            "catalogTitle": "LLWRC 839",
+            "section": "001",
+            "courseTitle": "Draft Your Novel"
+        },
+        {
+            "catalogTitle": "LLWRC 841",
+            "section": "001",
+            "courseTitle": "Travel Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 842",
+            "section": "001",
+            "courseTitle": "Creative Writing Bootcamp"
+        }
+    ]
+}

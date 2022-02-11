@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PTGSE 101",
+            "section": "001",
+            "courseTitle": "Beg Portugese I"
+        },
+        {
+            "catalogTitle": "PTGSE 201",
+            "section": "001",
+            "courseTitle": "Intrm Portugese I"
+        },
+        {
+            "catalogTitle": "PTGSE 306",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "PTGSE 1010",
+            "section": "001",
+            "courseTitle": "Beg Portugese I"
+        },
+        {
+            "catalogTitle": "PTGSE 2010",
+            "section": "001",
+            "courseTitle": "Intrm Portugese I"
+        },
+        {
+            "catalogTitle": "PTGSE 3050",
+            "section": "001",
+            "courseTitle": "Topics in Lit & Culture"
+        },
+        {
+            "catalogTitle": "PTGSE 3060",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "PTGSE 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "PTGSE 7300",
+            "section": "003",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "PTGSE 7300",
+            "section": "005",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

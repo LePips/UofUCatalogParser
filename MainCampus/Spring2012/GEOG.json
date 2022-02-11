@@ -1,0 +1,534 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEOG 130",
+            "section": "001",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 526",
+            "section": "060",
+            "courseTitle": "Snow & Avalanche"
+        },
+        {
+            "catalogTitle": "GEOG 526",
+            "section": "061",
+            "courseTitle": "Snow & Avalanche"
+        },
+        {
+            "catalogTitle": "GEOG 581",
+            "section": "001",
+            "courseTitle": "Field Seminar"
+        },
+        {
+            "catalogTitle": "GEOG 1000",
+            "section": "001",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 1000",
+            "section": "002",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 1000",
+            "section": "090",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 1001",
+            "section": "001",
+            "courseTitle": "Sustainable Energy"
+        },
+        {
+            "catalogTitle": "GEOG 1010",
+            "section": "090",
+            "courseTitle": "Into Geographic Data"
+        },
+        {
+            "catalogTitle": "GEOG 1100",
+            "section": "001",
+            "courseTitle": "Exploring Google Earth"
+        },
+        {
+            "catalogTitle": "GEOG 1300",
+            "section": "001",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 1300",
+            "section": "002",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 1300",
+            "section": "090",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 1400",
+            "section": "001",
+            "courseTitle": "Human Geography"
+        },
+        {
+            "catalogTitle": "GEOG 1400",
+            "section": "090",
+            "courseTitle": "Human Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3020",
+            "section": "001",
+            "courseTitle": "Geogr Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 3020",
+            "section": "002",
+            "courseTitle": "Geogr Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 3020",
+            "section": "003",
+            "courseTitle": "Geogr Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 3020",
+            "section": "004",
+            "courseTitle": "Geogr Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 3140",
+            "section": "090",
+            "courseTitle": "Intro to GIS"
+        },
+        {
+            "catalogTitle": "GEOG 3210",
+            "section": "001",
+            "courseTitle": "Global Climate Change"
+        },
+        {
+            "catalogTitle": "GEOG 3250",
+            "section": "090",
+            "courseTitle": "Antarctica & Global Chg"
+        },
+        {
+            "catalogTitle": "GEOG 3270",
+            "section": "001",
+            "courseTitle": "Global Patterns of Life"
+        },
+        {
+            "catalogTitle": "GEOG 3270",
+            "section": "002",
+            "courseTitle": "Global Patterns of Life"
+        },
+        {
+            "catalogTitle": "GEOG 3320",
+            "section": "001",
+            "courseTitle": "Terrorism & Security"
+        },
+        {
+            "catalogTitle": "GEOG 3330",
+            "section": "001",
+            "courseTitle": "Urban Environmntl Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 3340",
+            "section": "001",
+            "courseTitle": "Geography of Disasters"
+        },
+        {
+            "catalogTitle": "GEOG 3350",
+            "section": "001",
+            "courseTitle": "Resource Consrv/Env Mgt"
+        },
+        {
+            "catalogTitle": "GEOG 3430",
+            "section": "090",
+            "courseTitle": "U.S. Historical Geog."
+        },
+        {
+            "catalogTitle": "GEOG 3460",
+            "section": "001",
+            "courseTitle": "Military Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3480",
+            "section": "001",
+            "courseTitle": "Urban Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3600",
+            "section": "001",
+            "courseTitle": "Geography of Utah"
+        },
+        {
+            "catalogTitle": "GEOG 3600",
+            "section": "090",
+            "courseTitle": "Geography of Utah"
+        },
+        {
+            "catalogTitle": "GEOG 3620",
+            "section": "090",
+            "courseTitle": "Geog of North America"
+        },
+        {
+            "catalogTitle": "GEOG 3640",
+            "section": "001",
+            "courseTitle": "Geog of China & Asia"
+        },
+        {
+            "catalogTitle": "GEOG 3650",
+            "section": "090",
+            "courseTitle": "Middle East Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3670",
+            "section": "090",
+            "courseTitle": "Latin America"
+        },
+        {
+            "catalogTitle": "GEOG 3963",
+            "section": "002",
+            "courseTitle": "Russia-past, present, future"
+        },
+        {
+            "catalogTitle": "GEOG 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "GEOG 5110",
+            "section": "001",
+            "courseTitle": "Remote Sensing Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 5140",
+            "section": "001",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5140",
+            "section": "002",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5140",
+            "section": "003",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5140",
+            "section": "004",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5160",
+            "section": "001",
+            "courseTitle": "Spatial Modeling w/ GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5160",
+            "section": "002",
+            "courseTitle": "Spatial Modeling w/ GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5161",
+            "section": "001",
+            "courseTitle": "Capstone in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5190",
+            "section": "001",
+            "courseTitle": "GIS & Public Health"
+        },
+        {
+            "catalogTitle": "GEOG 5210",
+            "section": "001",
+            "courseTitle": "Global Clim Chg"
+        },
+        {
+            "catalogTitle": "GEOG 5250",
+            "section": "090",
+            "courseTitle": "Antarctica & Global Chg"
+        },
+        {
+            "catalogTitle": "GEOG 5260",
+            "section": "060",
+            "courseTitle": "Snow & Avalanche"
+        },
+        {
+            "catalogTitle": "GEOG 5260",
+            "section": "061",
+            "courseTitle": "Snow & Avalanche"
+        },
+        {
+            "catalogTitle": "GEOG 5270",
+            "section": "001",
+            "courseTitle": "Global Patterns of Life"
+        },
+        {
+            "catalogTitle": "GEOG 5270",
+            "section": "002",
+            "courseTitle": "Global Patterns of Life"
+        },
+        {
+            "catalogTitle": "GEOG 5320",
+            "section": "001",
+            "courseTitle": "Terrorism & Security"
+        },
+        {
+            "catalogTitle": "GEOG 5340",
+            "section": "001",
+            "courseTitle": "Geography of Disasters"
+        },
+        {
+            "catalogTitle": "GEOG 5420",
+            "section": "001",
+            "courseTitle": "Pollen Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 5810",
+            "section": "001",
+            "courseTitle": "Analysis of Utah Landforms"
+        },
+        {
+            "catalogTitle": "GEOG 5940",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEOG 5950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "GEOG 5950",
+            "section": "008",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "GEOG 5951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 5963",
+            "section": "001",
+            "courseTitle": "Modeling Lng-trm Environ Proc"
+        },
+        {
+            "catalogTitle": "GEOG 5963",
+            "section": "002",
+            "courseTitle": "Spatial Epidemiology"
+        },
+        {
+            "catalogTitle": "GEOG 5963",
+            "section": "004",
+            "courseTitle": "Sem:Quarternary Sci & Geomorph"
+        },
+        {
+            "catalogTitle": "GEOG 6010",
+            "section": "001",
+            "courseTitle": "Geocomputation"
+        },
+        {
+            "catalogTitle": "GEOG 6110",
+            "section": "001",
+            "courseTitle": "Remote Sensing Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 6140",
+            "section": "001",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6140",
+            "section": "002",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6140",
+            "section": "003",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6140",
+            "section": "004",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6160",
+            "section": "001",
+            "courseTitle": "Spatial Modeling w/ GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6160",
+            "section": "002",
+            "courseTitle": "Spatial Modeling w/ GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6161",
+            "section": "001",
+            "courseTitle": "Capstone in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6190",
+            "section": "001",
+            "courseTitle": "GIS & Public Health"
+        },
+        {
+            "catalogTitle": "GEOG 6420",
+            "section": "001",
+            "courseTitle": "Pollen Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 6430",
+            "section": "002",
+            "courseTitle": "PERG Reading Group"
+        },
+        {
+            "catalogTitle": "GEOG 6810",
+            "section": "001",
+            "courseTitle": "Analysis of Utah Landforms"
+        },
+        {
+            "catalogTitle": "GEOG 6930",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Masters"
+        },
+        {
+            "catalogTitle": "GEOG 6950",
+            "section": "001",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 6950",
+            "section": "007",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 6950",
+            "section": "008",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 6951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6951",
+            "section": "003",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6951",
+            "section": "006",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6951",
+            "section": "008",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6960",
+            "section": "001",
+            "courseTitle": "Modeling Lng-trm Environ Proc"
+        },
+        {
+            "catalogTitle": "GEOG 6960",
+            "section": "002",
+            "courseTitle": "Spatial Epidemiology"
+        },
+        {
+            "catalogTitle": "GEOG 6960",
+            "section": "003",
+            "courseTitle": "Topics in Quat. Sci & Geomorph"
+        },
+        {
+            "catalogTitle": "GEOG 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6974",
+            "section": "001",
+            "courseTitle": "Tech Reprt Resrch-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6974",
+            "section": "002",
+            "courseTitle": "Tech Reprt Resrch-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6974",
+            "section": "003",
+            "courseTitle": "Tech Reprt Resrch-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6974",
+            "section": "004",
+            "courseTitle": "Tech Reprt Resrch-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6981",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEOG 7900",
+            "section": "001",
+            "courseTitle": "Research Practicum"
+        },
+        {
+            "catalogTitle": "GEOG 7930",
+            "section": "001",
+            "courseTitle": "Tchg Practicum PhD"
+        },
+        {
+            "catalogTitle": "GEOG 7950",
+            "section": "001",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 7950",
+            "section": "013",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 7951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "GEOG 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "GEOG 7981",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEOG 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "003",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "020",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "060",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "090",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "001",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "003",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "020",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "060",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "090",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 201",
+            "section": "001",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 201",
+            "section": "004",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 201",
+            "section": "020",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 201",
+            "section": "060",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "001",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "004",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "020",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "060",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "061",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 306",
+            "section": "001",
+            "courseTitle": "Adv Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "001",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "003",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "020",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "060",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "090",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "001",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "003",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "020",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "060",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "090",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "001",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "004",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "020",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "060",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "001",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "004",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "020",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "060",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "061",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 3060",
+            "section": "001",
+            "courseTitle": "Adv Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 3060",
+            "section": "002",
+            "courseTitle": "Adv Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 4560",
+            "section": "090",
+            "courseTitle": "Cultr/Cust Span America"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "001",
+            "courseTitle": "Nation Theory in Mexican Lit"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "002",
+            "courseTitle": "Erotic/Spiritual -Spanish Text"
+        },
+        {
+            "catalogTitle": "SPAN 4990",
+            "section": "006",
+            "courseTitle": "Capstone Course"
+        }
+    ]
+}

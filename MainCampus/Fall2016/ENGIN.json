@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGIN 1022",
+            "section": "001",
+            "courseTitle": "Survey of Engineering"
+        },
+        {
+            "catalogTitle": "ENGIN 1022",
+            "section": "002",
+            "courseTitle": "Survey of Engineering"
+        },
+        {
+            "catalogTitle": "ENGIN 5020",
+            "section": "001",
+            "courseTitle": "Emrg Tech & Busns Mng"
+        },
+        {
+            "catalogTitle": "ENGIN 6020",
+            "section": "001",
+            "courseTitle": "Emrg Tech & Busns Mng"
+        }
+    ]
+}

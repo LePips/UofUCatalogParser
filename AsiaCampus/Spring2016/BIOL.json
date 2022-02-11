@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOL 1030",
+            "section": "301",
+            "courseTitle": "Human Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1030",
+            "section": "302",
+            "courseTitle": "Human Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1330",
+            "section": "301",
+            "courseTitle": "Plants and Society"
+        },
+        {
+            "catalogTitle": "BIOL 5900",
+            "section": "301",
+            "courseTitle": "Tchg Experience"
+        }
+    ]
+}

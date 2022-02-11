@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBIOL 6050",
+            "section": "001",
+            "courseTitle": "Faculty Research Semin"
+        },
+        {
+            "catalogTitle": "MBIOL 6410",
+            "section": "001",
+            "courseTitle": "Protein & Nucl Biochem"
+        },
+        {
+            "catalogTitle": "MBIOL 6420",
+            "section": "001",
+            "courseTitle": "Genetics and Genome"
+        },
+        {
+            "catalogTitle": "MBIOL 6440",
+            "section": "001",
+            "courseTitle": "Gene Expression"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7980",
+            "section": "001",
+            "courseTitle": "Graduate Research"
+        }
+    ]
+}

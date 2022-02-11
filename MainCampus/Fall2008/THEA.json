@@ -1,0 +1,659 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "THEA 113",
+            "section": "001",
+            "courseTitle": "Survey of Theatre"
+        },
+        {
+            "catalogTitle": "THEA 133",
+            "section": "009",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 321",
+            "section": "001",
+            "courseTitle": "Tai Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 321",
+            "section": "002",
+            "courseTitle": "Tai Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 321",
+            "section": "003",
+            "courseTitle": "Tai Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 321",
+            "section": "004",
+            "courseTitle": "Tai Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 321",
+            "section": "005",
+            "courseTitle": "Tai Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 495",
+            "section": "001",
+            "courseTitle": "PADP Sound Proj II"
+        },
+        {
+            "catalogTitle": "THEA 1013",
+            "section": "001",
+            "courseTitle": "Survey of Theatre"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "001",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "002",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "003",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "004",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "005",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "006",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "007",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "008",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "009",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "010",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "011",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "012",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1033",
+            "section": "013",
+            "courseTitle": "Acting I"
+        },
+        {
+            "catalogTitle": "THEA 1040",
+            "section": "090",
+            "courseTitle": "Dram Arts/Television"
+        },
+        {
+            "catalogTitle": "THEA 1040",
+            "section": "091",
+            "courseTitle": "Dram Arts/Television"
+        },
+        {
+            "catalogTitle": "THEA 1050",
+            "section": "001",
+            "courseTitle": "Intr Vis Arts Of Theat"
+        },
+        {
+            "catalogTitle": "THEA 1120",
+            "section": "001",
+            "courseTitle": "Acting I (Majors)"
+        },
+        {
+            "catalogTitle": "THEA 1160",
+            "section": "001",
+            "courseTitle": "Production Babcock"
+        },
+        {
+            "catalogTitle": "THEA 1170",
+            "section": "001",
+            "courseTitle": "Production Lab"
+        },
+        {
+            "catalogTitle": "THEA 1220",
+            "section": "001",
+            "courseTitle": "1st Yr Act ATP"
+        },
+        {
+            "catalogTitle": "THEA 1223",
+            "section": "001",
+            "courseTitle": "Make up"
+        },
+        {
+            "catalogTitle": "THEA 1550",
+            "section": "001",
+            "courseTitle": "Scenography"
+        },
+        {
+            "catalogTitle": "THEA 1550",
+            "section": "002",
+            "courseTitle": "Scenography"
+        },
+        {
+            "catalogTitle": "THEA 1550",
+            "section": "003",
+            "courseTitle": "Scenography"
+        },
+        {
+            "catalogTitle": "THEA 1550",
+            "section": "004",
+            "courseTitle": "Scenography"
+        },
+        {
+            "catalogTitle": "THEA 1550",
+            "section": "005",
+            "courseTitle": "Scenography"
+        },
+        {
+            "catalogTitle": "THEA 1550",
+            "section": "006",
+            "courseTitle": "Scenography"
+        },
+        {
+            "catalogTitle": "THEA 1713",
+            "section": "001",
+            "courseTitle": "Script Analysis"
+        },
+        {
+            "catalogTitle": "THEA 1713",
+            "section": "002",
+            "courseTitle": "Script Analysis"
+        },
+        {
+            "catalogTitle": "THEA 1770",
+            "section": "001",
+            "courseTitle": "Black Theatre"
+        },
+        {
+            "catalogTitle": "THEA 2010",
+            "section": "001",
+            "courseTitle": "Second YR Singing ATP"
+        },
+        {
+            "catalogTitle": "THEA 2030",
+            "section": "001",
+            "courseTitle": "Third Year Singing ATP"
+        },
+        {
+            "catalogTitle": "THEA 2033",
+            "section": "001",
+            "courseTitle": "Acting II"
+        },
+        {
+            "catalogTitle": "THEA 2033",
+            "section": "002",
+            "courseTitle": "Acting II"
+        },
+        {
+            "catalogTitle": "THEA 2033",
+            "section": "003",
+            "courseTitle": "Acting II"
+        },
+        {
+            "catalogTitle": "THEA 2170",
+            "section": "001",
+            "courseTitle": "Lighting I"
+        },
+        {
+            "catalogTitle": "THEA 2220",
+            "section": "001",
+            "courseTitle": "2nd Yr Act ATP"
+        },
+        {
+            "catalogTitle": "THEA 2420",
+            "section": "001",
+            "courseTitle": "Intro to Playwriting"
+        },
+        {
+            "catalogTitle": "THEA 3001",
+            "section": "001",
+            "courseTitle": "Zen, Eastern Theatre"
+        },
+        {
+            "catalogTitle": "THEA 3010",
+            "section": "001",
+            "courseTitle": "2nd Yr V/S ATP"
+        },
+        {
+            "catalogTitle": "THEA 3040",
+            "section": "001",
+            "courseTitle": "Intro to Voice/Speech"
+        },
+        {
+            "catalogTitle": "THEA 3040",
+            "section": "002",
+            "courseTitle": "Intro to Voice/Speech"
+        },
+        {
+            "catalogTitle": "THEA 3210",
+            "section": "001",
+            "courseTitle": "Tai-Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 3210",
+            "section": "002",
+            "courseTitle": "Tai-Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 3210",
+            "section": "003",
+            "courseTitle": "Tai-Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 3210",
+            "section": "004",
+            "courseTitle": "Tai-Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 3210",
+            "section": "005",
+            "courseTitle": "Tai-Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 3210",
+            "section": "006",
+            "courseTitle": "Tai-Chi Yoga Movement"
+        },
+        {
+            "catalogTitle": "THEA 3220",
+            "section": "001",
+            "courseTitle": "Feldenkrais Movement"
+        },
+        {
+            "catalogTitle": "THEA 3220",
+            "section": "002",
+            "courseTitle": "Feldenkrais Movement"
+        },
+        {
+            "catalogTitle": "THEA 3220",
+            "section": "004",
+            "courseTitle": "Feldenkrais Movement"
+        },
+        {
+            "catalogTitle": "THEA 3240",
+            "section": "001",
+            "courseTitle": "2nd Yr Move ATP"
+        },
+        {
+            "catalogTitle": "THEA 3260",
+            "section": "001",
+            "courseTitle": "Third YR Movement ATP"
+        },
+        {
+            "catalogTitle": "THEA 3720",
+            "section": "001",
+            "courseTitle": "History Of Theatre"
+        },
+        {
+            "catalogTitle": "THEA 3725",
+            "section": "001",
+            "courseTitle": "History of Theatre-HON"
+        },
+        {
+            "catalogTitle": "THEA 3790",
+            "section": "001",
+            "courseTitle": "Costume Crafts"
+        },
+        {
+            "catalogTitle": "THEA 3790",
+            "section": "005",
+            "courseTitle": "Voice and Diction"
+        },
+        {
+            "catalogTitle": "THEA 3791",
+            "section": "001",
+            "courseTitle": "Absurd Theatre"
+        },
+        {
+            "catalogTitle": "THEA 3792",
+            "section": "001",
+            "courseTitle": "Gay Lesbian Theatre"
+        },
+        {
+            "catalogTitle": "THEA 3796",
+            "section": "001",
+            "courseTitle": "Auditions for Actors"
+        },
+        {
+            "catalogTitle": "THEA 3880",
+            "section": "001",
+            "courseTitle": "Stage Management"
+        },
+        {
+            "catalogTitle": "THEA 3910",
+            "section": "001",
+            "courseTitle": "PADP Set Proj I"
+        },
+        {
+            "catalogTitle": "THEA 3911",
+            "section": "001",
+            "courseTitle": "PADP Ltg Proj I"
+        },
+        {
+            "catalogTitle": "THEA 3912",
+            "section": "001",
+            "courseTitle": "PADP Stg Mgmt Proj I"
+        },
+        {
+            "catalogTitle": "THEA 3913",
+            "section": "001",
+            "courseTitle": "PADP Tech Proj I"
+        },
+        {
+            "catalogTitle": "THEA 3914",
+            "section": "001",
+            "courseTitle": "PADP Costume Proj I"
+        },
+        {
+            "catalogTitle": "THEA 3915",
+            "section": "001",
+            "courseTitle": "PADP Sound Proj I"
+        },
+        {
+            "catalogTitle": "THEA 3916",
+            "section": "001",
+            "courseTitle": "PADP MakeUP Proj I"
+        },
+        {
+            "catalogTitle": "THEA 3920",
+            "section": "001",
+            "courseTitle": "Beg Performance Project"
+        },
+        {
+            "catalogTitle": "THEA 3930",
+            "section": "003",
+            "courseTitle": "Undergrad Research Proj"
+        },
+        {
+            "catalogTitle": "THEA 3930",
+            "section": "004",
+            "courseTitle": "Undergrad Research Proj"
+        },
+        {
+            "catalogTitle": "THEA 3940",
+            "section": "001",
+            "courseTitle": "Studio Design"
+        },
+        {
+            "catalogTitle": "THEA 4230",
+            "section": "001",
+            "courseTitle": "Audition Tech I"
+        },
+        {
+            "catalogTitle": "THEA 4250",
+            "section": "001",
+            "courseTitle": "Fourth Yr Movement ATP"
+        },
+        {
+            "catalogTitle": "THEA 4310",
+            "section": "001",
+            "courseTitle": "Scene Design II"
+        },
+        {
+            "catalogTitle": "THEA 4320",
+            "section": "001",
+            "courseTitle": "Scene Painting"
+        },
+        {
+            "catalogTitle": "THEA 4330",
+            "section": "001",
+            "courseTitle": "Dramaturgy"
+        },
+        {
+            "catalogTitle": "THEA 4460",
+            "section": "001",
+            "courseTitle": "Costume Design II"
+        },
+        {
+            "catalogTitle": "THEA 4490",
+            "section": "001",
+            "courseTitle": "Lighting Design II"
+        },
+        {
+            "catalogTitle": "THEA 4500",
+            "section": "001",
+            "courseTitle": "Sound Design II"
+        },
+        {
+            "catalogTitle": "THEA 4800",
+            "section": "001",
+            "courseTitle": "PADP Intern"
+        },
+        {
+            "catalogTitle": "THEA 4910",
+            "section": "001",
+            "courseTitle": "PADP Set Proj II"
+        },
+        {
+            "catalogTitle": "THEA 4911",
+            "section": "001",
+            "courseTitle": "PADP Ltg Proj II"
+        },
+        {
+            "catalogTitle": "THEA 4912",
+            "section": "001",
+            "courseTitle": "PADP Stg Mgmt Proj II"
+        },
+        {
+            "catalogTitle": "THEA 4913",
+            "section": "001",
+            "courseTitle": "PADP Tech Proj II"
+        },
+        {
+            "catalogTitle": "THEA 4914",
+            "section": "001",
+            "courseTitle": "PADP Costume Proj II"
+        },
+        {
+            "catalogTitle": "THEA 4915",
+            "section": "001",
+            "courseTitle": "PADP Sound Proj II"
+        },
+        {
+            "catalogTitle": "THEA 4916",
+            "section": "001",
+            "courseTitle": "PADP MakeUP Proj II"
+        },
+        {
+            "catalogTitle": "THEA 4950",
+            "section": "001",
+            "courseTitle": "Individ Stage Mgt Proj"
+        },
+        {
+            "catalogTitle": "THEA 4960",
+            "section": "001",
+            "courseTitle": "Portfolio Prep"
+        },
+        {
+            "catalogTitle": "THEA 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "THEA 5010",
+            "section": "001",
+            "courseTitle": "Acting/Dir Shakespeare"
+        },
+        {
+            "catalogTitle": "THEA 5030",
+            "section": "001",
+            "courseTitle": "Student Productions"
+        },
+        {
+            "catalogTitle": "THEA 5030",
+            "section": "002",
+            "courseTitle": "Student Productions"
+        },
+        {
+            "catalogTitle": "THEA 5040",
+            "section": "001",
+            "courseTitle": "Performance Groups"
+        },
+        {
+            "catalogTitle": "THEA 5070",
+            "section": "001",
+            "courseTitle": "3rd Yr Voice/Speech ATP"
+        },
+        {
+            "catalogTitle": "THEA 5090",
+            "section": "001",
+            "courseTitle": "4th Yr Voice/Speech ATP"
+        },
+        {
+            "catalogTitle": "THEA 5110",
+            "section": "001",
+            "courseTitle": "Beg Stage Directing"
+        },
+        {
+            "catalogTitle": "THEA 5140",
+            "section": "001",
+            "courseTitle": "Advanced Scene Study"
+        },
+        {
+            "catalogTitle": "THEA 5170",
+            "section": "001",
+            "courseTitle": "3rd Yr Act/Styles ATP"
+        },
+        {
+            "catalogTitle": "THEA 5630",
+            "section": "001",
+            "courseTitle": "Drama/Service Learning"
+        },
+        {
+            "catalogTitle": "THEA 5700",
+            "section": "001",
+            "courseTitle": "Acting Class Internship"
+        },
+        {
+            "catalogTitle": "THEA 5900",
+            "section": "001",
+            "courseTitle": "Sec Schl Play Directing"
+        },
+        {
+            "catalogTitle": "THEA 5920",
+            "section": "001",
+            "courseTitle": "Individual Perform Proj"
+        },
+        {
+            "catalogTitle": "THEA 5930",
+            "section": "001",
+            "courseTitle": "Indep Research Projects"
+        },
+        {
+            "catalogTitle": "THEA 5930",
+            "section": "003",
+            "courseTitle": "Indep Research Projects"
+        },
+        {
+            "catalogTitle": "THEA 5930",
+            "section": "004",
+            "courseTitle": "Indep Research Projects"
+        },
+        {
+            "catalogTitle": "THEA 5930",
+            "section": "005",
+            "courseTitle": "Indep Research Projects"
+        },
+        {
+            "catalogTitle": "THEA 5930",
+            "section": "006",
+            "courseTitle": "Indep Research Projects"
+        },
+        {
+            "catalogTitle": "THEA 5930",
+            "section": "007",
+            "courseTitle": "Indep Research Projects"
+        },
+        {
+            "catalogTitle": "THEA 5930",
+            "section": "008",
+            "courseTitle": "Indep Research Projects"
+        },
+        {
+            "catalogTitle": "THEA 5940",
+            "section": "001",
+            "courseTitle": "Adv Private Perform St"
+        },
+        {
+            "catalogTitle": "THEA 6060",
+            "section": "001",
+            "courseTitle": "Major Project Preparatn"
+        },
+        {
+            "catalogTitle": "THEA 6900",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "THEA 6950",
+            "section": "001",
+            "courseTitle": "Grad Research Projects"
+        },
+        {
+            "catalogTitle": "THEA 6951",
+            "section": "001",
+            "courseTitle": "Feldenkrais Movement"
+        },
+        {
+            "catalogTitle": "THEA 6951",
+            "section": "002",
+            "courseTitle": "Feldenkrais Movement"
+        },
+        {
+            "catalogTitle": "THEA 6951",
+            "section": "003",
+            "courseTitle": "M.F.A. Projects"
+        },
+        {
+            "catalogTitle": "THEA 6951",
+            "section": "004",
+            "courseTitle": "Feldenkrais Movement"
+        },
+        {
+            "catalogTitle": "THEA 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "THEA 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "THEA 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

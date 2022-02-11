@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RHSCI 7010",
+            "section": "001",
+            "courseTitle": "Clinical Research I"
+        },
+        {
+            "catalogTitle": "RHSCI 7500",
+            "section": "001",
+            "courseTitle": "Rehab Science Seminar"
+        },
+        {
+            "catalogTitle": "RHSCI 7900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "RHSCI 7900",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "RHSCI 7900",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "RHSCI 7900",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "RHSCI 7900",
+            "section": "012",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "RHSCI 7970",
+            "section": "004",
+            "courseTitle": "Dissertation Credits"
+        },
+        {
+            "catalogTitle": "RHSCI 7970",
+            "section": "009",
+            "courseTitle": "Dissertation Credits"
+        },
+        {
+            "catalogTitle": "RHSCI 7970",
+            "section": "010",
+            "courseTitle": "Dissertation Credits"
+        },
+        {
+            "catalogTitle": "RHSCI 7970",
+            "section": "012",
+            "courseTitle": "Dissertation Credits"
+        }
+    ]
+}

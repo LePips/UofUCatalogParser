@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 663",
+            "section": "001",
+            "courseTitle": "Bike Repair I"
+        },
+        {
+            "catalogTitle": "LLREC 729",
+            "section": "001",
+            "courseTitle": "Bicycle Repair II"
+        },
+        {
+            "catalogTitle": "LLREC 746",
+            "section": "001",
+            "courseTitle": "Beg. Golf Women"
+        },
+        {
+            "catalogTitle": "LLREC 756",
+            "section": "001",
+            "courseTitle": "A Walking Tour of SL Treasure"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 800",
+            "section": "001",
+            "courseTitle": "Back Country Car Camping"
+        },
+        {
+            "catalogTitle": "LLREC 902",
+            "section": "001",
+            "courseTitle": "Tenkara"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PERS 102",
+            "section": "001",
+            "courseTitle": "Beginning Persian II"
+        },
+        {
+            "catalogTitle": "PERS 202",
+            "section": "001",
+            "courseTitle": "Intermediate Persian II"
+        },
+        {
+            "catalogTitle": "PERS 1020",
+            "section": "001",
+            "courseTitle": "Beginning Persian II"
+        },
+        {
+            "catalogTitle": "PERS 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Persian II"
+        },
+        {
+            "catalogTitle": "PERS 2600",
+            "section": "001",
+            "courseTitle": "Persian Conversation"
+        },
+        {
+            "catalogTitle": "PERS 3020",
+            "section": "001",
+            "courseTitle": "Third Year Persian"
+        },
+        {
+            "catalogTitle": "PERS 4020",
+            "section": "001",
+            "courseTitle": "Adv Pers Lang Skills II"
+        },
+        {
+            "catalogTitle": "PERS 4880",
+            "section": "001",
+            "courseTitle": "Muslim-Americans in the U.S."
+        },
+        {
+            "catalogTitle": "PERS 6880",
+            "section": "001",
+            "courseTitle": "Muslim-Americans in the U.S."
+        },
+        {
+            "catalogTitle": "PERS 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 7300",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 7300",
+            "section": "006",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 7300",
+            "section": "010",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

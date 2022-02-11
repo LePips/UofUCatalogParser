@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 260",
+            "section": "001",
+            "courseTitle": "Pleasure of Fine Chocolate"
+        },
+        {
+            "catalogTitle": "LLFW 260",
+            "section": "002",
+            "courseTitle": "Pleasure of Fine Chocolate"
+        },
+        {
+            "catalogTitle": "LLFW 273",
+            "section": "001",
+            "courseTitle": "Artisan Bread"
+        },
+        {
+            "catalogTitle": "LLFW 273",
+            "section": "002",
+            "courseTitle": "Artisan Bread"
+        },
+        {
+            "catalogTitle": "LLFW 295",
+            "section": "001",
+            "courseTitle": "World of Tea"
+        },
+        {
+            "catalogTitle": "LLFW 297",
+            "section": "002",
+            "courseTitle": "Sushi Making"
+        },
+        {
+            "catalogTitle": "LLFW 303",
+            "section": "001",
+            "courseTitle": "Cook Without a Book"
+        },
+        {
+            "catalogTitle": "LLFW 371",
+            "section": "001",
+            "courseTitle": "Beer Tastings and Pairings"
+        },
+        {
+            "catalogTitle": "LLFW 379",
+            "section": "001",
+            "courseTitle": "Cocktails for Holidays"
+        },
+        {
+            "catalogTitle": "LLFW 384",
+            "section": "001",
+            "courseTitle": "Scotch for the Sophisticate"
+        },
+        {
+            "catalogTitle": "LLFW 403",
+            "section": "001",
+            "courseTitle": "Value Wines: New World"
+        },
+        {
+            "catalogTitle": "LLFW 404",
+            "section": "001",
+            "courseTitle": "Value Wines: Old World"
+        },
+        {
+            "catalogTitle": "LLFW 405",
+            "section": "001",
+            "courseTitle": "Artisan Cheeses"
+        }
+    ]
+}

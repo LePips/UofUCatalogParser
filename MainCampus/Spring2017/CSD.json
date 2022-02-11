@@ -1,0 +1,279 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CSD 1010",
+            "section": "090",
+            "courseTitle": "Introduction to CSD"
+        },
+        {
+            "catalogTitle": "CSD 3120",
+            "section": "090",
+            "courseTitle": "Anat of Speech Hearing"
+        },
+        {
+            "catalogTitle": "CSD 4270",
+            "section": "001",
+            "courseTitle": "Med. Speech Path."
+        },
+        {
+            "catalogTitle": "CSD 4300",
+            "section": "001",
+            "courseTitle": "Speech Science"
+        },
+        {
+            "catalogTitle": "CSD 4500",
+            "section": "001",
+            "courseTitle": "Intro Audiology"
+        },
+        {
+            "catalogTitle": "CSD 4700",
+            "section": "001",
+            "courseTitle": "Research Methods CSD"
+        },
+        {
+            "catalogTitle": "CSD 4800",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CSD 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "CSD 5380",
+            "section": "001",
+            "courseTitle": "Speech Lang Dev"
+        },
+        {
+            "catalogTitle": "CSD 5400",
+            "section": "001",
+            "courseTitle": "Clinical Methods"
+        },
+        {
+            "catalogTitle": "CSD 5540",
+            "section": "001",
+            "courseTitle": "Psychometrics"
+        },
+        {
+            "catalogTitle": "CSD 6010",
+            "section": "001",
+            "courseTitle": "IPE SIM Hosp Patient"
+        },
+        {
+            "catalogTitle": "CSD 6011",
+            "section": "001",
+            "courseTitle": "IPE SIM Ambulatory Care"
+        },
+        {
+            "catalogTitle": "CSD 6011",
+            "section": "002",
+            "courseTitle": "IPE SIM Ambulatory Care"
+        },
+        {
+            "catalogTitle": "CSD 6220",
+            "section": "001",
+            "courseTitle": "Voice Disorders"
+        },
+        {
+            "catalogTitle": "CSD 6230",
+            "section": "001",
+            "courseTitle": "Fluency Disorders"
+        },
+        {
+            "catalogTitle": "CSD 6340",
+            "section": "001",
+            "courseTitle": "Autism Spectrum Dis"
+        },
+        {
+            "catalogTitle": "CSD 6520",
+            "section": "001",
+            "courseTitle": "Adv Audiological Assess"
+        },
+        {
+            "catalogTitle": "CSD 6710",
+            "section": "001",
+            "courseTitle": "Clin Prac Sp-Lng"
+        },
+        {
+            "catalogTitle": "CSD 6720",
+            "section": "001",
+            "courseTitle": "Clinical Internship Aud"
+        },
+        {
+            "catalogTitle": "CSD 6720",
+            "section": "002",
+            "courseTitle": "Clinical Internship Aud"
+        },
+        {
+            "catalogTitle": "CSD 6720",
+            "section": "003",
+            "courseTitle": "Clinical Internship Aud"
+        },
+        {
+            "catalogTitle": "CSD 6720",
+            "section": "004",
+            "courseTitle": "Clinical Internship Aud"
+        },
+        {
+            "catalogTitle": "CSD 6720",
+            "section": "005",
+            "courseTitle": "Clinical Internship Aud"
+        },
+        {
+            "catalogTitle": "CSD 6720",
+            "section": "006",
+            "courseTitle": "Clinical Internship Aud"
+        },
+        {
+            "catalogTitle": "CSD 6800",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CSD 6800",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CSD 6800",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CSD 6940",
+            "section": "001",
+            "courseTitle": "Clinical Rotation"
+        },
+        {
+            "catalogTitle": "CSD 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research Masters"
+        },
+        {
+            "catalogTitle": "CSD 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CSD 7010",
+            "section": "001",
+            "courseTitle": "Lang Learn Disabilities"
+        },
+        {
+            "catalogTitle": "CSD 7420",
+            "section": "001",
+            "courseTitle": "Psychoacoustics"
+        },
+        {
+            "catalogTitle": "CSD 7430",
+            "section": "001",
+            "courseTitle": "Cleft Palate"
+        },
+        {
+            "catalogTitle": "CSD 7630",
+            "section": "001",
+            "courseTitle": "Hearing Conservation"
+        },
+        {
+            "catalogTitle": "CSD 7640",
+            "section": "001",
+            "courseTitle": "Cochlear Implants"
+        },
+        {
+            "catalogTitle": "CSD 7700",
+            "section": "001",
+            "courseTitle": "Advanced S/L Practicum"
+        },
+        {
+            "catalogTitle": "CSD 7710",
+            "section": "001",
+            "courseTitle": "Extern Prac-Slp"
+        },
+        {
+            "catalogTitle": "CSD 7720",
+            "section": "001",
+            "courseTitle": "Clinical Externship"
+        },
+        {
+            "catalogTitle": "CSD 7740",
+            "section": "001",
+            "courseTitle": "Grand Rounds Aud"
+        },
+        {
+            "catalogTitle": "CSD 7800",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CSD 7820",
+            "section": "001",
+            "courseTitle": "Seminar: Speech"
+        },
+        {
+            "catalogTitle": "CSD 7830",
+            "section": "001",
+            "courseTitle": "Soc Pragmatic Comm Disorder"
+        },
+        {
+            "catalogTitle": "CSD 7850",
+            "section": "001",
+            "courseTitle": "Pediatric Audiology"
+        },
+        {
+            "catalogTitle": "CSD 7880",
+            "section": "001",
+            "courseTitle": "Advanced Electrophys"
+        },
+        {
+            "catalogTitle": "CSD 7935",
+            "section": "001",
+            "courseTitle": "Doc Instruction Methods"
+        },
+        {
+            "catalogTitle": "CSD 7940",
+            "section": "001",
+            "courseTitle": "Research Pract Ph.D."
+        },
+        {
+            "catalogTitle": "CSD 7945",
+            "section": "001",
+            "courseTitle": "Au.D. Capstone"
+        },
+        {
+            "catalogTitle": "CSD 7945",
+            "section": "002",
+            "courseTitle": "Au.D. Capstone"
+        },
+        {
+            "catalogTitle": "CSD 7945",
+            "section": "003",
+            "courseTitle": "Au.D. Capstone"
+        },
+        {
+            "catalogTitle": "CSD 7945",
+            "section": "004",
+            "courseTitle": "Au.D. Capstone"
+        },
+        {
+            "catalogTitle": "CSD 7945",
+            "section": "005",
+            "courseTitle": "Au.D. Capstone"
+        },
+        {
+            "catalogTitle": "CSD 7945",
+            "section": "006",
+            "courseTitle": "Au.D. Capstone"
+        },
+        {
+            "catalogTitle": "CSD 7980",
+            "section": "001",
+            "courseTitle": "Fac Cons - Ph.D."
+        },
+        {
+            "catalogTitle": "CSD 7990",
+            "section": "001",
+            "courseTitle": "Cont. Regist. Ph.D."
+        }
+    ]
+}

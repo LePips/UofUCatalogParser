@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDU 5195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5360",
+            "section": "001",
+            "courseTitle": "Elem Math Lrng Methods"
+        },
+        {
+            "catalogTitle": "EDU 5375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 5380",
+            "section": "001",
+            "courseTitle": "Elem Social Stud Meth"
+        },
+        {
+            "catalogTitle": "EDU 5632",
+            "section": "030",
+            "courseTitle": "Intro to Next Steps"
+        },
+        {
+            "catalogTitle": "EDU 5950",
+            "section": "001",
+            "courseTitle": "Ind Reading/Resrch R&L"
+        },
+        {
+            "catalogTitle": "EDU 6195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 6375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 6632",
+            "section": "040",
+            "courseTitle": "Intro to Next Steps"
+        }
+    ]
+}

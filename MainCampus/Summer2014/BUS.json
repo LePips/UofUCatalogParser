@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BUS 105",
+            "section": "020",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "001",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "020",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 2900",
+            "section": "001",
+            "courseTitle": "Intro International Bus"
+        },
+        {
+            "catalogTitle": "BUS 3241",
+            "section": "001",
+            "courseTitle": "Global in Lit & Film"
+        },
+        {
+            "catalogTitle": "BUS 3920",
+            "section": "001",
+            "courseTitle": "Gender, Discourse & Workplace"
+        },
+        {
+            "catalogTitle": "BUS 5880",
+            "section": "001",
+            "courseTitle": "Business Intern Program"
+        }
+    ]
+}

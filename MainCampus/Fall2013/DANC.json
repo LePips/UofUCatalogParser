@@ -1,0 +1,424 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DANC 102",
+            "section": "001",
+            "courseTitle": "Non Maj-Interm Mod Danc"
+        },
+        {
+            "catalogTitle": "DANC 107",
+            "section": "001",
+            "courseTitle": "Dance-Creative Process"
+        },
+        {
+            "catalogTitle": "DANC 111",
+            "section": "001",
+            "courseTitle": "Conditioning for Dancers"
+        },
+        {
+            "catalogTitle": "DANC 120",
+            "section": "001",
+            "courseTitle": "NM-Begin Modern Dance"
+        },
+        {
+            "catalogTitle": "DANC 122",
+            "section": "001",
+            "courseTitle": "Hip-Hop"
+        },
+        {
+            "catalogTitle": "DANC 123",
+            "section": "001",
+            "courseTitle": "Non Major Dance Composition"
+        },
+        {
+            "catalogTitle": "DANC 123",
+            "section": "002",
+            "courseTitle": "Non Major Dance Composition"
+        },
+        {
+            "catalogTitle": "DANC 133",
+            "section": "001",
+            "courseTitle": "Beg Ballet Technique I"
+        },
+        {
+            "catalogTitle": "DANC 1010",
+            "section": "001",
+            "courseTitle": "Dance in Culture"
+        },
+        {
+            "catalogTitle": "DANC 1020",
+            "section": "001",
+            "courseTitle": "Non Maj-Interm Mod Danc"
+        },
+        {
+            "catalogTitle": "DANC 1022",
+            "section": "001",
+            "courseTitle": "Hip-Hop"
+        },
+        {
+            "catalogTitle": "DANC 1023",
+            "section": "001",
+            "courseTitle": "Non Maj-Dance Compositn"
+        },
+        {
+            "catalogTitle": "DANC 1023",
+            "section": "002",
+            "courseTitle": "Non Maj-Dance Compositn"
+        },
+        {
+            "catalogTitle": "DANC 1075",
+            "section": "001",
+            "courseTitle": "Dance-Creative Process"
+        },
+        {
+            "catalogTitle": "DANC 1110",
+            "section": "001",
+            "courseTitle": "Conditioning for Dancers"
+        },
+        {
+            "catalogTitle": "DANC 1200",
+            "section": "001",
+            "courseTitle": "NM-Begin Modern Dance"
+        },
+        {
+            "catalogTitle": "DANC 1210",
+            "section": "001",
+            "courseTitle": "Jazz"
+        },
+        {
+            "catalogTitle": "DANC 1310",
+            "section": "001",
+            "courseTitle": "Technique"
+        },
+        {
+            "catalogTitle": "DANC 1330",
+            "section": "001",
+            "courseTitle": "Beg Ballet Technique I"
+        },
+        {
+            "catalogTitle": "DANC 1410",
+            "section": "001",
+            "courseTitle": "Beginning Improvisation"
+        },
+        {
+            "catalogTitle": "DANC 1710",
+            "section": "001",
+            "courseTitle": "Freshman Seminar"
+        },
+        {
+            "catalogTitle": "DANC 2310",
+            "section": "001",
+            "courseTitle": "Dance Technique"
+        },
+        {
+            "catalogTitle": "DANC 2311",
+            "section": "001",
+            "courseTitle": "Ballet Technique II"
+        },
+        {
+            "catalogTitle": "DANC 2410",
+            "section": "001",
+            "courseTitle": "Modern Workshop II"
+        },
+        {
+            "catalogTitle": "DANC 2640",
+            "section": "001",
+            "courseTitle": "Rhythm Anlys-Percus Acp"
+        },
+        {
+            "catalogTitle": "DANC 3009",
+            "section": "001",
+            "courseTitle": "Dance Appreciation"
+        },
+        {
+            "catalogTitle": "DANC 3261",
+            "section": "001",
+            "courseTitle": "Costume Design"
+        },
+        {
+            "catalogTitle": "DANC 3310",
+            "section": "001",
+            "courseTitle": "Dance Technique"
+        },
+        {
+            "catalogTitle": "DANC 3311",
+            "section": "001",
+            "courseTitle": "Ballet Technique III"
+        },
+        {
+            "catalogTitle": "DANC 3410",
+            "section": "001",
+            "courseTitle": "Advanced Improvisation"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "011",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "012",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 4310",
+            "section": "001",
+            "courseTitle": "Dance Technique"
+        },
+        {
+            "catalogTitle": "DANC 4311",
+            "section": "001",
+            "courseTitle": "Ballet Technique IV"
+        },
+        {
+            "catalogTitle": "DANC 4388",
+            "section": "001",
+            "courseTitle": "Dance Performance"
+        },
+        {
+            "catalogTitle": "DANC 4410",
+            "section": "001",
+            "courseTitle": "Making Dances"
+        },
+        {
+            "catalogTitle": "DANC 4460",
+            "section": "001",
+            "courseTitle": "Senior Capstone I"
+        },
+        {
+            "catalogTitle": "DANC 4510",
+            "section": "001",
+            "courseTitle": "Dance Kinesiology I"
+        },
+        {
+            "catalogTitle": "DANC 4571",
+            "section": "001",
+            "courseTitle": "Movement in Culture"
+        },
+        {
+            "catalogTitle": "DANC 4850",
+            "section": "001",
+            "courseTitle": "Tchg Meth-Children"
+        },
+        {
+            "catalogTitle": "DANC 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "DANC 6110",
+            "section": "001",
+            "courseTitle": "Dance Technique"
+        },
+        {
+            "catalogTitle": "DANC 6111",
+            "section": "001",
+            "courseTitle": "Ballet Technique II"
+        },
+        {
+            "catalogTitle": "DANC 6130",
+            "section": "001",
+            "courseTitle": "Dance Technique"
+        },
+        {
+            "catalogTitle": "DANC 6131",
+            "section": "001",
+            "courseTitle": "Ballet Technique III"
+        },
+        {
+            "catalogTitle": "DANC 6150",
+            "section": "001",
+            "courseTitle": "Grad Dance Technique"
+        },
+        {
+            "catalogTitle": "DANC 6151",
+            "section": "001",
+            "courseTitle": "Ballet Technique IV"
+        },
+        {
+            "catalogTitle": "DANC 6210",
+            "section": "001",
+            "courseTitle": "Grad Dance Workshop I"
+        },
+        {
+            "catalogTitle": "DANC 6230",
+            "section": "001",
+            "courseTitle": "Workshop III"
+        },
+        {
+            "catalogTitle": "DANC 6310",
+            "section": "001",
+            "courseTitle": "Research Design"
+        },
+        {
+            "catalogTitle": "DANC 6350",
+            "section": "001",
+            "courseTitle": "Grad Movement In Culture"
+        },
+        {
+            "catalogTitle": "DANC 6370",
+            "section": "001",
+            "courseTitle": "Pract-Dance History"
+        },
+        {
+            "catalogTitle": "DANC 6380",
+            "section": "001",
+            "courseTitle": "Historical Research"
+        },
+        {
+            "catalogTitle": "DANC 6410",
+            "section": "001",
+            "courseTitle": "Grad Technology"
+        },
+        {
+            "catalogTitle": "DANC 6430",
+            "section": "001",
+            "courseTitle": "Screendance"
+        },
+        {
+            "catalogTitle": "DANC 6520",
+            "section": "001",
+            "courseTitle": "Adv Principles Teaching"
+        },
+        {
+            "catalogTitle": "DANC 6530",
+            "section": "001",
+            "courseTitle": "Dance Admin"
+        },
+        {
+            "catalogTitle": "DANC 6570",
+            "section": "001",
+            "courseTitle": "Pract-Dance Education"
+        },
+        {
+            "catalogTitle": "DANC 6610",
+            "section": "001",
+            "courseTitle": "Grad Dance Kines I"
+        },
+        {
+            "catalogTitle": "DANC 6640",
+            "section": "001",
+            "courseTitle": "Pract-Dance Kinesiology"
+        },
+        {
+            "catalogTitle": "DANC 6730",
+            "section": "001",
+            "courseTitle": "Grad Dance Performance"
+        },
+        {
+            "catalogTitle": "DANC 6740",
+            "section": "001",
+            "courseTitle": "Graduate Lighting"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "001",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "002",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "003",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "004",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "005",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "006",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "007",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "008",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "009",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "010",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "011",
+            "courseTitle": "Directed Research"
+        },
+        {
+            "catalogTitle": "DANC 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        }
+    ]
+}

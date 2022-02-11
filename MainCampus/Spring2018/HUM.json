@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 2800",
+            "section": "001",
+            "courseTitle": "Humanities Scholars"
+        },
+        {
+            "catalogTitle": "HUM 3050",
+            "section": "001",
+            "courseTitle": "Innovation Roadmap"
+        },
+        {
+            "catalogTitle": "HUM 3960",
+            "section": "001",
+            "courseTitle": "Hum Career Compass"
+        },
+        {
+            "catalogTitle": "HUM 4700",
+            "section": "001",
+            "courseTitle": "Medicine and Literature"
+        }
+    ]
+}

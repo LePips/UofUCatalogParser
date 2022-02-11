@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 2611",
+            "section": "001",
+            "courseTitle": "The Des of Blt Environ"
+        },
+        {
+            "catalogTitle": "ARCH 2632",
+            "section": "001",
+            "courseTitle": "Adv Arch Des Work"
+        },
+        {
+            "catalogTitle": "ARCH 3010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio I"
+        },
+        {
+            "catalogTitle": "ARCH 3310",
+            "section": "001",
+            "courseTitle": "Arch'l Structures I"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 6012",
+            "section": "001",
+            "courseTitle": "Intensive Arch'l Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6013",
+            "section": "001",
+            "courseTitle": "Arch'l Skill Dev Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6013",
+            "section": "002",
+            "courseTitle": "Arch'l Skill Dev Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6055",
+            "section": "001",
+            "courseTitle": "Int. Arch. Comm"
+        },
+        {
+            "catalogTitle": "ARCH 6275",
+            "section": "001",
+            "courseTitle": "Intro to Arch'l Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6302",
+            "section": "001",
+            "courseTitle": "Adv Struct Typology"
+        },
+        {
+            "catalogTitle": "ARCH 6302",
+            "section": "002",
+            "courseTitle": "Adv Struct Typology"
+        },
+        {
+            "catalogTitle": "ARCH 6770",
+            "section": "001",
+            "courseTitle": "Arch Service Intern"
+        },
+        {
+            "catalogTitle": "ARCH 6830",
+            "section": "001",
+            "courseTitle": "Landscape Arch"
+        },
+        {
+            "catalogTitle": "ARCH 6972",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "ARCH 6975",
+            "section": "001",
+            "courseTitle": "M.S. Project"
+        }
+    ]
+}

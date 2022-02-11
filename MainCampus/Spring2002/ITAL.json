@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 12",
+            "section": "002",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 12",
+            "section": "020",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 22",
+            "section": "001",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "001",
+            "courseTitle": "Beg Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "020",
+            "courseTitle": "Beg Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2020",
+            "section": "001",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2020",
+            "section": "002",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 3950",
+            "section": "001",
+            "courseTitle": "SL - Italian"
+        },
+        {
+            "catalogTitle": "ITAL 4550",
+            "section": "001",
+            "courseTitle": "Topics In Culture"
+        },
+        {
+            "catalogTitle": "ITAL 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ITAL 4900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

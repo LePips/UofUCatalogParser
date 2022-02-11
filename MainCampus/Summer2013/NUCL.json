@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5900",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        },
+        {
+            "catalogTitle": "NUCL 6400",
+            "section": "001",
+            "courseTitle": "Nuclear Computation"
+        },
+        {
+            "catalogTitle": "NUCL 6500",
+            "section": "001",
+            "courseTitle": "Simulation BioMedicine"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        }
+    ]
+}

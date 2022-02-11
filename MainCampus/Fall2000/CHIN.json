@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CHIN 1010",
+            "section": "001",
+            "courseTitle": "Beg Mandarin Chin I"
+        },
+        {
+            "catalogTitle": "CHIN 1010",
+            "section": "002",
+            "courseTitle": "Beg Mandarin Chin I"
+        },
+        {
+            "catalogTitle": "CHIN 2010",
+            "section": "001",
+            "courseTitle": "Intrm Mandarin Chin I"
+        },
+        {
+            "catalogTitle": "CHIN 3010",
+            "section": "001",
+            "courseTitle": "Third Yr Mandarin Chin"
+        },
+        {
+            "catalogTitle": "CHIN 3060",
+            "section": "001",
+            "courseTitle": "Intr Written Chinese"
+        },
+        {
+            "catalogTitle": "CHIN 3510",
+            "section": "001",
+            "courseTitle": "Business Chinese"
+        },
+        {
+            "catalogTitle": "CHIN 4550",
+            "section": "001",
+            "courseTitle": "Traditional Chin Pttrns"
+        },
+        {
+            "catalogTitle": "CHIN 4610",
+            "section": "001",
+            "courseTitle": "Narrative Literature"
+        },
+        {
+            "catalogTitle": "CHIN 4900",
+            "section": "001",
+            "courseTitle": "Translatng Chinese Text"
+        },
+        {
+            "catalogTitle": "CHIN 5281",
+            "section": "001",
+            "courseTitle": "Struct Chinese:Phonetics"
+        },
+        {
+            "catalogTitle": "CHIN 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FRNCH 101",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 101",
+            "section": "002",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 101",
+            "section": "003",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 102",
+            "section": "002",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 102",
+            "section": "004",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 201",
+            "section": "001",
+            "courseTitle": "Intermediate French I"
+        },
+        {
+            "catalogTitle": "FRNCH 202",
+            "section": "002",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 202",
+            "section": "003",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 260",
+            "section": "001",
+            "courseTitle": "Int. Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 360",
+            "section": "001",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "002",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "003",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "002",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "003",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "004",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "001",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "002",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "003",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2600",
+            "section": "001",
+            "courseTitle": "Int. Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3050",
+            "section": "001",
+            "courseTitle": "Frnch Lang & Culture"
+        },
+        {
+            "catalogTitle": "FRNCH 3060",
+            "section": "001",
+            "courseTitle": "Adv French Grammar"
+        },
+        {
+            "catalogTitle": "FRNCH 3600",
+            "section": "001",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 4510",
+            "section": "001",
+            "courseTitle": "Business French"
+        },
+        {
+            "catalogTitle": "FRNCH 4560",
+            "section": "001",
+            "courseTitle": "Fr. Cultural St"
+        },
+        {
+            "catalogTitle": "FRNCH 4630",
+            "section": "001",
+            "courseTitle": "Paris"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "001",
+            "courseTitle": "Pedagogy of the Classics"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "002",
+            "courseTitle": "18th Century Philosophers"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "003",
+            "courseTitle": "Psychoanalysis & Film"
+        },
+        {
+            "catalogTitle": "FRNCH 4990",
+            "section": "107",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "FRNCH 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 6900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "FRNCH 6900",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "FRNCH 6900",
+            "section": "003",
+            "courseTitle": "Graduate Workshop"
+        },
+        {
+            "catalogTitle": "FRNCH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "FRNCH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "FRNCH 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "001",
+            "courseTitle": "Visual/Textual Interplay"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "002",
+            "courseTitle": "18th C. Philosophers"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "003",
+            "courseTitle": "Pedagogy of the Classics"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "090",
+            "courseTitle": "Pedagogy of Classic French Lit"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

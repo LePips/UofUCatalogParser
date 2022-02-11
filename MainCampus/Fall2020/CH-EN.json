@@ -1,3 +1,204 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "CH EN 335",
+            "section": "001",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "CH EN 385",
+            "section": "001",
+            "courseTitle": "Chemical Engineering Thermodyn"
+        },
+        {
+            "catalogTitle": "CH EN 1703",
+            "section": "001",
+            "courseTitle": "Intro in Chemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 1703",
+            "section": "002",
+            "courseTitle": "Intro in Chemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 1703",
+            "section": "003",
+            "courseTitle": "Intro in Chemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 1703",
+            "section": "004",
+            "courseTitle": "Intro in Chemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 1703",
+            "section": "005",
+            "courseTitle": "Intro in Chemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 1703",
+            "section": "006",
+            "courseTitle": "Intro in Chemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 1703",
+            "section": "007",
+            "courseTitle": "Intro in Chemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 2300",
+            "section": "001",
+            "courseTitle": "Thermodynamics I"
+        },
+        {
+            "catalogTitle": "CH EN 2550",
+            "section": "001",
+            "courseTitle": "Stats for ChemEs"
+        },
+        {
+            "catalogTitle": "CH EN 2953",
+            "section": "001",
+            "courseTitle": "Undergraduate Seminar"
+        },
+        {
+            "catalogTitle": "CH EN 3353",
+            "section": "001",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "CH EN 3453",
+            "section": "001",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "CH EN 3700",
+            "section": "001",
+            "courseTitle": "Tech Comm in ChemE"
+        },
+        {
+            "catalogTitle": "CH EN 3700",
+            "section": "002",
+            "courseTitle": "Tech Comm in ChemE"
+        },
+        {
+            "catalogTitle": "CH EN 3701",
+            "section": "001",
+            "courseTitle": "Projects Laboratory I"
+        },
+        {
+            "catalogTitle": "CH EN 3701",
+            "section": "002",
+            "courseTitle": "Projects Laboratory I"
+        },
+        {
+            "catalogTitle": "CH EN 3853",
+            "section": "001",
+            "courseTitle": "Chemical Engg Thermodyn"
+        },
+        {
+            "catalogTitle": "CH EN 4203",
+            "section": "001",
+            "courseTitle": "Process Control"
+        },
+        {
+            "catalogTitle": "CH EN 4253",
+            "section": "001",
+            "courseTitle": "Process Design I"
+        },
+        {
+            "catalogTitle": "CH EN 4870",
+            "section": "001",
+            "courseTitle": "Indust Energy Analysis"
+        },
+        {
+            "catalogTitle": "CH EN 4903",
+            "section": "001",
+            "courseTitle": "Projects Lab I"
+        },
+        {
+            "catalogTitle": "CH EN 4903",
+            "section": "002",
+            "courseTitle": "Projects Lab I"
+        },
+        {
+            "catalogTitle": "CH EN 4977",
+            "section": "079",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "CH EN 4978",
+            "section": "001",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "CH EN 5310",
+            "section": "001",
+            "courseTitle": "Renewable Energy"
+        },
+        {
+            "catalogTitle": "CH EN 6253",
+            "section": "001",
+            "courseTitle": "Advanced Design"
+        },
+        {
+            "catalogTitle": "CH EN 6310",
+            "section": "001",
+            "courseTitle": "Renewable Energy"
+        },
+        {
+            "catalogTitle": "CH EN 6353",
+            "section": "002",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "CH EN 6400",
+            "section": "001",
+            "courseTitle": "Adv Eng Analysis"
+        },
+        {
+            "catalogTitle": "CH EN 6703",
+            "section": "001",
+            "courseTitle": "Adv Num Meth ChemE"
+        },
+        {
+            "catalogTitle": "CH EN 6853",
+            "section": "001",
+            "courseTitle": "Thermodynamics"
+        },
+        {
+            "catalogTitle": "CH EN 6900",
+            "section": "001",
+            "courseTitle": "Petroleum Eng Project"
+        },
+        {
+            "catalogTitle": "CH EN 6973",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CH EN 6983",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CH EN 7703",
+            "section": "001",
+            "courseTitle": "Modeling/Validation UQ"
+        },
+        {
+            "catalogTitle": "CH EN 7753",
+            "section": "001",
+            "courseTitle": "Intro to Research"
+        },
+        {
+            "catalogTitle": "CH EN 7857",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "CH EN 7973",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        }
+    ]
 }

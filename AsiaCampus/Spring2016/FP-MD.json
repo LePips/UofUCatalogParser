@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FP MD 6101",
+            "section": "301",
+            "courseTitle": "Data Analysis using SAS"
+        },
+        {
+            "catalogTitle": "FP MD 6300",
+            "section": "301",
+            "courseTitle": "Epidemiology I"
+        },
+        {
+            "catalogTitle": "FP MD 6300",
+            "section": "302",
+            "courseTitle": "Epidemiology I"
+        },
+        {
+            "catalogTitle": "FP MD 6550",
+            "section": "301",
+            "courseTitle": "Hlth Plan/Eval/Implmnt"
+        },
+        {
+            "catalogTitle": "FP MD 6700",
+            "section": "301",
+            "courseTitle": "Envir. Public Health"
+        },
+        {
+            "catalogTitle": "FP MD 6958",
+            "section": "301",
+            "courseTitle": "Writing in Public Health"
+        }
+    ]
+}

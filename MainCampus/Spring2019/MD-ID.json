@@ -1,0 +1,239 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD ID 6510",
+            "section": "001",
+            "courseTitle": "Prep for Global Health"
+        },
+        {
+            "catalogTitle": "MD ID 6515",
+            "section": "001",
+            "courseTitle": "Mat-Neo Survival"
+        },
+        {
+            "catalogTitle": "MD ID 6520",
+            "section": "001",
+            "courseTitle": "GH Scholarship Elective"
+        },
+        {
+            "catalogTitle": "MD ID 6530",
+            "section": "001",
+            "courseTitle": "Global Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 6540",
+            "section": "001",
+            "courseTitle": "Global Health Elective"
+        },
+        {
+            "catalogTitle": "MD ID 6550",
+            "section": "001",
+            "courseTitle": "Intr PopHlth RuralWest "
+        },
+        {
+            "catalogTitle": "MD ID 7001",
+            "section": "001",
+            "courseTitle": "CMC 1"
+        },
+        {
+            "catalogTitle": "MD ID 7002",
+            "section": "001",
+            "courseTitle": "CMC 2"
+        },
+        {
+            "catalogTitle": "MD ID 7002",
+            "section": "002",
+            "courseTitle": "CMC 2"
+        },
+        {
+            "catalogTitle": "MD ID 7004",
+            "section": "001",
+            "courseTitle": "CMC 4"
+        },
+        {
+            "catalogTitle": "MD ID 7004",
+            "section": "002",
+            "courseTitle": "CMC 4"
+        },
+        {
+            "catalogTitle": "MD ID 7102",
+            "section": "001",
+            "courseTitle": "Layers of Medicine 2"
+        },
+        {
+            "catalogTitle": "MD ID 7104",
+            "section": "001",
+            "courseTitle": "Layers of Medicine 4"
+        },
+        {
+            "catalogTitle": "MD ID 7200",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MD ID 7220",
+            "section": "001",
+            "courseTitle": "MD Student Teachers"
+        },
+        {
+            "catalogTitle": "MD ID 7222",
+            "section": "001",
+            "courseTitle": "SaT Pathway II"
+        },
+        {
+            "catalogTitle": "MD ID 7230",
+            "section": "001",
+            "courseTitle": "Medical Spanish Course"
+        },
+        {
+            "catalogTitle": "MD ID 7240",
+            "section": "001",
+            "courseTitle": "MSATP"
+        },
+        {
+            "catalogTitle": "MD ID 7260",
+            "section": "001",
+            "courseTitle": "Transgender Health"
+        },
+        {
+            "catalogTitle": "MD ID 7300",
+            "section": "001",
+            "courseTitle": "Foundations of Med"
+        },
+        {
+            "catalogTitle": "MD ID 7310",
+            "section": "001",
+            "courseTitle": "Molecules, Cell, Cancer"
+        },
+        {
+            "catalogTitle": "MD ID 7310",
+            "section": "002",
+            "courseTitle": "Molecules, Cell, Cancer"
+        },
+        {
+            "catalogTitle": "MD ID 7320",
+            "section": "001",
+            "courseTitle": "Host and Defense"
+        },
+        {
+            "catalogTitle": "MD ID 7320",
+            "section": "002",
+            "courseTitle": "Host and Defense"
+        },
+        {
+            "catalogTitle": "MD ID 7340",
+            "section": "001",
+            "courseTitle": "Brain & Behavior"
+        },
+        {
+            "catalogTitle": "MD ID 7340",
+            "section": "002",
+            "courseTitle": "Brain & Behavior"
+        },
+        {
+            "catalogTitle": "MD ID 7370",
+            "section": "001",
+            "courseTitle": "Skin,Muscle,Bone,Joint"
+        },
+        {
+            "catalogTitle": "MD ID 7410",
+            "section": "001",
+            "courseTitle": "Transition"
+        },
+        {
+            "catalogTitle": "MD ID 7500",
+            "section": "001",
+            "courseTitle": "Year 1 Assessment"
+        },
+        {
+            "catalogTitle": "MD ID 7500",
+            "section": "002",
+            "courseTitle": "Year 1 Assessment"
+        },
+        {
+            "catalogTitle": "MD ID 7520",
+            "section": "001",
+            "courseTitle": "Year 3 Assessment"
+        },
+        {
+            "catalogTitle": "MD ID 7601",
+            "section": "001",
+            "courseTitle": "Critical Care - UU NICU"
+        },
+        {
+            "catalogTitle": "MD ID 7602",
+            "section": "001",
+            "courseTitle": "Critical Care -PCH PICU"
+        },
+        {
+            "catalogTitle": "MD ID 7602",
+            "section": "002",
+            "courseTitle": "Critical Care -PCH PICU"
+        },
+        {
+            "catalogTitle": "MD ID 7603",
+            "section": "001",
+            "courseTitle": "Critical Care-PCMC CICU"
+        },
+        {
+            "catalogTitle": "MD ID 7604",
+            "section": "001",
+            "courseTitle": "Critical Care - UU SICU"
+        },
+        {
+            "catalogTitle": "MD ID 7605",
+            "section": "001",
+            "courseTitle": "Critical Care-Burn Unit"
+        },
+        {
+            "catalogTitle": "MD ID 7606",
+            "section": "001",
+            "courseTitle": "Critical Care - VA MICU"
+        },
+        {
+            "catalogTitle": "MD ID 7607",
+            "section": "001",
+            "courseTitle": "Critical Care - UU MICU"
+        },
+        {
+            "catalogTitle": "MD ID 7608",
+            "section": "001",
+            "courseTitle": "Critical Care-IMC STICU"
+        },
+        {
+            "catalogTitle": "MD ID 7609",
+            "section": "001",
+            "courseTitle": "Critical Care--Huntsman"
+        },
+        {
+            "catalogTitle": "MD ID 7610",
+            "section": "001",
+            "courseTitle": "Critical Care - LDS ICU"
+        },
+        {
+            "catalogTitle": "MD ID 7611",
+            "section": "001",
+            "courseTitle": "Critical Care- UU NCC"
+        },
+        {
+            "catalogTitle": "MD ID 7612",
+            "section": "001",
+            "courseTitle": "Critical Care--UU CVICU"
+        },
+        {
+            "catalogTitle": "MD ID 7613",
+            "section": "001",
+            "courseTitle": "Critical Care--PCH NICU"
+        },
+        {
+            "catalogTitle": "MD ID 7614",
+            "section": "001",
+            "courseTitle": "Critical Care-UVH ICU"
+        },
+        {
+            "catalogTitle": "MD ID 7615",
+            "section": "001",
+            "courseTitle": "Critical Care-UU CVICU"
+        }
+    ]
+}

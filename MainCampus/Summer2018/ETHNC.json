@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ETHNC 1800",
+            "section": "018",
+            "courseTitle": "Issues in ETHNC"
+        },
+        {
+            "catalogTitle": "ETHNC 2500",
+            "section": "090",
+            "courseTitle": "Intro To Ethnic Studies"
+        },
+        {
+            "catalogTitle": "ETHNC 2550",
+            "section": "090",
+            "courseTitle": "Africn Amer Experiences"
+        },
+        {
+            "catalogTitle": "ETHNC 2560",
+            "section": "090",
+            "courseTitle": "Chican@ & Latin@ Exp"
+        },
+        {
+            "catalogTitle": "ETHNC 2570",
+            "section": "090",
+            "courseTitle": "American Indian Exper"
+        },
+        {
+            "catalogTitle": "ETHNC 2580",
+            "section": "090",
+            "courseTitle": "Asian Pacific Am Exp"
+        },
+        {
+            "catalogTitle": "ETHNC 2590",
+            "section": "090",
+            "courseTitle": "Pacific Islander Am Exp"
+        },
+        {
+            "catalogTitle": "ETHNC 3290",
+            "section": "090",
+            "courseTitle": "Ethnic Min Families"
+        },
+        {
+            "catalogTitle": "ETHNC 3920",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ETHNC 4990",
+            "section": "001",
+            "courseTitle": "Internship"
+        }
+    ]
+}

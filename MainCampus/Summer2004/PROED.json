@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 100",
+            "section": "001",
+            "courseTitle": "Acct/Budg for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 110",
+            "section": "005",
+            "courseTitle": "Acct/Budg for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 150",
+            "section": "005",
+            "courseTitle": "APP/CPM  4 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 150",
+            "section": "006",
+            "courseTitle": "APP/CPM  4 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 226",
+            "section": "005",
+            "courseTitle": "Technical Writing"
+        },
+        {
+            "catalogTitle": "PROED 360",
+            "section": "005",
+            "courseTitle": "E-Commerce"
+        },
+        {
+            "catalogTitle": "PROED 540",
+            "section": "005",
+            "courseTitle": "Project Mgt"
+        },
+        {
+            "catalogTitle": "PROED 540",
+            "section": "007",
+            "courseTitle": "Project Mgt"
+        },
+        {
+            "catalogTitle": "PROED 570",
+            "section": "005",
+            "courseTitle": "Purchg Negotiations"
+        },
+        {
+            "catalogTitle": "PROED 580",
+            "section": "005",
+            "courseTitle": "Public Sector Purchg"
+        }
+    ]
+}

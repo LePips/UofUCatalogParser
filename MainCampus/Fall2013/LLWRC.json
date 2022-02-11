@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 779",
+            "section": "001",
+            "courseTitle": "Read Like a Writer"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "001",
+            "courseTitle": "Toolbox Basics"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "002",
+            "courseTitle": "Creative Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 787",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction II"
+        },
+        {
+            "catalogTitle": "LLWRC 803",
+            "section": "001",
+            "courseTitle": "Self-Publish Your Book"
+        },
+        {
+            "catalogTitle": "LLWRC 812",
+            "section": "001",
+            "courseTitle": "Grammar & Punctuation"
+        },
+        {
+            "catalogTitle": "LLWRC 824",
+            "section": "001",
+            "courseTitle": "Writing for Social Media"
+        },
+        {
+            "catalogTitle": "LLWRC 826",
+            "section": "001",
+            "courseTitle": "The Secrets of Screenwriting"
+        }
+    ]
+}

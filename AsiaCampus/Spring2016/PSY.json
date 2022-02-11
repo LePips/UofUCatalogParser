@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "301",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "302",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "301",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3120",
+            "section": "390",
+            "courseTitle": "Cognitive Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3410",
+            "section": "301",
+            "courseTitle": "Social Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3960",
+            "section": "301",
+            "courseTitle": "Psych & Social Issues"
+        },
+        {
+            "catalogTitle": "PSY 4800",
+            "section": "301",
+            "courseTitle": "Res Experience/General"
+        }
+    ]
+}

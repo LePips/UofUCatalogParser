@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD LB 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "MD LB 5200",
+            "section": "001",
+            "courseTitle": "Applied Clinical Chem I"
+        },
+        {
+            "catalogTitle": "MD LB 5210",
+            "section": "001",
+            "courseTitle": "Applied Clin Chem II"
+        },
+        {
+            "catalogTitle": "MD LB 5300",
+            "section": "001",
+            "courseTitle": "Applied Clin Hemat I"
+        },
+        {
+            "catalogTitle": "MD LB 5310",
+            "section": "001",
+            "courseTitle": "Applied Clin Hemat II"
+        },
+        {
+            "catalogTitle": "MD LB 5320",
+            "section": "001",
+            "courseTitle": "Applied Hemostasis"
+        },
+        {
+            "catalogTitle": "MD LB 5400",
+            "section": "001",
+            "courseTitle": "Applied Clin Immuhem"
+        },
+        {
+            "catalogTitle": "MD LB 5500",
+            "section": "001",
+            "courseTitle": "Applied Clin Micro I"
+        },
+        {
+            "catalogTitle": "MD LB 5510",
+            "section": "001",
+            "courseTitle": "Applied Clin Micro II"
+        },
+        {
+            "catalogTitle": "MD LB 5530",
+            "section": "001",
+            "courseTitle": "Applied Clin Immunol"
+        },
+        {
+            "catalogTitle": "MD LB 5531",
+            "section": "001",
+            "courseTitle": "App Molec. Dx"
+        },
+        {
+            "catalogTitle": "MD LB 5900",
+            "section": "001",
+            "courseTitle": "Clinical Correlations"
+        }
+    ]
+}

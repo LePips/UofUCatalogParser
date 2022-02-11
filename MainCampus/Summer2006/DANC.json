@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DANC 396",
+            "section": "002",
+            "courseTitle": "Somatics Workshop"
+        },
+        {
+            "catalogTitle": "DANC 3951",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 3961",
+            "section": "012",
+            "courseTitle": "Somatics Workshop"
+        },
+        {
+            "catalogTitle": "DANC 6910",
+            "section": "001",
+            "courseTitle": "Graduate Projects"
+        },
+        {
+            "catalogTitle": "DANC 6951",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DANC 6961",
+            "section": "012",
+            "courseTitle": "Somatics Workshop"
+        },
+        {
+            "catalogTitle": "DANC 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "DANC 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

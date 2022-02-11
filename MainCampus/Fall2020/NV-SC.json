@@ -1,3 +1,49 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "NV SC 1010",
+            "section": "001",
+            "courseTitle": "Intro To Naval Science"
+        },
+        {
+            "catalogTitle": "NV SC 1010",
+            "section": "003",
+            "courseTitle": "Intro To Naval Science"
+        },
+        {
+            "catalogTitle": "NV SC 2000",
+            "section": "001",
+            "courseTitle": "Ldrshp & Mgt"
+        },
+        {
+            "catalogTitle": "NV SC 2000",
+            "section": "003",
+            "courseTitle": "Ldrshp & Mgt"
+        },
+        {
+            "catalogTitle": "NV SC 3020",
+            "section": "001",
+            "courseTitle": "Nav Ops And Nav II"
+        },
+        {
+            "catalogTitle": "NV SC 3020",
+            "section": "003",
+            "courseTitle": "Nav Ops And Nav II"
+        },
+        {
+            "catalogTitle": "NV SC 3110",
+            "section": "001",
+            "courseTitle": "Maneuver Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 4000",
+            "section": "001",
+            "courseTitle": "Naval Weapons I"
+        },
+        {
+            "catalogTitle": "NV SC 4000",
+            "section": "003",
+            "courseTitle": "Naval Weapons I"
+        }
+    ]
 }

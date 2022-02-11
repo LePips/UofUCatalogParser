@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHARM 6330",
+            "section": "001",
+            "courseTitle": "IPE Telem - A/Geriatric"
+        },
+        {
+            "catalogTitle": "PHARM 6611",
+            "section": "001",
+            "courseTitle": "IPE Sim-Hosp Discharge"
+        },
+        {
+            "catalogTitle": "PHARM 6614",
+            "section": "001",
+            "courseTitle": "IPE Sim-Hosp Discharge"
+        },
+        {
+            "catalogTitle": "PHARM 7001",
+            "section": "001",
+            "courseTitle": "Leadership & Advocacy"
+        },
+        {
+            "catalogTitle": "PHARM 7111",
+            "section": "001",
+            "courseTitle": "Foundations Biotech"
+        },
+        {
+            "catalogTitle": "PHARM 7121",
+            "section": "001",
+            "courseTitle": "Foundations PK & PD"
+        },
+        {
+            "catalogTitle": "PHARM 7142",
+            "section": "001",
+            "courseTitle": "Foundations of Pharmacy"
+        },
+        {
+            "catalogTitle": "PHARM 7143",
+            "section": "001",
+            "courseTitle": "Foundations Pro Pract 2"
+        },
+        {
+            "catalogTitle": "PHARM 7151",
+            "section": "001",
+            "courseTitle": "Recitation"
+        }
+    ]
+}

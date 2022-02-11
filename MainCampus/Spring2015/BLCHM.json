@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "001",
+            "courseTitle": "Biologics: Prot, Pept, Nu Acid"
+        },
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "002",
+            "courseTitle": "Drug Discovery and Design"
+        },
+        {
+            "catalogTitle": "BLCHM 6100",
+            "section": "003",
+            "courseTitle": "Journal Club/Grant Wrtg"
+        },
+        {
+            "catalogTitle": "BLCHM 6430",
+            "section": "001",
+            "courseTitle": "Structural Methods"
+        },
+        {
+            "catalogTitle": "BLCHM 6430",
+            "section": "002",
+            "courseTitle": "Structural Methods"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        }
+    ]
+}

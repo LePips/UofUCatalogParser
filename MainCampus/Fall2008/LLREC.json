@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 652",
+            "section": "001",
+            "courseTitle": "Full Moon Snowshoe Hike"
+        },
+        {
+            "catalogTitle": "LLREC 658",
+            "section": "001",
+            "courseTitle": "Ice Skating"
+        },
+        {
+            "catalogTitle": "LLREC 658",
+            "section": "002",
+            "courseTitle": "Ice Skating"
+        },
+        {
+            "catalogTitle": "LLREC 661",
+            "section": "001",
+            "courseTitle": "Beg/Interm Fencing"
+        },
+        {
+            "catalogTitle": "LLREC 670",
+            "section": "001",
+            "courseTitle": "Sculling"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "001",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 746",
+            "section": "001",
+            "courseTitle": "Beg. Golf Women"
+        }
+    ]
+}

@@ -1,0 +1,489 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANTH 110",
+            "section": "001",
+            "courseTitle": "Culture & Human Experience"
+        },
+        {
+            "catalogTitle": "ANTH 204",
+            "section": "001",
+            "courseTitle": "Anthropology of Humor"
+        },
+        {
+            "catalogTitle": "ANTH 311",
+            "section": "001",
+            "courseTitle": "First Nations of Wstn N. Amrca"
+        },
+        {
+            "catalogTitle": "ANTH 332",
+            "section": "001",
+            "courseTitle": "Mesoamerican Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 1000",
+            "section": "001",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 1000",
+            "section": "090",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "001",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "002",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "090",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "001",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "090",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1030",
+            "section": "001",
+            "courseTitle": "World Prehistory: Intro"
+        },
+        {
+            "catalogTitle": "ANTH 1030",
+            "section": "090",
+            "courseTitle": "World Prehistory: Intro"
+        },
+        {
+            "catalogTitle": "ANTH 1050",
+            "section": "001",
+            "courseTitle": "Evolution Human Nature"
+        },
+        {
+            "catalogTitle": "ANTH 1050",
+            "section": "090",
+            "courseTitle": "Evolution Human Nature"
+        },
+        {
+            "catalogTitle": "ANTH 2017",
+            "section": "001",
+            "courseTitle": "Human Heritage"
+        },
+        {
+            "catalogTitle": "ANTH 2018",
+            "section": "090",
+            "courseTitle": "Human Universals"
+        },
+        {
+            "catalogTitle": "ANTH 2020",
+            "section": "001",
+            "courseTitle": "Human Evolution"
+        },
+        {
+            "catalogTitle": "ANTH 2030",
+            "section": "001",
+            "courseTitle": "Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 2031",
+            "section": "001",
+            "courseTitle": "Rise of Civilization"
+        },
+        {
+            "catalogTitle": "ANTH 2035",
+            "section": "001",
+            "courseTitle": "Religiosity in ME/USA"
+        },
+        {
+            "catalogTitle": "ANTH 2040",
+            "section": "001",
+            "courseTitle": "Anthropology of Humor"
+        },
+        {
+            "catalogTitle": "ANTH 2220",
+            "section": "001",
+            "courseTitle": "Intro to Forensic Anth"
+        },
+        {
+            "catalogTitle": "ANTH 3001",
+            "section": "001",
+            "courseTitle": "Anthro:Major and Career"
+        },
+        {
+            "catalogTitle": "ANTH 3111",
+            "section": "090",
+            "courseTitle": "First Nations E N Amer"
+        },
+        {
+            "catalogTitle": "ANTH 3112",
+            "section": "001",
+            "courseTitle": "First Nations W N Amer"
+        },
+        {
+            "catalogTitle": "ANTH 3125",
+            "section": "001",
+            "courseTitle": "Silk Road"
+        },
+        {
+            "catalogTitle": "ANTH 3126",
+            "section": "001",
+            "courseTitle": "Mediterranean Cultures"
+        },
+        {
+            "catalogTitle": "ANTH 3127",
+            "section": "001",
+            "courseTitle": "Peoples of Europe"
+        },
+        {
+            "catalogTitle": "ANTH 3128",
+            "section": "001",
+            "courseTitle": "Andean Cultures"
+        },
+        {
+            "catalogTitle": "ANTH 3131",
+            "section": "001",
+            "courseTitle": "Peoples/Culture Mid E"
+        },
+        {
+            "catalogTitle": "ANTH 3151",
+            "section": "001",
+            "courseTitle": "Peoples Of The Pacific"
+        },
+        {
+            "catalogTitle": "ANTH 3211",
+            "section": "001",
+            "courseTitle": "Biology Native American"
+        },
+        {
+            "catalogTitle": "ANTH 3311",
+            "section": "001",
+            "courseTitle": "North Amer Prehistory"
+        },
+        {
+            "catalogTitle": "ANTH 3322",
+            "section": "001",
+            "courseTitle": "Mesoamerican Archaeolgy"
+        },
+        {
+            "catalogTitle": "ANTH 3331",
+            "section": "001",
+            "courseTitle": "Pleistocene Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 3961",
+            "section": "001",
+            "courseTitle": "South American Indians"
+        },
+        {
+            "catalogTitle": "ANTH 4138",
+            "section": "001",
+            "courseTitle": "Anthr Violence NonViol"
+        },
+        {
+            "catalogTitle": "ANTH 4171",
+            "section": "001",
+            "courseTitle": "Myth Magic Religion"
+        },
+        {
+            "catalogTitle": "ANTH 4231",
+            "section": "001",
+            "courseTitle": "Human Biol Diversity"
+        },
+        {
+            "catalogTitle": "ANTH 4242",
+            "section": "001",
+            "courseTitle": "Anth Clinical Hlth Care"
+        },
+        {
+            "catalogTitle": "ANTH 4252",
+            "section": "090",
+            "courseTitle": "Human Biology"
+        },
+        {
+            "catalogTitle": "ANTH 4271",
+            "section": "001",
+            "courseTitle": "Human Osteology"
+        },
+        {
+            "catalogTitle": "ANTH 4281",
+            "section": "090",
+            "courseTitle": "Primates"
+        },
+        {
+            "catalogTitle": "ANTH 4291",
+            "section": "001",
+            "courseTitle": "Evolution Human Health"
+        },
+        {
+            "catalogTitle": "ANTH 4334",
+            "section": "001",
+            "courseTitle": "Population Issues Anthr"
+        },
+        {
+            "catalogTitle": "ANTH 4461",
+            "section": "001",
+            "courseTitle": "Behavioral Ecol/Anthro"
+        },
+        {
+            "catalogTitle": "ANTH 4950",
+            "section": "004",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "ANTH 4950",
+            "section": "012",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "ANTH 4950",
+            "section": "015",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "ANTH 4955",
+            "section": "001",
+            "courseTitle": "Undergraduate TA"
+        },
+        {
+            "catalogTitle": "ANTH 4962",
+            "section": "001",
+            "courseTitle": "Paternity Fidelity & Parenting"
+        },
+        {
+            "catalogTitle": "ANTH 4962",
+            "section": "002",
+            "courseTitle": "Intro to Stat Thking in Anthro"
+        },
+        {
+            "catalogTitle": "ANTH 4962",
+            "section": "003",
+            "courseTitle": "Intro to Language & Culture"
+        },
+        {
+            "catalogTitle": "ANTH 4962",
+            "section": "004",
+            "courseTitle": "Sociolinguistics"
+        },
+        {
+            "catalogTitle": "ANTH 4990",
+            "section": "001",
+            "courseTitle": "Ind Res: Health Track"
+        },
+        {
+            "catalogTitle": "ANTH 4990",
+            "section": "002",
+            "courseTitle": "Ind Res: Health Track"
+        },
+        {
+            "catalogTitle": "ANTH 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ANTH 5211",
+            "section": "001",
+            "courseTitle": "Biology Native American"
+        },
+        {
+            "catalogTitle": "ANTH 5221",
+            "section": "001",
+            "courseTitle": "Human Evol Genetics"
+        },
+        {
+            "catalogTitle": "ANTH 5221",
+            "section": "002",
+            "courseTitle": "Human Evol Genetics"
+        },
+        {
+            "catalogTitle": "ANTH 5311",
+            "section": "001",
+            "courseTitle": "North Amer Prehistory"
+        },
+        {
+            "catalogTitle": "ANTH 5322",
+            "section": "001",
+            "courseTitle": "Mesoamerican Archaeolgy"
+        },
+        {
+            "catalogTitle": "ANTH 5331",
+            "section": "001",
+            "courseTitle": "Pleistocene Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 5711",
+            "section": "001",
+            "courseTitle": "Stu Ind Research Group"
+        },
+        {
+            "catalogTitle": "ANTH 5711",
+            "section": "002",
+            "courseTitle": "Stu Ind Research Group"
+        },
+        {
+            "catalogTitle": "ANTH 5961",
+            "section": "001",
+            "courseTitle": "South American Indians"
+        },
+        {
+            "catalogTitle": "ANTH 5962",
+            "section": "001",
+            "courseTitle": "Paternity Fidelity & Parenting"
+        },
+        {
+            "catalogTitle": "ANTH 5962",
+            "section": "002",
+            "courseTitle": "Intro to Stat Thking in Anthro"
+        },
+        {
+            "catalogTitle": "ANTH 5962",
+            "section": "003",
+            "courseTitle": "Intro to Language & Culture"
+        },
+        {
+            "catalogTitle": "ANTH 5962",
+            "section": "004",
+            "courseTitle": "Sociolinguistics"
+        },
+        {
+            "catalogTitle": "ANTH 6111",
+            "section": "090",
+            "courseTitle": "First Nations E N Amer"
+        },
+        {
+            "catalogTitle": "ANTH 6112",
+            "section": "001",
+            "courseTitle": "First Nations W N Amer"
+        },
+        {
+            "catalogTitle": "ANTH 6125",
+            "section": "001",
+            "courseTitle": "Silk Road"
+        },
+        {
+            "catalogTitle": "ANTH 6126",
+            "section": "001",
+            "courseTitle": "Mediterranean Cultures"
+        },
+        {
+            "catalogTitle": "ANTH 6127",
+            "section": "001",
+            "courseTitle": "Peoples of Europe"
+        },
+        {
+            "catalogTitle": "ANTH 6138",
+            "section": "001",
+            "courseTitle": "Anthr Violence NonViol"
+        },
+        {
+            "catalogTitle": "ANTH 6151",
+            "section": "001",
+            "courseTitle": "Peoples Of The Pacific"
+        },
+        {
+            "catalogTitle": "ANTH 6159",
+            "section": "001",
+            "courseTitle": "Seminar in Cultural"
+        },
+        {
+            "catalogTitle": "ANTH 6171",
+            "section": "001",
+            "courseTitle": "Myth Magic & Relig"
+        },
+        {
+            "catalogTitle": "ANTH 6231",
+            "section": "001",
+            "courseTitle": "Human Biol Diversity"
+        },
+        {
+            "catalogTitle": "ANTH 6242",
+            "section": "001",
+            "courseTitle": "Anthr of Clinical Health Care"
+        },
+        {
+            "catalogTitle": "ANTH 6271",
+            "section": "001",
+            "courseTitle": "Human Osteology"
+        },
+        {
+            "catalogTitle": "ANTH 6291",
+            "section": "001",
+            "courseTitle": "Evolution Human Health"
+        },
+        {
+            "catalogTitle": "ANTH 6300",
+            "section": "001",
+            "courseTitle": "Proseminar in Anthr III"
+        },
+        {
+            "catalogTitle": "ANTH 6334",
+            "section": "001",
+            "courseTitle": "Population Issues Anthr"
+        },
+        {
+            "catalogTitle": "ANTH 6361",
+            "section": "001",
+            "courseTitle": "Behavioral Ecol/Archaeo"
+        },
+        {
+            "catalogTitle": "ANTH 6461",
+            "section": "001",
+            "courseTitle": "Behavioral Ecol/Anthro"
+        },
+        {
+            "catalogTitle": "ANTH 6498",
+            "section": "001",
+            "courseTitle": "Pblms In Evol Anthro"
+        },
+        {
+            "catalogTitle": "ANTH 6950",
+            "section": "001",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "ANTH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ANTH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANTH 7910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "ANTH 7920",
+            "section": "001",
+            "courseTitle": "Guided Reading"
+        },
+        {
+            "catalogTitle": "ANTH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ANTH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANTH 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

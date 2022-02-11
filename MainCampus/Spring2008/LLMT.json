@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 388",
+            "section": "001",
+            "courseTitle": "Classical Guitar"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "001",
+            "courseTitle": "UT Shakespearean Festival"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "002",
+            "courseTitle": "UT Shakespearean Festival"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "003",
+            "courseTitle": "UT Shakespearean Festival"
+        }
+    ]
+}

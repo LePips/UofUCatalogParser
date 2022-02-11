@@ -1,0 +1,279 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESCI 50",
+            "section": "001",
+            "courseTitle": "Science Investigators (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 51",
+            "section": "001",
+            "courseTitle": "Science Investigators (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 60",
+            "section": "001",
+            "courseTitle": "Einstein Cooking (Age 10-13)"
+        },
+        {
+            "catalogTitle": "YESCI 60",
+            "section": "002",
+            "courseTitle": "Einstein Cooking (Age 10-13)"
+        },
+        {
+            "catalogTitle": "YESCI 100",
+            "section": "001",
+            "courseTitle": "Bridging Math (Age 10-13)"
+        },
+        {
+            "catalogTitle": "YESCI 101",
+            "section": "001",
+            "courseTitle": "Math: Algebra + (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YESCI 150",
+            "section": "001",
+            "courseTitle": "Science of Magic (10-12)"
+        },
+        {
+            "catalogTitle": "YESCI 204",
+            "section": "001",
+            "courseTitle": "Flying Sodas (Age 8-11)"
+        },
+        {
+            "catalogTitle": "YESCI 205",
+            "section": "001",
+            "courseTitle": "Gross Anatomy (Age 8-11)"
+        },
+        {
+            "catalogTitle": "YESCI 207",
+            "section": "001",
+            "courseTitle": "Mythbusters! (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YESCI 207",
+            "section": "002",
+            "courseTitle": "Mythbusters! (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YESCI 212",
+            "section": "001",
+            "courseTitle": "Freakonomics (Age 13-18)"
+        },
+        {
+            "catalogTitle": "YESCI 213",
+            "section": "001",
+            "courseTitle": "Dissection Inspection (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 214",
+            "section": "001",
+            "courseTitle": "Stranded in Space (13-15)"
+        },
+        {
+            "catalogTitle": "YESCI 215",
+            "section": "001",
+            "courseTitle": "Superhero Science (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 230",
+            "section": "001",
+            "courseTitle": "CoMedicine Doc Awesome (9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 230",
+            "section": "002",
+            "courseTitle": "CoMedicine Doc Awesome (9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 230",
+            "section": "003",
+            "courseTitle": "CoMedicine Doc Awesome (9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 495",
+            "section": "001",
+            "courseTitle": "Engineering Matters (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 500",
+            "section": "001",
+            "courseTitle": "Tech Town (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YESCI 505",
+            "section": "001",
+            "courseTitle": "Aviation 101 (Age 10-13)"
+        },
+        {
+            "catalogTitle": "YESCI 510",
+            "section": "001",
+            "courseTitle": "Space Academy (Age 6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 514",
+            "section": "001",
+            "courseTitle": "Physics of Astronomy (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 523",
+            "section": "001",
+            "courseTitle": "Intro to Robotics (6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 523",
+            "section": "002",
+            "courseTitle": "Intro to Robotics (6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 523",
+            "section": "003",
+            "courseTitle": "Intro to Robotics (6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 523",
+            "section": "004",
+            "courseTitle": "Intro to Robotics (6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "001",
+            "courseTitle": "LEGOMania (Age 6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "002",
+            "courseTitle": "LEGOMania (Age 6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "003",
+            "courseTitle": "LEGOMania (Age 6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "004",
+            "courseTitle": "LEGOMania (Age 6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "001",
+            "courseTitle": "Robotics 1 (Age 10-12)"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "002",
+            "courseTitle": "Robotics 1 (Age 10-12)"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "003",
+            "courseTitle": "Robotics 1 (Age 10-12)"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "004",
+            "courseTitle": "Robotics 1 (Age 10-12)"
+        },
+        {
+            "catalogTitle": "YESCI 527",
+            "section": "001",
+            "courseTitle": "LEGOMania: Motors (Age 8-9)"
+        },
+        {
+            "catalogTitle": "YESCI 527",
+            "section": "002",
+            "courseTitle": "LEGOMania: Motors (Age 8-9)"
+        },
+        {
+            "catalogTitle": "YESCI 527",
+            "section": "003",
+            "courseTitle": "LEGOMania: Motors (Age 8-9)"
+        },
+        {
+            "catalogTitle": "YESCI 527",
+            "section": "004",
+            "courseTitle": "LEGOMania: Motors (Age 8-9)"
+        },
+        {
+            "catalogTitle": "YESCI 529",
+            "section": "001",
+            "courseTitle": "Junior Robotics (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 529",
+            "section": "002",
+            "courseTitle": "Junior Robotics (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 529",
+            "section": "003",
+            "courseTitle": "Junior Robotics (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 530",
+            "section": "001",
+            "courseTitle": "Intro to Robotics 2 (Age 6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 531",
+            "section": "001",
+            "courseTitle": "Intro to Robotics 3 (Age 6-7)"
+        },
+        {
+            "catalogTitle": "YESCI 532",
+            "section": "001",
+            "courseTitle": "Robotics for Girls 1 (10-13)"
+        },
+        {
+            "catalogTitle": "YESCI 532",
+            "section": "002",
+            "courseTitle": "Robotics for Girls 1 (10-13)"
+        },
+        {
+            "catalogTitle": "YESCI 533",
+            "section": "001",
+            "courseTitle": "Junior Animation (Age 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 533",
+            "section": "002",
+            "courseTitle": "Junior Animation (Age 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 535",
+            "section": "002",
+            "courseTitle": "Robotics 2 (Age 10-12)"
+        },
+        {
+            "catalogTitle": "YESCI 536",
+            "section": "001",
+            "courseTitle": "Robotics 3 (Age 10-12)"
+        },
+        {
+            "catalogTitle": "YESCI 539",
+            "section": "001",
+            "courseTitle": "Junior Robotics 2 (Age 8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 539",
+            "section": "003",
+            "courseTitle": "Junior Robotics 2 (Age 8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 540",
+            "section": "001",
+            "courseTitle": "Vex Robotics (Age 11-15)"
+        },
+        {
+            "catalogTitle": "YESCI 620",
+            "section": "001",
+            "courseTitle": "Genetics in Action (7-10)"
+        },
+        {
+            "catalogTitle": "YESCI 621",
+            "section": "001",
+            "courseTitle": "Genetics in Action (12-15)"
+        }
+    ]
+}

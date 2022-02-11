@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "002",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 3010",
+            "section": "001",
+            "courseTitle": "Asset Pipeline"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "001",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 6500",
+            "section": "001",
+            "courseTitle": "Internship"
+        }
+    ]
+}

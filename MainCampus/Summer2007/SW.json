@@ -1,0 +1,534 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 200",
+            "section": "002",
+            "courseTitle": "So Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 702",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 706",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 713",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 802",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 806",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 813",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "001",
+            "courseTitle": "Solution Focused Therapy"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "002",
+            "courseTitle": "Trauma Reengagement"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "003",
+            "courseTitle": "Neurofeedback"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "004",
+            "courseTitle": "Human-Animal Bond"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "005",
+            "courseTitle": "Art in Psychotherapy"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "006",
+            "courseTitle": "Treating the Adolescent Female"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "007",
+            "courseTitle": "Learning Disabilities"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "008",
+            "courseTitle": "REBT"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "009",
+            "courseTitle": "Healthy Sexuality"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "010",
+            "courseTitle": "Personality Disorders"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "011",
+            "courseTitle": "Differential Dx Chronic MI"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "012",
+            "courseTitle": "Self Harming"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "013",
+            "courseTitle": "Drugs A-Z & Hep C"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "014",
+            "courseTitle": "Practice with Latinos"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "015",
+            "courseTitle": "The Age Wave"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "016",
+            "courseTitle": "Care for the Caregiver"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "017",
+            "courseTitle": "Genogram Assessment"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "018",
+            "courseTitle": "Systemic Parenting"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "019",
+            "courseTitle": "Finding the Best Evidence"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "020",
+            "courseTitle": "Intimate Partner Violence"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "021",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "022",
+            "courseTitle": "School Social Work"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "023",
+            "courseTitle": "Crtcl Incident Stress Mngmt"
+        },
+        {
+            "catalogTitle": "SW 1010",
+            "section": "002",
+            "courseTitle": "Soc Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 3550",
+            "section": "001",
+            "courseTitle": "Soc Div & Cultrl Undrstng"
+        },
+        {
+            "catalogTitle": "SW 3804",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "001",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "002",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "001",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "002",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "002",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 5702",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 5706",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 5713",
+            "section": "001",
+            "courseTitle": "Function & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "008",
+            "courseTitle": "REBT"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "009",
+            "courseTitle": "Healthy Sexuality"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "010",
+            "courseTitle": "Personality Disorders"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "012",
+            "courseTitle": "Self Harming"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "013",
+            "courseTitle": "Drugs A-Z & Hep C"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "014",
+            "courseTitle": "Practice with Latinos"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "015",
+            "courseTitle": "The Age Wave"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "016",
+            "courseTitle": "Care for the Caregiver"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "017",
+            "courseTitle": "Genogram Assessment"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "020",
+            "courseTitle": "Intimate Partner Violence"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "021",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "022",
+            "courseTitle": "School Social Work"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "023",
+            "courseTitle": "Crtcl Incdnt Stress Mngmt"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "001",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "001",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "001",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "001",
+            "courseTitle": "Advanced Brief Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "002",
+            "courseTitle": "Spirituality in Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "003",
+            "courseTitle": "DSM IV-TR"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "004",
+            "courseTitle": "Clinical Hypnosis Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "005",
+            "courseTitle": "Mind & Body Bridging"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "006",
+            "courseTitle": "SW & The Law"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "007",
+            "courseTitle": "Violence Against Women"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "009",
+            "courseTitle": "Exploration of Cross-Cultural"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "010",
+            "courseTitle": "Eating Disorders"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "011",
+            "courseTitle": "SW in School Settings"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "012",
+            "courseTitle": "Practice in International SW"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "013",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "015",
+            "courseTitle": "Case Mgt in Managed Care"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "016",
+            "courseTitle": "Elective I Assesment Models"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "017",
+            "courseTitle": "Elective II Treatment Models"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "018",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "019",
+            "courseTitle": "Crisis Invervention"
+        },
+        {
+            "catalogTitle": "SW 6802",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 6806",
+            "section": "001",
+            "courseTitle": "A&D Field Training II"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "008",
+            "courseTitle": "REBT"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "009",
+            "courseTitle": "Healthy Sexuality"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "010",
+            "courseTitle": "Personality Disorders"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "011",
+            "courseTitle": "Differential Dx & Chronic MI"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "012",
+            "courseTitle": "Self Harming"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "013",
+            "courseTitle": "Drugs A - Z & Hep C"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "014",
+            "courseTitle": "Practice with Latinos"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "015",
+            "courseTitle": "The Age Wave"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "016",
+            "courseTitle": "Care for the Caregiver"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "017",
+            "courseTitle": "Genogram Assessment"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "020",
+            "courseTitle": "Intimate Partner Violence"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "021",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "022",
+            "courseTitle": "School Social Work"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "023",
+            "courseTitle": "Crtcl Incdnt Stress Mngmt"
+        },
+        {
+            "catalogTitle": "SW 6900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 6940",
+            "section": "001",
+            "courseTitle": "Rsch Project"
+        },
+        {
+            "catalogTitle": "SW 7121",
+            "section": "821",
+            "courseTitle": "Quan Research II"
+        },
+        {
+            "catalogTitle": "SW 7321",
+            "section": "821",
+            "courseTitle": "Policy II"
+        },
+        {
+            "catalogTitle": "SW 7412",
+            "section": "821",
+            "courseTitle": "Professional Seminar I"
+        },
+        {
+            "catalogTitle": "SW 7422",
+            "section": "821",
+            "courseTitle": "Pro Seminar II"
+        },
+        {
+            "catalogTitle": "SW 7512",
+            "section": "821",
+            "courseTitle": "Qual Research I"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "821",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "821",
+            "courseTitle": "Dissertation Research"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MSE 1800",
+            "section": "001",
+            "courseTitle": "Contemporary MSE"
+        },
+        {
+            "catalogTitle": "MSE 2010",
+            "section": "001",
+            "courseTitle": "Intro To MSE"
+        },
+        {
+            "catalogTitle": "MSE 2010",
+            "section": "002",
+            "courseTitle": "Intro To MSE"
+        },
+        {
+            "catalogTitle": "MSE 2160",
+            "section": "001",
+            "courseTitle": "Elements Of MSE"
+        },
+        {
+            "catalogTitle": "MSE 2170",
+            "section": "001",
+            "courseTitle": "Elements of MSE"
+        },
+        {
+            "catalogTitle": "MSE 3010",
+            "section": "001",
+            "courseTitle": "Mtrls Proc Lab"
+        },
+        {
+            "catalogTitle": "MSE 3032",
+            "section": "001",
+            "courseTitle": "Intro to Thermo"
+        },
+        {
+            "catalogTitle": "MSE 3210",
+            "section": "001",
+            "courseTitle": "Electronic Prop Of Slds"
+        },
+        {
+            "catalogTitle": "MSE 3410",
+            "section": "001",
+            "courseTitle": "Intro To Polymers"
+        },
+        {
+            "catalogTitle": "MSE 5073",
+            "section": "001",
+            "courseTitle": "Nanostruc Materials"
+        },
+        {
+            "catalogTitle": "MSE 5074",
+            "section": "001",
+            "courseTitle": "Photo Mtrls&SolarCells"
+        },
+        {
+            "catalogTitle": "MSE 5353",
+            "section": "001",
+            "courseTitle": "Physical Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 5475",
+            "section": "001",
+            "courseTitle": "Intro To Composites"
+        },
+        {
+            "catalogTitle": "MSE 6001",
+            "section": "001",
+            "courseTitle": "Eng Mtrls"
+        },
+        {
+            "catalogTitle": "MSE 6032",
+            "section": "001",
+            "courseTitle": "Adv Thermo"
+        },
+        {
+            "catalogTitle": "MSE 6073",
+            "section": "001",
+            "courseTitle": "Nanostruc Materials"
+        },
+        {
+            "catalogTitle": "MSE 6074",
+            "section": "001",
+            "courseTitle": "Photo Mtrls&SolarCells"
+        },
+        {
+            "catalogTitle": "MSE 6075",
+            "section": "001",
+            "courseTitle": "Nanoscale Probe&Imaging"
+        },
+        {
+            "catalogTitle": "MSE 6265",
+            "section": "001",
+            "courseTitle": "Adv Proc Of Semicond"
+        },
+        {
+            "catalogTitle": "MSE 6353",
+            "section": "001",
+            "courseTitle": "Adv Topics/Phy Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 7050",
+            "section": "001",
+            "courseTitle": "Electrochemistry"
+        },
+        {
+            "catalogTitle": "MSE 7050",
+            "section": "002",
+            "courseTitle": "Electrochemistry"
+        },
+        {
+            "catalogTitle": "MSE 7800",
+            "section": "001",
+            "courseTitle": "Graduate Seminar I"
+        }
+    ]
+}

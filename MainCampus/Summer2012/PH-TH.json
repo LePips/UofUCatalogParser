@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PH TH 6010",
+            "section": "001",
+            "courseTitle": "Prof Practice I"
+        },
+        {
+            "catalogTitle": "PH TH 6040",
+            "section": "001",
+            "courseTitle": "Anatomy"
+        },
+        {
+            "catalogTitle": "PH TH 6040",
+            "section": "002",
+            "courseTitle": "Anatomy"
+        },
+        {
+            "catalogTitle": "PH TH 6060",
+            "section": "001",
+            "courseTitle": "Pathophysiology"
+        },
+        {
+            "catalogTitle": "PH TH 6820",
+            "section": "001",
+            "courseTitle": "Clinical Experience II"
+        },
+        {
+            "catalogTitle": "PH TH 6830",
+            "section": "001",
+            "courseTitle": "Clinical Experience III"
+        },
+        {
+            "catalogTitle": "PH TH 6850",
+            "section": "001",
+            "courseTitle": "Clinical Experience IV"
+        },
+        {
+            "catalogTitle": "PH TH 7810",
+            "section": "001",
+            "courseTitle": "Clinical Internship I"
+        },
+        {
+            "catalogTitle": "PH TH 7840",
+            "section": "001",
+            "courseTitle": "Clinical Internship II"
+        },
+        {
+            "catalogTitle": "PH TH 7860",
+            "section": "001",
+            "courseTitle": "Clinical Internship III"
+        },
+        {
+            "catalogTitle": "PH TH 7940",
+            "section": "005",
+            "courseTitle": "Doctoral Seminar IV"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "013",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7970",
+            "section": "005",
+            "courseTitle": "Doctoral Project"
+        },
+        {
+            "catalogTitle": "PH TH 7980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PH TH 7980",
+            "section": "006",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

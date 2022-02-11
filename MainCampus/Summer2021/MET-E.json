@@ -1,3 +1,104 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "012",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
 }

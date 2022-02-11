@@ -1,0 +1,224 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 290",
+            "section": "001",
+            "courseTitle": "ICC Internet Comm Cert"
+        },
+        {
+            "catalogTitle": "EDTEC 292",
+            "section": "001",
+            "courseTitle": "IMDC: Inet Multimedia"
+        },
+        {
+            "catalogTitle": "EDTEC 507",
+            "section": "002",
+            "courseTitle": "Java Program Language"
+        },
+        {
+            "catalogTitle": "EDTEC 508",
+            "section": "003",
+            "courseTitle": "Cisco CCNA Boot Camp"
+        },
+        {
+            "catalogTitle": "EDTEC 606",
+            "section": "001",
+            "courseTitle": "Word 2000 Inroduction"
+        },
+        {
+            "catalogTitle": "EDTEC 607",
+            "section": "001",
+            "courseTitle": "Word 2000 Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 608",
+            "section": "001",
+            "courseTitle": "Word 2000 Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 621",
+            "section": "001",
+            "courseTitle": "Excel 2000 Introduction"
+        },
+        {
+            "catalogTitle": "EDTEC 621",
+            "section": "002",
+            "courseTitle": "Excel 2000 Introduction"
+        },
+        {
+            "catalogTitle": "EDTEC 622",
+            "section": "001",
+            "courseTitle": "Excel 2000 Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 623",
+            "section": "001",
+            "courseTitle": "Excel 2000 Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 633",
+            "section": "001",
+            "courseTitle": "Access 2000 Introducton"
+        },
+        {
+            "catalogTitle": "EDTEC 634",
+            "section": "003",
+            "courseTitle": "Access 2000 Intermedate"
+        },
+        {
+            "catalogTitle": "EDTEC 646",
+            "section": "001",
+            "courseTitle": "PhotoShop 7 Intro"
+        },
+        {
+            "catalogTitle": "EDTEC 652",
+            "section": "001",
+            "courseTitle": "PowerPoint 2000 Intro"
+        },
+        {
+            "catalogTitle": "EDTEC 652",
+            "section": "002",
+            "courseTitle": "PowerPoint 2000 Intro"
+        },
+        {
+            "catalogTitle": "EDTEC 652",
+            "section": "003",
+            "courseTitle": "PowerPoint 2000 Intro"
+        },
+        {
+            "catalogTitle": "EDTEC 653",
+            "section": "001",
+            "courseTitle": "PowerPoint 2000 Interm"
+        },
+        {
+            "catalogTitle": "EDTEC 653",
+            "section": "002",
+            "courseTitle": "PowerPoint 2000 Interm"
+        },
+        {
+            "catalogTitle": "EDTEC 678",
+            "section": "001",
+            "courseTitle": "Dreamweaver 4 Intro"
+        },
+        {
+            "catalogTitle": "EDTEC 680",
+            "section": "001",
+            "courseTitle": "Macromedia Flash 5.0"
+        },
+        {
+            "catalogTitle": "EDTEC 681",
+            "section": "001",
+            "courseTitle": "Macrmdia Flsh 5.0-Lvl 2"
+        },
+        {
+            "catalogTitle": "EDTEC 681",
+            "section": "002",
+            "courseTitle": "Macrmdia Flsh 5.0-Lvl 2"
+        },
+        {
+            "catalogTitle": "EDTEC 694",
+            "section": "001",
+            "courseTitle": "SQL Server 2k DB"
+        },
+        {
+            "catalogTitle": "EDTEC 697",
+            "section": "002",
+            "courseTitle": "2073 Prgr SQL Srvr 2000"
+        },
+        {
+            "catalogTitle": "EDTEC 765",
+            "section": "001",
+            "courseTitle": "Java Script"
+        },
+        {
+            "catalogTitle": "EDTEC 796",
+            "section": "001",
+            "courseTitle": "MCSE: MS Certif Sys Eng"
+        },
+        {
+            "catalogTitle": "EDTEC 798",
+            "section": "001",
+            "courseTitle": "MCSD: MS Cert Solutn Dev"
+        },
+        {
+            "catalogTitle": "EDTEC 799",
+            "section": "001",
+            "courseTitle": "MCDBA: MS Certified DB"
+        },
+        {
+            "catalogTitle": "EDTEC 800",
+            "section": "001",
+            "courseTitle": "MCP: MS Certified Prof"
+        },
+        {
+            "catalogTitle": "EDTEC 803",
+            "section": "001",
+            "courseTitle": "CNA: Novell Admin 6.0"
+        },
+        {
+            "catalogTitle": "EDTEC 804",
+            "section": "002",
+            "courseTitle": "CNE:Novell Enginer 6.0"
+        },
+        {
+            "catalogTitle": "EDTEC 805",
+            "section": "001",
+            "courseTitle": "MOUS Club Membership"
+        },
+        {
+            "catalogTitle": "EDTEC 806",
+            "section": "001",
+            "courseTitle": "MCSE: MS Cert Eng Win 2K"
+        },
+        {
+            "catalogTitle": "EDTEC 808",
+            "section": "001",
+            "courseTitle": "Cisco: BCMSN"
+        },
+        {
+            "catalogTitle": "EDTEC 809",
+            "section": "001",
+            "courseTitle": "Cisco: BSCN"
+        },
+        {
+            "catalogTitle": "EDTEC 810",
+            "section": "002",
+            "courseTitle": "Cisco: BCRAN"
+        },
+        {
+            "catalogTitle": "EDTEC 811",
+            "section": "001",
+            "courseTitle": "Cisco: CIT"
+        },
+        {
+            "catalogTitle": "EDTEC 820",
+            "section": "001",
+            "courseTitle": "On-Line-Office Software"
+        },
+        {
+            "catalogTitle": "EDTEC 821",
+            "section": "001",
+            "courseTitle": "On-Line-Network Systems"
+        },
+        {
+            "catalogTitle": "EDTEC 822",
+            "section": "001",
+            "courseTitle": "On-Line Anytime:Web Develop."
+        },
+        {
+            "catalogTitle": "EDTEC 823",
+            "section": "001",
+            "courseTitle": "On-Line-Design and Media"
+        },
+        {
+            "catalogTitle": "EDTEC 824",
+            "section": "001",
+            "courseTitle": "On-Line - Cisco Networking"
+        },
+        {
+            "catalogTitle": "EDTEC 826",
+            "section": "001",
+            "courseTitle": "CNX Microsoft III"
+        }
+    ]
+}

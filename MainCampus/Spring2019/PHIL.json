@@ -1,0 +1,264 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "090",
+            "courseTitle": "Intro Survey Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1001",
+            "section": "001",
+            "courseTitle": "Intro: Ethical Dilemmas"
+        },
+        {
+            "catalogTitle": "PHIL 1003",
+            "section": "001",
+            "courseTitle": "Intro: Human Nature"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "001",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 2010",
+            "section": "001",
+            "courseTitle": "Intro: Sur of Phil Espa"
+        },
+        {
+            "catalogTitle": "PHIL 3011",
+            "section": "001",
+            "courseTitle": "Ethical & Tech Adv in Medicine"
+        },
+        {
+            "catalogTitle": "PHIL 3011",
+            "section": "003",
+            "courseTitle": "Ethics in Videogames"
+        },
+        {
+            "catalogTitle": "PHIL 3011",
+            "section": "004",
+            "courseTitle": "Criminal Justice Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3013",
+            "section": "002",
+            "courseTitle": "Medieval Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 3080",
+            "section": "001",
+            "courseTitle": "Phil Issues Feminism"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "001",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3210",
+            "section": "001",
+            "courseTitle": "Inductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3300",
+            "section": "001",
+            "courseTitle": "Theory Of Knowledge"
+        },
+        {
+            "catalogTitle": "PHIL 3310",
+            "section": "001",
+            "courseTitle": "Science And Society"
+        },
+        {
+            "catalogTitle": "PHIL 3400",
+            "section": "001",
+            "courseTitle": "Mind, Lang, Reality"
+        },
+        {
+            "catalogTitle": "PHIL 3440",
+            "section": "001",
+            "courseTitle": "Cognitive Science"
+        },
+        {
+            "catalogTitle": "PHIL 3500",
+            "section": "001",
+            "courseTitle": "Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "001",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "002",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "001",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "090",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "002",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "090",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3730",
+            "section": "001",
+            "courseTitle": "Justice & Int Affairs"
+        },
+        {
+            "catalogTitle": "PHIL 3900",
+            "section": "001",
+            "courseTitle": "Ancient Christian Thought"
+        },
+        {
+            "catalogTitle": "PHIL 4010",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        },
+        {
+            "catalogTitle": "PHIL 4120",
+            "section": "002",
+            "courseTitle": "Early Modern Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 4140",
+            "section": "001",
+            "courseTitle": "Classical Chinese Phil"
+        },
+        {
+            "catalogTitle": "PHIL 4540",
+            "section": "001",
+            "courseTitle": "Engin, Ethics, Society"
+        },
+        {
+            "catalogTitle": "PHIL 4999",
+            "section": "022",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "PHIL 5120",
+            "section": "001",
+            "courseTitle": "Modern & Recent Phil"
+        },
+        {
+            "catalogTitle": "PHIL 5192",
+            "section": "001",
+            "courseTitle": "Linguistics"
+        },
+        {
+            "catalogTitle": "PHIL 5200",
+            "section": "001",
+            "courseTitle": "Symbolic Logic"
+        },
+        {
+            "catalogTitle": "PHIL 5350",
+            "section": "001",
+            "courseTitle": "Topics Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 5520",
+            "section": "001",
+            "courseTitle": "Adv Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 5910",
+            "section": "023",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "PHIL 6120",
+            "section": "001",
+            "courseTitle": "Modern & Recent Phil"
+        },
+        {
+            "catalogTitle": "PHIL 6140",
+            "section": "001",
+            "courseTitle": "Classical Chinese Phil"
+        },
+        {
+            "catalogTitle": "PHIL 6350",
+            "section": "001",
+            "courseTitle": "Topics Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 6520",
+            "section": "001",
+            "courseTitle": "Adv Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 6920",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "PHIL 6970",
+            "section": "021",
+            "courseTitle": "MA/MS Thesis Research"
+        },
+        {
+            "catalogTitle": "PHIL 6980",
+            "section": "020",
+            "courseTitle": "Faculty Consult M.A."
+        },
+        {
+            "catalogTitle": "PHIL 7020",
+            "section": "001",
+            "courseTitle": "Sem Phil Traditions"
+        },
+        {
+            "catalogTitle": "PHIL 7570",
+            "section": "001",
+            "courseTitle": "Research Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7970",
+            "section": "020",
+            "courseTitle": "Thesis Research, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7980",
+            "section": "020",
+            "courseTitle": "Faculty Consult, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis., Ph.D"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "001",
+            "courseTitle": "UT Shakespearean Festival"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "002",
+            "courseTitle": "UT Shakespearean Festival"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "003",
+            "courseTitle": "UT Shakespearean Festival"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "004",
+            "courseTitle": "UT Shakespearean Festival"
+        },
+        {
+            "catalogTitle": "LLMT 392",
+            "section": "001",
+            "courseTitle": "Get Ready/Shakespeare"
+        },
+        {
+            "catalogTitle": "LLMT 406",
+            "section": "001",
+            "courseTitle": "Blues Harmonica I"
+        },
+        {
+            "catalogTitle": "LLMT 413",
+            "section": "001",
+            "courseTitle": "Continuing Blues Harmonica"
+        }
+    ]
+}

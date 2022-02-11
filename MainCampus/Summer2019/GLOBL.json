@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GLOBL 900",
+            "section": "001",
+            "courseTitle": "Live, Learn, Grow"
+        },
+        {
+            "catalogTitle": "GLOBL 910",
+            "section": "001",
+            "courseTitle": "English for Academic Purposes"
+        },
+        {
+            "catalogTitle": "GLOBL 920",
+            "section": "001",
+            "courseTitle": "English for Academic Purposes"
+        },
+        {
+            "catalogTitle": "GLOBL 950",
+            "section": "001",
+            "courseTitle": "Live, Learn, Grow II"
+        },
+        {
+            "catalogTitle": "GLOBL 1100",
+            "section": "001",
+            "courseTitle": "Utah and the World"
+        },
+        {
+            "catalogTitle": "GLOBL 1800",
+            "section": "001",
+            "courseTitle": "Live, Learn, Grow III"
+        }
+    ]
+}

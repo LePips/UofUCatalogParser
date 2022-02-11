@@ -1,0 +1,379 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FP MD 5202",
+            "section": "001",
+            "courseTitle": "Pathophysiology II"
+        },
+        {
+            "catalogTitle": "FP MD 5302",
+            "section": "001",
+            "courseTitle": "Specialty Care II"
+        },
+        {
+            "catalogTitle": "FP MD 5402",
+            "section": "001",
+            "courseTitle": "Drug Rx/Primary Care II"
+        },
+        {
+            "catalogTitle": "FP MD 5502",
+            "section": "001",
+            "courseTitle": "Patient Problem Mgt II"
+        },
+        {
+            "catalogTitle": "FP MD 5601",
+            "section": "001",
+            "courseTitle": "Clinical Skills I"
+        },
+        {
+            "catalogTitle": "FP MD 5802",
+            "section": "001",
+            "courseTitle": "Preceptorship II"
+        },
+        {
+            "catalogTitle": "FP MD 5900",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "FP MD 6100",
+            "section": "001",
+            "courseTitle": "Intro Biostatistics"
+        },
+        {
+            "catalogTitle": "FP MD 6105",
+            "section": "001",
+            "courseTitle": "Adv Topics-Epi/Biostat"
+        },
+        {
+            "catalogTitle": "FP MD 6302",
+            "section": "001",
+            "courseTitle": "Cancer Epi"
+        },
+        {
+            "catalogTitle": "FP MD 6303",
+            "section": "001",
+            "courseTitle": "Epi of Injury/Violence"
+        },
+        {
+            "catalogTitle": "FP MD 6304",
+            "section": "001",
+            "courseTitle": "Pharmacoepi"
+        },
+        {
+            "catalogTitle": "FP MD 6304",
+            "section": "002",
+            "courseTitle": "Pharmacoepi"
+        },
+        {
+            "catalogTitle": "FP MD 6305",
+            "section": "001",
+            "courseTitle": "Adv Meth Epi Res"
+        },
+        {
+            "catalogTitle": "FP MD 6400",
+            "section": "001",
+            "courseTitle": "Admin Occup Envirn Hlth"
+        },
+        {
+            "catalogTitle": "FP MD 6401",
+            "section": "001",
+            "courseTitle": "Hlth Pol & Managed Care"
+        },
+        {
+            "catalogTitle": "FP MD 6401",
+            "section": "002",
+            "courseTitle": "Hlth Pol & Managed Care"
+        },
+        {
+            "catalogTitle": "FP MD 6405",
+            "section": "001",
+            "courseTitle": "Hlth Svcs Research"
+        },
+        {
+            "catalogTitle": "FP MD 6500",
+            "section": "001",
+            "courseTitle": "Intro  Public Health"
+        },
+        {
+            "catalogTitle": "FP MD 6500",
+            "section": "002",
+            "courseTitle": "Intro  Public Health"
+        },
+        {
+            "catalogTitle": "FP MD 6506",
+            "section": "001",
+            "courseTitle": "Nutr Healthy Lifestyles"
+        },
+        {
+            "catalogTitle": "FP MD 6506",
+            "section": "002",
+            "courseTitle": "Nutr Healthy Lifestyles"
+        },
+        {
+            "catalogTitle": "FP MD 6510",
+            "section": "001",
+            "courseTitle": "Clinical Effectiveness"
+        },
+        {
+            "catalogTitle": "FP MD 6510",
+            "section": "002",
+            "courseTitle": "Clinical Effectiveness"
+        },
+        {
+            "catalogTitle": "FP MD 6600",
+            "section": "001",
+            "courseTitle": "Soc Context Public Hlth"
+        },
+        {
+            "catalogTitle": "FP MD 6602",
+            "section": "001",
+            "courseTitle": "Community Analysis"
+        },
+        {
+            "catalogTitle": "FP MD 6604",
+            "section": "001",
+            "courseTitle": "Law & Medicine II"
+        },
+        {
+            "catalogTitle": "FP MD 6604",
+            "section": "002",
+            "courseTitle": "Law & Medicine II"
+        },
+        {
+            "catalogTitle": "FP MD 6608",
+            "section": "001",
+            "courseTitle": "Injury In Childhood"
+        },
+        {
+            "catalogTitle": "FP MD 6700",
+            "section": "001",
+            "courseTitle": "Environ Health Problems"
+        },
+        {
+            "catalogTitle": "FP MD 6700",
+            "section": "002",
+            "courseTitle": "Environ Health Problems"
+        },
+        {
+            "catalogTitle": "FP MD 6701",
+            "section": "001",
+            "courseTitle": "Appl Environ Physiology"
+        },
+        {
+            "catalogTitle": "FP MD 6702",
+            "section": "001",
+            "courseTitle": "Adv Topics-Occ/Env"
+        },
+        {
+            "catalogTitle": "FP MD 6705",
+            "section": "001",
+            "courseTitle": "Environ/Occup Med"
+        },
+        {
+            "catalogTitle": "FP MD 6705",
+            "section": "002",
+            "courseTitle": "Environ/Occup Med"
+        },
+        {
+            "catalogTitle": "FP MD 6705",
+            "section": "003",
+            "courseTitle": "Environ/Occup Med"
+        },
+        {
+            "catalogTitle": "FP MD 6706",
+            "section": "001",
+            "courseTitle": "Aerospace Medicine"
+        },
+        {
+            "catalogTitle": "FP MD 6741",
+            "section": "001",
+            "courseTitle": "Sem-Occup Safety/Hlth II"
+        },
+        {
+            "catalogTitle": "FP MD 6751",
+            "section": "001",
+            "courseTitle": "Advanced IH"
+        },
+        {
+            "catalogTitle": "FP MD 6753",
+            "section": "001",
+            "courseTitle": "Industrial Ventilation"
+        },
+        {
+            "catalogTitle": "FP MD 6753",
+            "section": "002",
+            "courseTitle": "Industrial Ventilation"
+        },
+        {
+            "catalogTitle": "FP MD 6754",
+            "section": "001",
+            "courseTitle": "Noise/Physical Agents"
+        },
+        {
+            "catalogTitle": "FP MD 6758",
+            "section": "001",
+            "courseTitle": "OEH Clinic"
+        },
+        {
+            "catalogTitle": "FP MD 6950",
+            "section": "001",
+            "courseTitle": "Readings Public Health"
+        },
+        {
+            "catalogTitle": "FP MD 6952",
+            "section": "001",
+            "courseTitle": "Readings Environ Health"
+        },
+        {
+            "catalogTitle": "FP MD 6954",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "FP MD 6954",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "FP MD 6954",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "FP MD 6954",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "FP MD 6954",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "FP MD 6954",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "FP MD 6955",
+            "section": "001",
+            "courseTitle": "Indep Study-Med Beh Sci"
+        },
+        {
+            "catalogTitle": "FP MD 6960",
+            "section": "001",
+            "courseTitle": "Public Health Practicum"
+        },
+        {
+            "catalogTitle": "FP MD 6960",
+            "section": "002",
+            "courseTitle": "Public Health Practicum"
+        },
+        {
+            "catalogTitle": "FP MD 6970",
+            "section": "001",
+            "courseTitle": "Statistical Investigatn"
+        },
+        {
+            "catalogTitle": "FP MD 6970",
+            "section": "002",
+            "courseTitle": "Statistical Investigatn"
+        },
+        {
+            "catalogTitle": "FP MD 6975",
+            "section": "001",
+            "courseTitle": "Project  Res-MSPH"
+        },
+        {
+            "catalogTitle": "FP MD 6975",
+            "section": "010",
+            "courseTitle": "Project  Res-MSPH"
+        },
+        {
+            "catalogTitle": "FP MD 6975",
+            "section": "011",
+            "courseTitle": "Project  Res-MSPH"
+        },
+        {
+            "catalogTitle": "FP MD 6976",
+            "section": "001",
+            "courseTitle": "Funded Proj Res-MSPH"
+        },
+        {
+            "catalogTitle": "FP MD 6977",
+            "section": "001",
+            "courseTitle": "Thesis Research-MSPH"
+        },
+        {
+            "catalogTitle": "FP MD 6977",
+            "section": "006",
+            "courseTitle": "Thesis Research-MSPH"
+        },
+        {
+            "catalogTitle": "FP MD 6978",
+            "section": "001",
+            "courseTitle": "Funded Thesis Res-MSPH"
+        },
+        {
+            "catalogTitle": "FP MD 6985",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "FP MD 6985",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "FP MD 7180",
+            "section": "001",
+            "courseTitle": "Fam Pract Clerkship"
+        },
+        {
+            "catalogTitle": "FP MD 7180",
+            "section": "002",
+            "courseTitle": "Fam Pract Clerkship"
+        },
+        {
+            "catalogTitle": "FP MD 7200",
+            "section": "001",
+            "courseTitle": "Fam Pract Preceptorship"
+        },
+        {
+            "catalogTitle": "FP MD 7200",
+            "section": "002",
+            "courseTitle": "Fam Pract Preceptorship"
+        },
+        {
+            "catalogTitle": "FP MD 7210",
+            "section": "001",
+            "courseTitle": "Fam Pract Subinternship"
+        },
+        {
+            "catalogTitle": "FP MD 7210",
+            "section": "002",
+            "courseTitle": "Fam Pract Subinternship"
+        },
+        {
+            "catalogTitle": "FP MD 7220",
+            "section": "001",
+            "courseTitle": "Family Practice Honors"
+        },
+        {
+            "catalogTitle": "FP MD 7220",
+            "section": "002",
+            "courseTitle": "Family Practice Honors"
+        },
+        {
+            "catalogTitle": "FP MD 7400",
+            "section": "001",
+            "courseTitle": "Fam Pract Sp Projects"
+        },
+        {
+            "catalogTitle": "FP MD 7400",
+            "section": "002",
+            "courseTitle": "Fam Pract Sp Projects"
+        }
+    ]
+}

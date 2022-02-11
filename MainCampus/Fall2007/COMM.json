@@ -1,0 +1,789 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "COMM 51",
+            "section": "001",
+            "courseTitle": "Conflict Resolution I"
+        },
+        {
+            "catalogTitle": "COMM 61",
+            "section": "001",
+            "courseTitle": "Integrated Comm I"
+        },
+        {
+            "catalogTitle": "COMM 1000",
+            "section": "090",
+            "courseTitle": "Internet Navigator"
+        },
+        {
+            "catalogTitle": "COMM 1000",
+            "section": "091",
+            "courseTitle": "Internet Navigator"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "001",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "002",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "003",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "004",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "005",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "006",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "007",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "008",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "009",
+            "courseTitle": "Elements Spch Comm"
+        },
+        {
+            "catalogTitle": "COMM 1020",
+            "section": "001",
+            "courseTitle": "Princ Public Speaking"
+        },
+        {
+            "catalogTitle": "COMM 1020",
+            "section": "002",
+            "courseTitle": "Princ Public Speaking"
+        },
+        {
+            "catalogTitle": "COMM 1020",
+            "section": "003",
+            "courseTitle": "Princ Public Speaking"
+        },
+        {
+            "catalogTitle": "COMM 1020",
+            "section": "004",
+            "courseTitle": "Princ Public Speaking"
+        },
+        {
+            "catalogTitle": "COMM 1020",
+            "section": "020",
+            "courseTitle": "Princ Public Speaking"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "001",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "002",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "003",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "004",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "070",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1500",
+            "section": "001",
+            "courseTitle": "Intr Mass Communication"
+        },
+        {
+            "catalogTitle": "COMM 1500",
+            "section": "002",
+            "courseTitle": "Intr Mass Communication"
+        },
+        {
+            "catalogTitle": "COMM 1510",
+            "section": "001",
+            "courseTitle": "Radio TV Performnc/Prod"
+        },
+        {
+            "catalogTitle": "COMM 1530",
+            "section": "001",
+            "courseTitle": "Basic Photography"
+        },
+        {
+            "catalogTitle": "COMM 1530",
+            "section": "002",
+            "courseTitle": "Basic Photography"
+        },
+        {
+            "catalogTitle": "COMM 1530",
+            "section": "003",
+            "courseTitle": "Basic Photography"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "001",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "002",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "003",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "004",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "005",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "006",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "007",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "008",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 2050",
+            "section": "001",
+            "courseTitle": "Freshman Interest Gp"
+        },
+        {
+            "catalogTitle": "COMM 2050",
+            "section": "002",
+            "courseTitle": "Freshman Interest Gp"
+        },
+        {
+            "catalogTitle": "COMM 2110",
+            "section": "001",
+            "courseTitle": "Intro Interpersonal"
+        },
+        {
+            "catalogTitle": "COMM 2110",
+            "section": "002",
+            "courseTitle": "Intro Interpersonal"
+        },
+        {
+            "catalogTitle": "COMM 2110",
+            "section": "003",
+            "courseTitle": "Intro Interpersonal"
+        },
+        {
+            "catalogTitle": "COMM 2110",
+            "section": "004",
+            "courseTitle": "Intro Interpersonal"
+        },
+        {
+            "catalogTitle": "COMM 2110",
+            "section": "005",
+            "courseTitle": "Intro Interpersonal"
+        },
+        {
+            "catalogTitle": "COMM 2120",
+            "section": "001",
+            "courseTitle": "Group Decision-Making"
+        },
+        {
+            "catalogTitle": "COMM 2530",
+            "section": "001",
+            "courseTitle": "Photojournalism"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "001",
+            "courseTitle": "Cross-Cultural Documentary"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "002",
+            "courseTitle": "Blogging as a Social Force"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "003",
+            "courseTitle": "Blogging as a Social Force"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "004",
+            "courseTitle": "Ethics Bowl"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "005",
+            "courseTitle": "Building a Corporate Image"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "006",
+            "courseTitle": "Ladder Program I"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "007",
+            "courseTitle": "Ladder Program II"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "008",
+            "courseTitle": "Ladder Program III"
+        },
+        {
+            "catalogTitle": "COMM 3000",
+            "section": "009",
+            "courseTitle": "Ladder Program IV"
+        },
+        {
+            "catalogTitle": "COMM 3010",
+            "section": "001",
+            "courseTitle": "Peer Advising"
+        },
+        {
+            "catalogTitle": "COMM 3020",
+            "section": "001",
+            "courseTitle": "Media Texts"
+        },
+        {
+            "catalogTitle": "COMM 3030",
+            "section": "001",
+            "courseTitle": "Comm & Social Respon"
+        },
+        {
+            "catalogTitle": "COMM 3040",
+            "section": "001",
+            "courseTitle": "Comm And Relationships"
+        },
+        {
+            "catalogTitle": "COMM 3050",
+            "section": "001",
+            "courseTitle": "Theoretical Persp Comm"
+        },
+        {
+            "catalogTitle": "COMM 3070",
+            "section": "001",
+            "courseTitle": "Comm And Gender"
+        },
+        {
+            "catalogTitle": "COMM 3070",
+            "section": "002",
+            "courseTitle": "Comm And Gender"
+        },
+        {
+            "catalogTitle": "COMM 3070",
+            "section": "003",
+            "courseTitle": "Comm And Gender"
+        },
+        {
+            "catalogTitle": "COMM 3100",
+            "section": "001",
+            "courseTitle": "Intro to Doc Studies"
+        },
+        {
+            "catalogTitle": "COMM 3110",
+            "section": "001",
+            "courseTitle": "Interpersonal Comm"
+        },
+        {
+            "catalogTitle": "COMM 3170",
+            "section": "001",
+            "courseTitle": "Intro to Org Communication"
+        },
+        {
+            "catalogTitle": "COMM 3180",
+            "section": "001",
+            "courseTitle": "Comm & Social Behavior"
+        },
+        {
+            "catalogTitle": "COMM 3190",
+            "section": "001",
+            "courseTitle": "Intercultural Comm"
+        },
+        {
+            "catalogTitle": "COMM 3190",
+            "section": "002",
+            "courseTitle": "Intercultural Comm"
+        },
+        {
+            "catalogTitle": "COMM 3190",
+            "section": "003",
+            "courseTitle": "Intercultural Comm"
+        },
+        {
+            "catalogTitle": "COMM 3200",
+            "section": "001",
+            "courseTitle": "Persuasion Thry & Prac"
+        },
+        {
+            "catalogTitle": "COMM 3330",
+            "section": "001",
+            "courseTitle": "Negotiation & Interv"
+        },
+        {
+            "catalogTitle": "COMM 3330",
+            "section": "002",
+            "courseTitle": "Negotiation & Interv"
+        },
+        {
+            "catalogTitle": "COMM 3330",
+            "section": "070",
+            "courseTitle": "Negotiation & Interv"
+        },
+        {
+            "catalogTitle": "COMM 3420",
+            "section": "001",
+            "courseTitle": "Performance And Culture"
+        },
+        {
+            "catalogTitle": "COMM 3460",
+            "section": "001",
+            "courseTitle": "Communication Criticism"
+        },
+        {
+            "catalogTitle": "COMM 3460",
+            "section": "002",
+            "courseTitle": "Communication Criticism"
+        },
+        {
+            "catalogTitle": "COMM 3510",
+            "section": "001",
+            "courseTitle": "Intro to Web Design"
+        },
+        {
+            "catalogTitle": "COMM 3510",
+            "section": "002",
+            "courseTitle": "Intro to Web Design"
+        },
+        {
+            "catalogTitle": "COMM 3510",
+            "section": "003",
+            "courseTitle": "Intro to Web Design"
+        },
+        {
+            "catalogTitle": "COMM 3520",
+            "section": "001",
+            "courseTitle": "Radio Journalism"
+        },
+        {
+            "catalogTitle": "COMM 3520",
+            "section": "002",
+            "courseTitle": "Radio Journalism"
+        },
+        {
+            "catalogTitle": "COMM 3550",
+            "section": "001",
+            "courseTitle": "Principles of Visual Comm"
+        },
+        {
+            "catalogTitle": "COMM 3550",
+            "section": "002",
+            "courseTitle": "Principles of Visual Comm"
+        },
+        {
+            "catalogTitle": "COMM 3560",
+            "section": "001",
+            "courseTitle": "Intro Visual Media"
+        },
+        {
+            "catalogTitle": "COMM 3560",
+            "section": "002",
+            "courseTitle": "Intro Visual Media"
+        },
+        {
+            "catalogTitle": "COMM 3560",
+            "section": "003",
+            "courseTitle": "Intro Visual Media"
+        },
+        {
+            "catalogTitle": "COMM 3570",
+            "section": "001",
+            "courseTitle": "Newsbreak"
+        },
+        {
+            "catalogTitle": "COMM 3600",
+            "section": "001",
+            "courseTitle": "Editing Process"
+        },
+        {
+            "catalogTitle": "COMM 3600",
+            "section": "002",
+            "courseTitle": "Editing Process"
+        },
+        {
+            "catalogTitle": "COMM 3610",
+            "section": "001",
+            "courseTitle": "Internship--Mass Comm"
+        },
+        {
+            "catalogTitle": "COMM 3610",
+            "section": "003",
+            "courseTitle": "Internship--Mass Comm"
+        },
+        {
+            "catalogTitle": "COMM 3610",
+            "section": "079",
+            "courseTitle": "Internship--Mass Comm"
+        },
+        {
+            "catalogTitle": "COMM 3620",
+            "section": "001",
+            "courseTitle": "Editorial Conference"
+        },
+        {
+            "catalogTitle": "COMM 3660",
+            "section": "001",
+            "courseTitle": "Intermediate Reporting"
+        },
+        {
+            "catalogTitle": "COMM 3660",
+            "section": "002",
+            "courseTitle": "Intermediate Reporting"
+        },
+        {
+            "catalogTitle": "COMM 3670",
+            "section": "001",
+            "courseTitle": "Princ Of Advertising"
+        },
+        {
+            "catalogTitle": "COMM 3710",
+            "section": "001",
+            "courseTitle": "Intro Quant Comm Rsrch"
+        },
+        {
+            "catalogTitle": "COMM 3910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "COMM 4170",
+            "section": "001",
+            "courseTitle": "App Organizational Comm"
+        },
+        {
+            "catalogTitle": "COMM 4190",
+            "section": "079",
+            "courseTitle": "Internship--Sp Comm"
+        },
+        {
+            "catalogTitle": "COMM 4270",
+            "section": "001",
+            "courseTitle": "Forensics Practicum"
+        },
+        {
+            "catalogTitle": "COMM 4520",
+            "section": "001",
+            "courseTitle": "Television Journalism"
+        },
+        {
+            "catalogTitle": "COMM 4550",
+            "section": "001",
+            "courseTitle": "Current Devel Telecomm"
+        },
+        {
+            "catalogTitle": "COMM 4570",
+            "section": "001",
+            "courseTitle": "Visual Editing"
+        },
+        {
+            "catalogTitle": "COMM 4580",
+            "section": "001",
+            "courseTitle": "PR Theory And Practice"
+        },
+        {
+            "catalogTitle": "COMM 4610",
+            "section": "001",
+            "courseTitle": "Magazine Wrtg"
+        },
+        {
+            "catalogTitle": "COMM 4610",
+            "section": "002",
+            "courseTitle": "Magazine Wrtg"
+        },
+        {
+            "catalogTitle": "COMM 4670",
+            "section": "001",
+            "courseTitle": "Political Reporting"
+        },
+        {
+            "catalogTitle": "COMM 4670",
+            "section": "002",
+            "courseTitle": "Sports Reporting"
+        },
+        {
+            "catalogTitle": "COMM 4910",
+            "section": "001",
+            "courseTitle": "Independent Study-Honor"
+        },
+        {
+            "catalogTitle": "COMM 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "COMM 5000",
+            "section": "001",
+            "courseTitle": "Communication & Social Justice"
+        },
+        {
+            "catalogTitle": "COMM 5010",
+            "section": "001",
+            "courseTitle": "Tchg Speech & Comm"
+        },
+        {
+            "catalogTitle": "COMM 5150",
+            "section": "001",
+            "courseTitle": "Dialogue & Cultl Stds"
+        },
+        {
+            "catalogTitle": "COMM 5160",
+            "section": "001",
+            "courseTitle": "Communication and Emotion"
+        },
+        {
+            "catalogTitle": "COMM 5170",
+            "section": "001",
+            "courseTitle": "Contmp Issues Org Comm"
+        },
+        {
+            "catalogTitle": "COMM 5270",
+            "section": "001",
+            "courseTitle": "Theories Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 5300",
+            "section": "001",
+            "courseTitle": "Mass Communication Law"
+        },
+        {
+            "catalogTitle": "COMM 5300",
+            "section": "002",
+            "courseTitle": "Mass Communication Law"
+        },
+        {
+            "catalogTitle": "COMM 5300",
+            "section": "003",
+            "courseTitle": "Mass Communication Law"
+        },
+        {
+            "catalogTitle": "COMM 5340",
+            "section": "001",
+            "courseTitle": "Communication & Law"
+        },
+        {
+            "catalogTitle": "COMM 5360",
+            "section": "001",
+            "courseTitle": "Environmental Comm"
+        },
+        {
+            "catalogTitle": "COMM 5520",
+            "section": "001",
+            "courseTitle": "Interactive Narrative"
+        },
+        {
+            "catalogTitle": "COMM 5570",
+            "section": "001",
+            "courseTitle": "Adv Visual Editing"
+        },
+        {
+            "catalogTitle": "COMM 5580",
+            "section": "001",
+            "courseTitle": "PR Cases & Campaigns"
+        },
+        {
+            "catalogTitle": "COMM 5580",
+            "section": "002",
+            "courseTitle": "PR Cases & Campaigns"
+        },
+        {
+            "catalogTitle": "COMM 5640",
+            "section": "001",
+            "courseTitle": "Comm Tech & Culture"
+        },
+        {
+            "catalogTitle": "COMM 5710",
+            "section": "001",
+            "courseTitle": "Comm Research"
+        },
+        {
+            "catalogTitle": "COMM 5800",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "COMM 6090",
+            "section": "001",
+            "courseTitle": "Teaching College Comm"
+        },
+        {
+            "catalogTitle": "COMM 6150",
+            "section": "001",
+            "courseTitle": "Dialogue & Cultl Stds"
+        },
+        {
+            "catalogTitle": "COMM 6160",
+            "section": "001",
+            "courseTitle": "Communication and Emotion"
+        },
+        {
+            "catalogTitle": "COMM 6170",
+            "section": "001",
+            "courseTitle": "Contmp Issues Org Comm"
+        },
+        {
+            "catalogTitle": "COMM 6210",
+            "section": "001",
+            "courseTitle": "Foundations of Conflict Res"
+        },
+        {
+            "catalogTitle": "COMM 6270",
+            "section": "001",
+            "courseTitle": "Theories Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 6300",
+            "section": "001",
+            "courseTitle": "Mass Communication Law"
+        },
+        {
+            "catalogTitle": "COMM 6340",
+            "section": "001",
+            "courseTitle": "Communication & Law"
+        },
+        {
+            "catalogTitle": "COMM 6360",
+            "section": "001",
+            "courseTitle": "Environmental Comm"
+        },
+        {
+            "catalogTitle": "COMM 6520",
+            "section": "001",
+            "courseTitle": "Interactive Narrative"
+        },
+        {
+            "catalogTitle": "COMM 6640",
+            "section": "001",
+            "courseTitle": "Comm Tech & Culture"
+        },
+        {
+            "catalogTitle": "COMM 6710",
+            "section": "001",
+            "courseTitle": "Comm Research"
+        },
+        {
+            "catalogTitle": "COMM 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "COMM 6930",
+            "section": "001",
+            "courseTitle": "Masters Project"
+        },
+        {
+            "catalogTitle": "COMM 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "COMM 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "COMM 7001",
+            "section": "001",
+            "courseTitle": "Sem-Found of Comm I"
+        },
+        {
+            "catalogTitle": "COMM 7110",
+            "section": "001",
+            "courseTitle": "Sem-Interpersonal Comm"
+        },
+        {
+            "catalogTitle": "COMM 7170",
+            "section": "001",
+            "courseTitle": "Sem-Organizational Comm"
+        },
+        {
+            "catalogTitle": "COMM 7340",
+            "section": "001",
+            "courseTitle": "Sem: Critical Research Methd"
+        },
+        {
+            "catalogTitle": "COMM 7350",
+            "section": "001",
+            "courseTitle": "Sem-Emp Research Meth"
+        },
+        {
+            "catalogTitle": "COMM 7420",
+            "section": "001",
+            "courseTitle": "Sem-Cont Crit Theory"
+        },
+        {
+            "catalogTitle": "COMM 7540",
+            "section": "001",
+            "courseTitle": "Sem: Free Speech in Society"
+        },
+        {
+            "catalogTitle": "COMM 7610",
+            "section": "001",
+            "courseTitle": "Sem: Mass Comm Theory"
+        },
+        {
+            "catalogTitle": "COMM 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "COMM 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "COMM 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,404 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOEN 1102",
+            "section": "001",
+            "courseTitle": "Funds Bioengineering II"
+        },
+        {
+            "catalogTitle": "BIOEN 1102",
+            "section": "002",
+            "courseTitle": "Funds Bioengineering II"
+        },
+        {
+            "catalogTitle": "BIOEN 1102",
+            "section": "003",
+            "courseTitle": "Funds Bioengineering II"
+        },
+        {
+            "catalogTitle": "BIOEN 1102",
+            "section": "004",
+            "courseTitle": "Funds Bioengineering II"
+        },
+        {
+            "catalogTitle": "BIOEN 1102",
+            "section": "005",
+            "courseTitle": "Funds Bioengineering II"
+        },
+        {
+            "catalogTitle": "BIOEN 1102",
+            "section": "006",
+            "courseTitle": "Funds Bioengineering II"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "095",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "096",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "097",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "098",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 3091",
+            "section": "001",
+            "courseTitle": "Current Research in BME"
+        },
+        {
+            "catalogTitle": "BIOEN 3301",
+            "section": "001",
+            "courseTitle": "Bioen Comput Methods"
+        },
+        {
+            "catalogTitle": "BIOEN 3301",
+            "section": "002",
+            "courseTitle": "Bioen Comput Methods"
+        },
+        {
+            "catalogTitle": "BIOEN 3801",
+            "section": "001",
+            "courseTitle": "BME Design I"
+        },
+        {
+            "catalogTitle": "BIOEN 3801",
+            "section": "002",
+            "courseTitle": "BME Design I"
+        },
+        {
+            "catalogTitle": "BIOEN 3801",
+            "section": "003",
+            "courseTitle": "BME Design I"
+        },
+        {
+            "catalogTitle": "BIOEN 3900",
+            "section": "002",
+            "courseTitle": "Biosignals Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 4200",
+            "section": "001",
+            "courseTitle": "BIOEN Research"
+        },
+        {
+            "catalogTitle": "BIOEN 4202",
+            "section": "001",
+            "courseTitle": "Senior Projects"
+        },
+        {
+            "catalogTitle": "BIOEN 4202",
+            "section": "002",
+            "courseTitle": "Senior Projects"
+        },
+        {
+            "catalogTitle": "BIOEN 4202",
+            "section": "003",
+            "courseTitle": "Senior Projects"
+        },
+        {
+            "catalogTitle": "BIOEN 4202",
+            "section": "004",
+            "courseTitle": "Senior Projects"
+        },
+        {
+            "catalogTitle": "BIOEN 4990",
+            "section": "001",
+            "courseTitle": "Internships & Co-ops"
+        },
+        {
+            "catalogTitle": "BIOEN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "BIOEN 5001",
+            "section": "001",
+            "courseTitle": "Biophysics"
+        },
+        {
+            "catalogTitle": "BIOEN 5001",
+            "section": "002",
+            "courseTitle": "Biophysics"
+        },
+        {
+            "catalogTitle": "BIOEN 5001",
+            "section": "003",
+            "courseTitle": "Biophysics"
+        },
+        {
+            "catalogTitle": "BIOEN 5020",
+            "section": "001",
+            "courseTitle": "Intractve Science Exhib"
+        },
+        {
+            "catalogTitle": "BIOEN 5301",
+            "section": "001",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "BIOEN 5301",
+            "section": "002",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "BIOEN 5301",
+            "section": "003",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "BIOEN 5301",
+            "section": "004",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "BIOEN 5401",
+            "section": "001",
+            "courseTitle": "Medical Imaging Sys"
+        },
+        {
+            "catalogTitle": "BIOEN 5460",
+            "section": "001",
+            "courseTitle": "Engr Aspects Clin Med"
+        },
+        {
+            "catalogTitle": "BIOEN 5501",
+            "section": "001",
+            "courseTitle": "Biomolecular Engineerng"
+        },
+        {
+            "catalogTitle": "BIOEN 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 5950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 5950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6000",
+            "section": "001",
+            "courseTitle": "Systems Physiology I"
+        },
+        {
+            "catalogTitle": "BIOEN 6005",
+            "section": "001",
+            "courseTitle": "Computational Neurosci"
+        },
+        {
+            "catalogTitle": "BIOEN 6090",
+            "section": "001",
+            "courseTitle": "Department Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6230",
+            "section": "002",
+            "courseTitle": "Funct Anatmy for Engnrs"
+        },
+        {
+            "catalogTitle": "BIOEN 6240",
+            "section": "001",
+            "courseTitle": "Movement Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 6302",
+            "section": "001",
+            "courseTitle": "Biomaterials"
+        },
+        {
+            "catalogTitle": "BIOEN 6421",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "BIOEN 6430",
+            "section": "001",
+            "courseTitle": "Systems Neuroscience"
+        },
+        {
+            "catalogTitle": "BIOEN 6464",
+            "section": "001",
+            "courseTitle": "Cardiac EP Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6480",
+            "section": "001",
+            "courseTitle": "Biomechanics Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6500",
+            "section": "001",
+            "courseTitle": "Mathematics of Imaging"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "003",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "004",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "005",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "006",
+            "courseTitle": "Vision Research"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "007",
+            "courseTitle": "Genomic Signal Processing Comp"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "008",
+            "courseTitle": "Studies in Neural Engineering"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "011",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "016",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "017",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "018",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "019",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "020",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "021",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6960",
+            "section": "001",
+            "courseTitle": "Research Project:  Me"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "038",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "054",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "055",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 7210",
+            "section": "001",
+            "courseTitle": "Biosolid Mechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 7310",
+            "section": "001",
+            "courseTitle": "Adv Magnetic Reson Imag"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "076",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "077",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "078",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "079",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "080",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIOEN 7980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIOEN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

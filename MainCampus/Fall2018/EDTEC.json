@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 115",
+            "section": "001",
+            "courseTitle": "Excel Advanced-Applied"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "001",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "002",
+            "courseTitle": "Excel Beginner"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "001",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "002",
+            "courseTitle": "Excel Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "001",
+            "courseTitle": "Excel Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 415",
+            "section": "001",
+            "courseTitle": "Excel Intermediate-Applied"
+        },
+        {
+            "catalogTitle": "EDTEC 421",
+            "section": "001",
+            "courseTitle": "MS Project"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "001",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 453",
+            "section": "001",
+            "courseTitle": "Photoshop Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 457",
+            "section": "001",
+            "courseTitle": "Illustrator Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 458",
+            "section": "001",
+            "courseTitle": "Illustrator Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 459",
+            "section": "001",
+            "courseTitle": "CSS/HTML Coding - Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 460",
+            "section": "001",
+            "courseTitle": "CSS/HTML Coding Level - 2"
+        },
+        {
+            "catalogTitle": "EDTEC 475",
+            "section": "001",
+            "courseTitle": "JavaScript - Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 476",
+            "section": "001",
+            "courseTitle": "JavaScript - Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 503",
+            "section": "001",
+            "courseTitle": "Premiere Pro Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 504",
+            "section": "001",
+            "courseTitle": "Premiere Pro Level 2"
+        }
+    ]
+}

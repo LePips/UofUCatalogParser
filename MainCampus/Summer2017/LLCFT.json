@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLCFT 229",
+            "section": "001",
+            "courseTitle": "Beginning Metalsmithing"
+        },
+        {
+            "catalogTitle": "LLCFT 242",
+            "section": "001",
+            "courseTitle": "Metal Clay - Silver"
+        },
+        {
+            "catalogTitle": "LLCFT 260",
+            "section": "001",
+            "courseTitle": "Calligraphy"
+        },
+        {
+            "catalogTitle": "LLCFT 274",
+            "section": "001",
+            "courseTitle": "Blacksmithing"
+        },
+        {
+            "catalogTitle": "LLCFT 293",
+            "section": "001",
+            "courseTitle": "Forged Cuff Bracelet"
+        },
+        {
+            "catalogTitle": "LLCFT 303",
+            "section": "001",
+            "courseTitle": "Travel Journaling"
+        },
+        {
+            "catalogTitle": "LLCFT 306",
+            "section": "001",
+            "courseTitle": "Micro Macram\u00e9 Necklace"
+        },
+        {
+            "catalogTitle": "LLCFT 308",
+            "section": "001",
+            "courseTitle": "Garden Art Welding"
+        },
+        {
+            "catalogTitle": "LLCFT 308",
+            "section": "002",
+            "courseTitle": "Garden Art Welding"
+        },
+        {
+            "catalogTitle": "LLCFT 309",
+            "section": "001",
+            "courseTitle": "Fused Glass Art"
+        }
+    ]
+}

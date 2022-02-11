@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 102",
+            "section": "001",
+            "courseTitle": "Beg Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 202",
+            "section": "001",
+            "courseTitle": "Interm Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 1020",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 3020",
+            "section": "001",
+            "courseTitle": "3rd Yr Israeli Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 4364",
+            "section": "001",
+            "courseTitle": "The Jewish Messiahs"
+        },
+        {
+            "catalogTitle": "HEBR 4880",
+            "section": "001",
+            "courseTitle": "Elements of Biblical Hebrew"
+        },
+        {
+            "catalogTitle": "HEBR 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "HEBR 6364",
+            "section": "001",
+            "courseTitle": "Jewish Messiahs"
+        },
+        {
+            "catalogTitle": "HEBR 6880",
+            "section": "001",
+            "courseTitle": "Intro to Biblical Hebrew"
+        },
+        {
+            "catalogTitle": "HEBR 6880",
+            "section": "002",
+            "courseTitle": "Heuristics of Hebrew"
+        },
+        {
+            "catalogTitle": "HEBR 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

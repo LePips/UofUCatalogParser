@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEART 204",
+            "section": "001",
+            "courseTitle": "My Play-Doh Lives"
+        },
+        {
+            "catalogTitle": "YEART 209",
+            "section": "001",
+            "courseTitle": "Drawing Safari"
+        },
+        {
+            "catalogTitle": "YEART 223",
+            "section": "001",
+            "courseTitle": "Dynamic Drawing"
+        },
+        {
+            "catalogTitle": "YEART 223",
+            "section": "002",
+            "courseTitle": "Dynamic Drawing"
+        },
+        {
+            "catalogTitle": "YEART 400",
+            "section": "001",
+            "courseTitle": "Intensive Art Seminar"
+        },
+        {
+            "catalogTitle": "YEART 400",
+            "section": "002",
+            "courseTitle": "Intensive Art Seminar"
+        }
+    ]
+}

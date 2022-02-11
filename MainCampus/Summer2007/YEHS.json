@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEHS 100",
+            "section": "001",
+            "courseTitle": "Novels, Film, Music (9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 101",
+            "section": "001",
+            "courseTitle": "English Lit & Compostn"
+        },
+        {
+            "catalogTitle": "YEHS 101",
+            "section": "002",
+            "courseTitle": "English Lit & Compostn"
+        },
+        {
+            "catalogTitle": "YEHS 102",
+            "section": "001",
+            "courseTitle": "Creative Writing (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 103",
+            "section": "001",
+            "courseTitle": "Intro AP Writing (Grade 10-12)"
+        },
+        {
+            "catalogTitle": "YEHS 105",
+            "section": "001",
+            "courseTitle": "Speaking Wkshp (Grade 8-12)"
+        },
+        {
+            "catalogTitle": "YEHS 201",
+            "section": "001",
+            "courseTitle": "Geometry (Grade 8-10)"
+        },
+        {
+            "catalogTitle": "YEHS 201",
+            "section": "002",
+            "courseTitle": "Geometry (Grade 8-10)"
+        },
+        {
+            "catalogTitle": "YEHS 202",
+            "section": "001",
+            "courseTitle": "Intermediate Algebra (8-12)"
+        },
+        {
+            "catalogTitle": "YEHS 202",
+            "section": "002",
+            "courseTitle": "Intermediate Algebra (8-12)"
+        },
+        {
+            "catalogTitle": "YEHS 203",
+            "section": "001",
+            "courseTitle": "Precalculus (Grade 8-12)"
+        },
+        {
+            "catalogTitle": "YEHS 203",
+            "section": "002",
+            "courseTitle": "Precalculus (Grade 8-12)"
+        },
+        {
+            "catalogTitle": "YEHS 402",
+            "section": "001",
+            "courseTitle": "Chemistry (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 402",
+            "section": "002",
+            "courseTitle": "Chemistry (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 710",
+            "section": "001",
+            "courseTitle": "SAT Prep Crse (Age 16 and up)"
+        },
+        {
+            "catalogTitle": "YEHS 720",
+            "section": "001",
+            "courseTitle": "ACT Prep Crse (Age 16 and up)"
+        },
+        {
+            "catalogTitle": "YEHS 720",
+            "section": "002",
+            "courseTitle": "ACT Prep Crse (Age 16 and up)"
+        },
+        {
+            "catalogTitle": "YEHS 730",
+            "section": "001",
+            "courseTitle": "Study/Test Taking (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 730",
+            "section": "002",
+            "courseTitle": "Study/Test Taking (Grade 9-12)"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GERM 101",
+            "section": "001",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 101",
+            "section": "002",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 101",
+            "section": "003",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 201",
+            "section": "001",
+            "courseTitle": "Intrm German I"
+        },
+        {
+            "catalogTitle": "GERM 260",
+            "section": "001",
+            "courseTitle": "German Conversation"
+        },
+        {
+            "catalogTitle": "GERM 304",
+            "section": "001",
+            "courseTitle": "Grammar & Culture"
+        },
+        {
+            "catalogTitle": "GERM 306",
+            "section": "001",
+            "courseTitle": "Grammar & Reading"
+        },
+        {
+            "catalogTitle": "GERM 360",
+            "section": "001",
+            "courseTitle": "German Conversation"
+        },
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "001",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "002",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "003",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 2010",
+            "section": "001",
+            "courseTitle": "Intrm German I"
+        },
+        {
+            "catalogTitle": "GERM 2600",
+            "section": "001",
+            "courseTitle": "German Conversation"
+        },
+        {
+            "catalogTitle": "GERM 3040",
+            "section": "001",
+            "courseTitle": "Grammar and Culture"
+        },
+        {
+            "catalogTitle": "GERM 3060",
+            "section": "001",
+            "courseTitle": "Grammar & Reading"
+        },
+        {
+            "catalogTitle": "GERM 3560",
+            "section": "001",
+            "courseTitle": "Germ Speaking Cultures"
+        },
+        {
+            "catalogTitle": "GERM 3600",
+            "section": "001",
+            "courseTitle": "German Conversation"
+        },
+        {
+            "catalogTitle": "GERM 3750",
+            "section": "001",
+            "courseTitle": "From Grimm to Disney"
+        },
+        {
+            "catalogTitle": "GERM 3900",
+            "section": "001",
+            "courseTitle": "Kultur der Moderne"
+        },
+        {
+            "catalogTitle": "GERM 3950",
+            "section": "001",
+            "courseTitle": "Sl - German"
+        },
+        {
+            "catalogTitle": "GERM 4900",
+            "section": "001",
+            "courseTitle": "Kultur der Moderne"
+        },
+        {
+            "catalogTitle": "GERM 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language"
+        }
+    ]
+}

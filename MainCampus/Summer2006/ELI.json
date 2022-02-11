@@ -1,0 +1,494 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELI 25",
+            "section": "001",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 25",
+            "section": "002",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 25",
+            "section": "003",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 25",
+            "section": "016",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "001",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "002",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "003",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "004",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "005",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "006",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "007",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "008",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "009",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "002",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "016",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 350",
+            "section": "001",
+            "courseTitle": "Daily Comm."
+        },
+        {
+            "catalogTitle": "ELI 350",
+            "section": "002",
+            "courseTitle": "Daily Comm."
+        },
+        {
+            "catalogTitle": "ELI 350",
+            "section": "016",
+            "courseTitle": "Daily Comm."
+        },
+        {
+            "catalogTitle": "ELI 355",
+            "section": "001",
+            "courseTitle": "Reading/Writing 3"
+        },
+        {
+            "catalogTitle": "ELI 355",
+            "section": "002",
+            "courseTitle": "Reading/Writing 3"
+        },
+        {
+            "catalogTitle": "ELI 355",
+            "section": "016",
+            "courseTitle": "Reading/Writing 3"
+        },
+        {
+            "catalogTitle": "ELI 460",
+            "section": "001",
+            "courseTitle": "Functional Comm."
+        },
+        {
+            "catalogTitle": "ELI 460",
+            "section": "002",
+            "courseTitle": "Functional Comm."
+        },
+        {
+            "catalogTitle": "ELI 460",
+            "section": "016",
+            "courseTitle": "Functional Comm."
+        },
+        {
+            "catalogTitle": "ELI 465",
+            "section": "001",
+            "courseTitle": "Reading/Writing 4"
+        },
+        {
+            "catalogTitle": "ELI 465",
+            "section": "002",
+            "courseTitle": "Reading/Writing 4"
+        },
+        {
+            "catalogTitle": "ELI 465",
+            "section": "016",
+            "courseTitle": "Reading/Writing 4"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "001",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "002",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "016",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 575",
+            "section": "001",
+            "courseTitle": "Rd/Wrtg Acad Purposes I"
+        },
+        {
+            "catalogTitle": "ELI 575",
+            "section": "002",
+            "courseTitle": "Rd/Wrtg Acad Purposes I"
+        },
+        {
+            "catalogTitle": "ELI 575",
+            "section": "016",
+            "courseTitle": "Rd/Wrtg Acad Purposes I"
+        },
+        {
+            "catalogTitle": "ELI 579",
+            "section": "001",
+            "courseTitle": "High Int. Grammar A"
+        },
+        {
+            "catalogTitle": "ELI 579",
+            "section": "002",
+            "courseTitle": "High Int. Grammar A"
+        },
+        {
+            "catalogTitle": "ELI 579",
+            "section": "016",
+            "courseTitle": "High Int. Grammar A"
+        },
+        {
+            "catalogTitle": "ELI 588",
+            "section": "001",
+            "courseTitle": "Listen/Speak in Community"
+        },
+        {
+            "catalogTitle": "ELI 588",
+            "section": "002",
+            "courseTitle": "Listen/Speak in Community"
+        },
+        {
+            "catalogTitle": "ELI 588",
+            "section": "016",
+            "courseTitle": "Listen/Speak in Community"
+        },
+        {
+            "catalogTitle": "ELI 670",
+            "section": "001",
+            "courseTitle": "Listening with Video"
+        },
+        {
+            "catalogTitle": "ELI 670",
+            "section": "002",
+            "courseTitle": "Listening with Video"
+        },
+        {
+            "catalogTitle": "ELI 670",
+            "section": "016",
+            "courseTitle": "Listening with Video"
+        },
+        {
+            "catalogTitle": "ELI 682",
+            "section": "001",
+            "courseTitle": "Debate"
+        },
+        {
+            "catalogTitle": "ELI 682",
+            "section": "002",
+            "courseTitle": "Debate"
+        },
+        {
+            "catalogTitle": "ELI 682",
+            "section": "016",
+            "courseTitle": "Debate"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "001",
+            "courseTitle": "Rd/Wrtg Acad Purps II"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "002",
+            "courseTitle": "Rd/Wrtg Acad Purps II"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "016",
+            "courseTitle": "Rd/Wrtg Acad Purps II"
+        },
+        {
+            "catalogTitle": "ELI 687",
+            "section": "001",
+            "courseTitle": "Writing thru News"
+        },
+        {
+            "catalogTitle": "ELI 687",
+            "section": "002",
+            "courseTitle": "Writing thru News"
+        },
+        {
+            "catalogTitle": "ELI 687",
+            "section": "016",
+            "courseTitle": "Writing thru News"
+        },
+        {
+            "catalogTitle": "ELI 697",
+            "section": "001",
+            "courseTitle": "High Int. Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 697",
+            "section": "002",
+            "courseTitle": "High Int. Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 697",
+            "section": "016",
+            "courseTitle": "High Int. Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 769",
+            "section": "001",
+            "courseTitle": "Pronunciation"
+        },
+        {
+            "catalogTitle": "ELI 769",
+            "section": "002",
+            "courseTitle": "Pronunciation"
+        },
+        {
+            "catalogTitle": "ELI 769",
+            "section": "016",
+            "courseTitle": "Pronunciation"
+        },
+        {
+            "catalogTitle": "ELI 776",
+            "section": "001",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ELI 776",
+            "section": "002",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ELI 776",
+            "section": "016",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ELI 778",
+            "section": "001",
+            "courseTitle": "Issues in American Culture"
+        },
+        {
+            "catalogTitle": "ELI 778",
+            "section": "002",
+            "courseTitle": "Issues in American Culture"
+        },
+        {
+            "catalogTitle": "ELI 778",
+            "section": "016",
+            "courseTitle": "Issues in American Culture"
+        },
+        {
+            "catalogTitle": "ELI 780",
+            "section": "001",
+            "courseTitle": "Novel"
+        },
+        {
+            "catalogTitle": "ELI 780",
+            "section": "002",
+            "courseTitle": "Novel"
+        },
+        {
+            "catalogTitle": "ELI 780",
+            "section": "016",
+            "courseTitle": "Novel"
+        },
+        {
+            "catalogTitle": "ELI 781",
+            "section": "001",
+            "courseTitle": "College Read/Write"
+        },
+        {
+            "catalogTitle": "ELI 781",
+            "section": "002",
+            "courseTitle": "College Read/Write"
+        },
+        {
+            "catalogTitle": "ELI 781",
+            "section": "016",
+            "courseTitle": "College Read/Write"
+        },
+        {
+            "catalogTitle": "ELI 784",
+            "section": "001",
+            "courseTitle": "Advanced Communication"
+        },
+        {
+            "catalogTitle": "ELI 784",
+            "section": "002",
+            "courseTitle": "Advanced Communication"
+        },
+        {
+            "catalogTitle": "ELI 784",
+            "section": "016",
+            "courseTitle": "Advanced Communication"
+        },
+        {
+            "catalogTitle": "ELI 785",
+            "section": "001",
+            "courseTitle": "Reading/Writing Acad Purp III"
+        },
+        {
+            "catalogTitle": "ELI 785",
+            "section": "002",
+            "courseTitle": "Reading/Writing Acad Purp III"
+        },
+        {
+            "catalogTitle": "ELI 785",
+            "section": "016",
+            "courseTitle": "Reading/Writing Acad Purp III"
+        },
+        {
+            "catalogTitle": "ELI 789",
+            "section": "001",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 789",
+            "section": "002",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 789",
+            "section": "016",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "001",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "002",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "016",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 797",
+            "section": "001",
+            "courseTitle": "Advanced Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 797",
+            "section": "002",
+            "courseTitle": "Advanced Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 797",
+            "section": "016",
+            "courseTitle": "Advanced Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 876",
+            "section": "001",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 876",
+            "section": "002",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 876",
+            "section": "016",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 878",
+            "section": "001",
+            "courseTitle": "Isses in American Culture"
+        },
+        {
+            "catalogTitle": "ELI 878",
+            "section": "002",
+            "courseTitle": "Isses in American Culture"
+        },
+        {
+            "catalogTitle": "ELI 878",
+            "section": "016",
+            "courseTitle": "Isses in American Culture"
+        },
+        {
+            "catalogTitle": "ELI 895",
+            "section": "001",
+            "courseTitle": "Advanced Research Writing"
+        },
+        {
+            "catalogTitle": "ELI 895",
+            "section": "002",
+            "courseTitle": "Advanced Research Writing"
+        },
+        {
+            "catalogTitle": "ELI 895",
+            "section": "016",
+            "courseTitle": "Advanced Research Writing"
+        },
+        {
+            "catalogTitle": "ELI 897",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "ELI 897",
+            "section": "002",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "ELI 897",
+            "section": "016",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "ELI 999",
+            "section": "001",
+            "courseTitle": "Graduate School Preparation"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHARM 6310",
+            "section": "001",
+            "courseTitle": "IPE Telem - Geriatric I"
+        },
+        {
+            "catalogTitle": "PHARM 6713",
+            "section": "001",
+            "courseTitle": "IPE-Chronic Disease"
+        },
+        {
+            "catalogTitle": "PHARM 6810",
+            "section": "001",
+            "courseTitle": "Disaster Prep/Response"
+        },
+        {
+            "catalogTitle": "PHARM 7110",
+            "section": "001",
+            "courseTitle": "Foundations of Biochem"
+        },
+        {
+            "catalogTitle": "PHARM 7120",
+            "section": "001",
+            "courseTitle": "Foundations of PHCEU"
+        },
+        {
+            "catalogTitle": "PHARM 7130",
+            "section": "001",
+            "courseTitle": "Foundations of Imm Path"
+        },
+        {
+            "catalogTitle": "PHARM 7140",
+            "section": "001",
+            "courseTitle": "Patient-Centered Care"
+        },
+        {
+            "catalogTitle": "PHARM 7141",
+            "section": "001",
+            "courseTitle": "Foundations Pro Pract 1"
+        },
+        {
+            "catalogTitle": "PHARM 7150",
+            "section": "001",
+            "courseTitle": "Recitation"
+        },
+        {
+            "catalogTitle": "PHARM 7564",
+            "section": "001",
+            "courseTitle": "Psychopharmacology"
+        },
+        {
+            "catalogTitle": "PHARM 7565",
+            "section": "001",
+            "courseTitle": "Psycho Active Meds"
+        }
+    ]
+}

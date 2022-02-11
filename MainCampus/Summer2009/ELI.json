@@ -1,0 +1,244 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELI 18",
+            "section": "001",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 18",
+            "section": "003",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 20",
+            "section": "001",
+            "courseTitle": "Writing & Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 21",
+            "section": "001",
+            "courseTitle": "Skill Bldg Read/Comm"
+        },
+        {
+            "catalogTitle": "ELI 25",
+            "section": "001",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 30",
+            "section": "001",
+            "courseTitle": "Grammar and Writing II"
+        },
+        {
+            "catalogTitle": "ELI 31",
+            "section": "001",
+            "courseTitle": "Reading and Comm II"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "003",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "009",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "002",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 460",
+            "section": "001",
+            "courseTitle": "Intro Functional Comm"
+        },
+        {
+            "catalogTitle": "ELI 460",
+            "section": "002",
+            "courseTitle": "Intro Functional Comm"
+        },
+        {
+            "catalogTitle": "ELI 465",
+            "section": "001",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 465",
+            "section": "002",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "001",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "002",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 468",
+            "section": "001",
+            "courseTitle": "Intro to Rdg/Vocab"
+        },
+        {
+            "catalogTitle": "ELI 468",
+            "section": "002",
+            "courseTitle": "Intro to Rdg/Vocab"
+        },
+        {
+            "catalogTitle": "ELI 575",
+            "section": "001",
+            "courseTitle": "Intm Acad Writing I"
+        },
+        {
+            "catalogTitle": "ELI 575",
+            "section": "002",
+            "courseTitle": "Intm Acad Writing I"
+        },
+        {
+            "catalogTitle": "ELI 579",
+            "section": "001",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 579",
+            "section": "002",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 586",
+            "section": "001",
+            "courseTitle": "Intrm Rdg/Vocabulary"
+        },
+        {
+            "catalogTitle": "ELI 586",
+            "section": "002",
+            "courseTitle": "Intrm Rdg/Vocabulary"
+        },
+        {
+            "catalogTitle": "ELI 587",
+            "section": "001",
+            "courseTitle": "Intrm Listng/Spkng"
+        },
+        {
+            "catalogTitle": "ELI 587",
+            "section": "002",
+            "courseTitle": "Intrm Listng/Spkng"
+        },
+        {
+            "catalogTitle": "ELI 680",
+            "section": "001",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 680",
+            "section": "002",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 682",
+            "section": "001",
+            "courseTitle": "Intr Listen Speaking II"
+        },
+        {
+            "catalogTitle": "ELI 682",
+            "section": "002",
+            "courseTitle": "Intr Listen Speaking II"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "001",
+            "courseTitle": "Intrm Acad Writing II"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "002",
+            "courseTitle": "Intrm Acad Writing II"
+        },
+        {
+            "catalogTitle": "ELI 697",
+            "section": "001",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 697",
+            "section": "002",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 776",
+            "section": "001",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 776",
+            "section": "002",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 785",
+            "section": "001",
+            "courseTitle": "Adv Acad Writing I"
+        },
+        {
+            "catalogTitle": "ELI 785",
+            "section": "002",
+            "courseTitle": "Adv Acad Writing I"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "001",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "002",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 797",
+            "section": "001",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 797",
+            "section": "002",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 876",
+            "section": "001",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 885",
+            "section": "001",
+            "courseTitle": "Adv Acad Writing II"
+        },
+        {
+            "catalogTitle": "ELI 889",
+            "section": "001",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 898",
+            "section": "001",
+            "courseTitle": "American Perspectives"
+        },
+        {
+            "catalogTitle": "ELI 999",
+            "section": "001",
+            "courseTitle": "Graduate School Preparation"
+        }
+    ]
+}

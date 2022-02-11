@@ -1,0 +1,31 @@
+{
+    "semester": "Spring2021",
+    "id": "1214",
+    "subjects": {
+        "ART": "Art",
+        "BIOL": "Biology",
+        "BMI": "Biomedical Informatics",
+        "CHEM": "Chemistry",
+        "CHIN": "Chinese",
+        "CMP": "City & Metropolitan Planning",
+        "COMM": "Communication",
+        "CS": "Computer Science",
+        "CVEEN": "Civil and Environmental Engineering",
+        "EAS": "English for Academic Success",
+        "ECE": "Electrical and Computer Engineering",
+        "ECS": "Education, Culture and Society",
+        "ESSF": "ESS Fitness Courses",
+        "FILM": "Film and Media Arts",
+        "HIST": "History",
+        "HUM": "Humanities",
+        "LDRSP": "Leadership",
+        "MATH": "Mathematics",
+        "MUSC": "Music",
+        "PBHLT": "Public Health",
+        "POLS": "Political Science",
+        "PSY": "Psychology",
+        "RELS": "Religious Studies",
+        "UGS": "Undergraduate Studies",
+        "WRTG": "Writing and Rhetoric Studies"
+    }
+}

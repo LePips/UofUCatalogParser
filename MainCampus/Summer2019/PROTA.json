@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROTA 101",
+            "section": "001",
+            "courseTitle": "AWS Technical Essentials"
+        },
+        {
+            "catalogTitle": "PROTA 102",
+            "section": "001",
+            "courseTitle": "AWS Architect Associate"
+        },
+        {
+            "catalogTitle": "PROTA 103",
+            "section": "001",
+            "courseTitle": "CompTIA\u00ae Security+ (SY0-501)"
+        },
+        {
+            "catalogTitle": "PROTA 105",
+            "section": "001",
+            "courseTitle": "ITIL Foundations"
+        },
+        {
+            "catalogTitle": "PROTA 106",
+            "section": "001",
+            "courseTitle": "ITIL Practitioner ONLINE"
+        },
+        {
+            "catalogTitle": "PROTA 107",
+            "section": "001",
+            "courseTitle": "PMP Exam Prep ONLINE"
+        },
+        {
+            "catalogTitle": "PROTA 108",
+            "section": "001",
+            "courseTitle": "AWS System Operations"
+        },
+        {
+            "catalogTitle": "PROTA 111",
+            "section": "001",
+            "courseTitle": "Microsoft Azure Administrator"
+        }
+    ]
+}

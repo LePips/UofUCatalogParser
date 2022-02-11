@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 200",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 310",
+            "section": "001",
+            "courseTitle": "Intro:Net-Design Web"
+        },
+        {
+            "catalogTitle": "FA 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 3100",
+            "section": "001",
+            "courseTitle": "Intro:Net-Design Web"
+        },
+        {
+            "catalogTitle": "FA 3350",
+            "section": "001",
+            "courseTitle": "3 D Computer Graphics"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        }
+    ]
+}

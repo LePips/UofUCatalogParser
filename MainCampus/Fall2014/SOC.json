@@ -1,0 +1,629 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SOC 101",
+            "section": "001",
+            "courseTitle": "Introduction to Sociology"
+        },
+        {
+            "catalogTitle": "SOC 101",
+            "section": "002",
+            "courseTitle": "Introduction to Sociology"
+        },
+        {
+            "catalogTitle": "SOC 101",
+            "section": "060",
+            "courseTitle": "Introduction to Sociology"
+        },
+        {
+            "catalogTitle": "SOC 337",
+            "section": "090",
+            "courseTitle": "Gender & Sexuality"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "001",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "002",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "060",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "090",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1015",
+            "section": "090",
+            "courseTitle": "Doing Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1020",
+            "section": "090",
+            "courseTitle": "Social Problems"
+        },
+        {
+            "catalogTitle": "SOC 3020",
+            "section": "090",
+            "courseTitle": "Social Psychology"
+        },
+        {
+            "catalogTitle": "SOC 3111",
+            "section": "001",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "SOC 3111",
+            "section": "090",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "001",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "070",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "090",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3140",
+            "section": "001",
+            "courseTitle": "Social Theory"
+        },
+        {
+            "catalogTitle": "SOC 3140",
+            "section": "090",
+            "courseTitle": "Social Theory"
+        },
+        {
+            "catalogTitle": "SOC 3337",
+            "section": "090",
+            "courseTitle": "Gender & Sexuality"
+        },
+        {
+            "catalogTitle": "SOC 3337",
+            "section": "091",
+            "courseTitle": "Gender & Sexuality"
+        },
+        {
+            "catalogTitle": "SOC 3365",
+            "section": "001",
+            "courseTitle": "Ethnic Minorities Amer"
+        },
+        {
+            "catalogTitle": "SOC 3380",
+            "section": "001",
+            "courseTitle": "Race/Ethncty/Cls/Gender"
+        },
+        {
+            "catalogTitle": "SOC 3381",
+            "section": "001",
+            "courseTitle": "Inequal thru Music&Film"
+        },
+        {
+            "catalogTitle": "SOC 3393",
+            "section": "001",
+            "courseTitle": "Diversity Internship"
+        },
+        {
+            "catalogTitle": "SOC 3436",
+            "section": "001",
+            "courseTitle": "Global Social Structure"
+        },
+        {
+            "catalogTitle": "SOC 3440",
+            "section": "001",
+            "courseTitle": "Sociology of Religion"
+        },
+        {
+            "catalogTitle": "SOC 3480",
+            "section": "090",
+            "courseTitle": "Environmental Sociology"
+        },
+        {
+            "catalogTitle": "SOC 3560",
+            "section": "090",
+            "courseTitle": "Deviant Beh/Soc Control"
+        },
+        {
+            "catalogTitle": "SOC 3561",
+            "section": "001",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "SOC 3561",
+            "section": "090",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "SOC 3562",
+            "section": "001",
+            "courseTitle": "Juvenile Delinquency"
+        },
+        {
+            "catalogTitle": "SOC 3563",
+            "section": "090",
+            "courseTitle": "Good Cop, Bad Cop"
+        },
+        {
+            "catalogTitle": "SOC 3566",
+            "section": "090",
+            "courseTitle": "Society & the Crim Mind"
+        },
+        {
+            "catalogTitle": "SOC 3567",
+            "section": "090",
+            "courseTitle": "Corporations&Corruption"
+        },
+        {
+            "catalogTitle": "SOC 3569",
+            "section": "010",
+            "courseTitle": "Terrorism, Violence, Aggr"
+        },
+        {
+            "catalogTitle": "SOC 3593",
+            "section": "001",
+            "courseTitle": "Criminology Internship"
+        },
+        {
+            "catalogTitle": "SOC 3638",
+            "section": "001",
+            "courseTitle": "Families in Society"
+        },
+        {
+            "catalogTitle": "SOC 3650",
+            "section": "001",
+            "courseTitle": "Population & Society"
+        },
+        {
+            "catalogTitle": "SOC 3671",
+            "section": "001",
+            "courseTitle": "Soc Of Health"
+        },
+        {
+            "catalogTitle": "SOC 3671",
+            "section": "002",
+            "courseTitle": "Soc Of Health"
+        },
+        {
+            "catalogTitle": "SOC 3673",
+            "section": "090",
+            "courseTitle": "Social Epidemiology"
+        },
+        {
+            "catalogTitle": "SOC 3741",
+            "section": "001",
+            "courseTitle": "Migrants&Communities"
+        },
+        {
+            "catalogTitle": "SOC 3877",
+            "section": "001",
+            "courseTitle": "Pre-Senior Thesis Sem"
+        },
+        {
+            "catalogTitle": "SOC 3877",
+            "section": "002",
+            "courseTitle": "Pre-Senior Thesis Sem"
+        },
+        {
+            "catalogTitle": "SOC 3877",
+            "section": "003",
+            "courseTitle": "Pre-Senior Thesis Sem"
+        },
+        {
+            "catalogTitle": "SOC 3877",
+            "section": "006",
+            "courseTitle": "Pre-Senior Thesis Sem"
+        },
+        {
+            "catalogTitle": "SOC 3877",
+            "section": "007",
+            "courseTitle": "Pre-Senior Thesis Sem"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "002",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "003",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "004",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SOC 3951",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SOC 3952",
+            "section": "001",
+            "courseTitle": "Individual Internships"
+        },
+        {
+            "catalogTitle": "SOC 3952",
+            "section": "002",
+            "courseTitle": "Individual Internships"
+        },
+        {
+            "catalogTitle": "SOC 3952",
+            "section": "003",
+            "courseTitle": "Individual Internships"
+        },
+        {
+            "catalogTitle": "SOC 4085",
+            "section": "001",
+            "courseTitle": "Cities and Communities"
+        },
+        {
+            "catalogTitle": "SOC 4674",
+            "section": "001",
+            "courseTitle": "Global Health"
+        },
+        {
+            "catalogTitle": "SOC 4674",
+            "section": "002",
+            "courseTitle": "Global Health"
+        },
+        {
+            "catalogTitle": "SOC 4693",
+            "section": "001",
+            "courseTitle": "Teaching Experience"
+        },
+        {
+            "catalogTitle": "SOC 4693",
+            "section": "002",
+            "courseTitle": "Teaching Experience"
+        },
+        {
+            "catalogTitle": "SOC 4693",
+            "section": "003",
+            "courseTitle": "Teaching Experience"
+        },
+        {
+            "catalogTitle": "SOC 4877",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "SOC 4998",
+            "section": "001",
+            "courseTitle": "Honors Thesis 1"
+        },
+        {
+            "catalogTitle": "SOC 4998",
+            "section": "002",
+            "courseTitle": "Honors Thesis 1"
+        },
+        {
+            "catalogTitle": "SOC 4998",
+            "section": "003",
+            "courseTitle": "Honors Thesis 1"
+        },
+        {
+            "catalogTitle": "SOC 4998",
+            "section": "004",
+            "courseTitle": "Honors Thesis 1"
+        },
+        {
+            "catalogTitle": "SOC 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis 2"
+        },
+        {
+            "catalogTitle": "SOC 4999",
+            "section": "002",
+            "courseTitle": "Honors Thesis 2"
+        },
+        {
+            "catalogTitle": "SOC 4999",
+            "section": "003",
+            "courseTitle": "Honors Thesis 2"
+        },
+        {
+            "catalogTitle": "SOC 4999",
+            "section": "004",
+            "courseTitle": "Honors Thesis 2"
+        },
+        {
+            "catalogTitle": "SOC 5440",
+            "section": "001",
+            "courseTitle": "Sociology of Religion"
+        },
+        {
+            "catalogTitle": "SOC 6010",
+            "section": "001",
+            "courseTitle": "Proseminar in Sociology"
+        },
+        {
+            "catalogTitle": "SOC 6050",
+            "section": "001",
+            "courseTitle": "Classical Soc Theory"
+        },
+        {
+            "catalogTitle": "SOC 6085",
+            "section": "001",
+            "courseTitle": "Cities and Communities"
+        },
+        {
+            "catalogTitle": "SOC 6120",
+            "section": "001",
+            "courseTitle": "Statistics I"
+        },
+        {
+            "catalogTitle": "SOC 6674",
+            "section": "001",
+            "courseTitle": "Global Health"
+        },
+        {
+            "catalogTitle": "SOC 6674",
+            "section": "002",
+            "courseTitle": "Global Health"
+        },
+        {
+            "catalogTitle": "SOC 6940",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 6940",
+            "section": "002",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 6950",
+            "section": "001",
+            "courseTitle": "Research Project"
+        },
+        {
+            "catalogTitle": "SOC 6950",
+            "section": "002",
+            "courseTitle": "Research Project"
+        },
+        {
+            "catalogTitle": "SOC 6950",
+            "section": "003",
+            "courseTitle": "Research Project"
+        },
+        {
+            "catalogTitle": "SOC 6950",
+            "section": "004",
+            "courseTitle": "Research Project"
+        },
+        {
+            "catalogTitle": "SOC 6950",
+            "section": "005",
+            "courseTitle": "Research Project"
+        },
+        {
+            "catalogTitle": "SOC 6950",
+            "section": "008",
+            "courseTitle": "Research Project"
+        },
+        {
+            "catalogTitle": "SOC 6951",
+            "section": "001",
+            "courseTitle": "Dir Reading-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6951",
+            "section": "002",
+            "courseTitle": "Dir Reading-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6951",
+            "section": "003",
+            "courseTitle": "Dir Reading-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6951",
+            "section": "004",
+            "courseTitle": "Dir Reading-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6963",
+            "section": "001",
+            "courseTitle": "Environmental Sociology"
+        },
+        {
+            "catalogTitle": "SOC 6965",
+            "section": "001",
+            "courseTitle": "Immigrants and Communities"
+        },
+        {
+            "catalogTitle": "SOC 6988",
+            "section": "001",
+            "courseTitle": "Fac Consult-Masters"
+        },
+        {
+            "catalogTitle": "SOC 7071",
+            "section": "001",
+            "courseTitle": "Population Techniques"
+        },
+        {
+            "catalogTitle": "SOC 7800",
+            "section": "001",
+            "courseTitle": "Profess Development"
+        },
+        {
+            "catalogTitle": "SOC 7911",
+            "section": "001",
+            "courseTitle": "Comp Intern Readings I"
+        },
+        {
+            "catalogTitle": "SOC 7911",
+            "section": "002",
+            "courseTitle": "Comp Intern Readings I"
+        },
+        {
+            "catalogTitle": "SOC 7912",
+            "section": "001",
+            "courseTitle": "Qual Ex #1 Read CIS II"
+        },
+        {
+            "catalogTitle": "SOC 7921",
+            "section": "001",
+            "courseTitle": "Qual Ex#1 Read Pop I"
+        },
+        {
+            "catalogTitle": "SOC 7922",
+            "section": "001",
+            "courseTitle": "Qual Ex #1 Read Pop II"
+        },
+        {
+            "catalogTitle": "SOC 7931",
+            "section": "001",
+            "courseTitle": "Qual Exam Area #2 I"
+        },
+        {
+            "catalogTitle": "SOC 7931",
+            "section": "002",
+            "courseTitle": "Qual Exam Area #2 I"
+        },
+        {
+            "catalogTitle": "SOC 7931",
+            "section": "003",
+            "courseTitle": "Qual Exam Area #2 I"
+        },
+        {
+            "catalogTitle": "SOC 7931",
+            "section": "004",
+            "courseTitle": "Qual Exam Area #2 I"
+        },
+        {
+            "catalogTitle": "SOC 7931",
+            "section": "005",
+            "courseTitle": "Qual Exam Area #2 I"
+        },
+        {
+            "catalogTitle": "SOC 7932",
+            "section": "001",
+            "courseTitle": "Qual Exam Area #2 II"
+        },
+        {
+            "catalogTitle": "SOC 7932",
+            "section": "002",
+            "courseTitle": "Qual Exam Area #2 II"
+        },
+        {
+            "catalogTitle": "SOC 7932",
+            "section": "003",
+            "courseTitle": "Qual Exam Area #2 II"
+        },
+        {
+            "catalogTitle": "SOC 7932",
+            "section": "004",
+            "courseTitle": "Qual Exam Area #2 II"
+        },
+        {
+            "catalogTitle": "SOC 7941",
+            "section": "001",
+            "courseTitle": "Research Instruction I"
+        },
+        {
+            "catalogTitle": "SOC 7942",
+            "section": "001",
+            "courseTitle": "Research Instruction II"
+        },
+        {
+            "catalogTitle": "SOC 7950",
+            "section": "001",
+            "courseTitle": "Dissertation Pro Dev"
+        },
+        {
+            "catalogTitle": "SOC 7950",
+            "section": "002",
+            "courseTitle": "Dissertation Pro Dev"
+        },
+        {
+            "catalogTitle": "SOC 7950",
+            "section": "003",
+            "courseTitle": "Dissertation Pro Dev"
+        },
+        {
+            "catalogTitle": "SOC 7950",
+            "section": "004",
+            "courseTitle": "Dissertation Pro Dev"
+        },
+        {
+            "catalogTitle": "SOC 7951",
+            "section": "001",
+            "courseTitle": "Directed Reading-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7951",
+            "section": "002",
+            "courseTitle": "Directed Reading-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7977",
+            "section": "001",
+            "courseTitle": "Dissertation Res-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7977",
+            "section": "002",
+            "courseTitle": "Dissertation Res-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7977",
+            "section": "003",
+            "courseTitle": "Dissertation Res-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7977",
+            "section": "004",
+            "courseTitle": "Dissertation Res-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7977",
+            "section": "006",
+            "courseTitle": "Dissertation Res-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7977",
+            "section": "008",
+            "courseTitle": "Dissertation Res-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7988",
+            "section": "001",
+            "courseTitle": "Fac Consultation-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7999",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

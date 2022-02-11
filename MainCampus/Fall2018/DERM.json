@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DERM 7000",
+            "section": "001",
+            "courseTitle": "Dermatology Away"
+        },
+        {
+            "catalogTitle": "DERM 7400",
+            "section": "001",
+            "courseTitle": "Intro to Dermatology"
+        },
+        {
+            "catalogTitle": "DERM 7690",
+            "section": "001",
+            "courseTitle": "Dermatology Clerkship"
+        },
+        {
+            "catalogTitle": "DERM 7900",
+            "section": "001",
+            "courseTitle": "Dermatology Research"
+        }
+    ]
+}

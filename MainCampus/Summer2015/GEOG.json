@@ -1,0 +1,179 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEOG 100",
+            "section": "001",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 130",
+            "section": "001",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 568",
+            "section": "001",
+            "courseTitle": "Intro to R"
+        },
+        {
+            "catalogTitle": "GEOG 1000",
+            "section": "001",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 1000",
+            "section": "090",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 1010",
+            "section": "090",
+            "courseTitle": "Into Geographic Data"
+        },
+        {
+            "catalogTitle": "GEOG 1100",
+            "section": "001",
+            "courseTitle": "Exploring Google Earth"
+        },
+        {
+            "catalogTitle": "GEOG 1300",
+            "section": "001",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 1300",
+            "section": "090",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 1400",
+            "section": "090",
+            "courseTitle": "Human Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3140",
+            "section": "090",
+            "courseTitle": "Intro to GIS"
+        },
+        {
+            "catalogTitle": "GEOG 3350",
+            "section": "001",
+            "courseTitle": "Resource Consrv/Env Mgt"
+        },
+        {
+            "catalogTitle": "GEOG 3360",
+            "section": "001",
+            "courseTitle": "Ocean Environments"
+        },
+        {
+            "catalogTitle": "GEOG 3380",
+            "section": "001",
+            "courseTitle": "Wilderness Issues & Mgt"
+        },
+        {
+            "catalogTitle": "GEOG 3385",
+            "section": "001",
+            "courseTitle": "Environ Assessment"
+        },
+        {
+            "catalogTitle": "GEOG 3620",
+            "section": "090",
+            "courseTitle": "Geog of North America"
+        },
+        {
+            "catalogTitle": "GEOG 3650",
+            "section": "090",
+            "courseTitle": "Middle East Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3670",
+            "section": "090",
+            "courseTitle": "Latin America"
+        },
+        {
+            "catalogTitle": "GEOG 5140",
+            "section": "090",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5360",
+            "section": "001",
+            "courseTitle": "Ocean Environments"
+        },
+        {
+            "catalogTitle": "GEOG 5380",
+            "section": "001",
+            "courseTitle": "Wilderness Issues & Mgt"
+        },
+        {
+            "catalogTitle": "GEOG 5385",
+            "section": "001",
+            "courseTitle": "Environ Assessment"
+        },
+        {
+            "catalogTitle": "GEOG 5680",
+            "section": "001",
+            "courseTitle": "Intro to R"
+        },
+        {
+            "catalogTitle": "GEOG 5712",
+            "section": "001",
+            "courseTitle": "Paleo Field Methods"
+        },
+        {
+            "catalogTitle": "GEOG 5940",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEOG 5950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "GEOG 5951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6140",
+            "section": "090",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6680",
+            "section": "001",
+            "courseTitle": "Intro to R"
+        },
+        {
+            "catalogTitle": "GEOG 6950",
+            "section": "001",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 6951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 7950",
+            "section": "001",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "GEOG 7981",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "001",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "002",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "003",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "004",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "005",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "006",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "095",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "096",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "097",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "098",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "099",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 2000",
+            "section": "001",
+            "courseTitle": "Careers Biomed Eng"
+        },
+        {
+            "catalogTitle": "BIOEN 3201",
+            "section": "001",
+            "courseTitle": "Human Physiology I"
+        },
+        {
+            "catalogTitle": "BIOEN 3201",
+            "section": "002",
+            "courseTitle": "Human Physiology I"
+        },
+        {
+            "catalogTitle": "BIOEN 3201",
+            "section": "003",
+            "courseTitle": "Human Physiology I"
+        },
+        {
+            "catalogTitle": "BIOEN 3801",
+            "section": "001",
+            "courseTitle": "Cohort Seminar I"
+        },
+        {
+            "catalogTitle": "BIOEN 4201",
+            "section": "001",
+            "courseTitle": "Bioeng Project I"
+        },
+        {
+            "catalogTitle": "BIOEN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "BIOEN 5020",
+            "section": "001",
+            "courseTitle": "Intractve Science Exhib"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "001",
+            "courseTitle": "Bioinstrumentation"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "002",
+            "courseTitle": "Bioinstrumentation"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "003",
+            "courseTitle": "Bioinstrumentation"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "001",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "002",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "003",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6050",
+            "section": "001",
+            "courseTitle": "Cellular Physiol"
+        },
+        {
+            "catalogTitle": "BIOEN 6060",
+            "section": "001",
+            "courseTitle": "Scientific Presentation"
+        },
+        {
+            "catalogTitle": "BIOEN 6090",
+            "section": "001",
+            "courseTitle": "Department Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6421",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "BIOEN 6470",
+            "section": "001",
+            "courseTitle": "Ultrasound"
+        },
+        {
+            "catalogTitle": "BIOEN 6480",
+            "section": "001",
+            "courseTitle": "Biomechanics Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "001",
+            "courseTitle": "Bioinstrumentation-Lecture"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "002",
+            "courseTitle": "Biomechanics-Lecture"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6960",
+            "section": "001",
+            "courseTitle": "Research Project:  Me"
+        },
+        {
+            "catalogTitle": "BIOEN 6960",
+            "section": "002",
+            "courseTitle": "Research Project:  Me"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIOEN 7150",
+            "section": "001",
+            "courseTitle": "Biomimetic Engineering"
+        },
+        {
+            "catalogTitle": "BIOEN 7168",
+            "section": "001",
+            "courseTitle": "Proteins Interfcs/Membr"
+        },
+        {
+            "catalogTitle": "BIOEN 7320",
+            "section": "001",
+            "courseTitle": "3 D Reconstruction Tech"
+        },
+        {
+            "catalogTitle": "BIOEN 7410",
+            "section": "001",
+            "courseTitle": "Advanced Bioinstrumntn"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 11",
+            "section": "003",
+            "courseTitle": "First Quarter Italian"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "001",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "002",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "003",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "001",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "002",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 3040",
+            "section": "001",
+            "courseTitle": "Extensive Read & Comp"
+        },
+        {
+            "catalogTitle": "ITAL 3950",
+            "section": "001",
+            "courseTitle": "SL - Italian"
+        },
+        {
+            "catalogTitle": "ITAL 4550",
+            "section": "001",
+            "courseTitle": "Italian Cinema"
+        },
+        {
+            "catalogTitle": "ITAL 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

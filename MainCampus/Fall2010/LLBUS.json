@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 112",
+            "section": "001",
+            "courseTitle": "Investment Stategies"
+        },
+        {
+            "catalogTitle": "LLBUS 171",
+            "section": "001",
+            "courseTitle": "Plan Your Retirement"
+        },
+        {
+            "catalogTitle": "LLBUS 179",
+            "section": "001",
+            "courseTitle": "Tax-Free Investments"
+        },
+        {
+            "catalogTitle": "LLBUS 180",
+            "section": "001",
+            "courseTitle": "Intro to Personal Trading"
+        }
+    ]
+}

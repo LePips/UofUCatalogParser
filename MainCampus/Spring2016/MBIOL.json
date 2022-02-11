@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "001",
+            "courseTitle": "Mech of Microb and Viral Patho"
+        },
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "002",
+            "courseTitle": "Genome Evolution"
+        },
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "003",
+            "courseTitle": "Mitochondria"
+        },
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "004",
+            "courseTitle": "Journal Club/Grant Wrtg"
+        },
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "005",
+            "courseTitle": "Journal Club/Grant Wrtg"
+        },
+        {
+            "catalogTitle": "MBIOL 6480",
+            "section": "001",
+            "courseTitle": "Cell Biology"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

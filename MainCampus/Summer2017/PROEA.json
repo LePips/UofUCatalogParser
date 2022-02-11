@@ -1,0 +1,229 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROEA 201",
+            "section": "030",
+            "courseTitle": "Ntrtn & You: Functional Foods"
+        },
+        {
+            "catalogTitle": "PROEA 202",
+            "section": "030",
+            "courseTitle": "Weight Mngmnt & Ntrtn Lifecycl"
+        },
+        {
+            "catalogTitle": "PROEA 203",
+            "section": "030",
+            "courseTitle": "Intro Sprts Ntrtn & Performnce"
+        },
+        {
+            "catalogTitle": "PROEA 204",
+            "section": "030",
+            "courseTitle": "Public Nutrition"
+        },
+        {
+            "catalogTitle": "PROEA 205",
+            "section": "070",
+            "courseTitle": "Prsnl Fitness Trnr Cert Online"
+        },
+        {
+            "catalogTitle": "PROEA 206",
+            "section": "030",
+            "courseTitle": "Intro Exercise Science Lvl 1"
+        },
+        {
+            "catalogTitle": "PROEA 207",
+            "section": "030",
+            "courseTitle": "Intro Exercise Science Lvl 2"
+        },
+        {
+            "catalogTitle": "PROEA 208",
+            "section": "030",
+            "courseTitle": "Hlth Risk & Fitness Assessmnt"
+        },
+        {
+            "catalogTitle": "PROEA 209",
+            "section": "030",
+            "courseTitle": "Business Admin & Mngmnt for PT"
+        },
+        {
+            "catalogTitle": "PROEA 210",
+            "section": "030",
+            "courseTitle": "Exercise scripts for Norm/Spcl"
+        },
+        {
+            "catalogTitle": "PROEA 212",
+            "section": "070",
+            "courseTitle": "Adv PrsnlFtnssTrnr Cert Online"
+        },
+        {
+            "catalogTitle": "PROEA 214",
+            "section": "030",
+            "courseTitle": "Fnctnl Flxblty Core & Balalnce"
+        },
+        {
+            "catalogTitle": "PROEA 215",
+            "section": "030",
+            "courseTitle": "Scnce & Biomech Rstnce/Weight"
+        },
+        {
+            "catalogTitle": "PROEA 216",
+            "section": "070",
+            "courseTitle": "Pharm Tech w/Hlthc Admin/Bill"
+        },
+        {
+            "catalogTitle": "PROEA 217",
+            "section": "070",
+            "courseTitle": "Pharm Tech w/Healthcare Admin"
+        },
+        {
+            "catalogTitle": "PROEA 218",
+            "section": "070",
+            "courseTitle": "Pharm Tech w/Hlthc Billing"
+        },
+        {
+            "catalogTitle": "PROEA 219",
+            "section": "070",
+            "courseTitle": "Online Med Office Mgr Cert"
+        },
+        {
+            "catalogTitle": "PROEA 220",
+            "section": "070",
+            "courseTitle": "OL Hlthc Info Solutions Certif"
+        },
+        {
+            "catalogTitle": "PROEA 221",
+            "section": "070",
+            "courseTitle": "Medical Coding & Billing Cert"
+        },
+        {
+            "catalogTitle": "PROEA 222",
+            "section": "070",
+            "courseTitle": "Medical Transcript Edit Cert"
+        },
+        {
+            "catalogTitle": "PROEA 223",
+            "section": "070",
+            "courseTitle": "Medical Billing Certificate"
+        },
+        {
+            "catalogTitle": "PROEA 224",
+            "section": "070",
+            "courseTitle": "Pharmacy Technician Cert"
+        },
+        {
+            "catalogTitle": "PROEA 225",
+            "section": "070",
+            "courseTitle": "Medical Admin Assit / EHR Cert"
+        },
+        {
+            "catalogTitle": "PROEA 226",
+            "section": "070",
+            "courseTitle": "Online Veterinary Asst Certif"
+        },
+        {
+            "catalogTitle": "PROEA 601",
+            "section": "007",
+            "courseTitle": "Fundamentals of Project Mgt I"
+        },
+        {
+            "catalogTitle": "PROEA 602",
+            "section": "007",
+            "courseTitle": "Fundamentals of Project Mgt II"
+        },
+        {
+            "catalogTitle": "PROEA 623",
+            "section": "030",
+            "courseTitle": "PMP Exam - Online"
+        },
+        {
+            "catalogTitle": "PROEA 642",
+            "section": "041",
+            "courseTitle": "PM Training Camp"
+        },
+        {
+            "catalogTitle": "PROEA 643",
+            "section": "041",
+            "courseTitle": "Guiding Organizational Change"
+        },
+        {
+            "catalogTitle": "PROEA 644",
+            "section": "041",
+            "courseTitle": "PMP Exam Preparation"
+        },
+        {
+            "catalogTitle": "PROEA 751",
+            "section": "005",
+            "courseTitle": "Pro Sales Quick Start Guide"
+        },
+        {
+            "catalogTitle": "PROEA 754",
+            "section": "005",
+            "courseTitle": "Present & Close the Sale"
+        },
+        {
+            "catalogTitle": "PROEA 755",
+            "section": "005",
+            "courseTitle": "Visualize & Ask for More"
+        },
+        {
+            "catalogTitle": "PROEA 801",
+            "section": "070",
+            "courseTitle": "Adv Paralegal Certificate"
+        },
+        {
+            "catalogTitle": "PROEA 801",
+            "section": "071",
+            "courseTitle": "Adv Paralegal Certificate"
+        },
+        {
+            "catalogTitle": "PROEA 802",
+            "section": "070",
+            "courseTitle": "Legal Nurse Consultant Cert"
+        },
+        {
+            "catalogTitle": "PROEA 802",
+            "section": "071",
+            "courseTitle": "Legal Nurse Consultant Cert"
+        },
+        {
+            "catalogTitle": "PROEA 803",
+            "section": "070",
+            "courseTitle": "Employment Law Certificate"
+        },
+        {
+            "catalogTitle": "PROEA 803",
+            "section": "071",
+            "courseTitle": "Employment Law Certificate"
+        },
+        {
+            "catalogTitle": "PROEA 804",
+            "section": "070",
+            "courseTitle": "Intel Prop Law/Engineer Cert"
+        },
+        {
+            "catalogTitle": "PROEA 804",
+            "section": "071",
+            "courseTitle": "Intel Prop Law/Engineer Cert"
+        },
+        {
+            "catalogTitle": "PROEA 805",
+            "section": "070",
+            "courseTitle": "Legal Secretary Certificate"
+        },
+        {
+            "catalogTitle": "PROEA 805",
+            "section": "071",
+            "courseTitle": "Legal Secretary Certificate"
+        },
+        {
+            "catalogTitle": "PROEA 807",
+            "section": "070",
+            "courseTitle": "Victim Advocacy Certificate"
+        },
+        {
+            "catalogTitle": "PROEA 807",
+            "section": "071",
+            "courseTitle": "Victim Advocacy Certificate"
+        }
+    ]
+}

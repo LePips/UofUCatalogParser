@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEART 100",
+            "section": "001",
+            "courseTitle": "Digital Photo (Age 10-12)"
+        },
+        {
+            "catalogTitle": "YEART 209",
+            "section": "001",
+            "courseTitle": "Drawing Safari (Age 6-9)"
+        },
+        {
+            "catalogTitle": "YEART 223",
+            "section": "001",
+            "courseTitle": "Drawing Dynamics (Age 6-12)"
+        },
+        {
+            "catalogTitle": "YEART 230",
+            "section": "001",
+            "courseTitle": "Graphic Art (Age 10-16)"
+        },
+        {
+            "catalogTitle": "YEART 316",
+            "section": "001",
+            "courseTitle": "Comic Book Art (Age 14-17)"
+        }
+    ]
+}

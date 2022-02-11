@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENVST 1000",
+            "section": "001",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "ENVST 1000",
+            "section": "090",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "ENVST 1010",
+            "section": "090",
+            "courseTitle": "Chem, Humanity, Envirnm"
+        },
+        {
+            "catalogTitle": "ENVST 3350",
+            "section": "001",
+            "courseTitle": "Resource Consrv/Env Mgt"
+        },
+        {
+            "catalogTitle": "ENVST 4800",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENVST 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ENVST 5000",
+            "section": "001",
+            "courseTitle": "Dir. Read.Indep Study"
+        }
+    ]
+}

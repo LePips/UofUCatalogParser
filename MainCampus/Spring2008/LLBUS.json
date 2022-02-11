@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 112",
+            "section": "001",
+            "courseTitle": "Investment Stategies"
+        },
+        {
+            "catalogTitle": "LLBUS 149",
+            "section": "001",
+            "courseTitle": "Owning Rental Property"
+        },
+        {
+            "catalogTitle": "LLBUS 168",
+            "section": "001",
+            "courseTitle": "How to be a Landlord"
+        },
+        {
+            "catalogTitle": "LLBUS 171",
+            "section": "001",
+            "courseTitle": "Planning Your Retirement"
+        },
+        {
+            "catalogTitle": "LLBUS 172",
+            "section": "001",
+            "courseTitle": "For Sale by Owner"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PERS 101",
+            "section": "001",
+            "courseTitle": "Beginning Persian"
+        },
+        {
+            "catalogTitle": "PERS 1010",
+            "section": "001",
+            "courseTitle": "Beginning Persian I"
+        },
+        {
+            "catalogTitle": "PERS 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Persian I"
+        },
+        {
+            "catalogTitle": "PERS 3010",
+            "section": "001",
+            "courseTitle": "Third Year Persian I"
+        },
+        {
+            "catalogTitle": "PERS 4880",
+            "section": "001",
+            "courseTitle": "Community Volunteer"
+        },
+        {
+            "catalogTitle": "PERS 4880",
+            "section": "002",
+            "courseTitle": "ST: Persian Converse Thrgh Flm"
+        },
+        {
+            "catalogTitle": "PERS 6880",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "PERS 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "PERS 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 6920",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 6920",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-PhD"
+        }
+    ]
+}

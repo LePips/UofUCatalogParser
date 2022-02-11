@@ -1,3 +1,19 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "BIO C 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIO C 7100",
+            "section": "001",
+            "courseTitle": "Metabolism"
+        },
+        {
+            "catalogTitle": "BIO C 7100",
+            "section": "002",
+            "courseTitle": "Adv Mthds Electron Microscopy"
+        }
+    ]
 }

@@ -1,0 +1,359 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MGT 341",
+            "section": "001",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 368",
+            "section": "005",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 370",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 456",
+            "section": "001",
+            "courseTitle": "Small Business Mgt"
+        },
+        {
+            "catalogTitle": "MGT 570",
+            "section": "077",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 3000",
+            "section": "002",
+            "courseTitle": "Princpl of Management"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "001",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "002",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "003",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "001",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "002",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "003",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "005",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3700",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 3700",
+            "section": "002",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "001",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "002",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "003",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "004",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "005",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "006",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "007",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "070",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 4560",
+            "section": "001",
+            "courseTitle": "Small Business Mgt"
+        },
+        {
+            "catalogTitle": "MGT 4900",
+            "section": "001",
+            "courseTitle": "Intntl Management"
+        },
+        {
+            "catalogTitle": "MGT 5000",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 5000",
+            "section": "002",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 5510",
+            "section": "077",
+            "courseTitle": "Human Resource Mgt I"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "001",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "002",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "003",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "077",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 5750",
+            "section": "001",
+            "courseTitle": "Profiles of Leadership"
+        },
+        {
+            "catalogTitle": "MGT 5850",
+            "section": "001",
+            "courseTitle": "Management of Innovation"
+        },
+        {
+            "catalogTitle": "MGT 5850",
+            "section": "002",
+            "courseTitle": "Emrg Tech & Busns Mng"
+        },
+        {
+            "catalogTitle": "MGT 5860",
+            "section": "001",
+            "courseTitle": "Entrepreneur Studies"
+        },
+        {
+            "catalogTitle": "MGT 5880",
+            "section": "001",
+            "courseTitle": "Management Intern"
+        },
+        {
+            "catalogTitle": "MGT 5910",
+            "section": "001",
+            "courseTitle": "uSpark Foundry"
+        },
+        {
+            "catalogTitle": "MGT 6050",
+            "section": "001",
+            "courseTitle": "Team Foundations"
+        },
+        {
+            "catalogTitle": "MGT 6051",
+            "section": "006",
+            "courseTitle": "Mngng & Leading in Org"
+        },
+        {
+            "catalogTitle": "MGT 6054",
+            "section": "001",
+            "courseTitle": "Adv Pub Spkg for Bus"
+        },
+        {
+            "catalogTitle": "MGT 6054",
+            "section": "002",
+            "courseTitle": "Adv Pub Spkg for Bus"
+        },
+        {
+            "catalogTitle": "MGT 6071",
+            "section": "001",
+            "courseTitle": "Competitive Strategy"
+        },
+        {
+            "catalogTitle": "MGT 6500",
+            "section": "001",
+            "courseTitle": "Managerial Negotiation"
+        },
+        {
+            "catalogTitle": "MGT 6500",
+            "section": "002",
+            "courseTitle": "Managerial Negotiation"
+        },
+        {
+            "catalogTitle": "MGT 6810",
+            "section": "001",
+            "courseTitle": "Venture Foundations"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "001",
+            "courseTitle": "Emrg Tech & Busns Mng"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "002",
+            "courseTitle": "Profiles of Leadership"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "003",
+            "courseTitle": "Venture Finance"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "005",
+            "courseTitle": "Managing Innovation"
+        },
+        {
+            "catalogTitle": "MGT 6860",
+            "section": "001",
+            "courseTitle": "Lassonde Venture"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "001",
+            "courseTitle": "Business Law"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "002",
+            "courseTitle": "uSpark Startup Foundry"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "003",
+            "courseTitle": "Business Law"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "004",
+            "courseTitle": "Business Law"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "005",
+            "courseTitle": "Performance Management"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "006",
+            "courseTitle": "Pharmacy Practice Management"
+        },
+        {
+            "catalogTitle": "MGT 7100",
+            "section": "001",
+            "courseTitle": "Research Design"
+        },
+        {
+            "catalogTitle": "MGT 7800",
+            "section": "001",
+            "courseTitle": "Sem-Rsch Org Beh"
+        },
+        {
+            "catalogTitle": "MGT 7820",
+            "section": "001",
+            "courseTitle": "Sem-Organizatnl Theory"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "001",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "002",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "003",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "004",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "005",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MGT 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

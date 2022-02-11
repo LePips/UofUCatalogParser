@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEPRS 16",
+            "section": "001",
+            "courseTitle": "Spoon's n' things"
+        },
+        {
+            "catalogTitle": "YEPRS 16",
+            "section": "002",
+            "courseTitle": "Spoon's n' things"
+        },
+        {
+            "catalogTitle": "YEPRS 17",
+            "section": "001",
+            "courseTitle": "Step into Storybooks"
+        },
+        {
+            "catalogTitle": "YEPRS 17",
+            "section": "002",
+            "courseTitle": "Step into Storybooks"
+        },
+        {
+            "catalogTitle": "YEPRS 19",
+            "section": "001",
+            "courseTitle": "Discovering Dinosaurs"
+        }
+    ]
+}

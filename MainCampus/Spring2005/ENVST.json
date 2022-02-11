@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENVST 2100",
+            "section": "001",
+            "courseTitle": "Intro Envir Studies"
+        },
+        {
+            "catalogTitle": "ENVST 3800",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENVST 4800",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENVST 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        }
+    ]
+}

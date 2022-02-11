@@ -1,0 +1,354 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 388",
+            "section": "001",
+            "courseTitle": "Acting in Film and Television"
+        },
+        {
+            "catalogTitle": "FILM 452",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 483",
+            "section": "001",
+            "courseTitle": "Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 484",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 1010",
+            "section": "001",
+            "courseTitle": "Intro to Film & Media"
+        },
+        {
+            "catalogTitle": "FILM 1600",
+            "section": "001",
+            "courseTitle": "Animation: Then and Now"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "001",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "002",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "090",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2600",
+            "section": "001",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 2630",
+            "section": "001",
+            "courseTitle": "Traditional Animation I"
+        },
+        {
+            "catalogTitle": "FILM 2700",
+            "section": "001",
+            "courseTitle": "Intro to Videogames"
+        },
+        {
+            "catalogTitle": "FILM 3100",
+            "section": "001",
+            "courseTitle": "Intro to Doc Studies"
+        },
+        {
+            "catalogTitle": "FILM 3110",
+            "section": "001",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 3110",
+            "section": "002",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 3120",
+            "section": "001",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 3140",
+            "section": "001",
+            "courseTitle": "Documentary Film Surv"
+        },
+        {
+            "catalogTitle": "FILM 3411",
+            "section": "001",
+            "courseTitle": "Editing I"
+        },
+        {
+            "catalogTitle": "FILM 3412",
+            "section": "001",
+            "courseTitle": "Final Cut Pro I"
+        },
+        {
+            "catalogTitle": "FILM 3420",
+            "section": "001",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 3420",
+            "section": "002",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "001",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "002",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "003",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "004",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3610",
+            "section": "001",
+            "courseTitle": "Computer Animation I"
+        },
+        {
+            "catalogTitle": "FILM 3610",
+            "section": "002",
+            "courseTitle": "Computer Animation I"
+        },
+        {
+            "catalogTitle": "FILM 3710",
+            "section": "001",
+            "courseTitle": "Traditnl Game Develpmnt"
+        },
+        {
+            "catalogTitle": "FILM 3710",
+            "section": "002",
+            "courseTitle": "Traditnl Game Develpmnt"
+        },
+        {
+            "catalogTitle": "FILM 3860",
+            "section": "001",
+            "courseTitle": "Acting For Film/TV"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "001",
+            "courseTitle": "Screenwriting Workshop"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "002",
+            "courseTitle": "Ladder Program I"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "003",
+            "courseTitle": "Ladder Program II"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "004",
+            "courseTitle": "Ladder Program III"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "005",
+            "courseTitle": "Ladder Program IV"
+        },
+        {
+            "catalogTitle": "FILM 3920",
+            "section": "090",
+            "courseTitle": "Contemp Experimental Film"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "001",
+            "courseTitle": "After Effects"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "002",
+            "courseTitle": "Grip and Lighting"
+        },
+        {
+            "catalogTitle": "FILM 4210",
+            "section": "001",
+            "courseTitle": "Horror Film"
+        },
+        {
+            "catalogTitle": "FILM 4220",
+            "section": "001",
+            "courseTitle": "W. Allen, F. Fellini & S. Ray"
+        },
+        {
+            "catalogTitle": "FILM 4510",
+            "section": "001",
+            "courseTitle": "Doc Video Prod"
+        },
+        {
+            "catalogTitle": "FILM 4520",
+            "section": "001",
+            "courseTitle": "Cinematography"
+        },
+        {
+            "catalogTitle": "FILM 4540",
+            "section": "001",
+            "courseTitle": "Adv Film Prod I"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 4830",
+            "section": "001",
+            "courseTitle": "Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 4840",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 4860",
+            "section": "001",
+            "courseTitle": "Adv Film/TV Acting"
+        },
+        {
+            "catalogTitle": "FILM 6010",
+            "section": "001",
+            "courseTitle": "Intro to Grad. Studies"
+        },
+        {
+            "catalogTitle": "FILM 6110",
+            "section": "001",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 6110",
+            "section": "002",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 6120",
+            "section": "001",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 6140",
+            "section": "001",
+            "courseTitle": "Grad Doc Film Survey"
+        },
+        {
+            "catalogTitle": "FILM 6350",
+            "section": "002",
+            "courseTitle": "Film Theory"
+        },
+        {
+            "catalogTitle": "FILM 6370",
+            "section": "001",
+            "courseTitle": "Sem-Film"
+        },
+        {
+            "catalogTitle": "FILM 6370",
+            "section": "002",
+            "courseTitle": "Sem-Film"
+        },
+        {
+            "catalogTitle": "FILM 6411",
+            "section": "001",
+            "courseTitle": "Grad Editing I"
+        },
+        {
+            "catalogTitle": "FILM 6412",
+            "section": "001",
+            "courseTitle": "Grad Final Cut Pro I"
+        },
+        {
+            "catalogTitle": "FILM 6420",
+            "section": "001",
+            "courseTitle": "Sound for Film & DM"
+        },
+        {
+            "catalogTitle": "FILM 6500",
+            "section": "001",
+            "courseTitle": "Grad Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 6500",
+            "section": "002",
+            "courseTitle": "Grad Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 6510",
+            "section": "001",
+            "courseTitle": "Grad Doc Video Prod"
+        },
+        {
+            "catalogTitle": "FILM 6520",
+            "section": "001",
+            "courseTitle": "Grad Cinematography"
+        },
+        {
+            "catalogTitle": "FILM 6540",
+            "section": "001",
+            "courseTitle": "Grad Adv Film Prod I"
+        },
+        {
+            "catalogTitle": "FILM 6610",
+            "section": "001",
+            "courseTitle": "Grad Computer Animation I"
+        },
+        {
+            "catalogTitle": "FILM 6630",
+            "section": "001",
+            "courseTitle": "Grad Trad Animation I"
+        },
+        {
+            "catalogTitle": "FILM 6820",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 6830",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 6840",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 6945",
+            "section": "001",
+            "courseTitle": "After Effects"
+        },
+        {
+            "catalogTitle": "FILM 6945",
+            "section": "002",
+            "courseTitle": "Grip and Lighting"
+        }
+    ]
+}

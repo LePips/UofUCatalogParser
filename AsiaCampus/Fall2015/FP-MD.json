@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FP MD 6100",
+            "section": "301",
+            "courseTitle": "Biostatistics I"
+        },
+        {
+            "catalogTitle": "FP MD 6400",
+            "section": "301",
+            "courseTitle": "Publc Hlth Plcy Admin"
+        },
+        {
+            "catalogTitle": "FP MD 6500",
+            "section": "301",
+            "courseTitle": "Foundations Pub Health"
+        },
+        {
+            "catalogTitle": "FP MD 6600",
+            "section": "301",
+            "courseTitle": "Soc Context Public Hlth"
+        }
+    ]
+}

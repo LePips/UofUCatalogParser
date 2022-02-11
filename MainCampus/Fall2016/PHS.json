@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHS 7000",
+            "section": "001",
+            "courseTitle": "Biostatistics for PHS"
+        },
+        {
+            "catalogTitle": "PHS 7300",
+            "section": "001",
+            "courseTitle": "HS Research Methods"
+        },
+        {
+            "catalogTitle": "PHS 7305",
+            "section": "090",
+            "courseTitle": "Research Compliance"
+        }
+    ]
+}

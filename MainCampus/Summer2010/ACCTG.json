@@ -1,0 +1,139 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ACCTG 201",
+            "section": "001",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 202",
+            "section": "001",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 300",
+            "section": "070",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 2010",
+            "section": "001",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2020",
+            "section": "001",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 3000",
+            "section": "070",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "001",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "001",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "001",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5140",
+            "section": "001",
+            "courseTitle": "International Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "001",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "001",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5395",
+            "section": "001",
+            "courseTitle": "Tax Practicum"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "001",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "001",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 6140",
+            "section": "001",
+            "courseTitle": "International Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 6395",
+            "section": "001",
+            "courseTitle": "Tax Practicum"
+        },
+        {
+            "catalogTitle": "ACCTG 6520",
+            "section": "001",
+            "courseTitle": "IT Risks & Controls"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "001",
+            "courseTitle": "Financial Acctg II"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "002",
+            "courseTitle": "Taxation 1"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "003",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "001",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "002",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "005",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

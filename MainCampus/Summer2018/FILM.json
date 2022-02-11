@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 260",
+            "section": "001",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 350",
+            "section": "002",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "001",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2600",
+            "section": "001",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "001",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "002",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3610",
+            "section": "001",
+            "courseTitle": "Computer Animation I"
+        },
+        {
+            "catalogTitle": "FILM 6500",
+            "section": "001",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 6500",
+            "section": "002",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 6610",
+            "section": "001",
+            "courseTitle": "Computer Animation I"
+        }
+    ]
+}

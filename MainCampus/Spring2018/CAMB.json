@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CAMB 102",
+            "section": "001",
+            "courseTitle": "Beg. CAMB II"
+        },
+        {
+            "catalogTitle": "CAMB 202",
+            "section": "001",
+            "courseTitle": "Intrm. CAMB II"
+        },
+        {
+            "catalogTitle": "CAMB 1020",
+            "section": "001",
+            "courseTitle": "Beg. CAMB II"
+        },
+        {
+            "catalogTitle": "CAMB 2020",
+            "section": "001",
+            "courseTitle": "Intrm. CAMB II"
+        },
+        {
+            "catalogTitle": "CAMB 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

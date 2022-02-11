@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD LB 101",
+            "section": "001",
+            "courseTitle": "Survey of MLS"
+        },
+        {
+            "catalogTitle": "MD LB 1010",
+            "section": "001",
+            "courseTitle": "Survey of MLS"
+        },
+        {
+            "catalogTitle": "MD LB 4990",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MD LB 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "MD LB 5130",
+            "section": "001",
+            "courseTitle": "Lab Management/Suprvsn"
+        }
+    ]
+}

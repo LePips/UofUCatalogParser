@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improv Comedy Acting"
+        },
+        {
+            "catalogTitle": "LLMT 407",
+            "section": "001",
+            "courseTitle": "Appreciate Opera"
+        },
+        {
+            "catalogTitle": "LLMT 415",
+            "section": "001",
+            "courseTitle": "African Drumming"
+        },
+        {
+            "catalogTitle": "LLMT 426",
+            "section": "001",
+            "courseTitle": "Piano: Play by Ear"
+        },
+        {
+            "catalogTitle": "LLMT 427",
+            "section": "001",
+            "courseTitle": "Quick Piano: Chord Progression"
+        }
+    ]
+}

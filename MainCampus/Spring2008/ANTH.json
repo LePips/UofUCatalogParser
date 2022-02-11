@@ -1,0 +1,524 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANTH 110",
+            "section": "002",
+            "courseTitle": "Culture & Human Experience"
+        },
+        {
+            "catalogTitle": "ANTH 120",
+            "section": "002",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 202",
+            "section": "001",
+            "courseTitle": "Human Evolution"
+        },
+        {
+            "catalogTitle": "ANTH 231",
+            "section": "001",
+            "courseTitle": "Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 232",
+            "section": "001",
+            "courseTitle": "Rise of Civilization"
+        },
+        {
+            "catalogTitle": "ANTH 396",
+            "section": "001",
+            "courseTitle": "Death Rituals & Mummification"
+        },
+        {
+            "catalogTitle": "ANTH 396",
+            "section": "002",
+            "courseTitle": "Anthropology of Humor"
+        },
+        {
+            "catalogTitle": "ANTH 396",
+            "section": "003",
+            "courseTitle": "Women Cross Culturally"
+        },
+        {
+            "catalogTitle": "ANTH 396",
+            "section": "004",
+            "courseTitle": "Pharaonic Egypt"
+        },
+        {
+            "catalogTitle": "ANTH 439",
+            "section": "001",
+            "courseTitle": "Native American Religion"
+        },
+        {
+            "catalogTitle": "ANTH 1000",
+            "section": "001",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 1000",
+            "section": "090",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "001",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "002",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "090",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "001",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "002",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "020",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "090",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1030",
+            "section": "001",
+            "courseTitle": "World Prehistory: Intro"
+        },
+        {
+            "catalogTitle": "ANTH 1030",
+            "section": "090",
+            "courseTitle": "World Prehistory: Intro"
+        },
+        {
+            "catalogTitle": "ANTH 1050",
+            "section": "001",
+            "courseTitle": "Evolution Human Nature"
+        },
+        {
+            "catalogTitle": "ANTH 1050",
+            "section": "090",
+            "courseTitle": "Evolution Human Nature"
+        },
+        {
+            "catalogTitle": "ANTH 2017",
+            "section": "001",
+            "courseTitle": "Human Heritage"
+        },
+        {
+            "catalogTitle": "ANTH 2017",
+            "section": "070",
+            "courseTitle": "Human Heritage"
+        },
+        {
+            "catalogTitle": "ANTH 2018",
+            "section": "001",
+            "courseTitle": "Human Universals"
+        },
+        {
+            "catalogTitle": "ANTH 2020",
+            "section": "001",
+            "courseTitle": "Human Evolution"
+        },
+        {
+            "catalogTitle": "ANTH 2030",
+            "section": "001",
+            "courseTitle": "Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 2031",
+            "section": "001",
+            "courseTitle": "Rise of Civilization"
+        },
+        {
+            "catalogTitle": "ANTH 3111",
+            "section": "001",
+            "courseTitle": "First Nations E N Amer"
+        },
+        {
+            "catalogTitle": "ANTH 3141",
+            "section": "001",
+            "courseTitle": "Himalayan Kingdoms"
+        },
+        {
+            "catalogTitle": "ANTH 3152",
+            "section": "001",
+            "courseTitle": "Australia/N Guinea Ethn"
+        },
+        {
+            "catalogTitle": "ANTH 3154",
+            "section": "001",
+            "courseTitle": "Brazilian Culture"
+        },
+        {
+            "catalogTitle": "ANTH 3211",
+            "section": "001",
+            "courseTitle": "Biology Native American"
+        },
+        {
+            "catalogTitle": "ANTH 3321",
+            "section": "001",
+            "courseTitle": "Classic Maya"
+        },
+        {
+            "catalogTitle": "ANTH 3961",
+            "section": "001",
+            "courseTitle": "Andean Cultures"
+        },
+        {
+            "catalogTitle": "ANTH 3961",
+            "section": "002",
+            "courseTitle": "Mediterranean Cultures"
+        },
+        {
+            "catalogTitle": "ANTH 3969",
+            "section": "001",
+            "courseTitle": "Death Rituals & Mummification"
+        },
+        {
+            "catalogTitle": "ANTH 3969",
+            "section": "002",
+            "courseTitle": "Anthropology of Humor"
+        },
+        {
+            "catalogTitle": "ANTH 3969",
+            "section": "003",
+            "courseTitle": "Women Cross Culturally"
+        },
+        {
+            "catalogTitle": "ANTH 3969",
+            "section": "004",
+            "courseTitle": "Pharaonic Egypt"
+        },
+        {
+            "catalogTitle": "ANTH 3969",
+            "section": "005",
+            "courseTitle": "Male Socio-Ecology"
+        },
+        {
+            "catalogTitle": "ANTH 4130",
+            "section": "001",
+            "courseTitle": "Anthropology of Food"
+        },
+        {
+            "catalogTitle": "ANTH 4133",
+            "section": "001",
+            "courseTitle": "Maternal & Child Health"
+        },
+        {
+            "catalogTitle": "ANTH 4138",
+            "section": "001",
+            "courseTitle": "Anthr Violence NonViol"
+        },
+        {
+            "catalogTitle": "ANTH 4139",
+            "section": "001",
+            "courseTitle": "Native American Relig"
+        },
+        {
+            "catalogTitle": "ANTH 4141",
+            "section": "001",
+            "courseTitle": "Ethnicity & Nationalism"
+        },
+        {
+            "catalogTitle": "ANTH 4185",
+            "section": "001",
+            "courseTitle": "Culture Change"
+        },
+        {
+            "catalogTitle": "ANTH 4192",
+            "section": "001",
+            "courseTitle": "Culture Health Healing"
+        },
+        {
+            "catalogTitle": "ANTH 4193",
+            "section": "001",
+            "courseTitle": "Medical Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 4231",
+            "section": "001",
+            "courseTitle": "Human Biol Diversity"
+        },
+        {
+            "catalogTitle": "ANTH 4242",
+            "section": "001",
+            "courseTitle": "Anth Clinical Hlth Care"
+        },
+        {
+            "catalogTitle": "ANTH 4255",
+            "section": "001",
+            "courseTitle": "Race and Culture"
+        },
+        {
+            "catalogTitle": "ANTH 4271",
+            "section": "001",
+            "courseTitle": "Human Osteology"
+        },
+        {
+            "catalogTitle": "ANTH 4341",
+            "section": "001",
+            "courseTitle": "Fundmentls Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 4372",
+            "section": "001",
+            "courseTitle": "Zooarchaeology"
+        },
+        {
+            "catalogTitle": "ANTH 4950",
+            "section": "001",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "ANTH 4962",
+            "section": "001",
+            "courseTitle": "Human Subj Res Ethics"
+        },
+        {
+            "catalogTitle": "ANTH 4962",
+            "section": "090",
+            "courseTitle": "Human Longevity"
+        },
+        {
+            "catalogTitle": "ANTH 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ANTH 5211",
+            "section": "001",
+            "courseTitle": "Biology Native American"
+        },
+        {
+            "catalogTitle": "ANTH 5321",
+            "section": "001",
+            "courseTitle": "The Classic Maya"
+        },
+        {
+            "catalogTitle": "ANTH 5471",
+            "section": "001",
+            "courseTitle": "Fun Method Evol Ecology"
+        },
+        {
+            "catalogTitle": "ANTH 5711",
+            "section": "001",
+            "courseTitle": "Stu Ind Research Group"
+        },
+        {
+            "catalogTitle": "ANTH 5961",
+            "section": "001",
+            "courseTitle": "Andean Cultures"
+        },
+        {
+            "catalogTitle": "ANTH 5961",
+            "section": "002",
+            "courseTitle": "Mediterranean Cultures"
+        },
+        {
+            "catalogTitle": "ANTH 5962",
+            "section": "001",
+            "courseTitle": "Human Subj Res Ethics"
+        },
+        {
+            "catalogTitle": "ANTH 5962",
+            "section": "090",
+            "courseTitle": "Human Longevity"
+        },
+        {
+            "catalogTitle": "ANTH 5969",
+            "section": "001",
+            "courseTitle": "Death Rituals & Mummification"
+        },
+        {
+            "catalogTitle": "ANTH 5969",
+            "section": "002",
+            "courseTitle": "Anthropology of Humor"
+        },
+        {
+            "catalogTitle": "ANTH 5969",
+            "section": "003",
+            "courseTitle": "Women Cross Culturally"
+        },
+        {
+            "catalogTitle": "ANTH 5969",
+            "section": "004",
+            "courseTitle": "Pharaonic Egypt"
+        },
+        {
+            "catalogTitle": "ANTH 6041",
+            "section": "001",
+            "courseTitle": "Himalayan Kingdoms"
+        },
+        {
+            "catalogTitle": "ANTH 6111",
+            "section": "001",
+            "courseTitle": "First Nations E N Amer"
+        },
+        {
+            "catalogTitle": "ANTH 6130",
+            "section": "001",
+            "courseTitle": "Anthropology of Food"
+        },
+        {
+            "catalogTitle": "ANTH 6133",
+            "section": "001",
+            "courseTitle": "Maternal & Child Health"
+        },
+        {
+            "catalogTitle": "ANTH 6138",
+            "section": "001",
+            "courseTitle": "Anthr Violence NonViol"
+        },
+        {
+            "catalogTitle": "ANTH 6139",
+            "section": "001",
+            "courseTitle": "Native American Relig"
+        },
+        {
+            "catalogTitle": "ANTH 6141",
+            "section": "001",
+            "courseTitle": "Ethnicity & Nationalism"
+        },
+        {
+            "catalogTitle": "ANTH 6152",
+            "section": "001",
+            "courseTitle": "Australia/N Guinea-Ethn"
+        },
+        {
+            "catalogTitle": "ANTH 6154",
+            "section": "001",
+            "courseTitle": "Brazilian Culture"
+        },
+        {
+            "catalogTitle": "ANTH 6163",
+            "section": "001",
+            "courseTitle": "Ethnograph Data Collect"
+        },
+        {
+            "catalogTitle": "ANTH 6185",
+            "section": "001",
+            "courseTitle": "Culture Change"
+        },
+        {
+            "catalogTitle": "ANTH 6192",
+            "section": "001",
+            "courseTitle": "Culture Health Healing"
+        },
+        {
+            "catalogTitle": "ANTH 6193",
+            "section": "001",
+            "courseTitle": "Medical Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 6231",
+            "section": "001",
+            "courseTitle": "Human Biol Diversity"
+        },
+        {
+            "catalogTitle": "ANTH 6242",
+            "section": "001",
+            "courseTitle": "Anthr of Clinical Health Care"
+        },
+        {
+            "catalogTitle": "ANTH 6255",
+            "section": "001",
+            "courseTitle": "Race and Culture"
+        },
+        {
+            "catalogTitle": "ANTH 6299",
+            "section": "001",
+            "courseTitle": "Sem-Biological Anthro"
+        },
+        {
+            "catalogTitle": "ANTH 6299",
+            "section": "002",
+            "courseTitle": "Acceleration of Human Evol"
+        },
+        {
+            "catalogTitle": "ANTH 6300",
+            "section": "001",
+            "courseTitle": "Proseminar in Anthr III"
+        },
+        {
+            "catalogTitle": "ANTH 6361",
+            "section": "001",
+            "courseTitle": "Behavioral Ecol/Archaeo"
+        },
+        {
+            "catalogTitle": "ANTH 6372",
+            "section": "001",
+            "courseTitle": "Zooarchaeology"
+        },
+        {
+            "catalogTitle": "ANTH 6400",
+            "section": "001",
+            "courseTitle": "Proseminar in Anthr IV"
+        },
+        {
+            "catalogTitle": "ANTH 6498",
+            "section": "001",
+            "courseTitle": "Pblms In Evol Anthro"
+        },
+        {
+            "catalogTitle": "ANTH 6950",
+            "section": "001",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "ANTH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ANTH 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ANTH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANTH 7910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "ANTH 7920",
+            "section": "001",
+            "courseTitle": "Guided Reading"
+        },
+        {
+            "catalogTitle": "ANTH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ANTH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANTH 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

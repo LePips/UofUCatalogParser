@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LAW 7030",
+            "section": "001",
+            "courseTitle": "Criminal Procedure"
+        },
+        {
+            "catalogTitle": "LAW 7057",
+            "section": "001",
+            "courseTitle": "Deals"
+        },
+        {
+            "catalogTitle": "LAW 7410",
+            "section": "001",
+            "courseTitle": "Constitutional Law II"
+        },
+        {
+            "catalogTitle": "LAW 7800",
+            "section": "001",
+            "courseTitle": "Curr Issues Law & Biosciences"
+        },
+        {
+            "catalogTitle": "LAW 7841",
+            "section": "001",
+            "courseTitle": "Prep & Exam Witnesses"
+        },
+        {
+            "catalogTitle": "LAW 7842",
+            "section": "001",
+            "courseTitle": "Take/Defend Depositions"
+        },
+        {
+            "catalogTitle": "LAW 7920",
+            "section": "001",
+            "courseTitle": "Lawyering Skills Survey"
+        },
+        {
+            "catalogTitle": "LAW 7940",
+            "section": "001",
+            "courseTitle": "Judicial Process"
+        }
+    ]
+}

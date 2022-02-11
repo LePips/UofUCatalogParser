@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD CH 5110",
+            "section": "001",
+            "courseTitle": "Physiological Chem I"
+        },
+        {
+            "catalogTitle": "MD CH 5210",
+            "section": "001",
+            "courseTitle": "Organic Med Chem I"
+        },
+        {
+            "catalogTitle": "MD CH 6520",
+            "section": "001",
+            "courseTitle": "Natural Products Chem"
+        },
+        {
+            "catalogTitle": "MD CH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MD CH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-MS"
+        },
+        {
+            "catalogTitle": "MD CH 7890",
+            "section": "001",
+            "courseTitle": "Research Seminar"
+        },
+        {
+            "catalogTitle": "MD CH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MD CH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult PhD"
+        },
+        {
+            "catalogTitle": "MD CH 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg PhD"
+        }
+    ]
+}

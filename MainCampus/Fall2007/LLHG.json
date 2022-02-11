@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHG 470",
+            "section": "001",
+            "courseTitle": "Interior Design"
+        },
+        {
+            "catalogTitle": "LLHG 474",
+            "section": "001",
+            "courseTitle": "Holiday Wreath Making"
+        },
+        {
+            "catalogTitle": "LLHG 500",
+            "section": "001",
+            "courseTitle": "Design w/ Fresh Flowers"
+        },
+        {
+            "catalogTitle": "LLHG 543",
+            "section": "001",
+            "courseTitle": "Ornamental Grasses"
+        },
+        {
+            "catalogTitle": "LLHG 543",
+            "section": "002",
+            "courseTitle": "Ornamental Grasses"
+        }
+    ]
+}

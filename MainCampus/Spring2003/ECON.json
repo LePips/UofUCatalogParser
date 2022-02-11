@@ -1,0 +1,609 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECON 21",
+            "section": "020",
+            "courseTitle": "Princ of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 21",
+            "section": "070",
+            "courseTitle": "Princ of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 22",
+            "section": "070",
+            "courseTitle": "Princ of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 74",
+            "section": "020",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "ECON 74",
+            "section": "070",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "ECON 1010",
+            "section": "090",
+            "courseTitle": "Econ As Social Sci"
+        },
+        {
+            "catalogTitle": "ECON 1740",
+            "section": "002",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "ECON 1740",
+            "section": "020",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "ECON 1740",
+            "section": "070",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "001",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "002",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "003",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "004",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "005",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "006",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "007",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "008",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "009",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "010",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "011",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "012",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "020",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "070",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "090",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "095",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "096",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "097",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "098",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "099",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "001",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "002",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "003",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "004",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "005",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "006",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "007",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "008",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "009",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "010",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "011",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "020",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "070",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "090",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "095",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "096",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "097",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "098",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "099",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 3100",
+            "section": "001",
+            "courseTitle": "Labor Economics"
+        },
+        {
+            "catalogTitle": "ECON 3200",
+            "section": "001",
+            "courseTitle": "Money & Banking"
+        },
+        {
+            "catalogTitle": "ECON 3200",
+            "section": "070",
+            "courseTitle": "Money & Banking"
+        },
+        {
+            "catalogTitle": "ECON 3370",
+            "section": "001",
+            "courseTitle": "Mkts & Gov-Econ Co-op"
+        },
+        {
+            "catalogTitle": "ECON 3500",
+            "section": "001",
+            "courseTitle": "Intntl Economics"
+        },
+        {
+            "catalogTitle": "ECON 3540",
+            "section": "070",
+            "courseTitle": "Current Economic Pbls"
+        },
+        {
+            "catalogTitle": "ECON 3600",
+            "section": "001",
+            "courseTitle": "Quant Methods"
+        },
+        {
+            "catalogTitle": "ECON 3600",
+            "section": "002",
+            "courseTitle": "Quant Methods"
+        },
+        {
+            "catalogTitle": "ECON 3600",
+            "section": "070",
+            "courseTitle": "Quant Methods"
+        },
+        {
+            "catalogTitle": "ECON 3650",
+            "section": "001",
+            "courseTitle": "Princ Of Econometrics"
+        },
+        {
+            "catalogTitle": "ECON 3904",
+            "section": "001",
+            "courseTitle": "Modes Learning: SL"
+        },
+        {
+            "catalogTitle": "ECON 3905",
+            "section": "001",
+            "courseTitle": "Modes Learn: CW"
+        },
+        {
+            "catalogTitle": "ECON 3905",
+            "section": "002",
+            "courseTitle": "Modes Learn: CW"
+        },
+        {
+            "catalogTitle": "ECON 3905",
+            "section": "003",
+            "courseTitle": "Modes Learn: CW"
+        },
+        {
+            "catalogTitle": "ECON 3905",
+            "section": "004",
+            "courseTitle": "Modes Learn: CW"
+        },
+        {
+            "catalogTitle": "ECON 3905",
+            "section": "005",
+            "courseTitle": "Modes Learn: CW"
+        },
+        {
+            "catalogTitle": "ECON 4010",
+            "section": "001",
+            "courseTitle": "Intermed Microecon"
+        },
+        {
+            "catalogTitle": "ECON 4010",
+            "section": "002",
+            "courseTitle": "Intermed Microecon"
+        },
+        {
+            "catalogTitle": "ECON 4010",
+            "section": "003",
+            "courseTitle": "Intermed Microecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "001",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "002",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "003",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "004",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "070",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ECON 4999",
+            "section": "002",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ECON 4999",
+            "section": "003",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ECON 5050",
+            "section": "001",
+            "courseTitle": "John M. Keynes"
+        },
+        {
+            "catalogTitle": "ECON 5060",
+            "section": "001",
+            "courseTitle": "Hist-Economic Doctrine"
+        },
+        {
+            "catalogTitle": "ECON 5060",
+            "section": "070",
+            "courseTitle": "Hist-Economic Doctrine"
+        },
+        {
+            "catalogTitle": "ECON 5190",
+            "section": "001",
+            "courseTitle": "Health Economics"
+        },
+        {
+            "catalogTitle": "ECON 5240",
+            "section": "001",
+            "courseTitle": "Urban Economics"
+        },
+        {
+            "catalogTitle": "ECON 5430",
+            "section": "001",
+            "courseTitle": "Asian Econ Hist-Dev"
+        },
+        {
+            "catalogTitle": "ECON 5460",
+            "section": "001",
+            "courseTitle": "Latin American Hist-Dev"
+        },
+        {
+            "catalogTitle": "ECON 5470",
+            "section": "001",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 5470",
+            "section": "002",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 5540",
+            "section": "001",
+            "courseTitle": "Capitalism & Socialism"
+        },
+        {
+            "catalogTitle": "ECON 5560",
+            "section": "001",
+            "courseTitle": "Gender Econ Dev 3rd Wld"
+        },
+        {
+            "catalogTitle": "ECON 5950",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ECON 5950",
+            "section": "007",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ECON 5955",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ECON 6020",
+            "section": "001",
+            "courseTitle": "Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 6060",
+            "section": "001",
+            "courseTitle": "Hist-Economic Doctrine"
+        },
+        {
+            "catalogTitle": "ECON 6060",
+            "section": "070",
+            "courseTitle": "Hist-Economic Doctrine"
+        },
+        {
+            "catalogTitle": "ECON 6190",
+            "section": "001",
+            "courseTitle": "Health Economics"
+        },
+        {
+            "catalogTitle": "ECON 6240",
+            "section": "001",
+            "courseTitle": "Urban Economics"
+        },
+        {
+            "catalogTitle": "ECON 6430",
+            "section": "001",
+            "courseTitle": "Asian Econ Hist-Dev"
+        },
+        {
+            "catalogTitle": "ECON 6460",
+            "section": "001",
+            "courseTitle": "Latin American Hist-Dev"
+        },
+        {
+            "catalogTitle": "ECON 6470",
+            "section": "001",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 6470",
+            "section": "002",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 6540",
+            "section": "001",
+            "courseTitle": "Capitalism & Socialism"
+        },
+        {
+            "catalogTitle": "ECON 6560",
+            "section": "001",
+            "courseTitle": "Gender Econ Dev 3rd Wld"
+        },
+        {
+            "catalogTitle": "ECON 6620",
+            "section": "001",
+            "courseTitle": "Macro For Masters"
+        },
+        {
+            "catalogTitle": "ECON 6630",
+            "section": "001",
+            "courseTitle": "Applied Econometrics"
+        },
+        {
+            "catalogTitle": "ECON 6950",
+            "section": "001",
+            "courseTitle": "Directed Reading Mstrs"
+        },
+        {
+            "catalogTitle": "ECON 6950",
+            "section": "004",
+            "courseTitle": "Directed Reading Mstrs"
+        },
+        {
+            "catalogTitle": "ECON 6955",
+            "section": "001",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "ECON 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research Mstrs"
+        },
+        {
+            "catalogTitle": "ECON 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECON 7005",
+            "section": "001",
+            "courseTitle": "Microecon Theory I"
+        },
+        {
+            "catalogTitle": "ECON 7006",
+            "section": "001",
+            "courseTitle": "Microecon Theory II"
+        },
+        {
+            "catalogTitle": "ECON 7006",
+            "section": "002",
+            "courseTitle": "Microecon Theory II"
+        },
+        {
+            "catalogTitle": "ECON 7007",
+            "section": "001",
+            "courseTitle": "Macroeconomics I"
+        },
+        {
+            "catalogTitle": "ECON 7008",
+            "section": "001",
+            "courseTitle": "Macroeconomics II"
+        },
+        {
+            "catalogTitle": "ECON 7021",
+            "section": "001",
+            "courseTitle": "Intntl Economics II"
+        },
+        {
+            "catalogTitle": "ECON 7100",
+            "section": "001",
+            "courseTitle": "Ind Org-Publ Pol"
+        },
+        {
+            "catalogTitle": "ECON 7180",
+            "section": "001",
+            "courseTitle": "Gender & 3rd World Dev"
+        },
+        {
+            "catalogTitle": "ECON 7400",
+            "section": "001",
+            "courseTitle": "Economic History I"
+        },
+        {
+            "catalogTitle": "ECON 7801",
+            "section": "001",
+            "courseTitle": "Econometrics II"
+        },
+        {
+            "catalogTitle": "ECON 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ECON 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult PhD"
+        },
+        {
+            "catalogTitle": "ECON 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        },
+        {
+            "catalogTitle": "ECON 7990",
+            "section": "002",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

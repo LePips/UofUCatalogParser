@@ -1,0 +1,239 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 120",
+            "section": "002",
+            "courseTitle": "Photoshop for the Amateur"
+        },
+        {
+            "catalogTitle": "EDTEC 120",
+            "section": "004",
+            "courseTitle": "Photoshop for the Amateur"
+        },
+        {
+            "catalogTitle": "EDTEC 121",
+            "section": "002",
+            "courseTitle": "Photoshop for the Amateur Adv"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "005",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "006",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "008",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "005",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "006",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "008",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "001",
+            "courseTitle": "Excel Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 418",
+            "section": "005",
+            "courseTitle": "Access Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "001",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "002",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "003",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 453",
+            "section": "001",
+            "courseTitle": "Photoshop Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 453",
+            "section": "002",
+            "courseTitle": "Photoshop Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 455",
+            "section": "001",
+            "courseTitle": "Dreamweaver Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 456",
+            "section": "002",
+            "courseTitle": "Dreamweaver Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 457",
+            "section": "001",
+            "courseTitle": "Illustrator Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 457",
+            "section": "002",
+            "courseTitle": "Illustrator Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 458",
+            "section": "001",
+            "courseTitle": "Illustrator Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 458",
+            "section": "005",
+            "courseTitle": "Illustrator Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 459",
+            "section": "001",
+            "courseTitle": "XHTML/HTML5 Coding"
+        },
+        {
+            "catalogTitle": "EDTEC 459",
+            "section": "002",
+            "courseTitle": "XHTML/HTML5 Coding"
+        },
+        {
+            "catalogTitle": "EDTEC 465",
+            "section": "001",
+            "courseTitle": "FileMaker Pro Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 470",
+            "section": "001",
+            "courseTitle": "InDesign Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 472",
+            "section": "005",
+            "courseTitle": "CMS Web Design/Development"
+        },
+        {
+            "catalogTitle": "EDTEC 474",
+            "section": "001",
+            "courseTitle": "Search Engine Optimization"
+        },
+        {
+            "catalogTitle": "EDTEC 475",
+            "section": "001",
+            "courseTitle": "Cascading Style Sheets Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 475",
+            "section": "002",
+            "courseTitle": "Cascading Style Sheets Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 476",
+            "section": "002",
+            "courseTitle": "Cascading Style Sheets Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 479",
+            "section": "001",
+            "courseTitle": "Bldg Successful Email Newsltr"
+        },
+        {
+            "catalogTitle": "EDTEC 511",
+            "section": "001",
+            "courseTitle": "Linux LPIC-1 Exam Prep Crs 1"
+        },
+        {
+            "catalogTitle": "EDTEC 512",
+            "section": "001",
+            "courseTitle": "Linux LPIC-1 Exam Prep Crs 2"
+        },
+        {
+            "catalogTitle": "EDTEC 521",
+            "section": "001",
+            "courseTitle": "PHP Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 532",
+            "section": "001",
+            "courseTitle": "JavaScript Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 534",
+            "section": "001",
+            "courseTitle": "MySQL Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 535",
+            "section": "001",
+            "courseTitle": "MySQL Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 620",
+            "section": "002",
+            "courseTitle": "Mac OS X Support Ess"
+        },
+        {
+            "catalogTitle": "EDTEC 999",
+            "section": "001",
+            "courseTitle": "Apple Certification Exams"
+        },
+        {
+            "catalogTitle": "EDTEC 999",
+            "section": "002",
+            "courseTitle": "Apple Certification Exams"
+        },
+        {
+            "catalogTitle": "EDTEC 999",
+            "section": "003",
+            "courseTitle": "Apple Certification Exams"
+        },
+        {
+            "catalogTitle": "EDTEC 999",
+            "section": "004",
+            "courseTitle": "Apple Certification Exams"
+        },
+        {
+            "catalogTitle": "EDTEC 999",
+            "section": "005",
+            "courseTitle": "Apple Certification Exams"
+        },
+        {
+            "catalogTitle": "EDTEC 999",
+            "section": "006",
+            "courseTitle": "Apple Certification Exams"
+        },
+        {
+            "catalogTitle": "EDTEC 999",
+            "section": "007",
+            "courseTitle": "Apple Certification Exams"
+        },
+        {
+            "catalogTitle": "EDTEC 999",
+            "section": "008",
+            "courseTitle": "Apple Certification Exams"
+        }
+    ]
+}

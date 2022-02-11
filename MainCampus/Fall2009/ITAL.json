@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 101",
+            "section": "001",
+            "courseTitle": "Beginning Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 101",
+            "section": "003",
+            "courseTitle": "Beginning Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 201",
+            "section": "001",
+            "courseTitle": "Intermediate Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 304",
+            "section": "001",
+            "courseTitle": "Extensive Read & Comp"
+        },
+        {
+            "catalogTitle": "ITAL 360",
+            "section": "001",
+            "courseTitle": "Adv Grammar Review"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "001",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "002",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "003",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "001",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "002",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 3040",
+            "section": "001",
+            "courseTitle": "Extensive Read & Comp"
+        },
+        {
+            "catalogTitle": "ITAL 3060",
+            "section": "001",
+            "courseTitle": "Adv Grammar Review"
+        },
+        {
+            "catalogTitle": "ITAL 4900",
+            "section": "002",
+            "courseTitle": "Love, Fam, Soc cntmp Italn lit"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "006",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

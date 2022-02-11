@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "080",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 5200",
+            "section": "001",
+            "courseTitle": "Structure of Hungarian"
+        },
+        {
+            "catalogTitle": "LING 5981",
+            "section": "001",
+            "courseTitle": "Intro Computationl Ling"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "001",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 6080",
+            "section": "001",
+            "courseTitle": "Structure of Hungarian"
+        },
+        {
+            "catalogTitle": "LING 6081",
+            "section": "001",
+            "courseTitle": "Intro Computational Linguistic"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

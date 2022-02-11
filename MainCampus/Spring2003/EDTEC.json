@@ -1,0 +1,284 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 207",
+            "section": "001",
+            "courseTitle": "Website Dev w/Dreamweaver MX"
+        },
+        {
+            "catalogTitle": "EDTEC 208",
+            "section": "001",
+            "courseTitle": "Flash Animation for the Web"
+        },
+        {
+            "catalogTitle": "EDTEC 250",
+            "section": "001",
+            "courseTitle": "Print to Web"
+        },
+        {
+            "catalogTitle": "EDTEC 255",
+            "section": "001",
+            "courseTitle": "Dynamic Web Development"
+        },
+        {
+            "catalogTitle": "EDTEC 290",
+            "section": "002",
+            "courseTitle": "ICC Internet Comm Cert"
+        },
+        {
+            "catalogTitle": "EDTEC 292",
+            "section": "001",
+            "courseTitle": "IMDC: Inet Multimedia"
+        },
+        {
+            "catalogTitle": "EDTEC 410",
+            "section": "002",
+            "courseTitle": "PowerPoint Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 410",
+            "section": "004",
+            "courseTitle": "PowerPoint Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 410",
+            "section": "005",
+            "courseTitle": "PowerPoint Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 411",
+            "section": "001",
+            "courseTitle": "PowerPoint Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 411",
+            "section": "002",
+            "courseTitle": "PowerPoint Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 411",
+            "section": "003",
+            "courseTitle": "PowerPoint Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "001",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "004",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "005",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "001",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "005",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "001",
+            "courseTitle": "Excel Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 415",
+            "section": "001",
+            "courseTitle": "Word Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 415",
+            "section": "002",
+            "courseTitle": "Word Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 415",
+            "section": "003",
+            "courseTitle": "Word Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 415",
+            "section": "005",
+            "courseTitle": "Word Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 416",
+            "section": "001",
+            "courseTitle": "Word Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 416",
+            "section": "002",
+            "courseTitle": "Word Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 416",
+            "section": "005",
+            "courseTitle": "Word Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 417",
+            "section": "001",
+            "courseTitle": "Word Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 418",
+            "section": "001",
+            "courseTitle": "Access Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 425",
+            "section": "001",
+            "courseTitle": "Quickbooks Level I"
+        },
+        {
+            "catalogTitle": "EDTEC 426",
+            "section": "001",
+            "courseTitle": "Quickbooks Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 427",
+            "section": "001",
+            "courseTitle": "Intro Windows/Computers"
+        },
+        {
+            "catalogTitle": "EDTEC 427",
+            "section": "005",
+            "courseTitle": "Intro Windows/Computers"
+        },
+        {
+            "catalogTitle": "EDTEC 429",
+            "section": "001",
+            "courseTitle": "Introduction to Scanning"
+        },
+        {
+            "catalogTitle": "EDTEC 450",
+            "section": "002",
+            "courseTitle": "Flash Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 450",
+            "section": "003",
+            "courseTitle": "Flash Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 451",
+            "section": "001",
+            "courseTitle": "Flash Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 451",
+            "section": "002",
+            "courseTitle": "Flash Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "001",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "002",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "003",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 455",
+            "section": "002",
+            "courseTitle": "Dreamweaver Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 455",
+            "section": "003",
+            "courseTitle": "Dreamweaver Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 456",
+            "section": "001",
+            "courseTitle": "Dreamweaver Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 456",
+            "section": "002",
+            "courseTitle": "Dreamweaver Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 507",
+            "section": "001",
+            "courseTitle": "Java Program Language"
+        },
+        {
+            "catalogTitle": "EDTEC 507",
+            "section": "002",
+            "courseTitle": "Java Program Language"
+        },
+        {
+            "catalogTitle": "EDTEC 508",
+            "section": "001",
+            "courseTitle": "Cisco CCNA Boot Camp"
+        },
+        {
+            "catalogTitle": "EDTEC 508",
+            "section": "002",
+            "courseTitle": "Cisco CCNA Boot Camp"
+        },
+        {
+            "catalogTitle": "EDTEC 509",
+            "section": "001",
+            "courseTitle": "Cisco: CCDA"
+        },
+        {
+            "catalogTitle": "EDTEC 634",
+            "section": "001",
+            "courseTitle": "Access 2000 Intermedate"
+        },
+        {
+            "catalogTitle": "EDTEC 635",
+            "section": "001",
+            "courseTitle": "Access 2000 Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 648",
+            "section": "001",
+            "courseTitle": "Visio 2002 Beginning"
+        },
+        {
+            "catalogTitle": "EDTEC 787",
+            "section": "001",
+            "courseTitle": "A+ Certification"
+        },
+        {
+            "catalogTitle": "EDTEC 812",
+            "section": "003",
+            "courseTitle": "Cisco Pix Firewalls"
+        },
+        {
+            "catalogTitle": "EDTEC 825",
+            "section": "001",
+            "courseTitle": "Network Security Fund"
+        },
+        {
+            "catalogTitle": "EDTEC 826",
+            "section": "002",
+            "courseTitle": "Network Defense"
+        },
+        {
+            "catalogTitle": "EDTEC 827",
+            "section": "001",
+            "courseTitle": "PKI & Biometrics Concpt"
+        }
+    ]
+}

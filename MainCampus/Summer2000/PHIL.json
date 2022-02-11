@@ -1,0 +1,139 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "001",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "020",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "001",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1310",
+            "section": "001",
+            "courseTitle": "Science And Society"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "060",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 2500",
+            "section": "001",
+            "courseTitle": "Social Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 2850",
+            "section": "001",
+            "courseTitle": "Philosophy In Literatur"
+        },
+        {
+            "catalogTitle": "PHIL 3300",
+            "section": "001",
+            "courseTitle": "Theory Of Knowledge"
+        },
+        {
+            "catalogTitle": "PHIL 3510",
+            "section": "001",
+            "courseTitle": "Business/Prof Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3510",
+            "section": "002",
+            "courseTitle": "Business/Prof Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "001",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 3910",
+            "section": "002",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 3910",
+            "section": "003",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 3910",
+            "section": "004",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "PHIL 5910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 6910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 6970",
+            "section": "001",
+            "courseTitle": "MA/MS Thesis Research"
+        },
+        {
+            "catalogTitle": "PHIL 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult M.A."
+        },
+        {
+            "catalogTitle": "PHIL 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis, M.A."
+        },
+        {
+            "catalogTitle": "PHIL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis., Ph.D"
+        }
+    ]
+}

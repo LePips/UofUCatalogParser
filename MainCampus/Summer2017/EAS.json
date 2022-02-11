@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EAS 104",
+            "section": "001",
+            "courseTitle": "Grammar & Editing Nns"
+        },
+        {
+            "catalogTitle": "EAS 105",
+            "section": "001",
+            "courseTitle": "Composition For Nns"
+        },
+        {
+            "catalogTitle": "EAS 160",
+            "section": "001",
+            "courseTitle": "Tch & Lrn Across Lang"
+        },
+        {
+            "catalogTitle": "EAS 1040",
+            "section": "001",
+            "courseTitle": "Grammar & Editing Nns"
+        },
+        {
+            "catalogTitle": "EAS 1050",
+            "section": "001",
+            "courseTitle": "Composition For Nns"
+        },
+        {
+            "catalogTitle": "EAS 1060",
+            "section": "001",
+            "courseTitle": "Expository Wrtg for EAS"
+        },
+        {
+            "catalogTitle": "EAS 1600",
+            "section": "001",
+            "courseTitle": "Tch & Lrn Across Lang"
+        },
+        {
+            "catalogTitle": "EAS 3400",
+            "section": "001",
+            "courseTitle": "Arts around Globe"
+        },
+        {
+            "catalogTitle": "EAS 3510",
+            "section": "001",
+            "courseTitle": "Grammar and Stylistics"
+        },
+        {
+            "catalogTitle": "EAS 6150",
+            "section": "001",
+            "courseTitle": "Intro to Grad Writing 1"
+        }
+    ]
+}

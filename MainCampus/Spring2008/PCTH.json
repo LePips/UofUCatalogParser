@@ -1,0 +1,849 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PCTH 5122",
+            "section": "001",
+            "courseTitle": "Drug Lit Eval I"
+        },
+        {
+            "catalogTitle": "PCTH 5124",
+            "section": "001",
+            "courseTitle": "Comm Service Practicum"
+        },
+        {
+            "catalogTitle": "PCTH 5222",
+            "section": "001",
+            "courseTitle": "Therapeutics I"
+        },
+        {
+            "catalogTitle": "PCTH 5226",
+            "section": "001",
+            "courseTitle": "Pharm Compounding"
+        },
+        {
+            "catalogTitle": "PCTH 5226",
+            "section": "002",
+            "courseTitle": "Pharm Compounding"
+        },
+        {
+            "catalogTitle": "PCTH 5226",
+            "section": "003",
+            "courseTitle": "Pharm Compounding"
+        },
+        {
+            "catalogTitle": "PCTH 5230",
+            "section": "001",
+            "courseTitle": "Service-Learning Elec"
+        },
+        {
+            "catalogTitle": "PCTH 5640",
+            "section": "001",
+            "courseTitle": "Continuing Ed"
+        },
+        {
+            "catalogTitle": "PCTH 5641",
+            "section": "001",
+            "courseTitle": "Intro Nuc Pharm & Med"
+        },
+        {
+            "catalogTitle": "PCTH 5950",
+            "section": "001",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PCTH 6891",
+            "section": "001",
+            "courseTitle": "Research Seminar"
+        },
+        {
+            "catalogTitle": "PCTH 6960",
+            "section": "001",
+            "courseTitle": "Special Prob in Pharm"
+        },
+        {
+            "catalogTitle": "PCTH 6960",
+            "section": "002",
+            "courseTitle": "Special Prob in Pharm"
+        },
+        {
+            "catalogTitle": "PCTH 6960",
+            "section": "003",
+            "courseTitle": "Special Prob in Pharm"
+        },
+        {
+            "catalogTitle": "PCTH 6960",
+            "section": "004",
+            "courseTitle": "Special Prob in Pharm"
+        },
+        {
+            "catalogTitle": "PCTH 6960",
+            "section": "005",
+            "courseTitle": "Special Prob in Pharm"
+        },
+        {
+            "catalogTitle": "PCTH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Mstr"
+        },
+        {
+            "catalogTitle": "PCTH 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research: Mstr"
+        },
+        {
+            "catalogTitle": "PCTH 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research: Mstr"
+        },
+        {
+            "catalogTitle": "PCTH 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research: Mstr"
+        },
+        {
+            "catalogTitle": "PCTH 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research: Mstr"
+        },
+        {
+            "catalogTitle": "PCTH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult: Masters"
+        },
+        {
+            "catalogTitle": "PCTH 6980",
+            "section": "002",
+            "courseTitle": "Faculty Consult: Masters"
+        },
+        {
+            "catalogTitle": "PCTH 6980",
+            "section": "003",
+            "courseTitle": "Faculty Consult: Masters"
+        },
+        {
+            "catalogTitle": "PCTH 6980",
+            "section": "004",
+            "courseTitle": "Faculty Consult: Masters"
+        },
+        {
+            "catalogTitle": "PCTH 6980",
+            "section": "005",
+            "courseTitle": "Faculty Consult: Masters"
+        },
+        {
+            "catalogTitle": "PCTH 7100",
+            "section": "001",
+            "courseTitle": "Clinical Seminar"
+        },
+        {
+            "catalogTitle": "PCTH 7100",
+            "section": "002",
+            "courseTitle": "Clinical Seminar"
+        },
+        {
+            "catalogTitle": "PCTH 7100",
+            "section": "003",
+            "courseTitle": "Clinical Seminar"
+        },
+        {
+            "catalogTitle": "PCTH 7100",
+            "section": "004",
+            "courseTitle": "Clinical Seminar"
+        },
+        {
+            "catalogTitle": "PCTH 7150",
+            "section": "001",
+            "courseTitle": "Outcomes Research Elect"
+        },
+        {
+            "catalogTitle": "PCTH 7200",
+            "section": "001",
+            "courseTitle": "Clin Sem II"
+        },
+        {
+            "catalogTitle": "PCTH 7200",
+            "section": "002",
+            "courseTitle": "Clin Sem II"
+        },
+        {
+            "catalogTitle": "PCTH 7200",
+            "section": "003",
+            "courseTitle": "Clin Sem II"
+        },
+        {
+            "catalogTitle": "PCTH 7200",
+            "section": "004",
+            "courseTitle": "Clin Sem II"
+        },
+        {
+            "catalogTitle": "PCTH 7201",
+            "section": "001",
+            "courseTitle": "Herbal Meds"
+        },
+        {
+            "catalogTitle": "PCTH 7321",
+            "section": "001",
+            "courseTitle": "Intro Clin Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7322",
+            "section": "001",
+            "courseTitle": "Therapeutic III"
+        },
+        {
+            "catalogTitle": "PCTH 7340",
+            "section": "001",
+            "courseTitle": "Pharmaceutical Care"
+        },
+        {
+            "catalogTitle": "PCTH 7401",
+            "section": "001",
+            "courseTitle": "Core Comm Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7402",
+            "section": "001",
+            "courseTitle": "Core Inst Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7403",
+            "section": "001",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7404",
+            "section": "001",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7404",
+            "section": "002",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7405",
+            "section": "001",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7405",
+            "section": "002",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7406",
+            "section": "001",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7406",
+            "section": "002",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7406",
+            "section": "003",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7406",
+            "section": "004",
+            "courseTitle": "Adult Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7407",
+            "section": "001",
+            "courseTitle": "Adult Med Clrkshp - Vernal"
+        },
+        {
+            "catalogTitle": "PCTH 7407",
+            "section": "002",
+            "courseTitle": "Adult Med Clrkshp - Vernal"
+        },
+        {
+            "catalogTitle": "PCTH 7408",
+            "section": "001",
+            "courseTitle": "Adult Med Clkshp-Beaver"
+        },
+        {
+            "catalogTitle": "PCTH 7409",
+            "section": "001",
+            "courseTitle": "Adult Medicine Clerkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7410",
+            "section": "001",
+            "courseTitle": "Drug Info Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7411",
+            "section": "001",
+            "courseTitle": "Mgt Poisoning Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7430",
+            "section": "001",
+            "courseTitle": "Adv Pharm Law Seminar"
+        },
+        {
+            "catalogTitle": "PCTH 7434",
+            "section": "001",
+            "courseTitle": "Palliative Care Course"
+        },
+        {
+            "catalogTitle": "PCTH 7447",
+            "section": "001",
+            "courseTitle": "Poison Prevention Elect"
+        },
+        {
+            "catalogTitle": "PCTH 7500",
+            "section": "001",
+            "courseTitle": "Psych Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7501",
+            "section": "001",
+            "courseTitle": "Surgery Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7501",
+            "section": "002",
+            "courseTitle": "Surgery Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7502",
+            "section": "001",
+            "courseTitle": "Cardiology Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7502",
+            "section": "002",
+            "courseTitle": "Cardiology Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7503",
+            "section": "001",
+            "courseTitle": "Critical Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7503",
+            "section": "002",
+            "courseTitle": "Critical Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7503",
+            "section": "003",
+            "courseTitle": "Critical Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7503",
+            "section": "004",
+            "courseTitle": "Critical Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7503",
+            "section": "005",
+            "courseTitle": "Critical Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7504",
+            "section": "001",
+            "courseTitle": "Critical Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7504",
+            "section": "002",
+            "courseTitle": "Critical Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7505",
+            "section": "001",
+            "courseTitle": "Geriatric Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7506",
+            "section": "001",
+            "courseTitle": "Palliative Care Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7506",
+            "section": "002",
+            "courseTitle": "Palliative Care Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7507",
+            "section": "001",
+            "courseTitle": "Hem/On Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7507",
+            "section": "002",
+            "courseTitle": "Hem/On Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7508",
+            "section": "001",
+            "courseTitle": "Neurosurg Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7508",
+            "section": "002",
+            "courseTitle": "Neurosurg Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7509",
+            "section": "001",
+            "courseTitle": "Med Info Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7509",
+            "section": "002",
+            "courseTitle": "Med Info Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7510",
+            "section": "001",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7510",
+            "section": "002",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "001",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "002",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "003",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "004",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "005",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "006",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "007",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "008",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "009",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "010",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "011",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "012",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "013",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "014",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "015",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "016",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7511",
+            "section": "017",
+            "courseTitle": "Ambu Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7512",
+            "section": "001",
+            "courseTitle": "Ob/Gyn Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7513",
+            "section": "001",
+            "courseTitle": "Neonatal Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7513",
+            "section": "002",
+            "courseTitle": "Neonatal Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7513",
+            "section": "003",
+            "courseTitle": "Neonatal Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7513",
+            "section": "004",
+            "courseTitle": "Neonatal Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7513",
+            "section": "005",
+            "courseTitle": "Neonatal Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7514",
+            "section": "001",
+            "courseTitle": "Ped Crit Care Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7515",
+            "section": "001",
+            "courseTitle": "Infect Dis Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7515",
+            "section": "003",
+            "courseTitle": "Infect Dis Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7516",
+            "section": "001",
+            "courseTitle": "Peds ID Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7517",
+            "section": "001",
+            "courseTitle": "Rehab Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7517",
+            "section": "002",
+            "courseTitle": "Rehab Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7518",
+            "section": "001",
+            "courseTitle": "Nephrology Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7519",
+            "section": "001",
+            "courseTitle": "Neurology Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7520",
+            "section": "001",
+            "courseTitle": "Addiction Med Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7521",
+            "section": "001",
+            "courseTitle": "Pain Mgt Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7522",
+            "section": "001",
+            "courseTitle": "Nuc Pharm Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7524",
+            "section": "001",
+            "courseTitle": "Clinl Mgt Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7525",
+            "section": "001",
+            "courseTitle": "SICU Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7526",
+            "section": "001",
+            "courseTitle": "Amb Neuro Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7527",
+            "section": "001",
+            "courseTitle": "CLKSHP-BMT"
+        },
+        {
+            "catalogTitle": "PCTH 7529",
+            "section": "001",
+            "courseTitle": "Psych Elective Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7531",
+            "section": "001",
+            "courseTitle": "Clkshp-Pharm Industry"
+        },
+        {
+            "catalogTitle": "PCTH 7532",
+            "section": "001",
+            "courseTitle": "Investigational Drug Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7533",
+            "section": "001",
+            "courseTitle": "Clkshp-Organ Transplant"
+        },
+        {
+            "catalogTitle": "PCTH 7534",
+            "section": "001",
+            "courseTitle": "IHS - Adlt Med Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7535",
+            "section": "001",
+            "courseTitle": "Adv Internat Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7535",
+            "section": "002",
+            "courseTitle": "Adv Internat Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7536",
+            "section": "001",
+            "courseTitle": "IHS - Ambul Care Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7536",
+            "section": "002",
+            "courseTitle": "IHS - Ambul Care Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7536",
+            "section": "003",
+            "courseTitle": "IHS - Ambul Care Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7536",
+            "section": "004",
+            "courseTitle": "IHS - Ambul Care Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7536",
+            "section": "005",
+            "courseTitle": "IHS - Ambul Care Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7537",
+            "section": "001",
+            "courseTitle": "Admin Mgmt Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7537",
+            "section": "002",
+            "courseTitle": "Admin Mgmt Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7537",
+            "section": "003",
+            "courseTitle": "Admin Mgmt Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7537",
+            "section": "004",
+            "courseTitle": "Admin Mgmt Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7538",
+            "section": "002",
+            "courseTitle": "Outcomes Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7539",
+            "section": "001",
+            "courseTitle": "Retail Pharm Mgt Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7540",
+            "section": "001",
+            "courseTitle": "Applied Clin Pharm"
+        },
+        {
+            "catalogTitle": "PCTH 7541",
+            "section": "001",
+            "courseTitle": "PET Radiopharm Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7542",
+            "section": "001",
+            "courseTitle": "Clin Mgmt Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7545",
+            "section": "001",
+            "courseTitle": "Nutraceutical Ind Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7550",
+            "section": "001",
+            "courseTitle": "Anticoagulation Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7550",
+            "section": "002",
+            "courseTitle": "Anticoagulation Clkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7601",
+            "section": "001",
+            "courseTitle": "Adv Comm Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7601",
+            "section": "002",
+            "courseTitle": "Adv Comm Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7601",
+            "section": "003",
+            "courseTitle": "Adv Comm Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7601",
+            "section": "004",
+            "courseTitle": "Adv Comm Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7601",
+            "section": "005",
+            "courseTitle": "Adv Comm Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7601",
+            "section": "006",
+            "courseTitle": "Adv Comm Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7601",
+            "section": "007",
+            "courseTitle": "Adv Comm Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7602",
+            "section": "001",
+            "courseTitle": "Adv Inst Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7603",
+            "section": "001",
+            "courseTitle": "Home Health Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7603",
+            "section": "002",
+            "courseTitle": "Home Health Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7603",
+            "section": "003",
+            "courseTitle": "Home Health Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7603",
+            "section": "004",
+            "courseTitle": "Home Health Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7603",
+            "section": "005",
+            "courseTitle": "Home Health Clerkship"
+        },
+        {
+            "catalogTitle": "PCTH 7604",
+            "section": "001",
+            "courseTitle": "Long Term Care Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7604",
+            "section": "002",
+            "courseTitle": "Long Term Care Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7604",
+            "section": "003",
+            "courseTitle": "Long Term Care Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7604",
+            "section": "004",
+            "courseTitle": "Long Term Care Clrkshp"
+        },
+        {
+            "catalogTitle": "PCTH 7640",
+            "section": "001",
+            "courseTitle": "Adv Clin Tox"
+        },
+        {
+            "catalogTitle": "PCTH 7857",
+            "section": "001",
+            "courseTitle": "Pregnancy Risk Line"
+        },
+        {
+            "catalogTitle": "PCTH 7950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PCTH 7950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PCTH 7950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PCTH 7950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PCTH 7950",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PCTH 7950",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

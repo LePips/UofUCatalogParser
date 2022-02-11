@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 750",
+            "section": "001",
+            "courseTitle": "Creative Memoir Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 752",
+            "section": "002",
+            "courseTitle": "Creative Wtg"
+        },
+        {
+            "catalogTitle": "LLWRC 756",
+            "section": "001",
+            "courseTitle": "Writing for Children"
+        },
+        {
+            "catalogTitle": "LLWRC 756",
+            "section": "002",
+            "courseTitle": "Writing for Children"
+        },
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction"
+        }
+    ]
+}

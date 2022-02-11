@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD ID 7020",
+            "section": "001",
+            "courseTitle": "Science of Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7040",
+            "section": "001",
+            "courseTitle": "Science of Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7060",
+            "section": "001",
+            "courseTitle": "Social Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7070",
+            "section": "001",
+            "courseTitle": "Doctor/Patient Relationship"
+        },
+        {
+            "catalogTitle": "MD ID 7090",
+            "section": "001",
+            "courseTitle": "Social Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7140",
+            "section": "001",
+            "courseTitle": "Topics In Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7170",
+            "section": "001",
+            "courseTitle": "Public/Community Project"
+        },
+        {
+            "catalogTitle": "MD ID 7200",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MD ID 7210",
+            "section": "001",
+            "courseTitle": "US Health Care System"
+        }
+    ]
+}

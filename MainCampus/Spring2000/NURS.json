@@ -1,0 +1,654 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NURS 2000",
+            "section": "001",
+            "courseTitle": "Lifespan Growth/Develop"
+        },
+        {
+            "catalogTitle": "NURS 2270",
+            "section": "001",
+            "courseTitle": "Pathophysiology I"
+        },
+        {
+            "catalogTitle": "NURS 3000",
+            "section": "001",
+            "courseTitle": "Indiv Assessmnt: Nrsg"
+        },
+        {
+            "catalogTitle": "NURS 3001",
+            "section": "001",
+            "courseTitle": "Epidem/Comm Assessment"
+        },
+        {
+            "catalogTitle": "NURS 3010",
+            "section": "001",
+            "courseTitle": "Essential Concepts:Nrsg"
+        },
+        {
+            "catalogTitle": "NURS 3020",
+            "section": "001",
+            "courseTitle": "Nursing Skills/Arts"
+        },
+        {
+            "catalogTitle": "NURS 3020",
+            "section": "002",
+            "courseTitle": "Nursing Skills/Arts"
+        },
+        {
+            "catalogTitle": "NURS 3100",
+            "section": "001",
+            "courseTitle": "Roles & Values"
+        },
+        {
+            "catalogTitle": "NURS 3200",
+            "section": "001",
+            "courseTitle": "History & Traditions"
+        },
+        {
+            "catalogTitle": "NURS 3260",
+            "section": "001",
+            "courseTitle": "Nrsg Mngt: Drug Therapy"
+        },
+        {
+            "catalogTitle": "NURS 3510",
+            "section": "001",
+            "courseTitle": "Lifespan Events"
+        },
+        {
+            "catalogTitle": "NURS 3520",
+            "section": "001",
+            "courseTitle": "Common Prob/Life Events"
+        },
+        {
+            "catalogTitle": "NURS 3520",
+            "section": "002",
+            "courseTitle": "Common Prob/Life Events"
+        },
+        {
+            "catalogTitle": "NURS 3520",
+            "section": "003",
+            "courseTitle": "Common Prob/Life Events"
+        },
+        {
+            "catalogTitle": "NURS 3520",
+            "section": "004",
+            "courseTitle": "Common Prob/Life Events"
+        },
+        {
+            "catalogTitle": "NURS 3520",
+            "section": "005",
+            "courseTitle": "Common Prob/Life Events"
+        },
+        {
+            "catalogTitle": "NURS 3520",
+            "section": "006",
+            "courseTitle": "Common Prob/Life Events"
+        },
+        {
+            "catalogTitle": "NURS 4010",
+            "section": "001",
+            "courseTitle": "Acute/Chronic Illness"
+        },
+        {
+            "catalogTitle": "NURS 4020",
+            "section": "001",
+            "courseTitle": "Acute/Chronic Ill: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4020",
+            "section": "002",
+            "courseTitle": "Acute/Chronic Ill: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4020",
+            "section": "003",
+            "courseTitle": "Acute/Chronic Ill: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4020",
+            "section": "004",
+            "courseTitle": "Acute/Chronic Ill: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4020",
+            "section": "005",
+            "courseTitle": "Acute/Chronic Ill: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4020",
+            "section": "006",
+            "courseTitle": "Acute/Chronic Ill: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4100",
+            "section": "001",
+            "courseTitle": "Nursing Research"
+        },
+        {
+            "catalogTitle": "NURS 4100",
+            "section": "002",
+            "courseTitle": "Nursing Research"
+        },
+        {
+            "catalogTitle": "NURS 4200",
+            "section": "001",
+            "courseTitle": "Profess Lead: Hlth Care"
+        },
+        {
+            "catalogTitle": "NURS 4270",
+            "section": "001",
+            "courseTitle": "Pathophysiology II"
+        },
+        {
+            "catalogTitle": "NURS 4270",
+            "section": "002",
+            "courseTitle": "Pathophysiology II"
+        },
+        {
+            "catalogTitle": "NURS 4300",
+            "section": "001",
+            "courseTitle": "High Acuity Nursing"
+        },
+        {
+            "catalogTitle": "NURS 4335",
+            "section": "001",
+            "courseTitle": "High Acuity Nrsg: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4335",
+            "section": "002",
+            "courseTitle": "High Acuity Nrsg: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4335",
+            "section": "003",
+            "courseTitle": "High Acuity Nrsg: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4335",
+            "section": "004",
+            "courseTitle": "High Acuity Nrsg: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4335",
+            "section": "005",
+            "courseTitle": "High Acuity Nrsg: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4335",
+            "section": "006",
+            "courseTitle": "High Acuity Nrsg: Clin"
+        },
+        {
+            "catalogTitle": "NURS 4400",
+            "section": "001",
+            "courseTitle": "Capstone"
+        },
+        {
+            "catalogTitle": "NURS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "NURS 5900",
+            "section": "001",
+            "courseTitle": "Reflect Serv-Learn"
+        },
+        {
+            "catalogTitle": "NURS 5940",
+            "section": "001",
+            "courseTitle": "Info Retrieve/Managmt"
+        },
+        {
+            "catalogTitle": "NURS 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 5961",
+            "section": "001",
+            "courseTitle": "Practicum: Study Abroad"
+        },
+        {
+            "catalogTitle": "NURS 6001",
+            "section": "015",
+            "courseTitle": "Adv Nrsg Roles"
+        },
+        {
+            "catalogTitle": "NURS 6005",
+            "section": "001",
+            "courseTitle": "Prog Mgnt & Eval"
+        },
+        {
+            "catalogTitle": "NURS 6012",
+            "section": "001",
+            "courseTitle": "Intro Curric/Instruct"
+        },
+        {
+            "catalogTitle": "NURS 6020",
+            "section": "001",
+            "courseTitle": "Adlt Assess/Hlth Promo"
+        },
+        {
+            "catalogTitle": "NURS 6041",
+            "section": "015",
+            "courseTitle": "Common Ped Problems"
+        },
+        {
+            "catalogTitle": "NURS 6041",
+            "section": "033",
+            "courseTitle": "Common Ped Problems"
+        },
+        {
+            "catalogTitle": "NURS 6041",
+            "section": "034",
+            "courseTitle": "Common Ped Problems"
+        },
+        {
+            "catalogTitle": "NURS 6041",
+            "section": "037",
+            "courseTitle": "Common Ped Problems"
+        },
+        {
+            "catalogTitle": "NURS 6041",
+            "section": "039",
+            "courseTitle": "Common Ped Problems"
+        },
+        {
+            "catalogTitle": "NURS 6041",
+            "section": "041",
+            "courseTitle": "Common Ped Problems"
+        },
+        {
+            "catalogTitle": "NURS 6050",
+            "section": "001",
+            "courseTitle": "Pharmacology"
+        },
+        {
+            "catalogTitle": "NURS 6051",
+            "section": "001",
+            "courseTitle": "Psychopharmacology"
+        },
+        {
+            "catalogTitle": "NURS 6052",
+            "section": "001",
+            "courseTitle": "Pharmacolog: NMW"
+        },
+        {
+            "catalogTitle": "NURS 6053",
+            "section": "001",
+            "courseTitle": "Pharmacology: NNP"
+        },
+        {
+            "catalogTitle": "NURS 6105",
+            "section": "001",
+            "courseTitle": "Postpart/Newborn Mngt"
+        },
+        {
+            "catalogTitle": "NURS 6106",
+            "section": "001",
+            "courseTitle": "Chldbear Complications"
+        },
+        {
+            "catalogTitle": "NURS 6107",
+            "section": "001",
+            "courseTitle": "Nmw Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6110",
+            "section": "001",
+            "courseTitle": "NMW Internship"
+        },
+        {
+            "catalogTitle": "NURS 6200",
+            "section": "001",
+            "courseTitle": "Dev Constructs: 0-3 Yrs"
+        },
+        {
+            "catalogTitle": "NURS 6201",
+            "section": "001",
+            "courseTitle": "Med/Hlth: Early Intrven"
+        },
+        {
+            "catalogTitle": "NURS 6270",
+            "section": "001",
+            "courseTitle": "Neonatal Physiology"
+        },
+        {
+            "catalogTitle": "NURS 6296",
+            "section": "001",
+            "courseTitle": "Pnp Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6298",
+            "section": "001",
+            "courseTitle": "Pnp Residency"
+        },
+        {
+            "catalogTitle": "NURS 6310",
+            "section": "001",
+            "courseTitle": "Mood/Anxiety Disorders"
+        },
+        {
+            "catalogTitle": "NURS 6320",
+            "section": "001",
+            "courseTitle": "Psych/Mh Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6330",
+            "section": "001",
+            "courseTitle": "Severe Mental Illness"
+        },
+        {
+            "catalogTitle": "NURS 6350",
+            "section": "001",
+            "courseTitle": "Psych/Mh Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6380",
+            "section": "001",
+            "courseTitle": "Psy/Mnth Prac III: Res"
+        },
+        {
+            "catalogTitle": "NURS 6396",
+            "section": "001",
+            "courseTitle": "WHNP  Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6398",
+            "section": "001",
+            "courseTitle": "WHNP Residency"
+        },
+        {
+            "catalogTitle": "NURS 6402",
+            "section": "001",
+            "courseTitle": "Onc Clin Spec Res"
+        },
+        {
+            "catalogTitle": "NURS 6496",
+            "section": "001",
+            "courseTitle": "ANP  Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6498",
+            "section": "001",
+            "courseTitle": "ANP Residency"
+        },
+        {
+            "catalogTitle": "NURS 6560",
+            "section": "001",
+            "courseTitle": "Complementary Healing"
+        },
+        {
+            "catalogTitle": "NURS 6561",
+            "section": "001",
+            "courseTitle": "Internat'L Hlth Care"
+        },
+        {
+            "catalogTitle": "NURS 6570",
+            "section": "001",
+            "courseTitle": "Fnd & Dev Occ Hlth Nurs"
+        },
+        {
+            "catalogTitle": "NURS 6571",
+            "section": "001",
+            "courseTitle": "Occ Hlth Nurs Clin/Adm"
+        },
+        {
+            "catalogTitle": "NURS 6580",
+            "section": "001",
+            "courseTitle": "Issues: Rural Health"
+        },
+        {
+            "catalogTitle": "NURS 6591",
+            "section": "001",
+            "courseTitle": "Comm Hlth Nrsg Pract II"
+        },
+        {
+            "catalogTitle": "NURS 6592",
+            "section": "001",
+            "courseTitle": "Comm Hlth Nrsg Residenc"
+        },
+        {
+            "catalogTitle": "NURS 6601",
+            "section": "015",
+            "courseTitle": "Episod Prob-Adlts/Eldrs"
+        },
+        {
+            "catalogTitle": "NURS 6601",
+            "section": "033",
+            "courseTitle": "Episod Prob-Adlts/Eldrs"
+        },
+        {
+            "catalogTitle": "NURS 6601",
+            "section": "034",
+            "courseTitle": "Episod Prob-Adlts/Eldrs"
+        },
+        {
+            "catalogTitle": "NURS 6601",
+            "section": "037",
+            "courseTitle": "Episod Prob-Adlts/Eldrs"
+        },
+        {
+            "catalogTitle": "NURS 6601",
+            "section": "039",
+            "courseTitle": "Episod Prob-Adlts/Eldrs"
+        },
+        {
+            "catalogTitle": "NURS 6601",
+            "section": "041",
+            "courseTitle": "Episod Prob-Adlts/Eldrs"
+        },
+        {
+            "catalogTitle": "NURS 6696",
+            "section": "001",
+            "courseTitle": "Gnp  Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6698",
+            "section": "001",
+            "courseTitle": "Gnp Residency"
+        },
+        {
+            "catalogTitle": "NURS 6777",
+            "section": "001",
+            "courseTitle": "Pt Care Admin: Pract"
+        },
+        {
+            "catalogTitle": "NURS 6778",
+            "section": "001",
+            "courseTitle": "Admin Seminar"
+        },
+        {
+            "catalogTitle": "NURS 6796",
+            "section": "001",
+            "courseTitle": "Fnp  Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6798",
+            "section": "001",
+            "courseTitle": "Fnp Residency"
+        },
+        {
+            "catalogTitle": "NURS 6801",
+            "section": "001",
+            "courseTitle": "Clin Sys Analys/Design"
+        },
+        {
+            "catalogTitle": "NURS 6802",
+            "section": "001",
+            "courseTitle": "Clin Decision Support"
+        },
+        {
+            "catalogTitle": "NURS 6804",
+            "section": "001",
+            "courseTitle": "Clin Systems Implementn"
+        },
+        {
+            "catalogTitle": "NURS 6805",
+            "section": "001",
+            "courseTitle": "Nrsg/Hlth Informat Prac"
+        },
+        {
+            "catalogTitle": "NURS 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 6950",
+            "section": "054",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 6950",
+            "section": "055",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 6950",
+            "section": "056",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 6950",
+            "section": "057",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 6960",
+            "section": "002",
+            "courseTitle": "Cancer Pathophysiology"
+        },
+        {
+            "catalogTitle": "NURS 6961",
+            "section": "001",
+            "courseTitle": "Grad Prac/Abroad"
+        },
+        {
+            "catalogTitle": "NURS 6962",
+            "section": "001",
+            "courseTitle": "Rural P/MH Nurs"
+        },
+        {
+            "catalogTitle": "NURS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NURS 6975",
+            "section": "001",
+            "courseTitle": "Masters Project"
+        },
+        {
+            "catalogTitle": "NURS 6975",
+            "section": "052",
+            "courseTitle": "Masters Project"
+        },
+        {
+            "catalogTitle": "NURS 6975",
+            "section": "053",
+            "courseTitle": "Masters Project"
+        },
+        {
+            "catalogTitle": "NURS 6975",
+            "section": "054",
+            "courseTitle": "Masters Project"
+        },
+        {
+            "catalogTitle": "NURS 6975",
+            "section": "056",
+            "courseTitle": "Masters Project"
+        },
+        {
+            "catalogTitle": "NURS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NURS 6980",
+            "section": "050",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NURS 6980",
+            "section": "051",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NURS 6980",
+            "section": "052",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NURS 7002",
+            "section": "001",
+            "courseTitle": "Experi/Correla Designs"
+        },
+        {
+            "catalogTitle": "NURS 7010",
+            "section": "001",
+            "courseTitle": "Domains Of Knowledge"
+        },
+        {
+            "catalogTitle": "NURS 7100",
+            "section": "001",
+            "courseTitle": "Research Practicum"
+        },
+        {
+            "catalogTitle": "NURS 7202",
+            "section": "001",
+            "courseTitle": "Statistics II"
+        },
+        {
+            "catalogTitle": "NURS 7300",
+            "section": "001",
+            "courseTitle": "Professional Practicum"
+        },
+        {
+            "catalogTitle": "NURS 7771",
+            "section": "001",
+            "courseTitle": "Policy Form/Analysis"
+        },
+        {
+            "catalogTitle": "NURS 7777",
+            "section": "001",
+            "courseTitle": "Doctoral Synthesis"
+        },
+        {
+            "catalogTitle": "NURS 7880",
+            "section": "001",
+            "courseTitle": "Nonparametric Stats"
+        },
+        {
+            "catalogTitle": "NURS 7890",
+            "section": "001",
+            "courseTitle": "Grounded Theory Res"
+        },
+        {
+            "catalogTitle": "NURS 7950",
+            "section": "001",
+            "courseTitle": "Independent Study-Phd"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7970",
+            "section": "035",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NURS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NURS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

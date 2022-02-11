@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2010",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "003",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "004",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "001",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4430",
+            "section": "001",
+            "courseTitle": "Process Analysis"
+        },
+        {
+            "catalogTitle": "IS 5910",
+            "section": "001",
+            "courseTitle": "Building Bus Intelligence Sys"
+        },
+        {
+            "catalogTitle": "IS 5910",
+            "section": "002",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 5910",
+            "section": "003",
+            "courseTitle": "Data Structures & Algorithms"
+        },
+        {
+            "catalogTitle": "IS 6010",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 6010",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "001",
+            "courseTitle": "Process Analysis"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "001",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "001",
+            "courseTitle": "Information Systems in China"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "002",
+            "courseTitle": "Data Warehousing & Data Mining"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "001",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "002",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        }
+    ]
+}

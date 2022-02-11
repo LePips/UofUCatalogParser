@@ -1,0 +1,224 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OC TH 3000",
+            "section": "001",
+            "courseTitle": "Intro to Occup Therapy"
+        },
+        {
+            "catalogTitle": "OC TH 5030",
+            "section": "001",
+            "courseTitle": "The Body"
+        },
+        {
+            "catalogTitle": "OC TH 5030",
+            "section": "002",
+            "courseTitle": "The Body"
+        },
+        {
+            "catalogTitle": "OC TH 5060",
+            "section": "001",
+            "courseTitle": "Conditions"
+        },
+        {
+            "catalogTitle": "OC TH 6010",
+            "section": "001",
+            "courseTitle": "Hx & Found of Occ Prac"
+        },
+        {
+            "catalogTitle": "OC TH 6120",
+            "section": "001",
+            "courseTitle": "Occup & Prac-Theory I"
+        },
+        {
+            "catalogTitle": "OC TH 6140",
+            "section": "001",
+            "courseTitle": "Occup & Prac-Skills I"
+        },
+        {
+            "catalogTitle": "OC TH 6140",
+            "section": "002",
+            "courseTitle": "Occup & Prac-Skills I"
+        },
+        {
+            "catalogTitle": "OC TH 6140",
+            "section": "003",
+            "courseTitle": "Occup & Prac-Skills I"
+        },
+        {
+            "catalogTitle": "OC TH 6160",
+            "section": "001",
+            "courseTitle": "Occup & Pract-Eval I"
+        },
+        {
+            "catalogTitle": "OC TH 6160",
+            "section": "002",
+            "courseTitle": "Occup & Pract-Eval I"
+        },
+        {
+            "catalogTitle": "OC TH 6160",
+            "section": "003",
+            "courseTitle": "Occup & Pract-Eval I"
+        },
+        {
+            "catalogTitle": "OC TH 6400",
+            "section": "001",
+            "courseTitle": "Clinical Intern Sem-I"
+        },
+        {
+            "catalogTitle": "OC TH 6440",
+            "section": "001",
+            "courseTitle": "Clinical Internship-II"
+        },
+        {
+            "catalogTitle": "OC TH 6460",
+            "section": "001",
+            "courseTitle": "Clinical Internship-III"
+        },
+        {
+            "catalogTitle": "OC TH 6520",
+            "section": "001",
+            "courseTitle": "Occupation Adult Neuro"
+        },
+        {
+            "catalogTitle": "OC TH 6520",
+            "section": "002",
+            "courseTitle": "Occupation Adult Neuro"
+        },
+        {
+            "catalogTitle": "OC TH 6520",
+            "section": "003",
+            "courseTitle": "Occupation Adult Neuro"
+        },
+        {
+            "catalogTitle": "OC TH 6700",
+            "section": "001",
+            "courseTitle": "Ldrshp & Mgt in Prac"
+        },
+        {
+            "catalogTitle": "OC TH 6740",
+            "section": "001",
+            "courseTitle": "Occup Interven & Tech"
+        },
+        {
+            "catalogTitle": "OC TH 6740",
+            "section": "002",
+            "courseTitle": "Occup Interven & Tech"
+        },
+        {
+            "catalogTitle": "OC TH 6830",
+            "section": "001",
+            "courseTitle": "Pro Seminar III"
+        },
+        {
+            "catalogTitle": "OC TH 6850",
+            "section": "001",
+            "courseTitle": "Professional Seminar V"
+        },
+        {
+            "catalogTitle": "OC TH 6920",
+            "section": "001",
+            "courseTitle": "Applied Research"
+        },
+        {
+            "catalogTitle": "OC TH 6930",
+            "section": "001",
+            "courseTitle": "Service Learning"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6960",
+            "section": "001",
+            "courseTitle": "OT Graduate Project"
+        },
+        {
+            "catalogTitle": "OC TH 6970",
+            "section": "001",
+            "courseTitle": "Clinical Problems in OT"
+        },
+        {
+            "catalogTitle": "OC TH 6970",
+            "section": "002",
+            "courseTitle": "Clinical Problems in OT"
+        },
+        {
+            "catalogTitle": "OC TH 6970",
+            "section": "003",
+            "courseTitle": "Clinical Problems in OT"
+        },
+        {
+            "catalogTitle": "OC TH 6970",
+            "section": "004",
+            "courseTitle": "Clinical Problems in OT"
+        },
+        {
+            "catalogTitle": "OC TH 6970",
+            "section": "005",
+            "courseTitle": "Clinical Problems in OT"
+        },
+        {
+            "catalogTitle": "OC TH 6970",
+            "section": "006",
+            "courseTitle": "Clinical Problems in OT"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "001",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "002",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "003",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "004",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "005",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "006",
+            "courseTitle": "Special Workshops"
+        }
+    ]
+}

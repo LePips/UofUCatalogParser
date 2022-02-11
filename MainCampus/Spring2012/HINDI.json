@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HINDI 102",
+            "section": "001",
+            "courseTitle": "Beginning Hindi-Urdu II"
+        },
+        {
+            "catalogTitle": "HINDI 202",
+            "section": "001",
+            "courseTitle": "Int Hindi-Urdu II"
+        },
+        {
+            "catalogTitle": "HINDI 1020",
+            "section": "001",
+            "courseTitle": "Beginning Hindi-Urdu II"
+        },
+        {
+            "catalogTitle": "HINDI 2020",
+            "section": "001",
+            "courseTitle": "Int Hindi-Urdu II"
+        },
+        {
+            "catalogTitle": "HINDI 4620",
+            "section": "001",
+            "courseTitle": "Pop Culture of S. Asia"
+        },
+        {
+            "catalogTitle": "HINDI 6620",
+            "section": "001",
+            "courseTitle": "Pop Culture of S. Asia"
+        },
+        {
+            "catalogTitle": "HINDI 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HINDI 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

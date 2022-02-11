@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARTH 250",
+            "section": "001",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 1010",
+            "section": "001",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "001",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 3600",
+            "section": "001",
+            "courseTitle": "History of Photography"
+        },
+        {
+            "catalogTitle": "ARTH 4500",
+            "section": "001",
+            "courseTitle": "Whores & Savages"
+        },
+        {
+            "catalogTitle": "ARTH 4850",
+            "section": "001",
+            "courseTitle": "Art History Internship"
+        },
+        {
+            "catalogTitle": "ARTH 6000",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6000",
+            "section": "002",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6400",
+            "section": "001",
+            "courseTitle": "Adv 20th c. Art"
+        },
+        {
+            "catalogTitle": "ARTH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: MA"
+        },
+        {
+            "catalogTitle": "ARTH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation MA"
+        }
+    ]
+}

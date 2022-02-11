@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 4900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "HUM 6101",
+            "section": "001",
+            "courseTitle": "Foundations: Envr. Hum."
+        },
+        {
+            "catalogTitle": "HUM 6103",
+            "section": "001",
+            "courseTitle": "Ecology of Residency"
+        },
+        {
+            "catalogTitle": "HUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "HUM 6804",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "001",
+            "courseTitle": "Ecocriticism"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "002",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "003",
+            "courseTitle": "Writing about Climate Change"
+        },
+        {
+            "catalogTitle": "HUM 6970",
+            "section": "001",
+            "courseTitle": "Thesis/Proj Rsrch: M.A."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEPRS 1",
+            "section": "001",
+            "courseTitle": "Pee Wee Picassos (Age 4-5)"
+        },
+        {
+            "catalogTitle": "YEPRS 22",
+            "section": "001",
+            "courseTitle": "Spanish Fiesta (Age 4-5)"
+        },
+        {
+            "catalogTitle": "YEPRS 23",
+            "section": "001",
+            "courseTitle": "LegoMania (Age 4-5)"
+        },
+        {
+            "catalogTitle": "YEPRS 50",
+            "section": "001",
+            "courseTitle": "Space Camp (Age 4-5)"
+        },
+        {
+            "catalogTitle": "YEPRS 50",
+            "section": "002",
+            "courseTitle": "Space Camp (Age 4-5)"
+        }
+    ]
+}

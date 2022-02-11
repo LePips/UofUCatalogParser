@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "001",
+            "courseTitle": "Hinduism & Islam"
+        },
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "002",
+            "courseTitle": "Soviet Culture"
+        },
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "003",
+            "courseTitle": "From Grimm to Disney"
+        },
+        {
+            "catalogTitle": "CLCS 3960",
+            "section": "001",
+            "courseTitle": "Cultures in Contact"
+        },
+        {
+            "catalogTitle": "CLCS 6660",
+            "section": "001",
+            "courseTitle": "God, Love, & Mysticism"
+        },
+        {
+            "catalogTitle": "CLCS 6750",
+            "section": "001",
+            "courseTitle": "Trends in Comp Lit"
+        },
+        {
+            "catalogTitle": "CLCS 6880",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "CLCS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CLCS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

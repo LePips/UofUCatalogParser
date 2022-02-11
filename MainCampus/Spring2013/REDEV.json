@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6010",
+            "section": "001",
+            "courseTitle": "Urban Research"
+        },
+        {
+            "catalogTitle": "REDEV 6260",
+            "section": "001",
+            "courseTitle": "Land Use Law"
+        },
+        {
+            "catalogTitle": "REDEV 6352",
+            "section": "001",
+            "courseTitle": "Sustainable Design"
+        },
+        {
+            "catalogTitle": "REDEV 6440",
+            "section": "001",
+            "courseTitle": "Urban Design Principles"
+        },
+        {
+            "catalogTitle": "REDEV 6450",
+            "section": "001",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6581",
+            "section": "001",
+            "courseTitle": "Main Street Revital"
+        },
+        {
+            "catalogTitle": "REDEV 6720",
+            "section": "001",
+            "courseTitle": "Land & Trans Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "002",
+            "courseTitle": "Green Communities"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "003",
+            "courseTitle": "City in Literature"
+        }
+    ]
+}

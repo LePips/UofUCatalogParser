@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 1010",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 3010",
+            "section": "001",
+            "courseTitle": "3rd Yr Israeli Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 4400",
+            "section": "001",
+            "courseTitle": "Pol/Culture in Hebr Lit"
+        },
+        {
+            "catalogTitle": "HEBR 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "HEBR 6400",
+            "section": "001",
+            "courseTitle": "Pol/Culture in Hebr Lit"
+        },
+        {
+            "catalogTitle": "HEBR 6600",
+            "section": "001",
+            "courseTitle": "Bible Hebrew Prose"
+        },
+        {
+            "catalogTitle": "HEBR 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-MA"
+        }
+    ]
+}

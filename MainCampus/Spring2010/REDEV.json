@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6020",
+            "section": "001",
+            "courseTitle": "Urban & Reg Analysis"
+        },
+        {
+            "catalogTitle": "REDEV 6260",
+            "section": "001",
+            "courseTitle": "Land Use Law"
+        },
+        {
+            "catalogTitle": "REDEV 6310",
+            "section": "001",
+            "courseTitle": "Urban Dev. Methods"
+        },
+        {
+            "catalogTitle": "REDEV 6311",
+            "section": "001",
+            "courseTitle": "Urb Real Est Dev Topics"
+        },
+        {
+            "catalogTitle": "REDEV 6340",
+            "section": "001",
+            "courseTitle": "City/Metro Econ Dev"
+        },
+        {
+            "catalogTitle": "REDEV 6450",
+            "section": "001",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6570",
+            "section": "001",
+            "courseTitle": "Preservation Technology"
+        },
+        {
+            "catalogTitle": "REDEV 6581",
+            "section": "001",
+            "courseTitle": "Main Street Revital"
+        },
+        {
+            "catalogTitle": "REDEV 6721",
+            "section": "001",
+            "courseTitle": "Travel Behavior Analysis"
+        },
+        {
+            "catalogTitle": "REDEV 6721",
+            "section": "002",
+            "courseTitle": "Travel Modeling"
+        },
+        {
+            "catalogTitle": "REDEV 6721",
+            "section": "003",
+            "courseTitle": "Transportation Law"
+        },
+        {
+            "catalogTitle": "REDEV 6721",
+            "section": "004",
+            "courseTitle": "Traffic Management"
+        },
+        {
+            "catalogTitle": "REDEV 6721",
+            "section": "005",
+            "courseTitle": "Land Use"
+        },
+        {
+            "catalogTitle": "REDEV 6721",
+            "section": "006",
+            "courseTitle": "Pedestrian Friendly Design"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "001",
+            "courseTitle": "Ethics in Shaping Communities"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "002",
+            "courseTitle": "Green Communities"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 1010",
+            "section": "301",
+            "courseTitle": "Intro to Study of F&MA"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "301",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "302",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "303",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "301",
+            "courseTitle": "Special Topics"
+        }
+    ]
+}

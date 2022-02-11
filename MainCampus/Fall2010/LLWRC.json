@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction I"
+        },
+        {
+            "catalogTitle": "LLWRC 779",
+            "section": "001",
+            "courseTitle": "Read Like a Writer"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "001",
+            "courseTitle": "Toolbox Basics"
+        },
+        {
+            "catalogTitle": "LLWRC 782",
+            "section": "001",
+            "courseTitle": "Personal Essay"
+        },
+        {
+            "catalogTitle": "LLWRC 787",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction II"
+        },
+        {
+            "catalogTitle": "LLWRC 806",
+            "section": "001",
+            "courseTitle": "Publish Your Book"
+        },
+        {
+            "catalogTitle": "LLWRC 812",
+            "section": "001",
+            "courseTitle": "Grammar & Punctuation"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 2000",
+            "section": "002",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 3000",
+            "section": "001",
+            "courseTitle": "Intro:Net-Design Web"
+        },
+        {
+            "catalogTitle": "FA 3200",
+            "section": "001",
+            "courseTitle": "Exp Anim, Vid., and Web"
+        },
+        {
+            "catalogTitle": "FA 3300",
+            "section": "001",
+            "courseTitle": "Intro to Computer Music"
+        },
+        {
+            "catalogTitle": "FA 3500",
+            "section": "001",
+            "courseTitle": "Integrating Tech in PA"
+        },
+        {
+            "catalogTitle": "FA 3700",
+            "section": "001",
+            "courseTitle": "Multimedia Graphics"
+        },
+        {
+            "catalogTitle": "FA 3730",
+            "section": "001",
+            "courseTitle": "Beg Video Prod/Edit"
+        },
+        {
+            "catalogTitle": "FA 5100",
+            "section": "001",
+            "courseTitle": "Inter. Media Design"
+        },
+        {
+            "catalogTitle": "FA 5160",
+            "section": "001",
+            "courseTitle": "3 D Computer Graphics"
+        },
+        {
+            "catalogTitle": "FA 5900",
+            "section": "001",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 6800",
+            "section": "001",
+            "courseTitle": "Grad. Sem. ArtsTech"
+        }
+    ]
+}

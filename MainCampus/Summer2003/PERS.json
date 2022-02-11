@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PERS 1010",
+            "section": "008",
+            "courseTitle": "Beginning Persian I"
+        },
+        {
+            "catalogTitle": "PERS 1020",
+            "section": "008",
+            "courseTitle": "Beginning Persian II"
+        },
+        {
+            "catalogTitle": "PERS 2010",
+            "section": "008",
+            "courseTitle": "Intermediate Persian I"
+        },
+        {
+            "catalogTitle": "PERS 2020",
+            "section": "008",
+            "courseTitle": "Intermediate Persian II"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSHTO 101",
+            "section": "001",
+            "courseTitle": "Beginning Pashto I"
+        },
+        {
+            "catalogTitle": "PSHTO 102",
+            "section": "001",
+            "courseTitle": "Beginning Pashto II"
+        },
+        {
+            "catalogTitle": "PSHTO 1010",
+            "section": "001",
+            "courseTitle": "Beginning Pashto I"
+        },
+        {
+            "catalogTitle": "PSHTO 1020",
+            "section": "001",
+            "courseTitle": "Beginning Pashto II"
+        }
+    ]
+}

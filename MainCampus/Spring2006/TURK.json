@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "TURK 1020",
+            "section": "001",
+            "courseTitle": "Beginning Turkish II"
+        },
+        {
+            "catalogTitle": "TURK 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Turkish II"
+        },
+        {
+            "catalogTitle": "TURK 3020",
+            "section": "001",
+            "courseTitle": "Third Year Turkish II"
+        },
+        {
+            "catalogTitle": "TURK 6880",
+            "section": "105",
+            "courseTitle": "ST: Third World Feminism"
+        },
+        {
+            "catalogTitle": "TURK 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "TURK 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "TURK 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "TURK 6920",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "TURK 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MA"
+        },
+        {
+            "catalogTitle": "TURK 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation-MA"
+        }
+    ]
+}

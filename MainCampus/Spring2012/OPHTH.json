@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OPHTH 7580",
+            "section": "001",
+            "courseTitle": "General Ophthalmology"
+        },
+        {
+            "catalogTitle": "OPHTH 7590",
+            "section": "001",
+            "courseTitle": "Ophthalmology Research"
+        },
+        {
+            "catalogTitle": "OPHTH 7600",
+            "section": "001",
+            "courseTitle": "Ophthalmology Precept"
+        },
+        {
+            "catalogTitle": "OPHTH 7610",
+            "section": "001",
+            "courseTitle": "Clin Ophth Nonspec"
+        },
+        {
+            "catalogTitle": "OPHTH 7700",
+            "section": "001",
+            "courseTitle": "Neuro-Ophthalmology"
+        }
+    ]
+}

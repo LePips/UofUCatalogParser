@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MDCRC 6110",
+            "section": "001",
+            "courseTitle": "Intermediate Epidemiology"
+        },
+        {
+            "catalogTitle": "MDCRC 6230",
+            "section": "002",
+            "courseTitle": "Health Services Research"
+        },
+        {
+            "catalogTitle": "MDCRC 6410",
+            "section": "001",
+            "courseTitle": "Seminar Series"
+        },
+        {
+            "catalogTitle": "MDCRC 6970",
+            "section": "001",
+            "courseTitle": "Research Project"
+        }
+    ]
+}

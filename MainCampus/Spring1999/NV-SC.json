@@ -1,3 +1,144 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "NV SC 1020",
+            "section": "001",
+            "courseTitle": "Seapwr & Maritime Affr"
+        },
+        {
+            "catalogTitle": "NV SC 1020",
+            "section": "002",
+            "courseTitle": "Seapwr & Maritime Affr"
+        },
+        {
+            "catalogTitle": "NV SC 1020",
+            "section": "003",
+            "courseTitle": "Seapwr & Maritime Affr"
+        },
+        {
+            "catalogTitle": "NV SC 1020",
+            "section": "004",
+            "courseTitle": "Seapwr & Maritime Affr"
+        },
+        {
+            "catalogTitle": "NV SC 2010",
+            "section": "001",
+            "courseTitle": "Naval Weapons I"
+        },
+        {
+            "catalogTitle": "NV SC 2010",
+            "section": "002",
+            "courseTitle": "Naval Weapons I"
+        },
+        {
+            "catalogTitle": "NV SC 2010",
+            "section": "003",
+            "courseTitle": "Naval Weapons I"
+        },
+        {
+            "catalogTitle": "NV SC 2010",
+            "section": "004",
+            "courseTitle": "Naval Weapons I"
+        },
+        {
+            "catalogTitle": "NV SC 2020",
+            "section": "001",
+            "courseTitle": "Naval Engineering II"
+        },
+        {
+            "catalogTitle": "NV SC 2020",
+            "section": "002",
+            "courseTitle": "Naval Engineering II"
+        },
+        {
+            "catalogTitle": "NV SC 2020",
+            "section": "003",
+            "courseTitle": "Naval Engineering II"
+        },
+        {
+            "catalogTitle": "NV SC 2020",
+            "section": "004",
+            "courseTitle": "Naval Engineering II"
+        },
+        {
+            "catalogTitle": "NV SC 2110",
+            "section": "001",
+            "courseTitle": "Evol Of Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 2110",
+            "section": "002",
+            "courseTitle": "Evol Of Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 2110",
+            "section": "003",
+            "courseTitle": "Evol Of Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 2110",
+            "section": "004",
+            "courseTitle": "Evol Of Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 3020",
+            "section": "001",
+            "courseTitle": "Nav Ops And Nav II"
+        },
+        {
+            "catalogTitle": "NV SC 3020",
+            "section": "002",
+            "courseTitle": "Nav Ops And Nav II"
+        },
+        {
+            "catalogTitle": "NV SC 3020",
+            "section": "003",
+            "courseTitle": "Nav Ops And Nav II"
+        },
+        {
+            "catalogTitle": "NV SC 3020",
+            "section": "004",
+            "courseTitle": "Nav Ops And Nav II"
+        },
+        {
+            "catalogTitle": "NV SC 3110",
+            "section": "001",
+            "courseTitle": "Amphib Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 3110",
+            "section": "002",
+            "courseTitle": "Amphib Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 3110",
+            "section": "003",
+            "courseTitle": "Amphib Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 3110",
+            "section": "004",
+            "courseTitle": "Amphib Warfare"
+        },
+        {
+            "catalogTitle": "NV SC 4010",
+            "section": "001",
+            "courseTitle": "Ldrshp & Mgt"
+        },
+        {
+            "catalogTitle": "NV SC 4010",
+            "section": "002",
+            "courseTitle": "Ldrshp & Mgt"
+        },
+        {
+            "catalogTitle": "NV SC 4020",
+            "section": "001",
+            "courseTitle": "Ldrshp & Ethics"
+        },
+        {
+            "catalogTitle": "NV SC 4020",
+            "section": "002",
+            "courseTitle": "Ldrshp & Ethics"
+        }
+    ]
 }

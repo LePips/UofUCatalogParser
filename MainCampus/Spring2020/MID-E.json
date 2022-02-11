@@ -1,3 +1,59 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MID E 1000",
+            "section": "090",
+            "courseTitle": "Intro to Middle East"
+        },
+        {
+            "catalogTitle": "MID E 3540",
+            "section": "001",
+            "courseTitle": "Middle East Since 1914"
+        },
+        {
+            "catalogTitle": "MID E 3880",
+            "section": "001",
+            "courseTitle": "The Jewish Experience"
+        },
+        {
+            "catalogTitle": "MID E 3880",
+            "section": "002",
+            "courseTitle": "Modern Syria and Lebanon"
+        },
+        {
+            "catalogTitle": "MID E 3880",
+            "section": "003",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MID E 3880",
+            "section": "090",
+            "courseTitle": "Religion & Fashion in Mid East"
+        },
+        {
+            "catalogTitle": "MID E 4107",
+            "section": "001",
+            "courseTitle": "Model Arab League"
+        },
+        {
+            "catalogTitle": "MID E 4510",
+            "section": "001",
+            "courseTitle": "Introduction to Islam"
+        },
+        {
+            "catalogTitle": "MID E 4880",
+            "section": "090",
+            "courseTitle": "Enviro Issues in Africa & Asia"
+        },
+        {
+            "catalogTitle": "MID E 5635",
+            "section": "001",
+            "courseTitle": "Politics/Society Iran"
+        },
+        {
+            "catalogTitle": "MID E 6880",
+            "section": "090",
+            "courseTitle": "Enviro Issues in Africa & Asia"
+        }
+    ]
 }

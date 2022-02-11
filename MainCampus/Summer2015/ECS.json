@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECS 3150",
+            "section": "001",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 3150",
+            "section": "002",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 5645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 6617",
+            "section": "001",
+            "courseTitle": "Global Know & Texts"
+        },
+        {
+            "catalogTitle": "ECS 6644",
+            "section": "001",
+            "courseTitle": "Ed & Stratification"
+        },
+        {
+            "catalogTitle": "ECS 6645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 7617",
+            "section": "001",
+            "courseTitle": "Global Know & Texts"
+        },
+        {
+            "catalogTitle": "ECS 7644",
+            "section": "001",
+            "courseTitle": "Ed & Stratification"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECS 3150",
+            "section": "001",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 3180",
+            "section": "090",
+            "courseTitle": "Home School Comm Relat"
+        },
+        {
+            "catalogTitle": "ECS 5645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 6627",
+            "section": "001",
+            "courseTitle": "Race, Culture..."
+        },
+        {
+            "catalogTitle": "ECS 6645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "001",
+            "courseTitle": "Courageous Conv & Ed Equity"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "090",
+            "courseTitle": "Home School Comm Relat"
+        },
+        {
+            "catalogTitle": "ECS 7627",
+            "section": "001",
+            "courseTitle": "Race, Culture..."
+        },
+        {
+            "catalogTitle": "ECS 7950",
+            "section": "001",
+            "courseTitle": "Courageous Conv & Ed Equity"
+        }
+    ]
+}

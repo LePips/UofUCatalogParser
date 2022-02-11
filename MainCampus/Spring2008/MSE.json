@@ -1,0 +1,179 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MSE 3010",
+            "section": "001",
+            "courseTitle": "Mtrls Proc Lab"
+        },
+        {
+            "catalogTitle": "MSE 3011",
+            "section": "001",
+            "courseTitle": "Struct Analys Of Mtrls"
+        },
+        {
+            "catalogTitle": "MSE 3011",
+            "section": "002",
+            "courseTitle": "Struct Analys Of Mtrls"
+        },
+        {
+            "catalogTitle": "MSE 3310",
+            "section": "001",
+            "courseTitle": "Intro To Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 5025",
+            "section": "001",
+            "courseTitle": "Mech Props of Solids"
+        },
+        {
+            "catalogTitle": "MSE 5034",
+            "section": "001",
+            "courseTitle": "Kinetics"
+        },
+        {
+            "catalogTitle": "MSE 5035",
+            "section": "001",
+            "courseTitle": "Electron Microscopy"
+        },
+        {
+            "catalogTitle": "MSE 5040",
+            "section": "001",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "MSE 5040",
+            "section": "002",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "MSE 5040",
+            "section": "003",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "MSE 5050",
+            "section": "001",
+            "courseTitle": "Organic Elec & Phot: Mtls & De"
+        },
+        {
+            "catalogTitle": "MSE 5050",
+            "section": "002",
+            "courseTitle": "Thin Film Techniques"
+        },
+        {
+            "catalogTitle": "MSE 5061",
+            "section": "001",
+            "courseTitle": "Transport Phenomena"
+        },
+        {
+            "catalogTitle": "MSE 5090",
+            "section": "001",
+            "courseTitle": "Case Studies In MSE"
+        },
+        {
+            "catalogTitle": "MSE 5099",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "MSE 5202",
+            "section": "001",
+            "courseTitle": "Semicond Phy II"
+        },
+        {
+            "catalogTitle": "MSE 5212",
+            "section": "001",
+            "courseTitle": "Semicond Lab II"
+        },
+        {
+            "catalogTitle": "MSE 5354",
+            "section": "001",
+            "courseTitle": "Proc Adv Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 5354",
+            "section": "002",
+            "courseTitle": "Proc Adv Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 5471",
+            "section": "001",
+            "courseTitle": "Polymer Processing"
+        },
+        {
+            "catalogTitle": "MSE 6034",
+            "section": "001",
+            "courseTitle": "Kinetics"
+        },
+        {
+            "catalogTitle": "MSE 6050",
+            "section": "001",
+            "courseTitle": "Thin Film Techniques"
+        },
+        {
+            "catalogTitle": "MSE 6050",
+            "section": "002",
+            "courseTitle": "Mat. for Energy Applications"
+        },
+        {
+            "catalogTitle": "MSE 6050",
+            "section": "003",
+            "courseTitle": "Adv Topics Processing Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 6050",
+            "section": "004",
+            "courseTitle": "Adv Topics Polymer Processing"
+        },
+        {
+            "catalogTitle": "MSE 6050",
+            "section": "005",
+            "courseTitle": "Organic Elec & Phot: Mtls & De"
+        },
+        {
+            "catalogTitle": "MSE 6061",
+            "section": "001",
+            "courseTitle": "Transport Phenomena"
+        },
+        {
+            "catalogTitle": "MSE 6421",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult"
+        },
+        {
+            "catalogTitle": "MSE 7801",
+            "section": "001",
+            "courseTitle": "Graduate Seminar II"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

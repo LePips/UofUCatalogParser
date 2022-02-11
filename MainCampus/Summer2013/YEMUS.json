@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEMUS 417",
+            "section": "001",
+            "courseTitle": "Opera Workshop (Age 8-11)"
+        },
+        {
+            "catalogTitle": "YEMUS 419",
+            "section": "001",
+            "courseTitle": "Vocal Training II (Age 12-17)"
+        },
+        {
+            "catalogTitle": "YEMUS 427",
+            "section": "001",
+            "courseTitle": "Beatmaking (Age 13-16)"
+        },
+        {
+            "catalogTitle": "YEMUS 428",
+            "section": "001",
+            "courseTitle": "Songwriting (Age 13-16)"
+        },
+        {
+            "catalogTitle": "YEMUS 900",
+            "section": "001",
+            "courseTitle": "Guitar Camp (Age 12-18)"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 752",
+            "section": "001",
+            "courseTitle": "Creative Wtg"
+        },
+        {
+            "catalogTitle": "LLWRC 753",
+            "section": "001",
+            "courseTitle": "Continung Creative Wrtg"
+        },
+        {
+            "catalogTitle": "LLWRC 756",
+            "section": "001",
+            "courseTitle": "Children's Literature"
+        },
+        {
+            "catalogTitle": "LLWRC 756",
+            "section": "002",
+            "courseTitle": "Writing for Children"
+        },
+        {
+            "catalogTitle": "LLWRC 757",
+            "section": "002",
+            "courseTitle": "Intro to Screen Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction"
+        },
+        {
+            "catalogTitle": "LLWRC 772",
+            "section": "001",
+            "courseTitle": "Oral Histories"
+        }
+    ]
+}

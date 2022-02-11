@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 375",
+            "section": "001",
+            "courseTitle": "Music Theory"
+        },
+        {
+            "catalogTitle": "LLMT 377",
+            "section": "001",
+            "courseTitle": "Introduction to Guitar"
+        },
+        {
+            "catalogTitle": "LLMT 378",
+            "section": "001",
+            "courseTitle": "Guitar I"
+        },
+        {
+            "catalogTitle": "LLMT 379",
+            "section": "001",
+            "courseTitle": "Guitar II"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "002",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "003",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "004",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "001",
+            "courseTitle": "Guitar: Beg II"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "002",
+            "courseTitle": "Guitar: Beg II"
+        },
+        {
+            "catalogTitle": "LLMT 385",
+            "section": "001",
+            "courseTitle": "Guitar Workshop"
+        },
+        {
+            "catalogTitle": "LLMT 385",
+            "section": "002",
+            "courseTitle": "Guitar Workshop"
+        },
+        {
+            "catalogTitle": "LLMT 388",
+            "section": "001",
+            "courseTitle": "Classical Guitar"
+        },
+        {
+            "catalogTitle": "LLMT 388",
+            "section": "002",
+            "courseTitle": "Classical Guitar"
+        },
+        {
+            "catalogTitle": "LLMT 389",
+            "section": "001",
+            "courseTitle": "Intro to the Didjeridoo"
+        },
+        {
+            "catalogTitle": "LLMT 394",
+            "section": "001",
+            "courseTitle": "Popular Songwriting"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improvisational Acting"
+        }
+    ]
+}

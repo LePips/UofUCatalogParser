@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIO C 6420",
+            "section": "001",
+            "courseTitle": "Advanced Biochemistry"
+        },
+        {
+            "catalogTitle": "BIO C 6600",
+            "section": "001",
+            "courseTitle": "Metabolic Regulation"
+        },
+        {
+            "catalogTitle": "BIO C 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIO C 7100",
+            "section": "001",
+            "courseTitle": "Metabolism"
+        },
+        {
+            "catalogTitle": "BIO C 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIO C 7990",
+            "section": "001",
+            "courseTitle": "Cont-Registration-Ph D"
+        }
+    ]
+}

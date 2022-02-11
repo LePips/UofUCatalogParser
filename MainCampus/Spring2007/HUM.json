@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 1010",
+            "section": "001",
+            "courseTitle": "Intell Trad of West"
+        },
+        {
+            "catalogTitle": "HUM 1150",
+            "section": "001",
+            "courseTitle": "Persp American Culture"
+        },
+        {
+            "catalogTitle": "HUM 1900",
+            "section": "001",
+            "courseTitle": "Humanities in Focus"
+        },
+        {
+            "catalogTitle": "HUM 1900",
+            "section": "015",
+            "courseTitle": "Humanities in Focus"
+        },
+        {
+            "catalogTitle": "HUM 4900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "HUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        }
+    ]
+}

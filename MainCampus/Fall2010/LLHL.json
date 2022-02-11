@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHL 101",
+            "section": "001",
+            "courseTitle": "Yoga for Strength"
+        },
+        {
+            "catalogTitle": "LLHL 102",
+            "section": "001",
+            "courseTitle": "Yoga Experiential Retreat"
+        },
+        {
+            "catalogTitle": "LLHL 107",
+            "section": "001",
+            "courseTitle": "Zen Meditation"
+        },
+        {
+            "catalogTitle": "LLHL 116",
+            "section": "001",
+            "courseTitle": "Couples Massage Workshop"
+        },
+        {
+            "catalogTitle": "LLHL 116",
+            "section": "002",
+            "courseTitle": "Couples Massage Workshop"
+        }
+    ]
+}

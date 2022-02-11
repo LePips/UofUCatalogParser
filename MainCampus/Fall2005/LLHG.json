@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHG 474",
+            "section": "001",
+            "courseTitle": "Holiday Wreath Making"
+        },
+        {
+            "catalogTitle": "LLHG 475",
+            "section": "001",
+            "courseTitle": "Intro to Fashion Sewing"
+        },
+        {
+            "catalogTitle": "LLHG 500",
+            "section": "001",
+            "courseTitle": "Design w/ Fresh Flowers"
+        },
+        {
+            "catalogTitle": "LLHG 520",
+            "section": "001",
+            "courseTitle": "Trees and Shrubs"
+        },
+        {
+            "catalogTitle": "LLHG 520",
+            "section": "002",
+            "courseTitle": "Trees and Shrubs"
+        }
+    ]
+}

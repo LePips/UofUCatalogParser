@@ -1,0 +1,484 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 1900",
+            "section": "001",
+            "courseTitle": "Freshman Seminar"
+        },
+        {
+            "catalogTitle": "ECE 2200",
+            "section": "001",
+            "courseTitle": "El/CP En for Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2200",
+            "section": "002",
+            "courseTitle": "El/CP En for Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "001",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "002",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "003",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2260",
+            "section": "001",
+            "courseTitle": "Fund Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2260",
+            "section": "002",
+            "courseTitle": "Fund Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2260",
+            "section": "003",
+            "courseTitle": "Fund Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2260",
+            "section": "004",
+            "courseTitle": "Fund Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2260",
+            "section": "005",
+            "courseTitle": "Fund Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "001",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "002",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "003",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "004",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "001",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "002",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "003",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "004",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "005",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "006",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "007",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "001",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "002",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "003",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "004",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "005",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "006",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3600",
+            "section": "001",
+            "courseTitle": "Intro to Elec Eng Power"
+        },
+        {
+            "catalogTitle": "ECE 3600",
+            "section": "002",
+            "courseTitle": "Intro to Elec Eng Power"
+        },
+        {
+            "catalogTitle": "ECE 3600",
+            "section": "003",
+            "courseTitle": "Intro to Elec Eng Power"
+        },
+        {
+            "catalogTitle": "ECE 3710",
+            "section": "001",
+            "courseTitle": "Computer Design Lab"
+        },
+        {
+            "catalogTitle": "ECE 3740",
+            "section": "001",
+            "courseTitle": "Intro To Quantum & Rel"
+        },
+        {
+            "catalogTitle": "ECE 3810",
+            "section": "001",
+            "courseTitle": "Computer Organization"
+        },
+        {
+            "catalogTitle": "ECE 3900",
+            "section": "001",
+            "courseTitle": "Junior Seminar"
+        },
+        {
+            "catalogTitle": "ECE 3940",
+            "section": "001",
+            "courseTitle": "Technical Comm I"
+        },
+        {
+            "catalogTitle": "ECE 3991",
+            "section": "001",
+            "courseTitle": "CE Junior Seminar"
+        },
+        {
+            "catalogTitle": "ECE 4710",
+            "section": "001",
+            "courseTitle": "Comptr Eng Sr Project"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "001",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "002",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "003",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "004",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "005",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "006",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "007",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "008",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4900",
+            "section": "009",
+            "courseTitle": "Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 4990",
+            "section": "079",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "ECE 4991",
+            "section": "001",
+            "courseTitle": "CE Senior Thesis I"
+        },
+        {
+            "catalogTitle": "ECE 5074",
+            "section": "001",
+            "courseTitle": "Photo Mtrls&SolarCells"
+        },
+        {
+            "catalogTitle": "ECE 5201",
+            "section": "001",
+            "courseTitle": "Phys of Nano-Elec Dev"
+        },
+        {
+            "catalogTitle": "ECE 5202",
+            "section": "001",
+            "courseTitle": "Intg Circuit Microfab"
+        },
+        {
+            "catalogTitle": "ECE 5320",
+            "section": "001",
+            "courseTitle": "Microwave Eng I"
+        },
+        {
+            "catalogTitle": "ECE 5320",
+            "section": "002",
+            "courseTitle": "Microwave Eng I"
+        },
+        {
+            "catalogTitle": "ECE 5320",
+            "section": "003",
+            "courseTitle": "Microwave Eng I"
+        },
+        {
+            "catalogTitle": "ECE 5325",
+            "section": "001",
+            "courseTitle": "Wireless Communication"
+        },
+        {
+            "catalogTitle": "ECE 5410",
+            "section": "001",
+            "courseTitle": "Lasers & Applications"
+        },
+        {
+            "catalogTitle": "ECE 5410",
+            "section": "002",
+            "courseTitle": "Lasers & Applications"
+        },
+        {
+            "catalogTitle": "ECE 5480",
+            "section": "001",
+            "courseTitle": "Ultrasound"
+        },
+        {
+            "catalogTitle": "ECE 5510",
+            "section": "001",
+            "courseTitle": "Random Process"
+        },
+        {
+            "catalogTitle": "ECE 5580",
+            "section": "001",
+            "courseTitle": "Implemen of DSP Sys"
+        },
+        {
+            "catalogTitle": "ECE 5610",
+            "section": "001",
+            "courseTitle": "Power Electronics Fund"
+        },
+        {
+            "catalogTitle": "ECE 5670",
+            "section": "001",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 5670",
+            "section": "002",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 5710",
+            "section": "001",
+            "courseTitle": "Digital VLSI Design"
+        },
+        {
+            "catalogTitle": "ECE 5750",
+            "section": "001",
+            "courseTitle": "Syn/Verif Asyn VLSI Sys"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "001",
+            "courseTitle": "Elec. Forensics & Failure"
+        },
+        {
+            "catalogTitle": "ECE 5961",
+            "section": "001",
+            "courseTitle": "Microfluidic Chip Design & Fab"
+        },
+        {
+            "catalogTitle": "ECE 5962",
+            "section": "001",
+            "courseTitle": "Metamaterials & Adv Ant Theory"
+        },
+        {
+            "catalogTitle": "ECE 6074",
+            "section": "001",
+            "courseTitle": "Photo Mtrls&SolarCells"
+        },
+        {
+            "catalogTitle": "ECE 6231",
+            "section": "001",
+            "courseTitle": "Microsensor & Actuators"
+        },
+        {
+            "catalogTitle": "ECE 6232",
+            "section": "001",
+            "courseTitle": "Microsensors Lab"
+        },
+        {
+            "catalogTitle": "ECE 6232",
+            "section": "002",
+            "courseTitle": "Microsensors Lab"
+        },
+        {
+            "catalogTitle": "ECE 6232",
+            "section": "003",
+            "courseTitle": "Microsensors Lab"
+        },
+        {
+            "catalogTitle": "ECE 6265",
+            "section": "001",
+            "courseTitle": "Adv Proc of Semicond"
+        },
+        {
+            "catalogTitle": "ECE 6322",
+            "section": "001",
+            "courseTitle": "Microwave Eng I"
+        },
+        {
+            "catalogTitle": "ECE 6322",
+            "section": "002",
+            "courseTitle": "Microwave Eng I"
+        },
+        {
+            "catalogTitle": "ECE 6322",
+            "section": "003",
+            "courseTitle": "Microwave Eng I"
+        },
+        {
+            "catalogTitle": "ECE 6325",
+            "section": "001",
+            "courseTitle": "Wireless Communication"
+        },
+        {
+            "catalogTitle": "ECE 6460",
+            "section": "001",
+            "courseTitle": "Biophotonics"
+        },
+        {
+            "catalogTitle": "ECE 6540",
+            "section": "001",
+            "courseTitle": "Estimation Theory"
+        },
+        {
+            "catalogTitle": "ECE 6590",
+            "section": "001",
+            "courseTitle": "Software Radio"
+        },
+        {
+            "catalogTitle": "ECE 6670",
+            "section": "001",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 6670",
+            "section": "002",
+            "courseTitle": "Control Electric Motors"
+        },
+        {
+            "catalogTitle": "ECE 6710",
+            "section": "001",
+            "courseTitle": "Digital VLSI Design"
+        },
+        {
+            "catalogTitle": "ECE 6730",
+            "section": "001",
+            "courseTitle": "RF Int Circuit Design"
+        },
+        {
+            "catalogTitle": "ECE 6750",
+            "section": "001",
+            "courseTitle": "Syn & Ver Asyn VLSI Sys"
+        },
+        {
+            "catalogTitle": "ECE 6900",
+            "section": "001",
+            "courseTitle": "Graduate Sem"
+        },
+        {
+            "catalogTitle": "ECE 6961",
+            "section": "002",
+            "courseTitle": "Microfluidic Chip Design & Fab"
+        },
+        {
+            "catalogTitle": "ECE 6961",
+            "section": "003",
+            "courseTitle": "Adv Topics in Communication"
+        },
+        {
+            "catalogTitle": "ECE 6962",
+            "section": "001",
+            "courseTitle": "Metamaterials & Adv Ant Theory"
+        },
+        {
+            "catalogTitle": "ECE 6981",
+            "section": "001",
+            "courseTitle": "Fac Consultation-CPT"
+        },
+        {
+            "catalogTitle": "ECE 7231",
+            "section": "001",
+            "courseTitle": "Microsensor & Actuators"
+        },
+        {
+            "catalogTitle": "ECE 7900",
+            "section": "001",
+            "courseTitle": "Graduate Seminar III"
+        },
+        {
+            "catalogTitle": "ECE 7950",
+            "section": "001",
+            "courseTitle": "Multi-Input Multi-Output Det"
+        },
+        {
+            "catalogTitle": "ECE 7950",
+            "section": "002",
+            "courseTitle": "Nanotechnology Training Prog"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HONOR 2101",
+            "section": "001",
+            "courseTitle": "ITW Part I"
+        },
+        {
+            "catalogTitle": "HONOR 2102",
+            "section": "002",
+            "courseTitle": "ITW Part II"
+        },
+        {
+            "catalogTitle": "HONOR 2201",
+            "section": "001",
+            "courseTitle": "Calc-Non Sci Part I"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "001",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2212",
+            "section": "001",
+            "courseTitle": "American Institutions"
+        },
+        {
+            "catalogTitle": "HONOR 3103",
+            "section": "001",
+            "courseTitle": "ITW: Part III/Mod Times"
+        },
+        {
+            "catalogTitle": "HONOR 3161",
+            "section": "001",
+            "courseTitle": "American People"
+        },
+        {
+            "catalogTitle": "HONOR 3374",
+            "section": "001",
+            "courseTitle": "Prep/Legal St"
+        },
+        {
+            "catalogTitle": "HONOR 4473",
+            "section": "001",
+            "courseTitle": "From Studio to Gallery"
+        },
+        {
+            "catalogTitle": "HONOR 4673",
+            "section": "001",
+            "courseTitle": "Shakespeare at Cedar Cy"
+        },
+        {
+            "catalogTitle": "HONOR 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        }
+    ]
+}

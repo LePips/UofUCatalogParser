@@ -1,0 +1,509 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 120",
+            "section": "001",
+            "courseTitle": "Intr Study Language"
+        },
+        {
+            "catalogTitle": "LING 120",
+            "section": "002",
+            "courseTitle": "Intr Study Language"
+        },
+        {
+            "catalogTitle": "LING 120",
+            "section": "090",
+            "courseTitle": "Intr Study Language"
+        },
+        {
+            "catalogTitle": "LING 169",
+            "section": "090",
+            "courseTitle": "Bad Words & Taboo Terms"
+        },
+        {
+            "catalogTitle": "LING 320",
+            "section": "001",
+            "courseTitle": "Ling And Education"
+        },
+        {
+            "catalogTitle": "LING 345",
+            "section": "001",
+            "courseTitle": "Language Myths"
+        },
+        {
+            "catalogTitle": "LING 347",
+            "section": "001",
+            "courseTitle": "Language & Culture"
+        },
+        {
+            "catalogTitle": "LING 350",
+            "section": "001",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 350",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 360",
+            "section": "090",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 520",
+            "section": "001",
+            "courseTitle": "Structure Selected Lang"
+        },
+        {
+            "catalogTitle": "LING 1069",
+            "section": "090",
+            "courseTitle": "Bad Words & Taboo Terms"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "002",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "090",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 3160",
+            "section": "001",
+            "courseTitle": "Language and Cognition"
+        },
+        {
+            "catalogTitle": "LING 3200",
+            "section": "001",
+            "courseTitle": "Ling And Education"
+        },
+        {
+            "catalogTitle": "LING 3220",
+            "section": "090",
+            "courseTitle": "World Englishes"
+        },
+        {
+            "catalogTitle": "LING 3470",
+            "section": "001",
+            "courseTitle": "Language & Culture"
+        },
+        {
+            "catalogTitle": "LING 3475",
+            "section": "001",
+            "courseTitle": "Language Myths"
+        },
+        {
+            "catalogTitle": "LING 3500",
+            "section": "001",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 3500",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 3510",
+            "section": "001",
+            "courseTitle": "Grammar and Stylistics"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "001",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "090",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 4010",
+            "section": "001",
+            "courseTitle": "Intro Phonetics&Phonolg"
+        },
+        {
+            "catalogTitle": "LING 4011",
+            "section": "001",
+            "courseTitle": "Intermed Phone & Phono"
+        },
+        {
+            "catalogTitle": "LING 4020",
+            "section": "001",
+            "courseTitle": "Intro To Syntax"
+        },
+        {
+            "catalogTitle": "LING 4021",
+            "section": "001",
+            "courseTitle": "Intermediate Syntax"
+        },
+        {
+            "catalogTitle": "LING 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "LING 5030",
+            "section": "001",
+            "courseTitle": "Semantics"
+        },
+        {
+            "catalogTitle": "LING 5170",
+            "section": "001",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LING 5200",
+            "section": "001",
+            "courseTitle": "Structure of (Indo-Aryan)"
+        },
+        {
+            "catalogTitle": "LING 5296",
+            "section": "001",
+            "courseTitle": "Russian Morphology"
+        },
+        {
+            "catalogTitle": "LING 5810",
+            "section": "090",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 5811",
+            "section": "001",
+            "courseTitle": "Educating Lang Learners"
+        },
+        {
+            "catalogTitle": "LING 5812",
+            "section": "001",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 5813",
+            "section": "090",
+            "courseTitle": "Practicum: Capstone"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "001",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "002",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "003",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "005",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "007",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "008",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "009",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "010",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 6000",
+            "section": "001",
+            "courseTitle": "Linguistics for Educators"
+        },
+        {
+            "catalogTitle": "LING 6010",
+            "section": "001",
+            "courseTitle": "Intro Phonetics&Phonolg"
+        },
+        {
+            "catalogTitle": "LING 6011",
+            "section": "001",
+            "courseTitle": "Grad Phone & Phono I"
+        },
+        {
+            "catalogTitle": "LING 6020",
+            "section": "001",
+            "courseTitle": "Intro To Syntax"
+        },
+        {
+            "catalogTitle": "LING 6021",
+            "section": "001",
+            "courseTitle": "Graduate Syntax I"
+        },
+        {
+            "catalogTitle": "LING 6025",
+            "section": "001",
+            "courseTitle": "L2 Acquisition Theory I"
+        },
+        {
+            "catalogTitle": "LING 6170",
+            "section": "002",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LING 6200",
+            "section": "001",
+            "courseTitle": "Structure of (Indo-Aryan)"
+        },
+        {
+            "catalogTitle": "LING 6510",
+            "section": "001",
+            "courseTitle": "Grammar & Stylistics"
+        },
+        {
+            "catalogTitle": "LING 6800",
+            "section": "001",
+            "courseTitle": "Ling Teach Practicum"
+        },
+        {
+            "catalogTitle": "LING 6810",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "001",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6813",
+            "section": "090",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "002",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "003",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "004",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "005",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "007",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "008",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "009",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "010",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "011",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7001",
+            "section": "001",
+            "courseTitle": "Proseminar Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7011",
+            "section": "001",
+            "courseTitle": "Grad Phone & Phono I"
+        },
+        {
+            "catalogTitle": "LING 7021",
+            "section": "001",
+            "courseTitle": "Grad Syntax I"
+        },
+        {
+            "catalogTitle": "LING 7025",
+            "section": "001",
+            "courseTitle": "L2 Acquisition Theory I"
+        },
+        {
+            "catalogTitle": "LING 7800",
+            "section": "001",
+            "courseTitle": "Ling Teach Practicum"
+        },
+        {
+            "catalogTitle": "LING 7812",
+            "section": "001",
+            "courseTitle": "Content-Based Lang Tch"
+        },
+        {
+            "catalogTitle": "LING 7960",
+            "section": "001",
+            "courseTitle": "PhD Comp Exam Prep"
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "002",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "003",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "005",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "008",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "009",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "010",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "011",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "012",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "013",
+            "courseTitle": "Individual Research"
+        }
+    ]
+}

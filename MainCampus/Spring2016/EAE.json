@@ -1,0 +1,299 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EAE 1030",
+            "section": "001",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "EAE 1030",
+            "section": "002",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "EAE 1030",
+            "section": "003",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "EAE 1030",
+            "section": "004",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "EAE 1030",
+            "section": "005",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "EAE 1030",
+            "section": "006",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "001",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "002",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "003",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "004",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "005",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "006",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "007",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "001",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "002",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "004",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "005",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "006",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "007",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "001",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "002",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "003",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "004",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3605",
+            "section": "001",
+            "courseTitle": "Adv. 3D Character Prod."
+        },
+        {
+            "catalogTitle": "EAE 3640",
+            "section": "001",
+            "courseTitle": "Digital Fig. Sculpting"
+        },
+        {
+            "catalogTitle": "EAE 3660",
+            "section": "001",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "EAE 3660",
+            "section": "002",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "EAE 3660",
+            "section": "003",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "EAE 3690",
+            "section": "001",
+            "courseTitle": "Concept Art for Games"
+        },
+        {
+            "catalogTitle": "EAE 3695",
+            "section": "001",
+            "courseTitle": "Concept Art II"
+        },
+        {
+            "catalogTitle": "EAE 4510",
+            "section": "001",
+            "courseTitle": "Senior Project II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "001",
+            "courseTitle": "Texturing for 3D"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "011",
+            "courseTitle": "Texturing for 3D II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "012",
+            "courseTitle": "Adv. 3D Character Prod. II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "013",
+            "courseTitle": "Digital Fig Sculpting II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "017",
+            "courseTitle": "Animation for Games"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6010",
+            "section": "001",
+            "courseTitle": "Virtual Worlds"
+        },
+        {
+            "catalogTitle": "EAE 6110",
+            "section": "001",
+            "courseTitle": "Game Projects I"
+        },
+        {
+            "catalogTitle": "EAE 6130",
+            "section": "001",
+            "courseTitle": "Game Projects III"
+        },
+        {
+            "catalogTitle": "EAE 6210",
+            "section": "001",
+            "courseTitle": "Game Arts II"
+        },
+        {
+            "catalogTitle": "EAE 6230",
+            "section": "001",
+            "courseTitle": "Game Arts IV"
+        },
+        {
+            "catalogTitle": "EAE 6310",
+            "section": "001",
+            "courseTitle": "Game Engineering I"
+        },
+        {
+            "catalogTitle": "EAE 6330",
+            "section": "001",
+            "courseTitle": "Game Engineering III"
+        },
+        {
+            "catalogTitle": "EAE 6355",
+            "section": "001",
+            "courseTitle": "Technical Art II"
+        },
+        {
+            "catalogTitle": "EAE 6410",
+            "section": "001",
+            "courseTitle": "Game Production II"
+        },
+        {
+            "catalogTitle": "EAE 6500",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "EAE 6600",
+            "section": "001",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 6605",
+            "section": "001",
+            "courseTitle": "Adv. 3D Character Prod."
+        },
+        {
+            "catalogTitle": "EAE 6640",
+            "section": "001",
+            "courseTitle": "Digital Fig. Sculpting"
+        },
+        {
+            "catalogTitle": "EAE 6670",
+            "section": "001",
+            "courseTitle": "Texturing for 3D"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "005",
+            "courseTitle": "Paper Prototyping"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "006",
+            "courseTitle": "Narrative in Game Design"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "008",
+            "courseTitle": "Ethics in Games"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "017",
+            "courseTitle": "Serious Games"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "018",
+            "courseTitle": "Mobile Games Pipeline"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "020",
+            "courseTitle": "Experimental Gameplay"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6970",
+            "section": "001",
+            "courseTitle": "Master's Thesis Researc"
+        }
+    ]
+}

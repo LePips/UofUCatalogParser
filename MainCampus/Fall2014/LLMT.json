@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "002",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 446",
+            "section": "001",
+            "courseTitle": "Ukulele, too"
+        }
+    ]
+}

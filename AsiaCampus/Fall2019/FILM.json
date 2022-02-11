@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "301",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "302",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1400",
+            "section": "301",
+            "courseTitle": "Editing I"
+        },
+        {
+            "catalogTitle": "FILM 1400",
+            "section": "302",
+            "courseTitle": "Editing I"
+        },
+        {
+            "catalogTitle": "FILM 1610",
+            "section": "301",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "301",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "302",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2620",
+            "section": "301",
+            "courseTitle": "Computer Animation I"
+        },
+        {
+            "catalogTitle": "FILM 3110",
+            "section": "301",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 3110",
+            "section": "302",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "301",
+            "courseTitle": "Spec Topics Production"
+        },
+        {
+            "catalogTitle": "FILM 4900",
+            "section": "301",
+            "courseTitle": "Internship in Film"
+        }
+    ]
+}

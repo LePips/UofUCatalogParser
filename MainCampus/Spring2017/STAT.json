@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "STAT 5003",
+            "section": "001",
+            "courseTitle": "Survey of Stat Pkgs"
+        },
+        {
+            "catalogTitle": "STAT 6003",
+            "section": "001",
+            "courseTitle": "Survey of Stat Pkgs"
+        },
+        {
+            "catalogTitle": "STAT 6869",
+            "section": "001",
+            "courseTitle": "Adv Methods in Stats"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "001",
+            "courseTitle": "Bayesian"
+        }
+    ]
+}

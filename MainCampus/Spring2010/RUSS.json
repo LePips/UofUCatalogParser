@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RUSS 102",
+            "section": "001",
+            "courseTitle": "Beg Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 202",
+            "section": "001",
+            "courseTitle": "Inter Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 490",
+            "section": "001",
+            "courseTitle": "Advanced Russian"
+        },
+        {
+            "catalogTitle": "RUSS 1020",
+            "section": "001",
+            "courseTitle": "Beg Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 2020",
+            "section": "001",
+            "courseTitle": "Inter Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 3050",
+            "section": "001",
+            "courseTitle": "Sixth Sem Russian"
+        },
+        {
+            "catalogTitle": "RUSS 4720",
+            "section": "001",
+            "courseTitle": "20th Cent Russ Lit"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "001",
+            "courseTitle": "Advanced Russian"
+        },
+        {
+            "catalogTitle": "RUSS 5281",
+            "section": "001",
+            "courseTitle": "Russian Morphology"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "004",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

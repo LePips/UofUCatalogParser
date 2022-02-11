@@ -1,0 +1,334 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ACCTG 2010",
+            "section": "001",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2010",
+            "section": "002",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2010",
+            "section": "003",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2010",
+            "section": "105",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2020",
+            "section": "001",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2020",
+            "section": "002",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2020",
+            "section": "003",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2020",
+            "section": "105",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 3000",
+            "section": "001",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 3000",
+            "section": "002",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 3000",
+            "section": "003",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 3000",
+            "section": "070",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "001",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "002",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "001",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "002",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "001",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "002",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "001",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "002",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "001",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "002",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "001",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "002",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "001",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 5610",
+            "section": "001",
+            "courseTitle": "Financial Reporting"
+        },
+        {
+            "catalogTitle": "ACCTG 5910",
+            "section": "001",
+            "courseTitle": "Stat Cost Management"
+        },
+        {
+            "catalogTitle": "ACCTG 6000",
+            "section": "001",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6000",
+            "section": "002",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6000",
+            "section": "003",
+            "courseTitle": "Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6001",
+            "section": "001",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6001",
+            "section": "002",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6001",
+            "section": "003",
+            "courseTitle": "Managerial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6210",
+            "section": "001",
+            "courseTitle": "Strat Cost Mgt"
+        },
+        {
+            "catalogTitle": "ACCTG 6210",
+            "section": "002",
+            "courseTitle": "Strat Cost Mgt"
+        },
+        {
+            "catalogTitle": "ACCTG 6300",
+            "section": "001",
+            "courseTitle": "Tax Research"
+        },
+        {
+            "catalogTitle": "ACCTG 6310",
+            "section": "001",
+            "courseTitle": "Taxation Deferred Comp"
+        },
+        {
+            "catalogTitle": "ACCTG 6350",
+            "section": "001",
+            "courseTitle": "Partnership Tax"
+        },
+        {
+            "catalogTitle": "ACCTG 6510",
+            "section": "101",
+            "courseTitle": "Cases Auditing/Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 6610",
+            "section": "001",
+            "courseTitle": "Financial Reporting"
+        },
+        {
+            "catalogTitle": "ACCTG 6610",
+            "section": "002",
+            "courseTitle": "Financial Reporting"
+        },
+        {
+            "catalogTitle": "ACCTG 6610",
+            "section": "003",
+            "courseTitle": "Financial Reporting"
+        },
+        {
+            "catalogTitle": "ACCTG 6840",
+            "section": "001",
+            "courseTitle": "Communications in Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 6840",
+            "section": "002",
+            "courseTitle": "Communications in Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "001",
+            "courseTitle": "Financial Acctg I"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "002",
+            "courseTitle": "Financial Acctg I"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "003",
+            "courseTitle": "Financial Acctg II"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "004",
+            "courseTitle": "Financial Acctg II"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "005",
+            "courseTitle": "Management Acctg I"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "006",
+            "courseTitle": "Management Acctg I"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "007",
+            "courseTitle": "Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "008",
+            "courseTitle": "Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "009",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "010",
+            "courseTitle": "Interviewing Skills"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "011",
+            "courseTitle": "Accounting Information Systems"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "012",
+            "courseTitle": "Adv Comm Skills in Acctg"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "013",
+            "courseTitle": "Computer Security II"
+        },
+        {
+            "catalogTitle": "ACCTG 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ACCTG 7000",
+            "section": "001",
+            "courseTitle": "AIS Seminar"
+        },
+        {
+            "catalogTitle": "ACCTG 7110",
+            "section": "001",
+            "courseTitle": "Fin Acctg Research I"
+        },
+        {
+            "catalogTitle": "ACCTG 7130",
+            "section": "001",
+            "courseTitle": "Information Econ Sem"
+        },
+        {
+            "catalogTitle": "ACCTG 7610",
+            "section": "001",
+            "courseTitle": "Behav Res Sem"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "001",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ACCTG 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

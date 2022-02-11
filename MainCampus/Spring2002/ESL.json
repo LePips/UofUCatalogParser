@@ -1,0 +1,339 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ESL 25",
+            "section": "001",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ESL 25",
+            "section": "002",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ESL 32",
+            "section": "001",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ESL 32",
+            "section": "002",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ESL 32",
+            "section": "003",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ESL 34",
+            "section": "001",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ESL 34",
+            "section": "002",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ESL 40",
+            "section": "001",
+            "courseTitle": "Listening Skills 2"
+        },
+        {
+            "catalogTitle": "ESL 40",
+            "section": "002",
+            "courseTitle": "Listening Skills 2"
+        },
+        {
+            "catalogTitle": "ESL 45",
+            "section": "001",
+            "courseTitle": "Reading/Writing 2"
+        },
+        {
+            "catalogTitle": "ESL 45",
+            "section": "002",
+            "courseTitle": "Reading/Writing 2"
+        },
+        {
+            "catalogTitle": "ESL 50",
+            "section": "001",
+            "courseTitle": "Listening Skills 2"
+        },
+        {
+            "catalogTitle": "ESL 50",
+            "section": "002",
+            "courseTitle": "Listening Skills 2"
+        },
+        {
+            "catalogTitle": "ESL 55",
+            "section": "001",
+            "courseTitle": "Reading/Writing 2"
+        },
+        {
+            "catalogTitle": "ESL 55",
+            "section": "002",
+            "courseTitle": "Reading/Writing 2"
+        },
+        {
+            "catalogTitle": "ESL 60",
+            "section": "001",
+            "courseTitle": "Listening Skills 3"
+        },
+        {
+            "catalogTitle": "ESL 60",
+            "section": "002",
+            "courseTitle": "Listening Skills 3"
+        },
+        {
+            "catalogTitle": "ESL 65",
+            "section": "001",
+            "courseTitle": "Read & Write 3"
+        },
+        {
+            "catalogTitle": "ESL 65",
+            "section": "002",
+            "courseTitle": "Read & Write 3"
+        },
+        {
+            "catalogTitle": "ESL 66",
+            "section": "001",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ESL 66",
+            "section": "002",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ESL 70",
+            "section": "001",
+            "courseTitle": "Listening with Video"
+        },
+        {
+            "catalogTitle": "ESL 72",
+            "section": "001",
+            "courseTitle": "Theatrical Production"
+        },
+        {
+            "catalogTitle": "ESL 75",
+            "section": "001",
+            "courseTitle": "Read/Wrtg Acad Purpose I"
+        },
+        {
+            "catalogTitle": "ESL 75",
+            "section": "002",
+            "courseTitle": "Read/Wrtg Acad Purpose I"
+        },
+        {
+            "catalogTitle": "ESL 76",
+            "section": "001",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ESL 76",
+            "section": "002",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ESL 79",
+            "section": "001",
+            "courseTitle": "Grammar 5"
+        },
+        {
+            "catalogTitle": "ESL 79",
+            "section": "002",
+            "courseTitle": "Grammar 5"
+        },
+        {
+            "catalogTitle": "ESL 81",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ESL 81",
+            "section": "002",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ESL 82",
+            "section": "001",
+            "courseTitle": "Speech/Debate"
+        },
+        {
+            "catalogTitle": "ESL 85",
+            "section": "001",
+            "courseTitle": "Rdng/Wrtng Acad Purpose 2"
+        },
+        {
+            "catalogTitle": "ESL 85",
+            "section": "002",
+            "courseTitle": "Rdng/Wrtng Acad Purpose 2"
+        },
+        {
+            "catalogTitle": "ESL 85",
+            "section": "003",
+            "courseTitle": "Rdng/Wrtng Acad Purpose 2"
+        },
+        {
+            "catalogTitle": "ESL 88",
+            "section": "001",
+            "courseTitle": "Listening & Speaking"
+        },
+        {
+            "catalogTitle": "ESL 88",
+            "section": "002",
+            "courseTitle": "Listening & Speaking"
+        },
+        {
+            "catalogTitle": "ESL 88",
+            "section": "003",
+            "courseTitle": "Listening/Speaking 5"
+        },
+        {
+            "catalogTitle": "ESL 89",
+            "section": "001",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ESL 89",
+            "section": "002",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ESL 92",
+            "section": "001",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ESL 92",
+            "section": "002",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ESL 93",
+            "section": "001",
+            "courseTitle": "American History"
+        },
+        {
+            "catalogTitle": "ESL 95",
+            "section": "001",
+            "courseTitle": "Adv Research Writing"
+        },
+        {
+            "catalogTitle": "ESL 96",
+            "section": "001",
+            "courseTitle": "Internet & Acadmic Wrtg"
+        },
+        {
+            "catalogTitle": "ESL 97",
+            "section": "001",
+            "courseTitle": "Adv English Grammar"
+        },
+        {
+            "catalogTitle": "ESL 97",
+            "section": "002",
+            "courseTitle": "Adv English Grammar"
+        },
+        {
+            "catalogTitle": "ESL 1010",
+            "section": "001",
+            "courseTitle": "Academic ESL-Psych"
+        },
+        {
+            "catalogTitle": "ESL 1040",
+            "section": "001",
+            "courseTitle": "Grammar & Editing Nns"
+        },
+        {
+            "catalogTitle": "ESL 1040",
+            "section": "002",
+            "courseTitle": "Grammar & Editing Nns"
+        },
+        {
+            "catalogTitle": "ESL 1050",
+            "section": "001",
+            "courseTitle": "Composition For Nns"
+        },
+        {
+            "catalogTitle": "ESL 1050",
+            "section": "002",
+            "courseTitle": "Composition For Nns"
+        },
+        {
+            "catalogTitle": "ESL 1050",
+            "section": "003",
+            "courseTitle": "Composition For Nns"
+        },
+        {
+            "catalogTitle": "ESL 1050",
+            "section": "004",
+            "courseTitle": "Composition For Nns"
+        },
+        {
+            "catalogTitle": "ESL 1060",
+            "section": "001",
+            "courseTitle": "Expository Wrtg for ESL"
+        },
+        {
+            "catalogTitle": "ESL 1060",
+            "section": "002",
+            "courseTitle": "Expository Wrtg for ESL"
+        },
+        {
+            "catalogTitle": "ESL 1060",
+            "section": "003",
+            "courseTitle": "Expository Wrtg for ESL"
+        },
+        {
+            "catalogTitle": "ESL 1100",
+            "section": "001",
+            "courseTitle": "Integrt Lang Skills ESL"
+        },
+        {
+            "catalogTitle": "ESL 1200",
+            "section": "001",
+            "courseTitle": "Academic ESL-Ling"
+        },
+        {
+            "catalogTitle": "ESL 1700",
+            "section": "001",
+            "courseTitle": "Academic ESL-Hist"
+        },
+        {
+            "catalogTitle": "ESL 3060",
+            "section": "001",
+            "courseTitle": "Adv ESL Comm Skills"
+        },
+        {
+            "catalogTitle": "ESL 3510",
+            "section": "001",
+            "courseTitle": "Grammar and Stylistics"
+        },
+        {
+            "catalogTitle": "ESL 3600",
+            "section": "001",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "ESL 3700",
+            "section": "001",
+            "courseTitle": "Writing In Disciplines"
+        },
+        {
+            "catalogTitle": "ESL 6000",
+            "section": "002",
+            "courseTitle": "Writing For Publication"
+        },
+        {
+            "catalogTitle": "ESL 6060",
+            "section": "001",
+            "courseTitle": "Adv. ESL Comm Skills"
+        },
+        {
+            "catalogTitle": "ESL 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        }
+    ]
+}

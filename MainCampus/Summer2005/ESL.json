@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ESL 1040",
+            "section": "001",
+            "courseTitle": "Grammar & Editing Nns"
+        },
+        {
+            "catalogTitle": "ESL 1050",
+            "section": "001",
+            "courseTitle": "Composition For Nns"
+        },
+        {
+            "catalogTitle": "ESL 1060",
+            "section": "001",
+            "courseTitle": "Expository Wrtg for ESL"
+        },
+        {
+            "catalogTitle": "ESL 1060",
+            "section": "002",
+            "courseTitle": "Expository Wrtg for ESL"
+        },
+        {
+            "catalogTitle": "ESL 1100",
+            "section": "001",
+            "courseTitle": "Integrt Lang Skills ESL"
+        },
+        {
+            "catalogTitle": "ESL 3600",
+            "section": "090",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "ESL 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        }
+    ]
+}

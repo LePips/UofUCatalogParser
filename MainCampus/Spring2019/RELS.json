@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RELS 3620",
+            "section": "001",
+            "courseTitle": "Issues in Religious Std"
+        },
+        {
+            "catalogTitle": "RELS 4900",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "RELS 4900",
+            "section": "002",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "RELS 4990",
+            "section": "001",
+            "courseTitle": "Senior Capstone"
+        }
+    ]
+}

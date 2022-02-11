@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 102",
+            "section": "001",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 102",
+            "section": "002",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 202",
+            "section": "001",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 260",
+            "section": "001",
+            "courseTitle": "Italian Conversation"
+        },
+        {
+            "catalogTitle": "ITAL 380",
+            "section": "001",
+            "courseTitle": "Ital Lit in Translation"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "001",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "002",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2020",
+            "section": "001",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2600",
+            "section": "001",
+            "courseTitle": "Italian Conversation"
+        },
+        {
+            "catalogTitle": "ITAL 3800",
+            "section": "001",
+            "courseTitle": "Ital Lit in Translation"
+        },
+        {
+            "catalogTitle": "ITAL 4550",
+            "section": "001",
+            "courseTitle": "Topics In Culture"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

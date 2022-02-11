@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LAW 7030",
+            "section": "001",
+            "courseTitle": "Criminal Procedure"
+        },
+        {
+            "catalogTitle": "LAW 7080",
+            "section": "001",
+            "courseTitle": "Advanced Issues in Crim Law"
+        },
+        {
+            "catalogTitle": "LAW 7410",
+            "section": "001",
+            "courseTitle": "Constitutional Law II"
+        },
+        {
+            "catalogTitle": "LAW 7570",
+            "section": "001",
+            "courseTitle": "Drafting: Contracts"
+        },
+        {
+            "catalogTitle": "LAW 7841",
+            "section": "001",
+            "courseTitle": "Prep & Exam Witnesses"
+        },
+        {
+            "catalogTitle": "LAW 7842",
+            "section": "001",
+            "courseTitle": "Take/Defend Depositions"
+        },
+        {
+            "catalogTitle": "LAW 7891",
+            "section": "001",
+            "courseTitle": "Tech & Modern Litigtn"
+        },
+        {
+            "catalogTitle": "LAW 7920",
+            "section": "001",
+            "courseTitle": "Lawyering Skills Survey"
+        },
+        {
+            "catalogTitle": "LAW 7940",
+            "section": "001",
+            "courseTitle": "Judicial Process"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SBS 1010",
+            "section": "001",
+            "courseTitle": "Intro to Leadership I"
+        },
+        {
+            "catalogTitle": "SBS 1020",
+            "section": "001",
+            "courseTitle": "Intro to Leadership II"
+        },
+        {
+            "catalogTitle": "SBS 1020",
+            "section": "003",
+            "courseTitle": "Intro to Leadership II"
+        },
+        {
+            "catalogTitle": "SBS 1060",
+            "section": "001",
+            "courseTitle": "Physical Readiness"
+        },
+        {
+            "catalogTitle": "SBS 1960",
+            "section": "001",
+            "courseTitle": "Planning Your Career"
+        },
+        {
+            "catalogTitle": "SBS 2010",
+            "section": "001",
+            "courseTitle": "Found of Leadership I"
+        },
+        {
+            "catalogTitle": "SBS 2020",
+            "section": "001",
+            "courseTitle": "Found of Leadership II"
+        },
+        {
+            "catalogTitle": "SBS 2020",
+            "section": "002",
+            "courseTitle": "Found of Leadership II"
+        },
+        {
+            "catalogTitle": "SBS 3010",
+            "section": "001",
+            "courseTitle": "Tactical Leadership"
+        },
+        {
+            "catalogTitle": "SBS 3020",
+            "section": "001",
+            "courseTitle": "App Leadership"
+        },
+        {
+            "catalogTitle": "SBS 3020",
+            "section": "002",
+            "courseTitle": "App Leadership"
+        },
+        {
+            "catalogTitle": "SBS 3960",
+            "section": "001",
+            "courseTitle": "Successful Career Plans"
+        },
+        {
+            "catalogTitle": "SBS 3961",
+            "section": "001",
+            "courseTitle": "Military History Leader"
+        },
+        {
+            "catalogTitle": "SBS 4001",
+            "section": "001",
+            "courseTitle": "Develop Leadership"
+        },
+        {
+            "catalogTitle": "SBS 4021",
+            "section": "001",
+            "courseTitle": "Adapt Leadership"
+        },
+        {
+            "catalogTitle": "SBS 4910",
+            "section": "001",
+            "courseTitle": "CSBS Internship"
+        }
+    ]
+}

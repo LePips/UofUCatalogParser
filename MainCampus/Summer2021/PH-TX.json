@@ -1,3 +1,94 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "PH TX 5990",
+            "section": "003",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "002",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "004",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "010",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "012",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "014",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "016",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "025",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "015",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "017",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "019",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg PhD"
+        }
+    ]
 }

@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 6010",
+            "section": "301",
+            "courseTitle": "Fnd Healthcare Informat"
+        },
+        {
+            "catalogTitle": "BMI 6018",
+            "section": "301",
+            "courseTitle": "Intro to Programming"
+        },
+        {
+            "catalogTitle": "BMI 6019",
+            "section": "301",
+            "courseTitle": "Bioinfo in Practice:RNA"
+        },
+        {
+            "catalogTitle": "BMI 6102",
+            "section": "301",
+            "courseTitle": "Human Systems Interacti"
+        },
+        {
+            "catalogTitle": "BMI 6203",
+            "section": "301",
+            "courseTitle": "Clin Database Design"
+        },
+        {
+            "catalogTitle": "BMI 6300",
+            "section": "301",
+            "courseTitle": "Clin Decision Support"
+        },
+        {
+            "catalogTitle": "BMI 6701",
+            "section": "301",
+            "courseTitle": "Pop & Pub Hlth Informat"
+        },
+        {
+            "catalogTitle": "BMI 6806",
+            "section": "301",
+            "courseTitle": "Translational Info"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "301",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "301",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 7000",
+            "section": "301",
+            "courseTitle": "Graduate Seminar"
+        }
+    ]
+}

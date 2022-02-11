@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHL 100",
+            "section": "001",
+            "courseTitle": "Yoga Basics"
+        },
+        {
+            "catalogTitle": "LLHL 101",
+            "section": "001",
+            "courseTitle": "Yoga-Power I"
+        },
+        {
+            "catalogTitle": "LLHL 107",
+            "section": "001",
+            "courseTitle": "Zen Meditation"
+        },
+        {
+            "catalogTitle": "LLHL 113",
+            "section": "001",
+            "courseTitle": "Eating for Weight Loss"
+        },
+        {
+            "catalogTitle": "LLHL 116",
+            "section": "001",
+            "courseTitle": "Partner Massage Workshop"
+        },
+        {
+            "catalogTitle": "LLHL 116",
+            "section": "002",
+            "courseTitle": "Partner Massage Workshop"
+        },
+        {
+            "catalogTitle": "LLHL 134",
+            "section": "001",
+            "courseTitle": "Homemade Facials"
+        },
+        {
+            "catalogTitle": "LLHL 137",
+            "section": "001",
+            "courseTitle": "Nutrition over Fifty"
+        },
+        {
+            "catalogTitle": "LLHL 139",
+            "section": "001",
+            "courseTitle": "Nutrition for Celiacs"
+        },
+        {
+            "catalogTitle": "LLHL 140",
+            "section": "001",
+            "courseTitle": "Restorative Yoga"
+        },
+        {
+            "catalogTitle": "LLHL 141",
+            "section": "001",
+            "courseTitle": "Meditation Sampler"
+        }
+    ]
+}

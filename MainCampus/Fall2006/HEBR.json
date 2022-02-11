@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 101",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 201",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 1010",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 3010",
+            "section": "001",
+            "courseTitle": "3rd Yr Israeli Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 4363",
+            "section": "001",
+            "courseTitle": "The Kabbalah"
+        },
+        {
+            "catalogTitle": "HEBR 4910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HEBR 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "HEBR 6363",
+            "section": "001",
+            "courseTitle": "The Kabbalah"
+        },
+        {
+            "catalogTitle": "HEBR 6880",
+            "section": "001",
+            "courseTitle": "Major Biblical Commentaries"
+        },
+        {
+            "catalogTitle": "HEBR 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

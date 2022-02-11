@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RUSS 101",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 201",
+            "section": "001",
+            "courseTitle": "Interm Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 306",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 2010",
+            "section": "001",
+            "courseTitle": "Inter Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 2600",
+            "section": "001",
+            "courseTitle": "Lower-level Russian Conv"
+        },
+        {
+            "catalogTitle": "RUSS 3040",
+            "section": "001",
+            "courseTitle": "Fifth Sem Russian"
+        },
+        {
+            "catalogTitle": "RUSS 3060",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "RUSS 3540",
+            "section": "001",
+            "courseTitle": "Slavic Folklore"
+        },
+        {
+            "catalogTitle": "RUSS 3550",
+            "section": "001",
+            "courseTitle": "Russia under the Czars"
+        },
+        {
+            "catalogTitle": "RUSS 4510",
+            "section": "001",
+            "courseTitle": "Business Russian"
+        },
+        {
+            "catalogTitle": "RUSS 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "RUSS 4880",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "001",
+            "courseTitle": "Community Volunteering"
+        },
+        {
+            "catalogTitle": "RUSS 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "003",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "005",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

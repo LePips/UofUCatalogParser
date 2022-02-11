@@ -1,3 +1,279 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "SP ED 2010",
+            "section": "090",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 2012",
+            "section": "001",
+            "courseTitle": "Inclusive Secondary Ed"
+        },
+        {
+            "catalogTitle": "SP ED 5010",
+            "section": "090",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 5012",
+            "section": "001",
+            "courseTitle": "Inclusive Sec Ed"
+        },
+        {
+            "catalogTitle": "SP ED 5020",
+            "section": "042",
+            "courseTitle": "Ed Global Perspectives"
+        },
+        {
+            "catalogTitle": "SP ED 5020",
+            "section": "045",
+            "courseTitle": "Ed Global Perspectives"
+        },
+        {
+            "catalogTitle": "SP ED 5021",
+            "section": "001",
+            "courseTitle": "Assess & Data Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 5021",
+            "section": "002",
+            "courseTitle": "Assess & Data Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 5022",
+            "section": "001",
+            "courseTitle": "Instruction/Behavior"
+        },
+        {
+            "catalogTitle": "SP ED 5022",
+            "section": "042",
+            "courseTitle": "Instruction/Behavior"
+        },
+        {
+            "catalogTitle": "SP ED 5030",
+            "section": "090",
+            "courseTitle": "Func Communication"
+        },
+        {
+            "catalogTitle": "SP ED 5040",
+            "section": "001",
+            "courseTitle": "Legal & Policy Fds"
+        },
+        {
+            "catalogTitle": "SP ED 5040",
+            "section": "042",
+            "courseTitle": "Legal & Policy Fds"
+        },
+        {
+            "catalogTitle": "SP ED 5054",
+            "section": "090",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "SP ED 5390",
+            "section": "001",
+            "courseTitle": "St Teach: Early Int"
+        },
+        {
+            "catalogTitle": "SP ED 5410",
+            "section": "090",
+            "courseTitle": "Intro to Visual Impairm"
+        },
+        {
+            "catalogTitle": "SP ED 5420",
+            "section": "001",
+            "courseTitle": "Soc & Psych Imp of VI"
+        },
+        {
+            "catalogTitle": "SP ED 5450",
+            "section": "001",
+            "courseTitle": "Tchg Child Deafblind"
+        },
+        {
+            "catalogTitle": "SP ED 5460",
+            "section": "001",
+            "courseTitle": "Int Orien. & Mobility"
+        },
+        {
+            "catalogTitle": "SP ED 5462",
+            "section": "001",
+            "courseTitle": "O&M for ECVI"
+        },
+        {
+            "catalogTitle": "SP ED 5480",
+            "section": "001",
+            "courseTitle": "Assist Technology VI"
+        },
+        {
+            "catalogTitle": "SP ED 5482",
+            "section": "001",
+            "courseTitle": "Asst Tech for ECVI"
+        },
+        {
+            "catalogTitle": "SP ED 6021",
+            "section": "001",
+            "courseTitle": "Assess & Data-Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 6021",
+            "section": "002",
+            "courseTitle": "Assess & Data-Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 6021",
+            "section": "042",
+            "courseTitle": "Assess & Data-Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 6021",
+            "section": "045",
+            "courseTitle": "Assess & Data-Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 6022",
+            "section": "001",
+            "courseTitle": "Instruction & Behavior"
+        },
+        {
+            "catalogTitle": "SP ED 6022",
+            "section": "090",
+            "courseTitle": "Instruction & Behavior"
+        },
+        {
+            "catalogTitle": "SP ED 6030",
+            "section": "090",
+            "courseTitle": "Func Communication"
+        },
+        {
+            "catalogTitle": "SP ED 6040",
+            "section": "001",
+            "courseTitle": "Legal/Policy Foundation"
+        },
+        {
+            "catalogTitle": "SP ED 6040",
+            "section": "042",
+            "courseTitle": "Legal/Policy Foundation"
+        },
+        {
+            "catalogTitle": "SP ED 6054",
+            "section": "090",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "SP ED 6110",
+            "section": "090",
+            "courseTitle": "Beh Supp Strat Mild Mod"
+        },
+        {
+            "catalogTitle": "SP ED 6230",
+            "section": "090",
+            "courseTitle": "Behavior Support/Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6390",
+            "section": "001",
+            "courseTitle": "St Teach: Early Int"
+        },
+        {
+            "catalogTitle": "SP ED 6390",
+            "section": "042",
+            "courseTitle": "St Teach: Early Int"
+        },
+        {
+            "catalogTitle": "SP ED 6390",
+            "section": "045",
+            "courseTitle": "St Teach: Early Int"
+        },
+        {
+            "catalogTitle": "SP ED 6410",
+            "section": "090",
+            "courseTitle": "Intro to Visual Impairm"
+        },
+        {
+            "catalogTitle": "SP ED 6420",
+            "section": "001",
+            "courseTitle": "Soc & Psych Imp Of VI"
+        },
+        {
+            "catalogTitle": "SP ED 6450",
+            "section": "001",
+            "courseTitle": "Tchg Child Deafblind"
+        },
+        {
+            "catalogTitle": "SP ED 6450",
+            "section": "042",
+            "courseTitle": "Tchg Child Deafblind"
+        },
+        {
+            "catalogTitle": "SP ED 6450",
+            "section": "045",
+            "courseTitle": "Tchg Child Deafblind"
+        },
+        {
+            "catalogTitle": "SP ED 6460",
+            "section": "001",
+            "courseTitle": "Intro Orient/Mobility"
+        },
+        {
+            "catalogTitle": "SP ED 6462",
+            "section": "001",
+            "courseTitle": "O&M for ECVI"
+        },
+        {
+            "catalogTitle": "SP ED 6480",
+            "section": "001",
+            "courseTitle": "Assist Technology VI"
+        },
+        {
+            "catalogTitle": "SP ED 6482",
+            "section": "001",
+            "courseTitle": "Asst Tech for ECVI"
+        },
+        {
+            "catalogTitle": "SP ED 6610",
+            "section": "001",
+            "courseTitle": "Intro Research Design"
+        },
+        {
+            "catalogTitle": "SP ED 6610",
+            "section": "042",
+            "courseTitle": "Intro Research Design"
+        },
+        {
+            "catalogTitle": "SP ED 6610",
+            "section": "045",
+            "courseTitle": "Intro Research Design"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "001",
+            "courseTitle": "Proj TVISP Intrdisciplin Sem I"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "002",
+            "courseTitle": "Proj TVISP Intrdiscpln Sem IV"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "003",
+            "courseTitle": "Deafblind Adv Assess/Instr Des"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "042",
+            "courseTitle": "Literacy SDs"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "045",
+            "courseTitle": "Literacy SDs"
+        },
+        {
+            "catalogTitle": "SP ED 7971",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        }
+    ]
 }

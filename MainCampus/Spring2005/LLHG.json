@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHG 456",
+            "section": "001",
+            "courseTitle": "Interior Paintng & Faux"
+        },
+        {
+            "catalogTitle": "LLHG 470",
+            "section": "001",
+            "courseTitle": "Interior Design"
+        },
+        {
+            "catalogTitle": "LLHG 500",
+            "section": "001",
+            "courseTitle": "Design w/ Fresh Flowers"
+        },
+        {
+            "catalogTitle": "LLHG 503",
+            "section": "001",
+            "courseTitle": "Gardening Basics"
+        },
+        {
+            "catalogTitle": "LLHG 503",
+            "section": "002",
+            "courseTitle": "Gardening Basics"
+        },
+        {
+            "catalogTitle": "LLHG 504",
+            "section": "001",
+            "courseTitle": "Herb Gardening"
+        },
+        {
+            "catalogTitle": "LLHG 504",
+            "section": "002",
+            "courseTitle": "Herb Gardening"
+        },
+        {
+            "catalogTitle": "LLHG 507",
+            "section": "001",
+            "courseTitle": "Watr Garden:Create Pond"
+        },
+        {
+            "catalogTitle": "LLHG 512",
+            "section": "001",
+            "courseTitle": "Resident Landscpe Desgn"
+        },
+        {
+            "catalogTitle": "LLHG 521",
+            "section": "001",
+            "courseTitle": "Waterwise Landscapes"
+        },
+        {
+            "catalogTitle": "LLHG 521",
+            "section": "002",
+            "courseTitle": "Waterwise Landscapes"
+        },
+        {
+            "catalogTitle": "LLHG 537",
+            "section": "001",
+            "courseTitle": "Organic Gardening"
+        },
+        {
+            "catalogTitle": "LLHG 537",
+            "section": "002",
+            "courseTitle": "Organic Gardening"
+        }
+    ]
+}

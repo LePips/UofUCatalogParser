@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FRNCH 11",
+            "section": "010",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 12",
+            "section": "010",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 490",
+            "section": "001",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "010",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "070",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "001",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "010",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "001",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "001",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "002",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 3600",
+            "section": "001",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3950",
+            "section": "087",
+            "courseTitle": "Sl - French"
+        }
+    ]
+}

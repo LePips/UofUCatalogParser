@@ -1,0 +1,109 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DENT 7105",
+            "section": "001",
+            "courseTitle": "Personal Communication"
+        },
+        {
+            "catalogTitle": "DENT 7121",
+            "section": "001",
+            "courseTitle": "Dental Radiology"
+        },
+        {
+            "catalogTitle": "DENT 7122",
+            "section": "001",
+            "courseTitle": "Dental Radiology Lab"
+        },
+        {
+            "catalogTitle": "DENT 7122",
+            "section": "002",
+            "courseTitle": "Dental Radiology Lab"
+        },
+        {
+            "catalogTitle": "DENT 7123",
+            "section": "001",
+            "courseTitle": "Community Dentistry"
+        },
+        {
+            "catalogTitle": "DENT 7124",
+            "section": "001",
+            "courseTitle": "Clinical Observation"
+        },
+        {
+            "catalogTitle": "DENT 7125",
+            "section": "001",
+            "courseTitle": "Operative Dentistry Lec"
+        },
+        {
+            "catalogTitle": "DENT 7126",
+            "section": "001",
+            "courseTitle": "Operative Dentistry Lab"
+        },
+        {
+            "catalogTitle": "DENT 7126",
+            "section": "002",
+            "courseTitle": "Operative Dentistry Lab"
+        },
+        {
+            "catalogTitle": "DENT 7127",
+            "section": "001",
+            "courseTitle": "Occlusion Lecture"
+        },
+        {
+            "catalogTitle": "DENT 7128",
+            "section": "001",
+            "courseTitle": "Occlusion Lab"
+        },
+        {
+            "catalogTitle": "DENT 7128",
+            "section": "002",
+            "courseTitle": "Occlusion Lab"
+        },
+        {
+            "catalogTitle": "DENT 7129",
+            "section": "001",
+            "courseTitle": "Intro to Periodontics"
+        },
+        {
+            "catalogTitle": "DENT 7130",
+            "section": "001",
+            "courseTitle": "Preventive Dentistry"
+        },
+        {
+            "catalogTitle": "DENT 7131",
+            "section": "001",
+            "courseTitle": "Oral Histology/Embryo"
+        },
+        {
+            "catalogTitle": "DENT 7132",
+            "section": "001",
+            "courseTitle": "Dental Neuroscience"
+        },
+        {
+            "catalogTitle": "DENT 7133",
+            "section": "001",
+            "courseTitle": "Dental Nutrition"
+        },
+        {
+            "catalogTitle": "DENT 7134",
+            "section": "001",
+            "courseTitle": "Applied Biomedical"
+        },
+        {
+            "catalogTitle": "DENT 7135",
+            "section": "001",
+            "courseTitle": "Host and Defense"
+        },
+        {
+            "catalogTitle": "DENT 7139",
+            "section": "001",
+            "courseTitle": "Oral Diagnosis"
+        },
+        {
+            "catalogTitle": "DENT 7140",
+            "section": "001",
+            "courseTitle": "Practice Management"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GERM 101",
+            "section": "001",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 101",
+            "section": "002",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 102",
+            "section": "004",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 202",
+            "section": "001",
+            "courseTitle": "Interm Germ II"
+        },
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "001",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "002",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 1020",
+            "section": "002",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 1020",
+            "section": "003",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 1020",
+            "section": "004",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 2010",
+            "section": "001",
+            "courseTitle": "Intrm German I"
+        },
+        {
+            "catalogTitle": "GERM 2020",
+            "section": "001",
+            "courseTitle": "Intrm German II"
+        },
+        {
+            "catalogTitle": "GERM 2020",
+            "section": "002",
+            "courseTitle": "Intrm German II"
+        },
+        {
+            "catalogTitle": "GERM 3050",
+            "section": "001",
+            "courseTitle": "Lit & Culture"
+        },
+        {
+            "catalogTitle": "GERM 3900",
+            "section": "001",
+            "courseTitle": "Conversation"
+        },
+        {
+            "catalogTitle": "GERM 3900",
+            "section": "002",
+            "courseTitle": "Hoerspiel"
+        },
+        {
+            "catalogTitle": "GERM 3900",
+            "section": "003",
+            "courseTitle": "Feminist Topics in Germ Lit"
+        },
+        {
+            "catalogTitle": "GERM 3920",
+            "section": "001",
+            "courseTitle": "Faust Quest Lit & Film"
+        },
+        {
+            "catalogTitle": "GERM 4510",
+            "section": "001",
+            "courseTitle": "Business And Econ I"
+        },
+        {
+            "catalogTitle": "GERM 4610",
+            "section": "101",
+            "courseTitle": "Surv-German Literature"
+        },
+        {
+            "catalogTitle": "GERM 4630",
+            "section": "001",
+            "courseTitle": "Surv-German Literature"
+        },
+        {
+            "catalogTitle": "GERM 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 4900",
+            "section": "001",
+            "courseTitle": "Heroic Poetry & Culture"
+        },
+        {
+            "catalogTitle": "GERM 4900",
+            "section": "002",
+            "courseTitle": "Early Modernism"
+        },
+        {
+            "catalogTitle": "GERM 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "GERM 4990",
+            "section": "005",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "GERM 4990",
+            "section": "006",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "GERM 4990",
+            "section": "007",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "GERM 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "GERM 6620",
+            "section": "001",
+            "courseTitle": "Literature Middle Ages"
+        },
+        {
+            "catalogTitle": "GERM 6700",
+            "section": "001",
+            "courseTitle": "Mod & Nat'L Socialism"
+        },
+        {
+            "catalogTitle": "GERM 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 6880",
+            "section": "003",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 6880",
+            "section": "004",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 6880",
+            "section": "005",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 6900",
+            "section": "001",
+            "courseTitle": "Feminist Topics in Germ Lit"
+        },
+        {
+            "catalogTitle": "GERM 6900",
+            "section": "002",
+            "courseTitle": "Early Modernism"
+        },
+        {
+            "catalogTitle": "GERM 6900",
+            "section": "003",
+            "courseTitle": "Graduate Workshop"
+        },
+        {
+            "catalogTitle": "GERM 6900",
+            "section": "004",
+            "courseTitle": "Hoerspiel"
+        },
+        {
+            "catalogTitle": "GERM 6900",
+            "section": "005",
+            "courseTitle": "Faust Quest in Lit & Film"
+        },
+        {
+            "catalogTitle": "GERM 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GERM 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GERM 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language"
+        },
+        {
+            "catalogTitle": "GERM 7700",
+            "section": "101",
+            "courseTitle": "Germ for Rdg Comprehension II"
+        },
+        {
+            "catalogTitle": "GERM 7770",
+            "section": "101",
+            "courseTitle": "20Th Cen Lit"
+        },
+        {
+            "catalogTitle": "GERM 7900",
+            "section": "001",
+            "courseTitle": "German for Reading Comp"
+        },
+        {
+            "catalogTitle": "GERM 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "GERM 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult"
+        },
+        {
+            "catalogTitle": "GERM 7990",
+            "section": "001",
+            "courseTitle": "Cont Regist-PhD"
+        }
+    ]
+}

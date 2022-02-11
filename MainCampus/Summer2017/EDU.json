@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "002",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5360",
+            "section": "001",
+            "courseTitle": "Elem Math Lrng Methods"
+        },
+        {
+            "catalogTitle": "EDU 5375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 5380",
+            "section": "001",
+            "courseTitle": "Elem Social Stud Meth"
+        },
+        {
+            "catalogTitle": "EDU 5490",
+            "section": "001",
+            "courseTitle": "Field Pract: Sec"
+        },
+        {
+            "catalogTitle": "EDU 5950",
+            "section": "001",
+            "courseTitle": "Ind Reading/Resrch R&L"
+        },
+        {
+            "catalogTitle": "EDU 6195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 6201",
+            "section": "001",
+            "courseTitle": "Seminar: Language Awareness"
+        },
+        {
+            "catalogTitle": "EDU 6360",
+            "section": "001",
+            "courseTitle": "Elem Math Methods"
+        },
+        {
+            "catalogTitle": "EDU 6375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 6380",
+            "section": "001",
+            "courseTitle": "Elem Soc Studies Method"
+        },
+        {
+            "catalogTitle": "EDU 6490",
+            "section": "001",
+            "courseTitle": "Field Pract: Sec"
+        }
+    ]
+}

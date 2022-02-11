@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTR 105",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 106",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 108",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "ASTR 1050",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 1060",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 1080",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "ASTR 3060",
+            "section": "001",
+            "courseTitle": "Intro to Astrophysics"
+        },
+        {
+            "catalogTitle": "ASTR 5560",
+            "section": "001",
+            "courseTitle": "Stars"
+        }
+    ]
+}

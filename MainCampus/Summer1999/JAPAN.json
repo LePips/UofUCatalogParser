@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "JAPAN 3510",
+            "section": "001",
+            "courseTitle": "Commercial Japanese I"
+        },
+        {
+            "catalogTitle": "JAPAN 3520",
+            "section": "001",
+            "courseTitle": "Commercial Japanese II"
+        },
+        {
+            "catalogTitle": "JAPAN 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "JAPAN 4880",
+            "section": "092",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "JAPAN 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "JAPAN 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

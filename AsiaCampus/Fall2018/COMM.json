@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "COMM 1020",
+            "section": "301",
+            "courseTitle": "Princ Public Speaking"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "301",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1500",
+            "section": "301",
+            "courseTitle": "Intro Media Bus Ethics"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "301",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "302",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 2580",
+            "section": "301",
+            "courseTitle": "Strat Comm Theory & Pra"
+        },
+        {
+            "catalogTitle": "COMM 2580",
+            "section": "302",
+            "courseTitle": "Strat Comm Theory & Pra"
+        },
+        {
+            "catalogTitle": "COMM 3010",
+            "section": "301",
+            "courseTitle": "Peer Advising"
+        },
+        {
+            "catalogTitle": "COMM 3190",
+            "section": "301",
+            "courseTitle": "Intercultural Comm"
+        },
+        {
+            "catalogTitle": "COMM 3630",
+            "section": "301",
+            "courseTitle": "Absolute Communication"
+        },
+        {
+            "catalogTitle": "COMM 5300",
+            "section": "301",
+            "courseTitle": "Mass Communication Law"
+        }
+    ]
+}

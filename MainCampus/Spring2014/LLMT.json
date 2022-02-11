@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 406",
+            "section": "001",
+            "courseTitle": "Blues Harmonica I"
+        },
+        {
+            "catalogTitle": "LLMT 429",
+            "section": "001",
+            "courseTitle": "Beginning Banjo"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "002",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 439",
+            "section": "001",
+            "courseTitle": "Intro to Mountain Dulcimer"
+        },
+        {
+            "catalogTitle": "LLMT 443",
+            "section": "001",
+            "courseTitle": "Japanese Flute"
+        }
+    ]
+}

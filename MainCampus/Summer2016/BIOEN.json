@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOEN 4200",
+            "section": "001",
+            "courseTitle": "BIOEN Research"
+        },
+        {
+            "catalogTitle": "BIOEN 4990",
+            "section": "001",
+            "courseTitle": "Internships & Co-ops"
+        },
+        {
+            "catalogTitle": "BIOEN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "082",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "083",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "084",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "086",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "087",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEMUS 414",
+            "section": "001",
+            "courseTitle": "Singing for the Stage (8-11)"
+        },
+        {
+            "catalogTitle": "YEMUS 419",
+            "section": "001",
+            "courseTitle": "Vocal Training Studio (12-17)"
+        },
+        {
+            "catalogTitle": "YEMUS 427",
+            "section": "001",
+            "courseTitle": "Beatmaking (Age 13-16)"
+        },
+        {
+            "catalogTitle": "YEMUS 427",
+            "section": "002",
+            "courseTitle": "Beatmaking (Age 13-16)"
+        },
+        {
+            "catalogTitle": "YEMUS 428",
+            "section": "002",
+            "courseTitle": "Songwriting (Age 10-16)"
+        },
+        {
+            "catalogTitle": "YEMUS 600",
+            "section": "001",
+            "courseTitle": "Music Prod. & Promo (13-16)"
+        },
+        {
+            "catalogTitle": "YEMUS 900",
+            "section": "001",
+            "courseTitle": "Guitar Camp (Age 12-18)"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CMP 2010",
+            "section": "301",
+            "courseTitle": "Design Ecologies"
+        },
+        {
+            "catalogTitle": "CMP 3200",
+            "section": "301",
+            "courseTitle": "Ecology Human Sttlments"
+        },
+        {
+            "catalogTitle": "CMP 3270",
+            "section": "301",
+            "courseTitle": "Vis. & Oral Commun"
+        },
+        {
+            "catalogTitle": "CMP 4360",
+            "section": "301",
+            "courseTitle": "Sustainability Planning"
+        },
+        {
+            "catalogTitle": "CMP 4960",
+            "section": "301",
+            "courseTitle": "Intro to Smart City Urbanism"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 695",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "002",
+            "courseTitle": "Biomed Ontologies Pract"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "003",
+            "courseTitle": "Familiality Methods"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult - M.S."
+        },
+        {
+            "catalogTitle": "BMI 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "BMI 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult - PhD"
+        },
+        {
+            "catalogTitle": "BMI 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration - PhD"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 2632",
+            "section": "001",
+            "courseTitle": "Adv Arch Des Work"
+        },
+        {
+            "catalogTitle": "ARCH 4955",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ARCH 4955",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ARCH 4965",
+            "section": "001",
+            "courseTitle": "Chicago Lab"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6012",
+            "section": "001",
+            "courseTitle": "Intensive Arch'l Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6055",
+            "section": "001",
+            "courseTitle": "Int. Arch. Comm"
+        },
+        {
+            "catalogTitle": "ARCH 6275",
+            "section": "001",
+            "courseTitle": "Intro to Arch'l Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6301",
+            "section": "001",
+            "courseTitle": "Adv Struct Material"
+        },
+        {
+            "catalogTitle": "ARCH 6302",
+            "section": "001",
+            "courseTitle": "Adv Struct Typology"
+        },
+        {
+            "catalogTitle": "ARCH 6352",
+            "section": "001",
+            "courseTitle": "Sustainable Design"
+        },
+        {
+            "catalogTitle": "ARCH 6701",
+            "section": "001",
+            "courseTitle": "Law For Architects"
+        },
+        {
+            "catalogTitle": "ARCH 6702",
+            "section": "001",
+            "courseTitle": "Arch Pract-Phil II"
+        },
+        {
+            "catalogTitle": "ARCH 6710",
+            "section": "001",
+            "courseTitle": "Project Management"
+        },
+        {
+            "catalogTitle": "ARCH 6770",
+            "section": "001",
+            "courseTitle": "Arch Service Intern"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6971",
+            "section": "001",
+            "courseTitle": "Final Studio"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PED 5900",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch Mthds I"
+        },
+        {
+            "catalogTitle": "PED 5901",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch Mthds II"
+        },
+        {
+            "catalogTitle": "PED 5902",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch&Medicine"
+        },
+        {
+            "catalogTitle": "PED 7010",
+            "section": "001",
+            "courseTitle": "Pediatric Clerkship"
+        },
+        {
+            "catalogTitle": "PED 7030",
+            "section": "001",
+            "courseTitle": "Subinternship"
+        },
+        {
+            "catalogTitle": "PED 7050",
+            "section": "001",
+            "courseTitle": "Preceptorship"
+        },
+        {
+            "catalogTitle": "PED 7070",
+            "section": "001",
+            "courseTitle": "Pediatric ICU"
+        },
+        {
+            "catalogTitle": "PED 7080",
+            "section": "001",
+            "courseTitle": "Endocrinology"
+        },
+        {
+            "catalogTitle": "PED 7110",
+            "section": "001",
+            "courseTitle": "Infectious Disease"
+        },
+        {
+            "catalogTitle": "PED 7120",
+            "section": "001",
+            "courseTitle": "Clinical Genetics"
+        },
+        {
+            "catalogTitle": "PED 7130",
+            "section": "001",
+            "courseTitle": "Nephrology"
+        },
+        {
+            "catalogTitle": "PED 7140",
+            "section": "001",
+            "courseTitle": "Pediatric Cardiology"
+        },
+        {
+            "catalogTitle": "PED 7160",
+            "section": "001",
+            "courseTitle": "Hematology-Oncology"
+        },
+        {
+            "catalogTitle": "PED 7180",
+            "section": "001",
+            "courseTitle": "Child Abuse & Neglect"
+        },
+        {
+            "catalogTitle": "PED 7220",
+            "section": "001",
+            "courseTitle": "Diabetic Summer Camp"
+        },
+        {
+            "catalogTitle": "PED 7230",
+            "section": "001",
+            "courseTitle": "Gastroenterology"
+        },
+        {
+            "catalogTitle": "PED 7240",
+            "section": "001",
+            "courseTitle": "Neonatology & NBICU"
+        },
+        {
+            "catalogTitle": "PED 7260",
+            "section": "001",
+            "courseTitle": "Pediatric Research"
+        },
+        {
+            "catalogTitle": "PED 7270",
+            "section": "001",
+            "courseTitle": "Pediatric Research"
+        },
+        {
+            "catalogTitle": "PED 7290",
+            "section": "001",
+            "courseTitle": "Pediatric IV/Wound Care"
+        }
+    ]
+}

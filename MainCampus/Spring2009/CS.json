@@ -1,0 +1,784 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CS 454",
+            "section": "001",
+            "courseTitle": "Web Software Architecture"
+        },
+        {
+            "catalogTitle": "CS 1000",
+            "section": "001",
+            "courseTitle": "Engineering Computing"
+        },
+        {
+            "catalogTitle": "CS 1000",
+            "section": "002",
+            "courseTitle": "Engineering Computing"
+        },
+        {
+            "catalogTitle": "CS 1000",
+            "section": "003",
+            "courseTitle": "Engineering Computing"
+        },
+        {
+            "catalogTitle": "CS 1000",
+            "section": "004",
+            "courseTitle": "Engineering Computing"
+        },
+        {
+            "catalogTitle": "CS 1000",
+            "section": "005",
+            "courseTitle": "Engineering Computing"
+        },
+        {
+            "catalogTitle": "CS 1000",
+            "section": "006",
+            "courseTitle": "Engineering Computing"
+        },
+        {
+            "catalogTitle": "CS 1001",
+            "section": "001",
+            "courseTitle": "Eng Computing MATLAB"
+        },
+        {
+            "catalogTitle": "CS 1001",
+            "section": "002",
+            "courseTitle": "Eng Computing MATLAB"
+        },
+        {
+            "catalogTitle": "CS 1001",
+            "section": "003",
+            "courseTitle": "Eng Computing MATLAB"
+        },
+        {
+            "catalogTitle": "CS 1001",
+            "section": "004",
+            "courseTitle": "Eng Computing MATLAB"
+        },
+        {
+            "catalogTitle": "CS 1001",
+            "section": "005",
+            "courseTitle": "Eng Computing MATLAB"
+        },
+        {
+            "catalogTitle": "CS 1001",
+            "section": "006",
+            "courseTitle": "Eng Computing MATLAB"
+        },
+        {
+            "catalogTitle": "CS 1010",
+            "section": "001",
+            "courseTitle": "Introduction To Unix"
+        },
+        {
+            "catalogTitle": "CS 1040",
+            "section": "090",
+            "courseTitle": "Creating Web Content"
+        },
+        {
+            "catalogTitle": "CS 1060",
+            "section": "001",
+            "courseTitle": "Explor in Computer Sci"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "001",
+            "courseTitle": "Computer Science I"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "002",
+            "courseTitle": "Computer Science I"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "003",
+            "courseTitle": "Computer Science I"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "004",
+            "courseTitle": "Computer Science I"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "005",
+            "courseTitle": "Computer Science I"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "006",
+            "courseTitle": "Computer Science I"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "010",
+            "courseTitle": "Computer Science I"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "011",
+            "courseTitle": "Computer Science I"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "001",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "002",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "003",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "004",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "005",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "006",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "010",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "011",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2960",
+            "section": "001",
+            "courseTitle": "Apple Certification"
+        },
+        {
+            "catalogTitle": "CS 2961",
+            "section": "001",
+            "courseTitle": "Cisco CCNA Level 1"
+        },
+        {
+            "catalogTitle": "CS 2963",
+            "section": "001",
+            "courseTitle": "LPI Level 1"
+        },
+        {
+            "catalogTitle": "CS 2964",
+            "section": "001",
+            "courseTitle": "LPI Level 2"
+        },
+        {
+            "catalogTitle": "CS 3010",
+            "section": "001",
+            "courseTitle": "Industry Forum"
+        },
+        {
+            "catalogTitle": "CS 3011",
+            "section": "001",
+            "courseTitle": "Industry Forum"
+        },
+        {
+            "catalogTitle": "CS 3200",
+            "section": "001",
+            "courseTitle": "Intro Sci Comp"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "001",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "002",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "003",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "004",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "005",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "006",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3700",
+            "section": "001",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "CS 3700",
+            "section": "002",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "CS 3992",
+            "section": "001",
+            "courseTitle": "Pre-Thesis/Pre-Project"
+        },
+        {
+            "catalogTitle": "CS 4150",
+            "section": "001",
+            "courseTitle": "Algorithms"
+        },
+        {
+            "catalogTitle": "CS 4500",
+            "section": "001",
+            "courseTitle": "Softwre Engineering Lab"
+        },
+        {
+            "catalogTitle": "CS 4540",
+            "section": "001",
+            "courseTitle": "Web Software Architecture"
+        },
+        {
+            "catalogTitle": "CS 4960",
+            "section": "001",
+            "courseTitle": "Programming Challenges"
+        },
+        {
+            "catalogTitle": "CS 4961",
+            "section": "001",
+            "courseTitle": "EAE Senior Project II"
+        },
+        {
+            "catalogTitle": "CS 4970",
+            "section": "001",
+            "courseTitle": "CS Bachelor's Thesis"
+        },
+        {
+            "catalogTitle": "CS 4992",
+            "section": "001",
+            "courseTitle": "CE Senior Thesis II"
+        },
+        {
+            "catalogTitle": "CS 5020",
+            "section": "001",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 5020",
+            "section": "002",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 5020",
+            "section": "003",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 5020",
+            "section": "004",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 5020",
+            "section": "005",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 5020",
+            "section": "006",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 5100",
+            "section": "001",
+            "courseTitle": "Foundations Of CS"
+        },
+        {
+            "catalogTitle": "CS 5300",
+            "section": "001",
+            "courseTitle": "Artificial Intelligence"
+        },
+        {
+            "catalogTitle": "CS 5320",
+            "section": "001",
+            "courseTitle": "Computer Vision"
+        },
+        {
+            "catalogTitle": "CS 5470",
+            "section": "001",
+            "courseTitle": "Compilers"
+        },
+        {
+            "catalogTitle": "CS 5600",
+            "section": "001",
+            "courseTitle": "Intro Computer Graphics"
+        },
+        {
+            "catalogTitle": "CS 5720",
+            "section": "001",
+            "courseTitle": "Analog IC Design"
+        },
+        {
+            "catalogTitle": "CS 5750",
+            "section": "001",
+            "courseTitle": "Syn/Verif Asyn VLSI Sys"
+        },
+        {
+            "catalogTitle": "CS 5780",
+            "section": "001",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "CS 5830",
+            "section": "001",
+            "courseTitle": "VLSI Architecture"
+        },
+        {
+            "catalogTitle": "CS 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 5950",
+            "section": "042",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 5950",
+            "section": "043",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 5960",
+            "section": "001",
+            "courseTitle": "Robot Control"
+        },
+        {
+            "catalogTitle": "CS 5960",
+            "section": "002",
+            "courseTitle": "Nonparametric Methods"
+        },
+        {
+            "catalogTitle": "CS 5960",
+            "section": "004",
+            "courseTitle": "Robot Control"
+        },
+        {
+            "catalogTitle": "CS 5961",
+            "section": "001",
+            "courseTitle": "Computational Statistics"
+        },
+        {
+            "catalogTitle": "CS 5962",
+            "section": "001",
+            "courseTitle": "Computational Geometry"
+        },
+        {
+            "catalogTitle": "CS 5963",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "CS 5964",
+            "section": "001",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "CS 5965",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "CS 5966",
+            "section": "001",
+            "courseTitle": "Multi-Core Computing"
+        },
+        {
+            "catalogTitle": "CS 5967",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "CS 5969",
+            "section": "001",
+            "courseTitle": "Advanced 3D Character Modeling"
+        },
+        {
+            "catalogTitle": "CS 6100",
+            "section": "001",
+            "courseTitle": "Foundations Of CS"
+        },
+        {
+            "catalogTitle": "CS 6220",
+            "section": "001",
+            "courseTitle": "Adv Sci Computing II"
+        },
+        {
+            "catalogTitle": "CS 6230",
+            "section": "001",
+            "courseTitle": "HPC & Parallelization"
+        },
+        {
+            "catalogTitle": "CS 6300",
+            "section": "001",
+            "courseTitle": "Artificial Intelligence"
+        },
+        {
+            "catalogTitle": "CS 6360",
+            "section": "001",
+            "courseTitle": "Virtual Reality"
+        },
+        {
+            "catalogTitle": "CS 6490",
+            "section": "001",
+            "courseTitle": "Network Security"
+        },
+        {
+            "catalogTitle": "CS 6620",
+            "section": "001",
+            "courseTitle": "Adv Comp Graphics II"
+        },
+        {
+            "catalogTitle": "CS 6640",
+            "section": "001",
+            "courseTitle": "Image Processing"
+        },
+        {
+            "catalogTitle": "CS 6712",
+            "section": "001",
+            "courseTitle": "Digital IC Testing"
+        },
+        {
+            "catalogTitle": "CS 6720",
+            "section": "001",
+            "courseTitle": "Analog IC Design"
+        },
+        {
+            "catalogTitle": "CS 6750",
+            "section": "001",
+            "courseTitle": "Syn & Ver Asyn VLSI Sys"
+        },
+        {
+            "catalogTitle": "CS 6770",
+            "section": "001",
+            "courseTitle": "Adv Digital VLSI"
+        },
+        {
+            "catalogTitle": "CS 6780",
+            "section": "001",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "CS 6830",
+            "section": "001",
+            "courseTitle": "VLSI Architecture"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "042",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "043",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "044",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "045",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "046",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "047",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "048",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6960",
+            "section": "002",
+            "courseTitle": "Nonparametric Methods"
+        },
+        {
+            "catalogTitle": "CS 6960",
+            "section": "004",
+            "courseTitle": "Robot Control"
+        },
+        {
+            "catalogTitle": "CS 6961",
+            "section": "001",
+            "courseTitle": "Computational Statistics"
+        },
+        {
+            "catalogTitle": "CS 6962",
+            "section": "001",
+            "courseTitle": "Computational Geometry"
+        },
+        {
+            "catalogTitle": "CS 6962",
+            "section": "002",
+            "courseTitle": "Advanced Shader Programming"
+        },
+        {
+            "catalogTitle": "CS 6963",
+            "section": "001",
+            "courseTitle": "Parallel Programming for GPUs"
+        },
+        {
+            "catalogTitle": "CS 6964",
+            "section": "001",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "CS 6965",
+            "section": "001",
+            "courseTitle": "Visual Computing"
+        },
+        {
+            "catalogTitle": "CS 6966",
+            "section": "001",
+            "courseTitle": "Multi-Core Computing"
+        },
+        {
+            "catalogTitle": "CS 6967",
+            "section": "001",
+            "courseTitle": "Computational Topology"
+        },
+        {
+            "catalogTitle": "CS 6968",
+            "section": "001",
+            "courseTitle": "Geometry Processing"
+        },
+        {
+            "catalogTitle": "CS 6969",
+            "section": "001",
+            "courseTitle": "Prog Lang Analysis"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "001",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "042",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "043",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "044",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "045",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "046",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "047",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6980",
+            "section": "001",
+            "courseTitle": "Consultation Master's"
+        },
+        {
+            "catalogTitle": "CS 7010",
+            "section": "001",
+            "courseTitle": "Research Proposals"
+        },
+        {
+            "catalogTitle": "CS 7520",
+            "section": "001",
+            "courseTitle": "Program Lang Semantics"
+        },
+        {
+            "catalogTitle": "CS 7810",
+            "section": "001",
+            "courseTitle": "Adv Computer Arch"
+        },
+        {
+            "catalogTitle": "CS 7820",
+            "section": "001",
+            "courseTitle": "Parll Cptr Architecture"
+        },
+        {
+            "catalogTitle": "CS 7930",
+            "section": "001",
+            "courseTitle": "SoC Colloquium"
+        },
+        {
+            "catalogTitle": "CS 7931",
+            "section": "001",
+            "courseTitle": "Programming Languages & System"
+        },
+        {
+            "catalogTitle": "CS 7932",
+            "section": "001",
+            "courseTitle": "Scientific Computing & Imaging"
+        },
+        {
+            "catalogTitle": "CS 7933",
+            "section": "001",
+            "courseTitle": "Advanced Seminar"
+        },
+        {
+            "catalogTitle": "CS 7934",
+            "section": "001",
+            "courseTitle": "Advanced Seminar"
+        },
+        {
+            "catalogTitle": "CS 7936",
+            "section": "001",
+            "courseTitle": "Algorithms"
+        },
+        {
+            "catalogTitle": "CS 7937",
+            "section": "001",
+            "courseTitle": "Arch/ASYNC"
+        },
+        {
+            "catalogTitle": "CS 7938",
+            "section": "001",
+            "courseTitle": "Static Analysis"
+        },
+        {
+            "catalogTitle": "CS 7938",
+            "section": "002",
+            "courseTitle": "Medical Imaging"
+        },
+        {
+            "catalogTitle": "CS 7939",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "CS 7941",
+            "section": "001",
+            "courseTitle": "Topics in Machine Learning"
+        },
+        {
+            "catalogTitle": "CS 7942",
+            "section": "001",
+            "courseTitle": "Sem: Topics in Web & Databases"
+        },
+        {
+            "catalogTitle": "CS 7943",
+            "section": "001",
+            "courseTitle": "Advanced Network Security"
+        },
+        {
+            "catalogTitle": "CS 7944",
+            "section": "001",
+            "courseTitle": "Information Based Complexity"
+        },
+        {
+            "catalogTitle": "CS 7960",
+            "section": "001",
+            "courseTitle": "Adv Computer Arch"
+        },
+        {
+            "catalogTitle": "CS 7961",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "CS 7962",
+            "section": "001",
+            "courseTitle": "Rsrch Tpcs in Database Systems"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "042",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "043",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "044",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "045",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "046",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "047",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7980",
+            "section": "001",
+            "courseTitle": "Consultation PhD"
+        },
+        {
+            "catalogTitle": "CS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

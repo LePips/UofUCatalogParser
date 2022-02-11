@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARAB 4910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ARAB 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "ARAB 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ARAB 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research - M.A."
+        },
+        {
+            "catalogTitle": "ARAB 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation-MA"
+        },
+        {
+            "catalogTitle": "ARAB 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-MA"
+        },
+        {
+            "catalogTitle": "ARAB 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ARAB 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "ARAB 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-PhD"
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MATH 101",
+            "section": "090",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 103",
+            "section": "070",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 105",
+            "section": "003",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 105",
+            "section": "070",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 106",
+            "section": "002",
+            "courseTitle": "Trigonometry"
+        },
+        {
+            "catalogTitle": "MATH 106",
+            "section": "003",
+            "courseTitle": "Trigonometry"
+        },
+        {
+            "catalogTitle": "MATH 106",
+            "section": "070",
+            "courseTitle": "Trigonometry"
+        },
+        {
+            "catalogTitle": "MATH 107",
+            "section": "070",
+            "courseTitle": "Intro Stat Inference"
+        },
+        {
+            "catalogTitle": "MATH 108",
+            "section": "001",
+            "courseTitle": "Precalculus"
+        },
+        {
+            "catalogTitle": "MATH 121",
+            "section": "001",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 121",
+            "section": "002",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 121",
+            "section": "003",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 121",
+            "section": "090",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 122",
+            "section": "001",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 122",
+            "section": "090",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 225",
+            "section": "001",
+            "courseTitle": "Diff Equ & Lin Algebra"
+        },
+        {
+            "catalogTitle": "MATH 228",
+            "section": "001",
+            "courseTitle": "Intro De's"
+        },
+        {
+            "catalogTitle": "MATH 321",
+            "section": "001",
+            "courseTitle": "Fndns Of Analysis I"
+        },
+        {
+            "catalogTitle": "MATH 980",
+            "section": "001",
+            "courseTitle": "Alg for College Success"
+        },
+        {
+            "catalogTitle": "MATH 980",
+            "section": "018",
+            "courseTitle": "Alg for College Success"
+        },
+        {
+            "catalogTitle": "MATH 980",
+            "section": "090",
+            "courseTitle": "Alg for College Success"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "002",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "018",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "070",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "090",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "002",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "070",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "090",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "001",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "003",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "070",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "090",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1060",
+            "section": "002",
+            "courseTitle": "Trig"
+        },
+        {
+            "catalogTitle": "MATH 1060",
+            "section": "003",
+            "courseTitle": "Trig"
+        },
+        {
+            "catalogTitle": "MATH 1060",
+            "section": "070",
+            "courseTitle": "Trig"
+        },
+        {
+            "catalogTitle": "MATH 1060",
+            "section": "090",
+            "courseTitle": "Trig"
+        },
+        {
+            "catalogTitle": "MATH 1070",
+            "section": "001",
+            "courseTitle": "Intro Stat Inference"
+        },
+        {
+            "catalogTitle": "MATH 1070",
+            "section": "070",
+            "courseTitle": "Intro Stat Inference"
+        },
+        {
+            "catalogTitle": "MATH 1080",
+            "section": "001",
+            "courseTitle": "Precalculus"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "002",
+            "courseTitle": "Business Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "003",
+            "courseTitle": "Business Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "090",
+            "courseTitle": "Business Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "002",
+            "courseTitle": "Business Calculus"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "001",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "002",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "003",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "090",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "001",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "002",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "003",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "090",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1320",
+            "section": "001",
+            "courseTitle": "Engineering Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 2200",
+            "section": "001",
+            "courseTitle": "Discrete Mathematics"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "001",
+            "courseTitle": "Calculus III"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "002",
+            "courseTitle": "Calculus III"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "090",
+            "courseTitle": "Calculus III"
+        },
+        {
+            "catalogTitle": "MATH 2250",
+            "section": "001",
+            "courseTitle": "Diff Equ & Lin Algebra"
+        },
+        {
+            "catalogTitle": "MATH 2250",
+            "section": "002",
+            "courseTitle": "Diff Equ & Lin Algebra"
+        },
+        {
+            "catalogTitle": "MATH 2270",
+            "section": "001",
+            "courseTitle": "Linear Algebra"
+        },
+        {
+            "catalogTitle": "MATH 2270",
+            "section": "002",
+            "courseTitle": "Linear Algebra"
+        },
+        {
+            "catalogTitle": "MATH 2280",
+            "section": "001",
+            "courseTitle": "Intro De's"
+        },
+        {
+            "catalogTitle": "MATH 2310",
+            "section": "001",
+            "courseTitle": "Engineers Vector Calc"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "001",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "002",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3140",
+            "section": "001",
+            "courseTitle": "Engr. Vect. Calc. & PDE"
+        },
+        {
+            "catalogTitle": "MATH 3150",
+            "section": "001",
+            "courseTitle": "PDE's For Engineers"
+        },
+        {
+            "catalogTitle": "MATH 3150",
+            "section": "002",
+            "courseTitle": "PDE's For Engineers"
+        },
+        {
+            "catalogTitle": "MATH 3160",
+            "section": "001",
+            "courseTitle": "Appl Compl Var"
+        },
+        {
+            "catalogTitle": "MATH 3170",
+            "section": "002",
+            "courseTitle": "R Lab I"
+        },
+        {
+            "catalogTitle": "MATH 3210",
+            "section": "001",
+            "courseTitle": "Fndns Of Analysis I"
+        },
+        {
+            "catalogTitle": "MATH 3220",
+            "section": "001",
+            "courseTitle": "Fndns Of Analysis  II"
+        },
+        {
+            "catalogTitle": "MATH 4020",
+            "section": "001",
+            "courseTitle": "Math Elem Sch Tchrs II"
+        },
+        {
+            "catalogTitle": "MATH 4020",
+            "section": "002",
+            "courseTitle": "Math Elem Sch Tchrs II"
+        },
+        {
+            "catalogTitle": "MATH 4400",
+            "section": "001",
+            "courseTitle": "Intr To Number Theory"
+        },
+        {
+            "catalogTitle": "MATH 5010",
+            "section": "002",
+            "courseTitle": "Intro To Probability"
+        },
+        {
+            "catalogTitle": "MATH 6805",
+            "section": "002",
+            "courseTitle": "Intro to Probability"
+        }
+    ]
+}

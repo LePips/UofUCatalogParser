@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 1100",
+            "section": "301",
+            "courseTitle": "Film Festival Workshop"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "301",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "302",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1610",
+            "section": "301",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 1610",
+            "section": "302",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "301",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "302",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2620",
+            "section": "301",
+            "courseTitle": "Intro 3D Comp Animation"
+        },
+        {
+            "catalogTitle": "FILM 3100",
+            "section": "301",
+            "courseTitle": "Intro to Doc Studies"
+        },
+        {
+            "catalogTitle": "FILM 3120",
+            "section": "301",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 3412",
+            "section": "301",
+            "courseTitle": "Editing"
+        },
+        {
+            "catalogTitle": "FILM 3412",
+            "section": "302",
+            "courseTitle": "Editing"
+        },
+        {
+            "catalogTitle": "FILM 3820",
+            "section": "301",
+            "courseTitle": "Short Screenplay"
+        },
+        {
+            "catalogTitle": "FILM 3920",
+            "section": "301",
+            "courseTitle": "Spec. Topics Critical"
+        },
+        {
+            "catalogTitle": "FILM 3920",
+            "section": "302",
+            "courseTitle": "Korean Cinema"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "301",
+            "courseTitle": "Spec Topics Production"
+        },
+        {
+            "catalogTitle": "FILM 3945",
+            "section": "302",
+            "courseTitle": "Spec Topics Production"
+        }
+    ]
+}

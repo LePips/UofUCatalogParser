@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLLAN 350",
+            "section": "001",
+            "courseTitle": "Conversational French I"
+        },
+        {
+            "catalogTitle": "LLLAN 354",
+            "section": "001",
+            "courseTitle": "Conversational Spanish I"
+        },
+        {
+            "catalogTitle": "LLLAN 355",
+            "section": "001",
+            "courseTitle": "Conversational Span II"
+        },
+        {
+            "catalogTitle": "LLLAN 362",
+            "section": "001",
+            "courseTitle": "Conv Italian I"
+        },
+        {
+            "catalogTitle": "LLLAN 363",
+            "section": "001",
+            "courseTitle": "Converstional Italian II"
+        },
+        {
+            "catalogTitle": "LLLAN 366",
+            "section": "001",
+            "courseTitle": "Spanish for Medical Prof"
+        },
+        {
+            "catalogTitle": "LLLAN 412",
+            "section": "002",
+            "courseTitle": "Online Conversational Spanish"
+        }
+    ]
+}

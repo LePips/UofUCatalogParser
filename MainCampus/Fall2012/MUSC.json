@@ -1,0 +1,1039 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MUSC 210",
+            "section": "020",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 303",
+            "section": "002",
+            "courseTitle": "Beg Classical Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 311",
+            "section": "001",
+            "courseTitle": "Musical Style I"
+        },
+        {
+            "catalogTitle": "MUSC 360",
+            "section": "070",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 437",
+            "section": "001",
+            "courseTitle": "Early Music Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 445",
+            "section": "001",
+            "courseTitle": "Utah Philharmonia"
+        },
+        {
+            "catalogTitle": "MUSC 450",
+            "section": "001",
+            "courseTitle": "Marching Band"
+        },
+        {
+            "catalogTitle": "MUSC 475",
+            "section": "001",
+            "courseTitle": "Jazz Combos"
+        },
+        {
+            "catalogTitle": "MUSC 544",
+            "section": "001",
+            "courseTitle": "Univ Campus Symphony"
+        },
+        {
+            "catalogTitle": "MUSC 547",
+            "section": "001",
+            "courseTitle": "Jazz Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 1000",
+            "section": "001",
+            "courseTitle": "Concert Attendance"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "001",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "002",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "090",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1015",
+            "section": "001",
+            "courseTitle": "Intro-Music Expression"
+        },
+        {
+            "catalogTitle": "MUSC 1100",
+            "section": "090",
+            "courseTitle": "Elements of Music"
+        },
+        {
+            "catalogTitle": "MUSC 1110",
+            "section": "001",
+            "courseTitle": "Music Theory I"
+        },
+        {
+            "catalogTitle": "MUSC 1110",
+            "section": "002",
+            "courseTitle": "Music Theory I"
+        },
+        {
+            "catalogTitle": "MUSC 1110",
+            "section": "003",
+            "courseTitle": "Music Theory I"
+        },
+        {
+            "catalogTitle": "MUSC 1110",
+            "section": "004",
+            "courseTitle": "Music Theory I"
+        },
+        {
+            "catalogTitle": "MUSC 1130",
+            "section": "001",
+            "courseTitle": "Musicianship I"
+        },
+        {
+            "catalogTitle": "MUSC 1130",
+            "section": "002",
+            "courseTitle": "Musicianship I"
+        },
+        {
+            "catalogTitle": "MUSC 1130",
+            "section": "003",
+            "courseTitle": "Musicianship I"
+        },
+        {
+            "catalogTitle": "MUSC 1130",
+            "section": "004",
+            "courseTitle": "Musicianship I"
+        },
+        {
+            "catalogTitle": "MUSC 1150",
+            "section": "001",
+            "courseTitle": "Keyboard I"
+        },
+        {
+            "catalogTitle": "MUSC 1150",
+            "section": "002",
+            "courseTitle": "Keyboard I"
+        },
+        {
+            "catalogTitle": "MUSC 1150",
+            "section": "003",
+            "courseTitle": "Keyboard I"
+        },
+        {
+            "catalogTitle": "MUSC 1150",
+            "section": "004",
+            "courseTitle": "Keyboard I"
+        },
+        {
+            "catalogTitle": "MUSC 1150",
+            "section": "005",
+            "courseTitle": "Keyboard I"
+        },
+        {
+            "catalogTitle": "MUSC 1230",
+            "section": "001",
+            "courseTitle": "Jazz Guitar Tech I"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "001",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "002",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "090",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1350",
+            "section": "001",
+            "courseTitle": "Music Technology I"
+        },
+        {
+            "catalogTitle": "MUSC 1352",
+            "section": "001",
+            "courseTitle": "Music Technology II"
+        },
+        {
+            "catalogTitle": "MUSC 1460",
+            "section": "090",
+            "courseTitle": "Intro to Music Theory"
+        },
+        {
+            "catalogTitle": "MUSC 1700",
+            "section": "001",
+            "courseTitle": "Intro Music Ed"
+        },
+        {
+            "catalogTitle": "MUSC 1710",
+            "section": "001",
+            "courseTitle": "Brass Study I"
+        },
+        {
+            "catalogTitle": "MUSC 1710",
+            "section": "002",
+            "courseTitle": "Brass Study I"
+        },
+        {
+            "catalogTitle": "MUSC 1740",
+            "section": "001",
+            "courseTitle": "Perc Study"
+        },
+        {
+            "catalogTitle": "MUSC 1740",
+            "section": "002",
+            "courseTitle": "Perc Study"
+        },
+        {
+            "catalogTitle": "MUSC 1750",
+            "section": "001",
+            "courseTitle": "String Study I"
+        },
+        {
+            "catalogTitle": "MUSC 1750",
+            "section": "002",
+            "courseTitle": "String Study I"
+        },
+        {
+            "catalogTitle": "MUSC 1770",
+            "section": "001",
+            "courseTitle": "WW Study I"
+        },
+        {
+            "catalogTitle": "MUSC 1770",
+            "section": "002",
+            "courseTitle": "WW Study I"
+        },
+        {
+            "catalogTitle": "MUSC 1890",
+            "section": "001",
+            "courseTitle": "Preperf Vocal"
+        },
+        {
+            "catalogTitle": "MUSC 1895",
+            "section": "001",
+            "courseTitle": "Voice Study-Instr Ed"
+        },
+        {
+            "catalogTitle": "MUSC 1947",
+            "section": "009",
+            "courseTitle": "Lsns I Maj 1 WW"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "001",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "002",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "003",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "004",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "020",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 2110",
+            "section": "001",
+            "courseTitle": "Music Theory III"
+        },
+        {
+            "catalogTitle": "MUSC 2110",
+            "section": "002",
+            "courseTitle": "Music Theory III"
+        },
+        {
+            "catalogTitle": "MUSC 2110",
+            "section": "003",
+            "courseTitle": "Music Theory III"
+        },
+        {
+            "catalogTitle": "MUSC 2130",
+            "section": "001",
+            "courseTitle": "Musicianship III"
+        },
+        {
+            "catalogTitle": "MUSC 2130",
+            "section": "002",
+            "courseTitle": "Musicianship III"
+        },
+        {
+            "catalogTitle": "MUSC 2130",
+            "section": "003",
+            "courseTitle": "Musicianship III"
+        },
+        {
+            "catalogTitle": "MUSC 2130",
+            "section": "004",
+            "courseTitle": "Musicianship III"
+        },
+        {
+            "catalogTitle": "MUSC 2150",
+            "section": "001",
+            "courseTitle": "Keyboard III"
+        },
+        {
+            "catalogTitle": "MUSC 2150",
+            "section": "002",
+            "courseTitle": "Keyboard III"
+        },
+        {
+            "catalogTitle": "MUSC 2150",
+            "section": "003",
+            "courseTitle": "Keyboard III"
+        },
+        {
+            "catalogTitle": "MUSC 2181",
+            "section": "001",
+            "courseTitle": "Jazz Keyboard Skills I"
+        },
+        {
+            "catalogTitle": "MUSC 2350",
+            "section": "001",
+            "courseTitle": "Conducting"
+        },
+        {
+            "catalogTitle": "MUSC 2350",
+            "section": "002",
+            "courseTitle": "Conducting"
+        },
+        {
+            "catalogTitle": "MUSC 2570",
+            "section": "001",
+            "courseTitle": "Composition Seminar"
+        },
+        {
+            "catalogTitle": "MUSC 3003",
+            "section": "001",
+            "courseTitle": "Begin Classic Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 3003",
+            "section": "002",
+            "courseTitle": "Begin Classic Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 3110",
+            "section": "001",
+            "courseTitle": "Musical Style I"
+        },
+        {
+            "catalogTitle": "MUSC 3280",
+            "section": "001",
+            "courseTitle": "Keyboard Skills I"
+        },
+        {
+            "catalogTitle": "MUSC 3350",
+            "section": "001",
+            "courseTitle": "Jazz Improv I"
+        },
+        {
+            "catalogTitle": "MUSC 3550",
+            "section": "001",
+            "courseTitle": "20th Century Techniques"
+        },
+        {
+            "catalogTitle": "MUSC 3550",
+            "section": "002",
+            "courseTitle": "20th Century Techniques"
+        },
+        {
+            "catalogTitle": "MUSC 3550",
+            "section": "003",
+            "courseTitle": "20th Century Techniques"
+        },
+        {
+            "catalogTitle": "MUSC 3600",
+            "section": "001",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 3600",
+            "section": "070",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 3600",
+            "section": "090",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 3630",
+            "section": "001",
+            "courseTitle": "Music History I"
+        },
+        {
+            "catalogTitle": "MUSC 3630",
+            "section": "002",
+            "courseTitle": "Music History I"
+        },
+        {
+            "catalogTitle": "MUSC 3650",
+            "section": "001",
+            "courseTitle": "Music History III"
+        },
+        {
+            "catalogTitle": "MUSC 3650",
+            "section": "002",
+            "courseTitle": "Music History III"
+        },
+        {
+            "catalogTitle": "MUSC 3720",
+            "section": "001",
+            "courseTitle": "Gen Methods"
+        },
+        {
+            "catalogTitle": "MUSC 3760",
+            "section": "001",
+            "courseTitle": "Choral Reh Tech"
+        },
+        {
+            "catalogTitle": "MUSC 4010",
+            "section": "001",
+            "courseTitle": "Writing in Music"
+        },
+        {
+            "catalogTitle": "MUSC 4100",
+            "section": "001",
+            "courseTitle": "Career Dev/Volunteer I"
+        },
+        {
+            "catalogTitle": "MUSC 4350",
+            "section": "001",
+            "courseTitle": "Jazz Improv III"
+        },
+        {
+            "catalogTitle": "MUSC 4356",
+            "section": "001",
+            "courseTitle": "Jazz Comp & Arr I"
+        },
+        {
+            "catalogTitle": "MUSC 4360",
+            "section": "001",
+            "courseTitle": "Electro Music Comp I"
+        },
+        {
+            "catalogTitle": "MUSC 4404",
+            "section": "001",
+            "courseTitle": "University Singers"
+        },
+        {
+            "catalogTitle": "MUSC 4405",
+            "section": "001",
+            "courseTitle": "A Cappella Choir"
+        },
+        {
+            "catalogTitle": "MUSC 4410",
+            "section": "001",
+            "courseTitle": "Women's Chorus"
+        },
+        {
+            "catalogTitle": "MUSC 4415",
+            "section": "001",
+            "courseTitle": "Univ/Comm Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 4415",
+            "section": "002",
+            "courseTitle": "Univ/Comm Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 4415",
+            "section": "003",
+            "courseTitle": "Univ/Comm Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 4420",
+            "section": "001",
+            "courseTitle": "Opera Workshop"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "001",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "002",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "003",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "004",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "006",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "007",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "008",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "009",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4430",
+            "section": "010",
+            "courseTitle": "Chamber Music"
+        },
+        {
+            "catalogTitle": "MUSC 4434",
+            "section": "001",
+            "courseTitle": "Chamber Orchestra"
+        },
+        {
+            "catalogTitle": "MUSC 4435",
+            "section": "001",
+            "courseTitle": "New Music Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 4437",
+            "section": "001",
+            "courseTitle": "Early Music Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 4440",
+            "section": "001",
+            "courseTitle": "Univ Campus Symphony"
+        },
+        {
+            "catalogTitle": "MUSC 4445",
+            "section": "001",
+            "courseTitle": "Utah Philharmonia"
+        },
+        {
+            "catalogTitle": "MUSC 4450",
+            "section": "001",
+            "courseTitle": "Marching Band"
+        },
+        {
+            "catalogTitle": "MUSC 4465",
+            "section": "001",
+            "courseTitle": "Wind Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 4470",
+            "section": "001",
+            "courseTitle": "Jazz Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 4470",
+            "section": "002",
+            "courseTitle": "Jazz Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 4475",
+            "section": "001",
+            "courseTitle": "Jazz Combos"
+        },
+        {
+            "catalogTitle": "MUSC 4490",
+            "section": "001",
+            "courseTitle": "Jazz Guitar Ensemble I"
+        },
+        {
+            "catalogTitle": "MUSC 4491",
+            "section": "001",
+            "courseTitle": "Jazz Guitar Ensemble II"
+        },
+        {
+            "catalogTitle": "MUSC 4495",
+            "section": "001",
+            "courseTitle": "Classical Guitar Ens"
+        },
+        {
+            "catalogTitle": "MUSC 4499",
+            "section": "001",
+            "courseTitle": "Accompanying Practicum"
+        },
+        {
+            "catalogTitle": "MUSC 4499",
+            "section": "002",
+            "courseTitle": "Accompanying Practicum"
+        },
+        {
+            "catalogTitle": "MUSC 4610",
+            "section": "001",
+            "courseTitle": "Music Lit Renaissance"
+        },
+        {
+            "catalogTitle": "MUSC 4630",
+            "section": "001",
+            "courseTitle": "Music Lit: Classical"
+        },
+        {
+            "catalogTitle": "MUSC 4780",
+            "section": "001",
+            "courseTitle": "Music Teaching Seminar"
+        },
+        {
+            "catalogTitle": "MUSC 4785",
+            "section": "001",
+            "courseTitle": "Music Teaching Seminar"
+        },
+        {
+            "catalogTitle": "MUSC 4790",
+            "section": "001",
+            "courseTitle": "Choral Student Teaching"
+        },
+        {
+            "catalogTitle": "MUSC 4795",
+            "section": "001",
+            "courseTitle": "Instr Student Teaching"
+        },
+        {
+            "catalogTitle": "MUSC 4810",
+            "section": "001",
+            "courseTitle": "Vocal Lit I"
+        },
+        {
+            "catalogTitle": "MUSC 4820",
+            "section": "001",
+            "courseTitle": "Vocal Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 4825",
+            "section": "001",
+            "courseTitle": "Piano Pedagogy I"
+        },
+        {
+            "catalogTitle": "MUSC 4830",
+            "section": "001",
+            "courseTitle": "String Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 4845",
+            "section": "001",
+            "courseTitle": "Orchestra Audition Prac"
+        },
+        {
+            "catalogTitle": "MUSC 4876",
+            "section": "001",
+            "courseTitle": "Organ Lit I"
+        },
+        {
+            "catalogTitle": "MUSC 6010",
+            "section": "001",
+            "courseTitle": "Music Bibliography"
+        },
+        {
+            "catalogTitle": "MUSC 6100",
+            "section": "001",
+            "courseTitle": "Career Dev/Vol. Grad I"
+        },
+        {
+            "catalogTitle": "MUSC 6101",
+            "section": "001",
+            "courseTitle": "Career Dev/Vol. Grad II"
+        },
+        {
+            "catalogTitle": "MUSC 6360",
+            "section": "001",
+            "courseTitle": "Adv Electr Music Comp I"
+        },
+        {
+            "catalogTitle": "MUSC 6366",
+            "section": "001",
+            "courseTitle": "Adv Tch Seminar I"
+        },
+        {
+            "catalogTitle": "MUSC 6380",
+            "section": "001",
+            "courseTitle": "Adv Piano Lit I"
+        },
+        {
+            "catalogTitle": "MUSC 6392",
+            "section": "001",
+            "courseTitle": "Adv Jazz Comp/Arranging"
+        },
+        {
+            "catalogTitle": "MUSC 6404",
+            "section": "001",
+            "courseTitle": "Univ Singers Graduate"
+        },
+        {
+            "catalogTitle": "MUSC 6405",
+            "section": "001",
+            "courseTitle": "A Cappella Choir Master"
+        },
+        {
+            "catalogTitle": "MUSC 6410",
+            "section": "001",
+            "courseTitle": "Women's Chorus Masters"
+        },
+        {
+            "catalogTitle": "MUSC 6415",
+            "section": "001",
+            "courseTitle": "Univ/Comm Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 6415",
+            "section": "003",
+            "courseTitle": "Univ/Comm Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 6420",
+            "section": "001",
+            "courseTitle": "Opera Workshop Masters"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "001",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "002",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "003",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "004",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "006",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "007",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "008",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "009",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "010",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6430",
+            "section": "011",
+            "courseTitle": "Chamber Music Master"
+        },
+        {
+            "catalogTitle": "MUSC 6434",
+            "section": "001",
+            "courseTitle": "Chamber Orchestra-Grad"
+        },
+        {
+            "catalogTitle": "MUSC 6435",
+            "section": "001",
+            "courseTitle": "New Music Ens Master"
+        },
+        {
+            "catalogTitle": "MUSC 6437",
+            "section": "001",
+            "courseTitle": "Early Music Ens Grad"
+        },
+        {
+            "catalogTitle": "MUSC 6440",
+            "section": "001",
+            "courseTitle": "Univ Campus Symphony"
+        },
+        {
+            "catalogTitle": "MUSC 6445",
+            "section": "001",
+            "courseTitle": "UT Philharmonia Masters"
+        },
+        {
+            "catalogTitle": "MUSC 6465",
+            "section": "001",
+            "courseTitle": "Wind Ensemble Masters"
+        },
+        {
+            "catalogTitle": "MUSC 6470",
+            "section": "001",
+            "courseTitle": "Jazz Ensemble Masters"
+        },
+        {
+            "catalogTitle": "MUSC 6470",
+            "section": "002",
+            "courseTitle": "Jazz Ensemble Masters"
+        },
+        {
+            "catalogTitle": "MUSC 6475",
+            "section": "001",
+            "courseTitle": "Jazz Combo Masters"
+        },
+        {
+            "catalogTitle": "MUSC 6490",
+            "section": "001",
+            "courseTitle": "Adv Guitar Ensemble"
+        },
+        {
+            "catalogTitle": "MUSC 6499",
+            "section": "001",
+            "courseTitle": "Accompanying Practicum"
+        },
+        {
+            "catalogTitle": "MUSC 6499",
+            "section": "002",
+            "courseTitle": "Accompanying Practicum"
+        },
+        {
+            "catalogTitle": "MUSC 6500",
+            "section": "001",
+            "courseTitle": "Survey of Theory"
+        },
+        {
+            "catalogTitle": "MUSC 6540",
+            "section": "001",
+            "courseTitle": "Style Studies - Orch I"
+        },
+        {
+            "catalogTitle": "MUSC 6551",
+            "section": "001",
+            "courseTitle": "Adv Formal Proc II"
+        },
+        {
+            "catalogTitle": "MUSC 6610",
+            "section": "001",
+            "courseTitle": "Mus Lit Renaissance Master"
+        },
+        {
+            "catalogTitle": "MUSC 6630",
+            "section": "001",
+            "courseTitle": "Mus Lit Clasical Master"
+        },
+        {
+            "catalogTitle": "MUSC 6720",
+            "section": "001",
+            "courseTitle": "Hist & Phil Of Music Ed"
+        },
+        {
+            "catalogTitle": "MUSC 6770",
+            "section": "001",
+            "courseTitle": "Rsrch Music Ed"
+        },
+        {
+            "catalogTitle": "MUSC 6804",
+            "section": "001",
+            "courseTitle": "Musicology Sem 1900-Present"
+        },
+        {
+            "catalogTitle": "MUSC 6810",
+            "section": "001",
+            "courseTitle": "Grad Vocal Lit I"
+        },
+        {
+            "catalogTitle": "MUSC 6830",
+            "section": "001",
+            "courseTitle": "String Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 6831",
+            "section": "001",
+            "courseTitle": "Woodwind Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 6832",
+            "section": "001",
+            "courseTitle": "Brass Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 6833",
+            "section": "001",
+            "courseTitle": "Percussion Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 6845",
+            "section": "001",
+            "courseTitle": "Orchestra Audition Prac"
+        },
+        {
+            "catalogTitle": "MUSC 6850",
+            "section": "001",
+            "courseTitle": "Instr Conducting Sem"
+        },
+        {
+            "catalogTitle": "MUSC 6850",
+            "section": "002",
+            "courseTitle": "Instr Conducting Sem"
+        },
+        {
+            "catalogTitle": "MUSC 6860",
+            "section": "001",
+            "courseTitle": "Choral Conducting Sem"
+        },
+        {
+            "catalogTitle": "MUSC 6876",
+            "section": "001",
+            "courseTitle": "Adv Organ Literature I"
+        },
+        {
+            "catalogTitle": "MUSC 7210",
+            "section": "001",
+            "courseTitle": "Performance Practice I"
+        },
+        {
+            "catalogTitle": "MUSC 7370",
+            "section": "001",
+            "courseTitle": "Doc Instr Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 7370",
+            "section": "002",
+            "courseTitle": "Doc Instr Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 7371",
+            "section": "001",
+            "courseTitle": "Doc Instr Literature"
+        },
+        {
+            "catalogTitle": "MUSC 7381",
+            "section": "001",
+            "courseTitle": "Doc Piano Literature"
+        },
+        {
+            "catalogTitle": "MUSC 7391",
+            "section": "001",
+            "courseTitle": "Doc Vocal Literature"
+        },
+        {
+            "catalogTitle": "MUSC 7404",
+            "section": "001",
+            "courseTitle": "University Singers Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7420",
+            "section": "001",
+            "courseTitle": "Opera Workshop Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7430",
+            "section": "001",
+            "courseTitle": "Chamber Music Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7430",
+            "section": "008",
+            "courseTitle": "Chamber Music Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7430",
+            "section": "009",
+            "courseTitle": "Chamber Music Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7430",
+            "section": "010",
+            "courseTitle": "Chamber Music Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7430",
+            "section": "011",
+            "courseTitle": "Chamber Music Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7435",
+            "section": "001",
+            "courseTitle": "New Music Ensemble Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7445",
+            "section": "001",
+            "courseTitle": "UT Philharmonia Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7465",
+            "section": "001",
+            "courseTitle": "Wind Symphony Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7470",
+            "section": "001",
+            "courseTitle": "Jazz Ensemble Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7510",
+            "section": "001",
+            "courseTitle": "Theory Pedagogy"
+        },
+        {
+            "catalogTitle": "MUSC 7804",
+            "section": "001",
+            "courseTitle": "Sem Musicology 1900-Pres Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7850",
+            "section": "001",
+            "courseTitle": "Inst Conducting Sem Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7850",
+            "section": "002",
+            "courseTitle": "Inst Conducting Sem Doc"
+        },
+        {
+            "catalogTitle": "MUSC 7860",
+            "section": "001",
+            "courseTitle": "Choral Conduct Sem Doc"
+        }
+    ]
+}

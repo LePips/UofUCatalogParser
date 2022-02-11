@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATFA 6015",
+            "section": "001",
+            "courseTitle": "Theatr/Media/Art Method"
+        },
+        {
+            "catalogTitle": "ATFA 6030",
+            "section": "001",
+            "courseTitle": "Music & Dance Methods"
+        },
+        {
+            "catalogTitle": "ATFA 6100",
+            "section": "001",
+            "courseTitle": "Arts Teaching Theory"
+        },
+        {
+            "catalogTitle": "ATFA 6500",
+            "section": "001",
+            "courseTitle": "Community Arts Teaching"
+        },
+        {
+            "catalogTitle": "ATFA 6800",
+            "section": "001",
+            "courseTitle": "Arts Teaching Seminar"
+        }
+    ]
+}

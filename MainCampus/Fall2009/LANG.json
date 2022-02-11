@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "001",
+            "courseTitle": "Beginning Conversation"
+        },
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "002",
+            "courseTitle": "Portuguese Conversation I"
+        },
+        {
+            "catalogTitle": "LANG 4900",
+            "section": "001",
+            "courseTitle": "Peer Advising"
+        },
+        {
+            "catalogTitle": "LANG 4900",
+            "section": "002",
+            "courseTitle": "Intermediate Conversation"
+        },
+        {
+            "catalogTitle": "LANG 4900",
+            "section": "003",
+            "courseTitle": "Portuguese Conversation II"
+        },
+        {
+            "catalogTitle": "LANG 6410",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LANG 6430",
+            "section": "001",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

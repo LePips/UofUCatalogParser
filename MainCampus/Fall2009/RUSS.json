@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RUSS 101",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 201",
+            "section": "001",
+            "courseTitle": "Interm Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 306",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "002",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 2010",
+            "section": "001",
+            "courseTitle": "Inter Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 3040",
+            "section": "001",
+            "courseTitle": "Fifth Sem Russian"
+        },
+        {
+            "catalogTitle": "RUSS 3060",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "RUSS 3560",
+            "section": "001",
+            "courseTitle": "Soviet Culture"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "001",
+            "courseTitle": "KinoTalk: Adv Russ Conv & Comp"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "002",
+            "courseTitle": "Community Volunteering"
+        }
+    ]
+}

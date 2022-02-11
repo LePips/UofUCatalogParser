@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PTGSE 101",
+            "section": "001",
+            "courseTitle": "Beg Portugese I"
+        },
+        {
+            "catalogTitle": "PTGSE 201",
+            "section": "001",
+            "courseTitle": "Intrm Portugese I"
+        },
+        {
+            "catalogTitle": "PTGSE 306",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "PTGSE 1010",
+            "section": "001",
+            "courseTitle": "Beg Portugese I"
+        },
+        {
+            "catalogTitle": "PTGSE 2010",
+            "section": "001",
+            "courseTitle": "Intrm Portugese I"
+        },
+        {
+            "catalogTitle": "PTGSE 2600",
+            "section": "001",
+            "courseTitle": "Portuguese Conversation"
+        },
+        {
+            "catalogTitle": "PTGSE 3060",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "PTGSE 4560",
+            "section": "001",
+            "courseTitle": "Brazilian Civ and Cult"
+        },
+        {
+            "catalogTitle": "PTGSE 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "PTGSE 7300",
+            "section": "003",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

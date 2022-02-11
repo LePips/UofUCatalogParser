@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PAS 6100",
+            "section": "001",
+            "courseTitle": "UPAP Mission 2"
+        },
+        {
+            "catalogTitle": "PAS 6101",
+            "section": "001",
+            "courseTitle": "EBP 2"
+        },
+        {
+            "catalogTitle": "PAS 6102",
+            "section": "001",
+            "courseTitle": "Clinical Medicine 1"
+        },
+        {
+            "catalogTitle": "PAS 6103",
+            "section": "001",
+            "courseTitle": "General Medicine 1"
+        },
+        {
+            "catalogTitle": "PAS 6104",
+            "section": "001",
+            "courseTitle": "Cardiovascular Medicine"
+        },
+        {
+            "catalogTitle": "PAS 6800",
+            "section": "001",
+            "courseTitle": "Patient Prob Mngmt 1"
+        }
+    ]
+}

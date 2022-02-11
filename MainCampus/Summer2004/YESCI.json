@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESCI 411",
+            "section": "001",
+            "courseTitle": "Bird Brains"
+        },
+        {
+            "catalogTitle": "YESCI 412",
+            "section": "001",
+            "courseTitle": "Junior Naturalists"
+        },
+        {
+            "catalogTitle": "YESCI 437",
+            "section": "002",
+            "courseTitle": "Dreamweaver (Age 12-18)"
+        },
+        {
+            "catalogTitle": "YESCI 438",
+            "section": "001",
+            "courseTitle": "Online Safety"
+        },
+        {
+            "catalogTitle": "YESCI 442",
+            "section": "001",
+            "courseTitle": "Computer Gaming"
+        },
+        {
+            "catalogTitle": "YESCI 442",
+            "section": "002",
+            "courseTitle": "Computer Gaming"
+        },
+        {
+            "catalogTitle": "YESCI 500",
+            "section": "001",
+            "courseTitle": "Tech Town"
+        },
+        {
+            "catalogTitle": "YESCI 510",
+            "section": "001",
+            "courseTitle": "Space Academy"
+        },
+        {
+            "catalogTitle": "YESCI 510",
+            "section": "002",
+            "courseTitle": "Space Academy"
+        },
+        {
+            "catalogTitle": "YESCI 516",
+            "section": "001",
+            "courseTitle": "Creature Connection"
+        },
+        {
+            "catalogTitle": "YESCI 516",
+            "section": "002",
+            "courseTitle": "Creature Connection"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "001",
+            "courseTitle": "Lego Mania"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "001",
+            "courseTitle": "Legomania II"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "002",
+            "courseTitle": "Legomania II"
+        },
+        {
+            "catalogTitle": "YESCI 616",
+            "section": "001",
+            "courseTitle": "Wetland Adventure"
+        }
+    ]
+}

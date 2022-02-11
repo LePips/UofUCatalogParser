@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PERS 101",
+            "section": "001",
+            "courseTitle": "Beginning Persian"
+        },
+        {
+            "catalogTitle": "PERS 102",
+            "section": "001",
+            "courseTitle": "Beginning Persian II"
+        },
+        {
+            "catalogTitle": "PERS 1010",
+            "section": "001",
+            "courseTitle": "Beginning Persian I"
+        },
+        {
+            "catalogTitle": "PERS 1020",
+            "section": "001",
+            "courseTitle": "Beginning Persian II"
+        },
+        {
+            "catalogTitle": "PERS 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

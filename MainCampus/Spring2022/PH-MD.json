@@ -1,3 +1,14 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "PH MD 7910",
+            "section": "001",
+            "courseTitle": "Clerkship"
+        },
+        {
+            "catalogTitle": "PH MD 7940",
+            "section": "001",
+            "courseTitle": "Research In PMR"
+        }
+    ]
 }

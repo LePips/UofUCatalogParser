@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 650",
+            "section": "001",
+            "courseTitle": "Avalanche Workshop"
+        },
+        {
+            "catalogTitle": "LLREC 652",
+            "section": "001",
+            "courseTitle": "Full Moon Snowshoe Hike"
+        },
+        {
+            "catalogTitle": "LLREC 663",
+            "section": "001",
+            "courseTitle": "Bike Repair I"
+        },
+        {
+            "catalogTitle": "LLREC 731",
+            "section": "001",
+            "courseTitle": "Skate Skiing"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "001",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "002",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "002",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 903",
+            "section": "001",
+            "courseTitle": "Bikepacking"
+        },
+        {
+            "catalogTitle": "LLREC 905",
+            "section": "001",
+            "courseTitle": "Beginning Squash"
+        },
+        {
+            "catalogTitle": "LLREC 905",
+            "section": "002",
+            "courseTitle": "Beginning Squash"
+        }
+    ]
+}

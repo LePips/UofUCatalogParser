@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 11",
+            "section": "003",
+            "courseTitle": "First Quarter Italian"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "002",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "003",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "002",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 3060",
+            "section": "001",
+            "courseTitle": "Adv Grammar Review"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

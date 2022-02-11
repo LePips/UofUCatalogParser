@@ -1,0 +1,499 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 357",
+            "section": "001",
+            "courseTitle": "Funcs/Recv&Fld Trg II"
+        },
+        {
+            "catalogTitle": "SW 694",
+            "section": "001",
+            "courseTitle": "Soc Wk Prac w/ Sub Dis"
+        },
+        {
+            "catalogTitle": "SW 702",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 706",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 713",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 802",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 806",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 813",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 3550",
+            "section": "001",
+            "courseTitle": "Soc Div & Cultrl Undrstng"
+        },
+        {
+            "catalogTitle": "SW 3700",
+            "section": "001",
+            "courseTitle": "SW Study Abroad"
+        },
+        {
+            "catalogTitle": "SW 3700",
+            "section": "002",
+            "courseTitle": "SW Study Abroad"
+        },
+        {
+            "catalogTitle": "SW 3804",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "001",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "002",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "001",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "002",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "002",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 5702",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 5706",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 5713",
+            "section": "001",
+            "courseTitle": "Function & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "012",
+            "courseTitle": "Sexual Abuse: Syst & Intrvntns"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "013",
+            "courseTitle": "Differential Diagnosis"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "015",
+            "courseTitle": "Healthy Sexualty Across  Lfspn"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "016",
+            "courseTitle": "Adolescent Self-Harm Suicide &"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "017",
+            "courseTitle": "Positive Psychology"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "018",
+            "courseTitle": "The Inner Child"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "019",
+            "courseTitle": "Infant Adoption Training"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "001",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "002",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "003",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "004",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "005",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "006",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "007",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "001",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "002",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "003",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "004",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "005",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "006",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "007",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "001",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "002",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "003",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "004",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "005",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "006",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "007",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "002",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "003",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "004",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "005",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "006",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "007",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "002",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "003",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "004",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "005",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "006",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "007",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "001",
+            "courseTitle": "Advanced Brief Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "002",
+            "courseTitle": "Spirituality in Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "003",
+            "courseTitle": "DSM IV-TR"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "006",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "007",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "008",
+            "courseTitle": "Play Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "010",
+            "courseTitle": "Intercultural Communications"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "012",
+            "courseTitle": "Criminal Thinking"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "013",
+            "courseTitle": "School Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "014",
+            "courseTitle": "Mental Health Issues in HIV/AI"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "015",
+            "courseTitle": "SW, Meditation, & Alternative"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "016",
+            "courseTitle": "Elective I Assesment Models"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "017",
+            "courseTitle": "Elective II Treatment Models"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "018",
+            "courseTitle": "Comm. Org. & Non- proft sector"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "019",
+            "courseTitle": "Eating Disorders"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "020",
+            "courseTitle": "Depression Across Hmn Lfe Span"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "090",
+            "courseTitle": "Issues in Women's Health"
+        },
+        {
+            "catalogTitle": "SW 6802",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 6806",
+            "section": "001",
+            "courseTitle": "A&D Field Training II"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "012",
+            "courseTitle": "Sexual Abuse: Syst & Intrvntns"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "013",
+            "courseTitle": "Differential Diagnosis"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "015",
+            "courseTitle": "Sex Across the Lifespan"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "016",
+            "courseTitle": "Adolescent Self-Harm, Suicide,"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "017",
+            "courseTitle": "Positive Psychology"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "018",
+            "courseTitle": "The Inner Child"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "019",
+            "courseTitle": "Infant Adoption Training"
+        },
+        {
+            "catalogTitle": "SW 6900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 6940",
+            "section": "001",
+            "courseTitle": "Rsch Project"
+        },
+        {
+            "catalogTitle": "SW 6994",
+            "section": "001",
+            "courseTitle": "Prac w/Subs Reltd Disor"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "821",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "821",
+            "courseTitle": "Dissertation Research"
+        }
+    ]
+}

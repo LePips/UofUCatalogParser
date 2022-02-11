@@ -1,0 +1,399 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEO 104",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 105",
+            "section": "001",
+            "courseTitle": "National Parks Geology"
+        },
+        {
+            "catalogTitle": "GEO 375",
+            "section": "001",
+            "courseTitle": "Intro Geol Engg"
+        },
+        {
+            "catalogTitle": "GEO 1000",
+            "section": "001",
+            "courseTitle": "Natural Disasters"
+        },
+        {
+            "catalogTitle": "GEO 1030",
+            "section": "090",
+            "courseTitle": "Earthquakes & Volcanoes"
+        },
+        {
+            "catalogTitle": "GEO 1040",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 1050",
+            "section": "001",
+            "courseTitle": "National Parks Geology"
+        },
+        {
+            "catalogTitle": "GEO 1110",
+            "section": "001",
+            "courseTitle": "Intr to Earth Systems"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "001",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "002",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 3030",
+            "section": "001",
+            "courseTitle": "Living with Quakes"
+        },
+        {
+            "catalogTitle": "GEO 3030",
+            "section": "090",
+            "courseTitle": "Living with Quakes"
+        },
+        {
+            "catalogTitle": "GEO 3060",
+            "section": "001",
+            "courseTitle": "Struct Geol & Tectonics"
+        },
+        {
+            "catalogTitle": "GEO 3060",
+            "section": "002",
+            "courseTitle": "Struct Geol & Tectonics"
+        },
+        {
+            "catalogTitle": "GEO 3060",
+            "section": "003",
+            "courseTitle": "Struct Geol & Tectonics"
+        },
+        {
+            "catalogTitle": "GEO 3070",
+            "section": "001",
+            "courseTitle": "Petrology for Engineers"
+        },
+        {
+            "catalogTitle": "GEO 3070",
+            "section": "002",
+            "courseTitle": "Petrology for Engineers"
+        },
+        {
+            "catalogTitle": "GEO 3075",
+            "section": "001",
+            "courseTitle": "Intro Geol Engg"
+        },
+        {
+            "catalogTitle": "GEO 3080",
+            "section": "001",
+            "courseTitle": "Earth Materials I"
+        },
+        {
+            "catalogTitle": "GEO 3080",
+            "section": "002",
+            "courseTitle": "Earth Materials I"
+        },
+        {
+            "catalogTitle": "GEO 3090",
+            "section": "001",
+            "courseTitle": "Earth Materials II"
+        },
+        {
+            "catalogTitle": "GEO 3090",
+            "section": "002",
+            "courseTitle": "Earth Materials II"
+        },
+        {
+            "catalogTitle": "GEO 3090",
+            "section": "003",
+            "courseTitle": "Earth Materials II"
+        },
+        {
+            "catalogTitle": "GEO 3250",
+            "section": "001",
+            "courseTitle": "Geology of Utah"
+        },
+        {
+            "catalogTitle": "GEO 3368",
+            "section": "090",
+            "courseTitle": "Energy Choices"
+        },
+        {
+            "catalogTitle": "GEO 3400",
+            "section": "001",
+            "courseTitle": "Comp & Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 3800",
+            "section": "001",
+            "courseTitle": "The Oceans"
+        },
+        {
+            "catalogTitle": "GEO 3900",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "GEO 4100",
+            "section": "001",
+            "courseTitle": "Petrography-Genesis"
+        },
+        {
+            "catalogTitle": "GEO 4100",
+            "section": "002",
+            "courseTitle": "Petrography-Genesis"
+        },
+        {
+            "catalogTitle": "GEO 4970",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "GEO 5075",
+            "section": "001",
+            "courseTitle": "Intro Geol Engg"
+        },
+        {
+            "catalogTitle": "GEO 5120",
+            "section": "001",
+            "courseTitle": "Geochem Thrmodynmcs & Trnsprt"
+        },
+        {
+            "catalogTitle": "GEO 5120",
+            "section": "002",
+            "courseTitle": "Geochem Thrmodynmcs & Trnsprt"
+        },
+        {
+            "catalogTitle": "GEO 5170",
+            "section": "001",
+            "courseTitle": "Geohaz & Eng Geomorph"
+        },
+        {
+            "catalogTitle": "GEO 5210",
+            "section": "001",
+            "courseTitle": "Seismology I"
+        },
+        {
+            "catalogTitle": "GEO 5250",
+            "section": "001",
+            "courseTitle": "Inversion Theory"
+        },
+        {
+            "catalogTitle": "GEO 5350",
+            "section": "001",
+            "courseTitle": "Groundwater"
+        },
+        {
+            "catalogTitle": "GEO 5368",
+            "section": "090",
+            "courseTitle": "Energy Choices"
+        },
+        {
+            "catalogTitle": "GEO 5370",
+            "section": "001",
+            "courseTitle": "Environmtl Contaminants"
+        },
+        {
+            "catalogTitle": "GEO 5450",
+            "section": "001",
+            "courseTitle": "Ore Genesis/Min Explor"
+        },
+        {
+            "catalogTitle": "GEO 5450",
+            "section": "002",
+            "courseTitle": "Ore Genesis/Min Explor"
+        },
+        {
+            "catalogTitle": "GEO 5560",
+            "section": "001",
+            "courseTitle": "Numerical Methods"
+        },
+        {
+            "catalogTitle": "GEO 5565",
+            "section": "001",
+            "courseTitle": "DigMap & GIS in Geosci"
+        },
+        {
+            "catalogTitle": "GEO 5650",
+            "section": "001",
+            "courseTitle": "Hydrology"
+        },
+        {
+            "catalogTitle": "GEO 5660",
+            "section": "001",
+            "courseTitle": "Geochemistry"
+        },
+        {
+            "catalogTitle": "GEO 5760",
+            "section": "001",
+            "courseTitle": "Stratigraphy & Sed Proc"
+        },
+        {
+            "catalogTitle": "GEO 5760",
+            "section": "002",
+            "courseTitle": "Stratigraphy & Sed Proc"
+        },
+        {
+            "catalogTitle": "GEO 5900",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "001",
+            "courseTitle": "DLS-Undergraduate"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "003",
+            "courseTitle": "Inorganic Applcs of Mass Spec"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "010",
+            "courseTitle": "Tectonics Reading Group"
+        },
+        {
+            "catalogTitle": "GEO 6120",
+            "section": "001",
+            "courseTitle": "Geochm Thrmdyn Trnsprt"
+        },
+        {
+            "catalogTitle": "GEO 6120",
+            "section": "002",
+            "courseTitle": "Geochm Thrmdyn Trnsprt"
+        },
+        {
+            "catalogTitle": "GEO 6170",
+            "section": "001",
+            "courseTitle": "Geohaz & Eng Geomorph"
+        },
+        {
+            "catalogTitle": "GEO 6250",
+            "section": "001",
+            "courseTitle": "Inversion Theory & Apps"
+        },
+        {
+            "catalogTitle": "GEO 6350",
+            "section": "001",
+            "courseTitle": "Groundwater"
+        },
+        {
+            "catalogTitle": "GEO 6370",
+            "section": "001",
+            "courseTitle": "Environmtl Contaminants"
+        },
+        {
+            "catalogTitle": "GEO 6451",
+            "section": "001",
+            "courseTitle": "Ore Gen & Mnl Explr"
+        },
+        {
+            "catalogTitle": "GEO 6451",
+            "section": "002",
+            "courseTitle": "Ore Gen & Mnl Explr"
+        },
+        {
+            "catalogTitle": "GEO 6473",
+            "section": "001",
+            "courseTitle": "Stable Isotope Eco"
+        },
+        {
+            "catalogTitle": "GEO 6560",
+            "section": "001",
+            "courseTitle": "Numerical Methods"
+        },
+        {
+            "catalogTitle": "GEO 6565",
+            "section": "001",
+            "courseTitle": "DigMap & GIS in Geosci"
+        },
+        {
+            "catalogTitle": "GEO 6660",
+            "section": "001",
+            "courseTitle": "Geochemistry"
+        },
+        {
+            "catalogTitle": "GEO 6665",
+            "section": "001",
+            "courseTitle": "Paleophysiology"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "001",
+            "courseTitle": "DLS-Graduate"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "002",
+            "courseTitle": "Grad-EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "003",
+            "courseTitle": "Inorganic Applcs of Mass Spec"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "010",
+            "courseTitle": "Tectonics Reading Group"
+        },
+        {
+            "catalogTitle": "GEO 6950",
+            "section": "001",
+            "courseTitle": "Reviews Earth Sci"
+        },
+        {
+            "catalogTitle": "GEO 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GEO 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7120",
+            "section": "001",
+            "courseTitle": "Geochm Thermdyn Trnsprt"
+        },
+        {
+            "catalogTitle": "GEO 7120",
+            "section": "002",
+            "courseTitle": "Geochm Thermdyn Trnsprt"
+        },
+        {
+            "catalogTitle": "GEO 7473",
+            "section": "001",
+            "courseTitle": "Stable Isotope Eco"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "001",
+            "courseTitle": "EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "GEO 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

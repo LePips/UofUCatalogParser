@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "001",
+            "courseTitle": "Intercultural Comm"
+        },
+        {
+            "catalogTitle": "LING 3700",
+            "section": "001",
+            "courseTitle": "Writing In Disciplines"
+        },
+        {
+            "catalogTitle": "LING 5240",
+            "section": "001",
+            "courseTitle": "Ling Structure Spanish"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "001",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 6240",
+            "section": "001",
+            "courseTitle": "Ling Structure Spanish"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECS 2150",
+            "section": "001",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 2150",
+            "section": "002",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 2150",
+            "section": "003",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 5645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 5645",
+            "section": "002",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 5647",
+            "section": "001",
+            "courseTitle": "IM: Ling Diverse Pop."
+        },
+        {
+            "catalogTitle": "ECS 5709",
+            "section": "001",
+            "courseTitle": "Family School Partner"
+        },
+        {
+            "catalogTitle": "ECS 5715",
+            "section": "001",
+            "courseTitle": "Urban Education"
+        },
+        {
+            "catalogTitle": "ECS 6600",
+            "section": "001",
+            "courseTitle": "Intro Crit\\Cult Stud Ed"
+        },
+        {
+            "catalogTitle": "ECS 6620",
+            "section": "001",
+            "courseTitle": "Seminar Phil Of Ed"
+        },
+        {
+            "catalogTitle": "ECS 6624",
+            "section": "001",
+            "courseTitle": "Whiteness Theory Ed"
+        },
+        {
+            "catalogTitle": "ECS 6639",
+            "section": "001",
+            "courseTitle": "Language and Comm"
+        },
+        {
+            "catalogTitle": "ECS 6641",
+            "section": "001",
+            "courseTitle": "Social Inequality H Ed"
+        },
+        {
+            "catalogTitle": "ECS 6645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 6647",
+            "section": "001",
+            "courseTitle": "IM: Ling Diverse Pop."
+        },
+        {
+            "catalogTitle": "ECS 6709",
+            "section": "001",
+            "courseTitle": "Family School Partner"
+        },
+        {
+            "catalogTitle": "ECS 6715",
+            "section": "001",
+            "courseTitle": "Urban Education"
+        },
+        {
+            "catalogTitle": "ECS 6720",
+            "section": "001",
+            "courseTitle": "College Tchg & SJ"
+        },
+        {
+            "catalogTitle": "ECS 6854",
+            "section": "001",
+            "courseTitle": "Neoliberal Ed Policy"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "002",
+            "courseTitle": "STEM Education and Society"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "006",
+            "courseTitle": "Soc Mvmts & Hist of Ed in US I"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "007",
+            "courseTitle": "Conceptual Issues in Qual Res"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "011",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6961",
+            "section": "001",
+            "courseTitle": "Comprehensive Exam"
+        },
+        {
+            "catalogTitle": "ECS 7610",
+            "section": "001",
+            "courseTitle": "Hist AmEd I: 1880-1950"
+        },
+        {
+            "catalogTitle": "ECS 7620",
+            "section": "001",
+            "courseTitle": "Seminar Phil Of Ed"
+        },
+        {
+            "catalogTitle": "ECS 7624",
+            "section": "001",
+            "courseTitle": "Whiteness Theory Ed"
+        },
+        {
+            "catalogTitle": "ECS 7639",
+            "section": "001",
+            "courseTitle": "Language and Comm"
+        },
+        {
+            "catalogTitle": "ECS 7641",
+            "section": "001",
+            "courseTitle": "Social Inequality H Ed"
+        },
+        {
+            "catalogTitle": "ECS 7670",
+            "section": "001",
+            "courseTitle": "Iss in Qual Res"
+        },
+        {
+            "catalogTitle": "ECS 7720",
+            "section": "001",
+            "courseTitle": "College Tchg & SJ"
+        },
+        {
+            "catalogTitle": "ECS 7854",
+            "section": "001",
+            "courseTitle": "Neoliberal Ed Policy"
+        },
+        {
+            "catalogTitle": "ECS 7950",
+            "section": "002",
+            "courseTitle": "STEM Education and Society"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "002",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "003",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "005",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "011",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "003",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "006",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "007",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "010",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "010",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

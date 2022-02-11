@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "002",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "003",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5900",
+            "section": "002",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5900",
+            "section": "003",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5920",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

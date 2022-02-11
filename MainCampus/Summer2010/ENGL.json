@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGL 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "ENGL 2220",
+            "section": "001",
+            "courseTitle": "Novels And Films"
+        },
+        {
+            "catalogTitle": "ENGL 2600",
+            "section": "090",
+            "courseTitle": "Crit Intro To Lit Forms"
+        },
+        {
+            "catalogTitle": "ENGL 3310",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "ENGL 3600",
+            "section": "001",
+            "courseTitle": "Intr Critical Theory"
+        },
+        {
+            "catalogTitle": "ENGL 3701",
+            "section": "001",
+            "courseTitle": "Intro Lit Hist 1"
+        },
+        {
+            "catalogTitle": "ENGL 3702",
+            "section": "001",
+            "courseTitle": "Intro Lit Hist 2"
+        },
+        {
+            "catalogTitle": "ENGL 3710",
+            "section": "001",
+            "courseTitle": "Studies British Lit"
+        },
+        {
+            "catalogTitle": "ENGL 4990",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ENGL 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ENGL 5030",
+            "section": "001",
+            "courseTitle": "Studies In Poetry"
+        },
+        {
+            "catalogTitle": "ENGL 5050",
+            "section": "001",
+            "courseTitle": "Studies In Genre"
+        },
+        {
+            "catalogTitle": "ENGL 5650",
+            "section": "001",
+            "courseTitle": "Adv Sem Special Topics"
+        },
+        {
+            "catalogTitle": "ENGL 5740",
+            "section": "001",
+            "courseTitle": "Studies Brit Romantic"
+        },
+        {
+            "catalogTitle": "ENGL 5760",
+            "section": "001",
+            "courseTitle": "Studies Victorian Lit"
+        },
+        {
+            "catalogTitle": "ENGL 5940",
+            "section": "001",
+            "courseTitle": "Theory Gender/Sexuality"
+        },
+        {
+            "catalogTitle": "ENGL 5960",
+            "section": "001",
+            "courseTitle": "Theories Pop Culture"
+        },
+        {
+            "catalogTitle": "ENGL 6910",
+            "section": "001",
+            "courseTitle": "Indiv Study Masters"
+        },
+        {
+            "catalogTitle": "ENGL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ENGL 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ENGL 7910",
+            "section": "001",
+            "courseTitle": "Indiv Study Ph D"
+        },
+        {
+            "catalogTitle": "ENGL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ENGL 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ENGL 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

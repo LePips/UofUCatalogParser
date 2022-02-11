@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CHIN 101",
+            "section": "001",
+            "courseTitle": "Beg Mandarin Chin I"
+        },
+        {
+            "catalogTitle": "CHIN 102",
+            "section": "001",
+            "courseTitle": "Begining Mandarin Chin II"
+        },
+        {
+            "catalogTitle": "CHIN 339",
+            "section": "001",
+            "courseTitle": "Chinese Calligraphy"
+        },
+        {
+            "catalogTitle": "CHIN 1010",
+            "section": "001",
+            "courseTitle": "Beg Mandarin Chin I"
+        },
+        {
+            "catalogTitle": "CHIN 1020",
+            "section": "001",
+            "courseTitle": "Beg Mandarin Chin II"
+        },
+        {
+            "catalogTitle": "CHIN 3390",
+            "section": "001",
+            "courseTitle": "Chinese Calligraphy"
+        },
+        {
+            "catalogTitle": "CHIN 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "CHIN 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "CHIN 7300",
+            "section": "002",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

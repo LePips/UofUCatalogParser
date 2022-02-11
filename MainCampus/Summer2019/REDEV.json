@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6390",
+            "section": "001",
+            "courseTitle": "Sustainability Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6450",
+            "section": "001",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6630",
+            "section": "001",
+            "courseTitle": "Real Estate Dev Due Dil"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        }
+    ]
+}

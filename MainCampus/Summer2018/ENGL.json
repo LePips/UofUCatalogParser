@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGL 1200",
+            "section": "090",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "ENGL 2090",
+            "section": "001",
+            "courseTitle": "Videogames Storytelling"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "001",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2700",
+            "section": "001",
+            "courseTitle": "Diversity In Amer Lit"
+        },
+        {
+            "catalogTitle": "ENGL 3310",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "ENGL 3600",
+            "section": "001",
+            "courseTitle": "Intro Critical Theory"
+        },
+        {
+            "catalogTitle": "ENGL 3701",
+            "section": "090",
+            "courseTitle": "Intro Lit Hist 1"
+        },
+        {
+            "catalogTitle": "ENGL 3702",
+            "section": "090",
+            "courseTitle": "Intro Lit Hist 2"
+        },
+        {
+            "catalogTitle": "ENGL 3730",
+            "section": "001",
+            "courseTitle": "Women Writers"
+        },
+        {
+            "catalogTitle": "ENGL 4990",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ENGL 4991",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENGL 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ENGL 5650",
+            "section": "001",
+            "courseTitle": "Adv Sem Lit Study"
+        },
+        {
+            "catalogTitle": "ENGL 5711",
+            "section": "001",
+            "courseTitle": "Shakespeare"
+        },
+        {
+            "catalogTitle": "ENGL 5760",
+            "section": "001",
+            "courseTitle": "Studies Victorian Lit"
+        },
+        {
+            "catalogTitle": "ENGL 5800",
+            "section": "001",
+            "courseTitle": "Studies Contemp Lit"
+        },
+        {
+            "catalogTitle": "ENGL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

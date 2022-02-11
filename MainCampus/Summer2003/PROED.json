@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 100",
+            "section": "001",
+            "courseTitle": "Acct/Budg for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 110",
+            "section": "001",
+            "courseTitle": "Acct/Budg for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 150",
+            "section": "001",
+            "courseTitle": "CPM  4 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 150",
+            "section": "002",
+            "courseTitle": "CPM  4 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 150",
+            "section": "005",
+            "courseTitle": "CPM  4 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 150",
+            "section": "006",
+            "courseTitle": "CPM  4 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 210",
+            "section": "002",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "PROED 210",
+            "section": "003",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "PROED 220",
+            "section": "001",
+            "courseTitle": "Customer Service"
+        },
+        {
+            "catalogTitle": "PROED 500",
+            "section": "001",
+            "courseTitle": "Operations Mgt"
+        },
+        {
+            "catalogTitle": "PROED 540",
+            "section": "001",
+            "courseTitle": "Project Mgt I"
+        },
+        {
+            "catalogTitle": "PROED 610",
+            "section": "001",
+            "courseTitle": "Supercharge Employees"
+        },
+        {
+            "catalogTitle": "PROED 630",
+            "section": "001",
+            "courseTitle": "Dynamic Teams"
+        },
+        {
+            "catalogTitle": "PROED 640",
+            "section": "001",
+            "courseTitle": "Managing Quality & Perf"
+        }
+    ]
+}

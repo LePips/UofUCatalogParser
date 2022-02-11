@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 120",
+            "section": "090",
+            "courseTitle": "Intr Study Language"
+        },
+        {
+            "catalogTitle": "LING 322",
+            "section": "090",
+            "courseTitle": "World Englishes"
+        },
+        {
+            "catalogTitle": "LING 350",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 360",
+            "section": "090",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "090",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 3220",
+            "section": "090",
+            "courseTitle": "World Englishes"
+        },
+        {
+            "catalogTitle": "LING 3500",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "090",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 3950",
+            "section": "001",
+            "courseTitle": "Service Learning"
+        },
+        {
+            "catalogTitle": "LING 5810",
+            "section": "090",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 5813",
+            "section": "090",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        }
+    ]
+}

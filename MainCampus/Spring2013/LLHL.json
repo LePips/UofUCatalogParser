@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHL 101",
+            "section": "001",
+            "courseTitle": "Yoga-Power I"
+        },
+        {
+            "catalogTitle": "LLHL 102",
+            "section": "001",
+            "courseTitle": "Yoga Experiential Retreat"
+        },
+        {
+            "catalogTitle": "LLHL 134",
+            "section": "001",
+            "courseTitle": "Homemade Facials"
+        },
+        {
+            "catalogTitle": "LLHL 140",
+            "section": "001",
+            "courseTitle": "Restorative Yoga"
+        },
+        {
+            "catalogTitle": "LLHL 141",
+            "section": "001",
+            "courseTitle": "Meditation Sampler"
+        },
+        {
+            "catalogTitle": "LLHL 146",
+            "section": "001",
+            "courseTitle": "Yin Yoga"
+        }
+    ]
+}

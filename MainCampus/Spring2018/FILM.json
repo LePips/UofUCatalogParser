@@ -1,0 +1,394 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 210",
+            "section": "001",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 220",
+            "section": "001",
+            "courseTitle": "Intro to Film"
+        },
+        {
+            "catalogTitle": "FILM 220",
+            "section": "002",
+            "courseTitle": "Intro to Film"
+        },
+        {
+            "catalogTitle": "FILM 312",
+            "section": "002",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 388",
+            "section": "001",
+            "courseTitle": "Acting in Film and Television"
+        },
+        {
+            "catalogTitle": "FILM 452",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 483",
+            "section": "001",
+            "courseTitle": "Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 484",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 1100",
+            "section": "001",
+            "courseTitle": "Film Festival Wkshp"
+        },
+        {
+            "catalogTitle": "FILM 1600",
+            "section": "001",
+            "courseTitle": "Animation: Then and Now"
+        },
+        {
+            "catalogTitle": "FILM 1600",
+            "section": "090",
+            "courseTitle": "Animation: Then and Now"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "001",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "002",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "070",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "090",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2220",
+            "section": "001",
+            "courseTitle": "Women Directors"
+        },
+        {
+            "catalogTitle": "FILM 2600",
+            "section": "001",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 2600",
+            "section": "002",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 2640",
+            "section": "001",
+            "courseTitle": "Trad Animation II"
+        },
+        {
+            "catalogTitle": "FILM 2700",
+            "section": "002",
+            "courseTitle": "Intro to Videogames"
+        },
+        {
+            "catalogTitle": "FILM 3110",
+            "section": "001",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 3120",
+            "section": "001",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 3120",
+            "section": "002",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 3160",
+            "section": "001",
+            "courseTitle": "Animation Film Survey"
+        },
+        {
+            "catalogTitle": "FILM 3420",
+            "section": "001",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 3420",
+            "section": "002",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "001",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "002",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "003",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "004",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3520",
+            "section": "001",
+            "courseTitle": "Soc Justice Documentary"
+        },
+        {
+            "catalogTitle": "FILM 3620",
+            "section": "002",
+            "courseTitle": "Computer Animation II"
+        },
+        {
+            "catalogTitle": "FILM 3620",
+            "section": "003",
+            "courseTitle": "Computer Animation II"
+        },
+        {
+            "catalogTitle": "FILM 3720",
+            "section": "003",
+            "courseTitle": "Alt Game Development"
+        },
+        {
+            "catalogTitle": "FILM 3720",
+            "section": "004",
+            "courseTitle": "Alt Game Development"
+        },
+        {
+            "catalogTitle": "FILM 3720",
+            "section": "005",
+            "courseTitle": "Alt Game Development"
+        },
+        {
+            "catalogTitle": "FILM 3860",
+            "section": "001",
+            "courseTitle": "Acting TV/Film"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "001",
+            "courseTitle": "Screenwriting Workshop"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "005",
+            "courseTitle": "Color Grading"
+        },
+        {
+            "catalogTitle": "FILM 4210",
+            "section": "001",
+            "courseTitle": "Shakespeare on Film"
+        },
+        {
+            "catalogTitle": "FILM 4210",
+            "section": "002",
+            "courseTitle": "Screwball Comedy"
+        },
+        {
+            "catalogTitle": "FILM 4520",
+            "section": "001",
+            "courseTitle": "Cinematography"
+        },
+        {
+            "catalogTitle": "FILM 4555",
+            "section": "001",
+            "courseTitle": "Filmmaking II Prod-Post"
+        },
+        {
+            "catalogTitle": "FILM 4560",
+            "section": "001",
+            "courseTitle": "Grip & Lighting"
+        },
+        {
+            "catalogTitle": "FILM 4570",
+            "section": "001",
+            "courseTitle": "Ultra-High Def Cinema"
+        },
+        {
+            "catalogTitle": "FILM 4590",
+            "section": "001",
+            "courseTitle": "Directing Ind Film"
+        },
+        {
+            "catalogTitle": "FILM 4810",
+            "section": "001",
+            "courseTitle": "Killer Scripts"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "001",
+            "courseTitle": "Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 4830",
+            "section": "001",
+            "courseTitle": "Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 4840",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 4860",
+            "section": "001",
+            "courseTitle": "Adv Film/TV Acting"
+        },
+        {
+            "catalogTitle": "FILM 4999",
+            "section": "004",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "FILM 5570",
+            "section": "001",
+            "courseTitle": "Produc & Directing II"
+        },
+        {
+            "catalogTitle": "FILM 6100",
+            "section": "001",
+            "courseTitle": "Grad Film Fest Wkshp"
+        },
+        {
+            "catalogTitle": "FILM 6110",
+            "section": "001",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 6120",
+            "section": "001",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 6120",
+            "section": "002",
+            "courseTitle": "Film History from 1952"
+        },
+        {
+            "catalogTitle": "FILM 6160",
+            "section": "001",
+            "courseTitle": "Grad Animat Film Surv"
+        },
+        {
+            "catalogTitle": "FILM 6370",
+            "section": "001",
+            "courseTitle": "Women Directors"
+        },
+        {
+            "catalogTitle": "FILM 6370",
+            "section": "002",
+            "courseTitle": "Shakespeare on Film"
+        },
+        {
+            "catalogTitle": "FILM 6370",
+            "section": "003",
+            "courseTitle": "Screwball Comedy"
+        },
+        {
+            "catalogTitle": "FILM 6420",
+            "section": "001",
+            "courseTitle": "Sound for Film & DM"
+        },
+        {
+            "catalogTitle": "FILM 6420",
+            "section": "002",
+            "courseTitle": "Sound for Film & DM"
+        },
+        {
+            "catalogTitle": "FILM 6500",
+            "section": "001",
+            "courseTitle": "Grad Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 6520",
+            "section": "001",
+            "courseTitle": "Grad Cinematography"
+        },
+        {
+            "catalogTitle": "FILM 6555",
+            "section": "001",
+            "courseTitle": "Grad Film II Prod-Post"
+        },
+        {
+            "catalogTitle": "FILM 6570",
+            "section": "001",
+            "courseTitle": "Produc & Directing II"
+        },
+        {
+            "catalogTitle": "FILM 6590",
+            "section": "001",
+            "courseTitle": "Directing Ind Film"
+        },
+        {
+            "catalogTitle": "FILM 6620",
+            "section": "002",
+            "courseTitle": "Grad Comp Animat II"
+        },
+        {
+            "catalogTitle": "FILM 6640",
+            "section": "001",
+            "courseTitle": "Grad Trad Animation II"
+        },
+        {
+            "catalogTitle": "FILM 6820",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting I"
+        },
+        {
+            "catalogTitle": "FILM 6830",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting II"
+        },
+        {
+            "catalogTitle": "FILM 6840",
+            "section": "001",
+            "courseTitle": "Grad Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 6905",
+            "section": "001",
+            "courseTitle": "Social Justice Documentary"
+        },
+        {
+            "catalogTitle": "FILM 6905",
+            "section": "002",
+            "courseTitle": "Grip and Lighting"
+        },
+        {
+            "catalogTitle": "FILM 6905",
+            "section": "003",
+            "courseTitle": "Ultra-High Def Cinema"
+        },
+        {
+            "catalogTitle": "FILM 6905",
+            "section": "005",
+            "courseTitle": "Color Grading"
+        },
+        {
+            "catalogTitle": "FILM 6905",
+            "section": "006",
+            "courseTitle": "Killer Scripts"
+        }
+    ]
+}

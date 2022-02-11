@@ -1,0 +1,459 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOEN 600",
+            "section": "002",
+            "courseTitle": "Systems Physiology I"
+        },
+        {
+            "catalogTitle": "BIOEN 625",
+            "section": "001",
+            "courseTitle": "Biomechanics II"
+        },
+        {
+            "catalogTitle": "BIOEN 632",
+            "section": "001",
+            "courseTitle": "Biomaterials"
+        },
+        {
+            "catalogTitle": "BIOEN 635",
+            "section": "001",
+            "courseTitle": "Cell and Tissue Eng II"
+        },
+        {
+            "catalogTitle": "BIOEN 640",
+            "section": "001",
+            "courseTitle": "Systems Neuroscience"
+        },
+        {
+            "catalogTitle": "BIOEN 672",
+            "section": "001",
+            "courseTitle": "Intro Image Based Mod."
+        },
+        {
+            "catalogTitle": "BIOEN 677",
+            "section": "001",
+            "courseTitle": "Genomic Sig Processing"
+        },
+        {
+            "catalogTitle": "BIOEN 1020",
+            "section": "001",
+            "courseTitle": "Funds. of BIOEN I"
+        },
+        {
+            "catalogTitle": "BIOEN 1020",
+            "section": "002",
+            "courseTitle": "Funds. of BIOEN I"
+        },
+        {
+            "catalogTitle": "BIOEN 1020",
+            "section": "003",
+            "courseTitle": "Funds. of BIOEN I"
+        },
+        {
+            "catalogTitle": "BIOEN 1020",
+            "section": "004",
+            "courseTitle": "Funds. of BIOEN I"
+        },
+        {
+            "catalogTitle": "BIOEN 1020",
+            "section": "005",
+            "courseTitle": "Funds. of BIOEN I"
+        },
+        {
+            "catalogTitle": "BIOEN 1020",
+            "section": "006",
+            "courseTitle": "Funds. of BIOEN I"
+        },
+        {
+            "catalogTitle": "BIOEN 1020",
+            "section": "007",
+            "courseTitle": "Funds. of BIOEN I"
+        },
+        {
+            "catalogTitle": "BIOEN 1020",
+            "section": "008",
+            "courseTitle": "Funds. of BIOEN I"
+        },
+        {
+            "catalogTitle": "BIOEN 3091",
+            "section": "001",
+            "courseTitle": "Current Research in BME"
+        },
+        {
+            "catalogTitle": "BIOEN 3101",
+            "section": "001",
+            "courseTitle": "Biosignals Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 3301",
+            "section": "001",
+            "courseTitle": "Bioen Comput Methods"
+        },
+        {
+            "catalogTitle": "BIOEN 3301",
+            "section": "002",
+            "courseTitle": "Bioen Comput Methods"
+        },
+        {
+            "catalogTitle": "BIOEN 3301",
+            "section": "003",
+            "courseTitle": "Bioen Comput Methods"
+        },
+        {
+            "catalogTitle": "BIOEN 3801",
+            "section": "001",
+            "courseTitle": "bioDesign I"
+        },
+        {
+            "catalogTitle": "BIOEN 3801",
+            "section": "002",
+            "courseTitle": "bioDesign I"
+        },
+        {
+            "catalogTitle": "BIOEN 3801",
+            "section": "003",
+            "courseTitle": "bioDesign I"
+        },
+        {
+            "catalogTitle": "BIOEN 3801",
+            "section": "004",
+            "courseTitle": "bioDesign I"
+        },
+        {
+            "catalogTitle": "BIOEN 4001",
+            "section": "001",
+            "courseTitle": "Biotransport/Biomolecul"
+        },
+        {
+            "catalogTitle": "BIOEN 4001",
+            "section": "002",
+            "courseTitle": "Biotransport/Biomolecul"
+        },
+        {
+            "catalogTitle": "BIOEN 4001",
+            "section": "003",
+            "courseTitle": "Biotransport/Biomolecul"
+        },
+        {
+            "catalogTitle": "BIOEN 4001",
+            "section": "005",
+            "courseTitle": "Biotransport/Biomolecul"
+        },
+        {
+            "catalogTitle": "BIOEN 4001",
+            "section": "006",
+            "courseTitle": "Biotransport/Biomolecul"
+        },
+        {
+            "catalogTitle": "BIOEN 4301",
+            "section": "001",
+            "courseTitle": "Intr Modern Biomaterial"
+        },
+        {
+            "catalogTitle": "BIOEN 4301",
+            "section": "002",
+            "courseTitle": "Intr Modern Biomaterial"
+        },
+        {
+            "catalogTitle": "BIOEN 4301",
+            "section": "003",
+            "courseTitle": "Intr Modern Biomaterial"
+        },
+        {
+            "catalogTitle": "BIOEN 4301",
+            "section": "004",
+            "courseTitle": "Intr Modern Biomaterial"
+        },
+        {
+            "catalogTitle": "BIOEN 4702",
+            "section": "001",
+            "courseTitle": "Intro Image Based Mod."
+        },
+        {
+            "catalogTitle": "BIOEN 4990",
+            "section": "001",
+            "courseTitle": "Research & Internship"
+        },
+        {
+            "catalogTitle": "BIOEN 4992",
+            "section": "001",
+            "courseTitle": "Thesis Wrtg & Comm II"
+        },
+        {
+            "catalogTitle": "BIOEN 4992",
+            "section": "002",
+            "courseTitle": "Thesis Wrtg & Comm II"
+        },
+        {
+            "catalogTitle": "BIOEN 4992",
+            "section": "003",
+            "courseTitle": "Thesis Wrtg & Comm II"
+        },
+        {
+            "catalogTitle": "BIOEN 4992",
+            "section": "004",
+            "courseTitle": "Thesis Wrtg & Comm II"
+        },
+        {
+            "catalogTitle": "BIOEN 4992",
+            "section": "005",
+            "courseTitle": "Thesis Wrtg & Comm II"
+        },
+        {
+            "catalogTitle": "BIOEN 4992",
+            "section": "006",
+            "courseTitle": "Thesis Wrtg & Comm II"
+        },
+        {
+            "catalogTitle": "BIOEN 4992",
+            "section": "007",
+            "courseTitle": "Thesis Wrtg & Comm II"
+        },
+        {
+            "catalogTitle": "BIOEN 4995",
+            "section": "001",
+            "courseTitle": "Research/Internship II"
+        },
+        {
+            "catalogTitle": "BIOEN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "BIOEN 5005",
+            "section": "001",
+            "courseTitle": "Comp. Neuroscience"
+        },
+        {
+            "catalogTitle": "BIOEN 5160",
+            "section": "001",
+            "courseTitle": "Engr Aspects Clin Med"
+        },
+        {
+            "catalogTitle": "BIOEN 5250",
+            "section": "001",
+            "courseTitle": "Biomechanics II"
+        },
+        {
+            "catalogTitle": "BIOEN 5306",
+            "section": "001",
+            "courseTitle": "Gene Engin/Synth Bio"
+        },
+        {
+            "catalogTitle": "BIOEN 5701",
+            "section": "001",
+            "courseTitle": "Microfluid Chip Design"
+        },
+        {
+            "catalogTitle": "BIOEN 5701",
+            "section": "002",
+            "courseTitle": "Microfluid Chip Design"
+        },
+        {
+            "catalogTitle": "BIOEN 5900",
+            "section": "002",
+            "courseTitle": "Biomechanics Research I"
+        },
+        {
+            "catalogTitle": "BIOEN 5900",
+            "section": "003",
+            "courseTitle": "Biomolecular Engineering"
+        },
+        {
+            "catalogTitle": "BIOEN 6000",
+            "section": "002",
+            "courseTitle": "Systems Physiology I"
+        },
+        {
+            "catalogTitle": "BIOEN 6005",
+            "section": "001",
+            "courseTitle": "Computational Neurosci"
+        },
+        {
+            "catalogTitle": "BIOEN 6082",
+            "section": "001",
+            "courseTitle": "bioInnovate II"
+        },
+        {
+            "catalogTitle": "BIOEN 6090",
+            "section": "001",
+            "courseTitle": "Department Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6100",
+            "section": "001",
+            "courseTitle": "Biomed Tech in App Res"
+        },
+        {
+            "catalogTitle": "BIOEN 6182",
+            "section": "001",
+            "courseTitle": "Clincl Problem Solve II"
+        },
+        {
+            "catalogTitle": "BIOEN 6230",
+            "section": "001",
+            "courseTitle": "Funct Anatmy for Engnrs"
+        },
+        {
+            "catalogTitle": "BIOEN 6250",
+            "section": "001",
+            "courseTitle": "Biomechanics II"
+        },
+        {
+            "catalogTitle": "BIOEN 6302",
+            "section": "001",
+            "courseTitle": "Biomaterials"
+        },
+        {
+            "catalogTitle": "BIOEN 6305",
+            "section": "001",
+            "courseTitle": "Cell and Tissue Eng II"
+        },
+        {
+            "catalogTitle": "BIOEN 6421",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "BIOEN 6421",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "BIOEN 6430",
+            "section": "001",
+            "courseTitle": "Systems Neuroscience"
+        },
+        {
+            "catalogTitle": "BIOEN 6480",
+            "section": "001",
+            "courseTitle": "Biomechanics Research"
+        },
+        {
+            "catalogTitle": "BIOEN 6500",
+            "section": "001",
+            "courseTitle": "Mathematics of Imaging"
+        },
+        {
+            "catalogTitle": "BIOEN 6701",
+            "section": "001",
+            "courseTitle": "Microfluid Chip Design"
+        },
+        {
+            "catalogTitle": "BIOEN 6701",
+            "section": "002",
+            "courseTitle": "Microfluid Chip Design"
+        },
+        {
+            "catalogTitle": "BIOEN 6702",
+            "section": "001",
+            "courseTitle": "Intro Image Based Mod."
+        },
+        {
+            "catalogTitle": "BIOEN 6770",
+            "section": "001",
+            "courseTitle": "Genomic Sig Processing"
+        },
+        {
+            "catalogTitle": "BIOEN 6810",
+            "section": "001",
+            "courseTitle": "Image Analysis Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "032",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "154",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "155",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 7070",
+            "section": "002",
+            "courseTitle": "Proposal Wrtg & Pres I"
+        },
+        {
+            "catalogTitle": "BIOEN 7870",
+            "section": "001",
+            "courseTitle": "NERG"
+        },
+        {
+            "catalogTitle": "BIOEN 7880",
+            "section": "001",
+            "courseTitle": "TA Mentorship"
+        },
+        {
+            "catalogTitle": "BIOEN 7880",
+            "section": "027",
+            "courseTitle": "TA Mentorship"
+        },
+        {
+            "catalogTitle": "BIOEN 7880",
+            "section": "028",
+            "courseTitle": "TA Mentorship"
+        },
+        {
+            "catalogTitle": "BIOEN 7880",
+            "section": "029",
+            "courseTitle": "TA Mentorship"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "158",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "159",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "160",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "161",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "162",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "163",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

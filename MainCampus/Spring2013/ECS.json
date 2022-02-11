@@ -1,0 +1,604 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECS 3150",
+            "section": "001",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 4111",
+            "section": "001",
+            "courseTitle": "School & Society"
+        },
+        {
+            "catalogTitle": "ECS 5634",
+            "section": "001",
+            "courseTitle": "Bilingual/Bicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 5645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 5709",
+            "section": "001",
+            "courseTitle": "Family School Partner"
+        },
+        {
+            "catalogTitle": "ECS 5960",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "ECS 6625",
+            "section": "001",
+            "courseTitle": "CRT, CRF & LATCRIT"
+        },
+        {
+            "catalogTitle": "ECS 6628",
+            "section": "001",
+            "courseTitle": "Whiteness in Cross-Race"
+        },
+        {
+            "catalogTitle": "ECS 6629",
+            "section": "001",
+            "courseTitle": "Writing Wars"
+        },
+        {
+            "catalogTitle": "ECS 6634",
+            "section": "001",
+            "courseTitle": "Bilingual/Bicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 6645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 6709",
+            "section": "001",
+            "courseTitle": "Family School Partner"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "001",
+            "courseTitle": "Urban Education Policy"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "002",
+            "courseTitle": "Spec Topics in Ed"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "003",
+            "courseTitle": "Pol Econ & Neolib. in Ed K-16"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "004",
+            "courseTitle": "Immigration and Education"
+        },
+        {
+            "catalogTitle": "ECS 6950",
+            "section": "005",
+            "courseTitle": "Latino/as in Education"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "001",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "002",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "003",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "004",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "005",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "006",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "007",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "008",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "009",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "010",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "011",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "012",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6960",
+            "section": "013",
+            "courseTitle": "Dir Rding: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6961",
+            "section": "002",
+            "courseTitle": "Comprehensive Exam"
+        },
+        {
+            "catalogTitle": "ECS 6961",
+            "section": "007",
+            "courseTitle": "Comprehensive Exam"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "008",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "009",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "010",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "011",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "012",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6970",
+            "section": "013",
+            "courseTitle": "Thesis Research: Master's"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "006",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "007",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "008",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "009",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "010",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "011",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "012",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 6980",
+            "section": "013",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7625",
+            "section": "001",
+            "courseTitle": "CRT, CRF & LATCRIT"
+        },
+        {
+            "catalogTitle": "ECS 7629",
+            "section": "001",
+            "courseTitle": "Writing Wars"
+        },
+        {
+            "catalogTitle": "ECS 7671",
+            "section": "001",
+            "courseTitle": "Qual Res Meth"
+        },
+        {
+            "catalogTitle": "ECS 7950",
+            "section": "001",
+            "courseTitle": "Urban Education Policy"
+        },
+        {
+            "catalogTitle": "ECS 7950",
+            "section": "002",
+            "courseTitle": "Special Topics in Ed"
+        },
+        {
+            "catalogTitle": "ECS 7950",
+            "section": "003",
+            "courseTitle": "Pol Econ & Neolib. in Ed K-16"
+        },
+        {
+            "catalogTitle": "ECS 7950",
+            "section": "004",
+            "courseTitle": "Immigration and Education"
+        },
+        {
+            "catalogTitle": "ECS 7950",
+            "section": "005",
+            "courseTitle": "Latino/as in Education"
+        },
+        {
+            "catalogTitle": "ECS 7951",
+            "section": "001",
+            "courseTitle": "Dissertation Seminar"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "001",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "002",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "003",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "004",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "005",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "006",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "007",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "008",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "009",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "010",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "011",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "012",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7960",
+            "section": "013",
+            "courseTitle": "Dir Reading: Doctoral"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "001",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "002",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "003",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "004",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "005",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "006",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "007",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "008",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "009",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "010",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "011",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "012",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7961",
+            "section": "013",
+            "courseTitle": "Dir Rding: Prelim Exam"
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "008",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "006",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "007",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "008",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "009",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "010",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "011",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "012",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7980",
+            "section": "013",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECS 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

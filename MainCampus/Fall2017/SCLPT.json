@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SCLPT 3400",
+            "section": "001",
+            "courseTitle": "Metal Sculpture"
+        },
+        {
+            "catalogTitle": "SCLPT 3420",
+            "section": "001",
+            "courseTitle": "Figure Sculpture I"
+        },
+        {
+            "catalogTitle": "SCLPT 3450",
+            "section": "001",
+            "courseTitle": "Synthetic Sculpture"
+        },
+        {
+            "catalogTitle": "SCLPT 4410",
+            "section": "001",
+            "courseTitle": "Sculpture II"
+        }
+    ]
+}

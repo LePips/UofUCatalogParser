@@ -1,0 +1,314 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOEN 1010",
+            "section": "001",
+            "courseTitle": "Careers in BME"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "001",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "002",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "003",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "004",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "005",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 2100",
+            "section": "006",
+            "courseTitle": "Funds of BME II"
+        },
+        {
+            "catalogTitle": "BIOEN 3070",
+            "section": "001",
+            "courseTitle": "BME Statistics"
+        },
+        {
+            "catalogTitle": "BIOEN 3091",
+            "section": "001",
+            "courseTitle": "Current Research in BME"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "001",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "002",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "003",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "004",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "005",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 4101",
+            "section": "001",
+            "courseTitle": "Biosystems Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 4101",
+            "section": "002",
+            "courseTitle": "Biosystems Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 4101",
+            "section": "003",
+            "courseTitle": "Biosystems Analysis"
+        },
+        {
+            "catalogTitle": "BIOEN 4200",
+            "section": "001",
+            "courseTitle": "BIOEN Research"
+        },
+        {
+            "catalogTitle": "BIOEN 4201",
+            "section": "001",
+            "courseTitle": "Thesis Writing & Comm I"
+        },
+        {
+            "catalogTitle": "BIOEN 4201",
+            "section": "002",
+            "courseTitle": "Thesis Writing & Comm I"
+        },
+        {
+            "catalogTitle": "BIOEN 4201",
+            "section": "003",
+            "courseTitle": "Thesis Writing & Comm I"
+        },
+        {
+            "catalogTitle": "BIOEN 4201",
+            "section": "004",
+            "courseTitle": "Thesis Writing & Comm I"
+        },
+        {
+            "catalogTitle": "BIOEN 4201",
+            "section": "005",
+            "courseTitle": "Thesis Writing & Comm I"
+        },
+        {
+            "catalogTitle": "BIOEN 4250",
+            "section": "001",
+            "courseTitle": "Biomechanics I"
+        },
+        {
+            "catalogTitle": "BIOEN 4250",
+            "section": "002",
+            "courseTitle": "Biomechanics I"
+        },
+        {
+            "catalogTitle": "BIOEN 4250",
+            "section": "003",
+            "courseTitle": "Biomechanics I"
+        },
+        {
+            "catalogTitle": "BIOEN 4250",
+            "section": "004",
+            "courseTitle": "Biomechanics I"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "001",
+            "courseTitle": "bioDesign II"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "002",
+            "courseTitle": "bioDesign II"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "003",
+            "courseTitle": "bioDesign II"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "004",
+            "courseTitle": "bioDesign II"
+        },
+        {
+            "catalogTitle": "BIOEN 4990",
+            "section": "001",
+            "courseTitle": "Internships & Co-ops"
+        },
+        {
+            "catalogTitle": "BIOEN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "BIOEN 5401",
+            "section": "001",
+            "courseTitle": "Medical Imaging Sys"
+        },
+        {
+            "catalogTitle": "BIOEN 6060",
+            "section": "001",
+            "courseTitle": "Scientific Presentation"
+        },
+        {
+            "catalogTitle": "BIOEN 6070",
+            "section": "001",
+            "courseTitle": "BME Statistics"
+        },
+        {
+            "catalogTitle": "BIOEN 6081",
+            "section": "001",
+            "courseTitle": "bioInnovate I"
+        },
+        {
+            "catalogTitle": "BIOEN 6090",
+            "section": "001",
+            "courseTitle": "Department Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6102",
+            "section": "001",
+            "courseTitle": "Bioinstrument Lecture"
+        },
+        {
+            "catalogTitle": "BIOEN 6181",
+            "section": "001",
+            "courseTitle": "Clincl Problem Solve I"
+        },
+        {
+            "catalogTitle": "BIOEN 6405",
+            "section": "001",
+            "courseTitle": "Nanomedicine"
+        },
+        {
+            "catalogTitle": "BIOEN 6460",
+            "section": "001",
+            "courseTitle": "Bioelectricity"
+        },
+        {
+            "catalogTitle": "BIOEN 6480",
+            "section": "001",
+            "courseTitle": "Biomechanics Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6640",
+            "section": "001",
+            "courseTitle": "Image Processing"
+        },
+        {
+            "catalogTitle": "BIOEN 6810",
+            "section": "001",
+            "courseTitle": "Medical Imaging Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "065",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIOEN 7160",
+            "section": "001",
+            "courseTitle": "Physicl Nature Surfaces"
+        },
+        {
+            "catalogTitle": "BIOEN 7870",
+            "section": "001",
+            "courseTitle": "NERG"
+        },
+        {
+            "catalogTitle": "BIOEN 7880",
+            "section": "001",
+            "courseTitle": "TA Mentorship"
+        },
+        {
+            "catalogTitle": "BIOEN 7880",
+            "section": "022",
+            "courseTitle": "TA Mentorship"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "061",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "083",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "086",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "087",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "088",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "089",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

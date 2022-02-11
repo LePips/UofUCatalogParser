@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELI 18",
+            "section": "002",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "001",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "002",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "003",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 240",
+            "section": "001",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 240",
+            "section": "002",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "001",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "002",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 898",
+            "section": "001",
+            "courseTitle": "America and the World"
+        },
+        {
+            "catalogTitle": "ELI 999",
+            "section": "001",
+            "courseTitle": "Graduate School Preparation"
+        },
+        {
+            "catalogTitle": "ELI 999",
+            "section": "002",
+            "courseTitle": "Graduate School Preparation"
+        }
+    ]
+}

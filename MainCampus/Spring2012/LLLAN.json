@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLLAN 350",
+            "section": "001",
+            "courseTitle": "Conversational French I"
+        },
+        {
+            "catalogTitle": "LLLAN 351",
+            "section": "001",
+            "courseTitle": "Conversational French II"
+        },
+        {
+            "catalogTitle": "LLLAN 353",
+            "section": "001",
+            "courseTitle": "French for Travelers"
+        },
+        {
+            "catalogTitle": "LLLAN 362",
+            "section": "001",
+            "courseTitle": "Conv Italian I"
+        },
+        {
+            "catalogTitle": "LLLAN 363",
+            "section": "001",
+            "courseTitle": "Converstional Italian II"
+        },
+        {
+            "catalogTitle": "LLLAN 366",
+            "section": "001",
+            "courseTitle": "Spanish for Medical Prof"
+        },
+        {
+            "catalogTitle": "LLLAN 405",
+            "section": "001",
+            "courseTitle": "Tricky French"
+        },
+        {
+            "catalogTitle": "LLLAN 407",
+            "section": "001",
+            "courseTitle": "Mandarin for Business People"
+        }
+    ]
+}

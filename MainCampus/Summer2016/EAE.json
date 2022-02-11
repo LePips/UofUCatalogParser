@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "001",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6500",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6970",
+            "section": "001",
+            "courseTitle": "Master's Thesis Researc"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOEN 6320",
+            "section": "001",
+            "courseTitle": "Physics Nuclear Med/MRI"
+        },
+        {
+            "catalogTitle": "BIOEN 6960",
+            "section": "001",
+            "courseTitle": "Research Project:  Me"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

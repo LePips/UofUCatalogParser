@@ -1,0 +1,424 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MGT 368",
+            "section": "005",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 370",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 456",
+            "section": "001",
+            "courseTitle": "Small Business Mgt"
+        },
+        {
+            "catalogTitle": "MGT 577",
+            "section": "001",
+            "courseTitle": "Bus Plan Development"
+        },
+        {
+            "catalogTitle": "MGT 2340",
+            "section": "001",
+            "courseTitle": "Business Statistics"
+        },
+        {
+            "catalogTitle": "MGT 2340",
+            "section": "002",
+            "courseTitle": "Business Statistics"
+        },
+        {
+            "catalogTitle": "MGT 2340",
+            "section": "003",
+            "courseTitle": "Business Statistics"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "001",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "002",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "003",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "070",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3440",
+            "section": "001",
+            "courseTitle": "App of Business Stats"
+        },
+        {
+            "catalogTitle": "MGT 3440",
+            "section": "002",
+            "courseTitle": "App of Business Stats"
+        },
+        {
+            "catalogTitle": "MGT 3440",
+            "section": "003",
+            "courseTitle": "App of Business Stats"
+        },
+        {
+            "catalogTitle": "MGT 3500",
+            "section": "001",
+            "courseTitle": "Princ Of Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3500",
+            "section": "002",
+            "courseTitle": "Princ Of Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3500",
+            "section": "077",
+            "courseTitle": "Princ Of Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3660",
+            "section": "001",
+            "courseTitle": "Production Operatns Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3660",
+            "section": "002",
+            "courseTitle": "Production Operatns Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3660",
+            "section": "003",
+            "courseTitle": "Production Operatns Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "001",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "002",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "003",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "004",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "005",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3700",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 3800",
+            "section": "077",
+            "courseTitle": "Business & Society"
+        },
+        {
+            "catalogTitle": "MGT 4560",
+            "section": "001",
+            "courseTitle": "Small Business Mgt"
+        },
+        {
+            "catalogTitle": "MGT 4860",
+            "section": "001",
+            "courseTitle": "Managing Orgzatnl Confl"
+        },
+        {
+            "catalogTitle": "MGT 4900",
+            "section": "001",
+            "courseTitle": "Intntl Management"
+        },
+        {
+            "catalogTitle": "MGT 5510",
+            "section": "001",
+            "courseTitle": "Human Resource Mgt I"
+        },
+        {
+            "catalogTitle": "MGT 5680",
+            "section": "001",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 5680",
+            "section": "005",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "001",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "002",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "003",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "004",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5770",
+            "section": "001",
+            "courseTitle": "Bus Plan Development"
+        },
+        {
+            "catalogTitle": "MGT 5810",
+            "section": "001",
+            "courseTitle": "Mang Div Thru Comm"
+        },
+        {
+            "catalogTitle": "MGT 5810",
+            "section": "002",
+            "courseTitle": "Mang Div Thru Comm"
+        },
+        {
+            "catalogTitle": "MGT 5820",
+            "section": "001",
+            "courseTitle": "Non-Profit Consulting"
+        },
+        {
+            "catalogTitle": "MGT 5830",
+            "section": "001",
+            "courseTitle": "Ldrshp Pwr Supvr"
+        },
+        {
+            "catalogTitle": "MGT 5840",
+            "section": "001",
+            "courseTitle": "Managing the Venture Process"
+        },
+        {
+            "catalogTitle": "MGT 5860",
+            "section": "001",
+            "courseTitle": "Entrepreneur Studies"
+        },
+        {
+            "catalogTitle": "MGT 5880",
+            "section": "001",
+            "courseTitle": "Management Intern"
+        },
+        {
+            "catalogTitle": "MGT 5910",
+            "section": "001",
+            "courseTitle": "Special Study"
+        },
+        {
+            "catalogTitle": "MGT 6040",
+            "section": "001",
+            "courseTitle": "Data Analysis & Dec Mkg"
+        },
+        {
+            "catalogTitle": "MGT 6040",
+            "section": "002",
+            "courseTitle": "Data Analysis & Dec Mkg"
+        },
+        {
+            "catalogTitle": "MGT 6040",
+            "section": "003",
+            "courseTitle": "Data Analysis & Dec Mkg"
+        },
+        {
+            "catalogTitle": "MGT 6050",
+            "section": "001",
+            "courseTitle": "Team Foundations"
+        },
+        {
+            "catalogTitle": "MGT 6050",
+            "section": "002",
+            "courseTitle": "Team Foundations"
+        },
+        {
+            "catalogTitle": "MGT 6050",
+            "section": "003",
+            "courseTitle": "Team Foundations"
+        },
+        {
+            "catalogTitle": "MGT 6050",
+            "section": "004",
+            "courseTitle": "Team Foundations"
+        },
+        {
+            "catalogTitle": "MGT 6050",
+            "section": "005",
+            "courseTitle": "Team Foundations"
+        },
+        {
+            "catalogTitle": "MGT 6050",
+            "section": "006",
+            "courseTitle": "Team Foundations"
+        },
+        {
+            "catalogTitle": "MGT 6051",
+            "section": "001",
+            "courseTitle": "Mngng & Leading in Org"
+        },
+        {
+            "catalogTitle": "MGT 6051",
+            "section": "002",
+            "courseTitle": "Mngng & Leading in Org"
+        },
+        {
+            "catalogTitle": "MGT 6051",
+            "section": "003",
+            "courseTitle": "Mngng & Leading in Org"
+        },
+        {
+            "catalogTitle": "MGT 6051",
+            "section": "004",
+            "courseTitle": "Mngng & Leading in Org"
+        },
+        {
+            "catalogTitle": "MGT 6052",
+            "section": "001",
+            "courseTitle": "Business Communication"
+        },
+        {
+            "catalogTitle": "MGT 6052",
+            "section": "002",
+            "courseTitle": "Business Communication"
+        },
+        {
+            "catalogTitle": "MGT 6060",
+            "section": "001",
+            "courseTitle": "Production Oper Mgt"
+        },
+        {
+            "catalogTitle": "MGT 6310",
+            "section": "001",
+            "courseTitle": "Business Law"
+        },
+        {
+            "catalogTitle": "MGT 6420",
+            "section": "001",
+            "courseTitle": "Quality Management I"
+        },
+        {
+            "catalogTitle": "MGT 6421",
+            "section": "001",
+            "courseTitle": "Quality Management II"
+        },
+        {
+            "catalogTitle": "MGT 6500",
+            "section": "001",
+            "courseTitle": "Managerial Negotiation"
+        },
+        {
+            "catalogTitle": "MGT 6510",
+            "section": "001",
+            "courseTitle": "Problem Solving"
+        },
+        {
+            "catalogTitle": "MGT 6620",
+            "section": "001",
+            "courseTitle": "Supply Chain Mgt"
+        },
+        {
+            "catalogTitle": "MGT 6680",
+            "section": "001",
+            "courseTitle": "Prod Innovation Consult"
+        },
+        {
+            "catalogTitle": "MGT 6780",
+            "section": "001",
+            "courseTitle": "Non-Profit Consulting"
+        },
+        {
+            "catalogTitle": "MGT 6791",
+            "section": "001",
+            "courseTitle": "Global Strategic Mgt"
+        },
+        {
+            "catalogTitle": "MGT 6810",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 6830",
+            "section": "001",
+            "courseTitle": "Entrepreneurial Cnslng"
+        },
+        {
+            "catalogTitle": "MGT 6840",
+            "section": "001",
+            "courseTitle": "Managing the Venture Process"
+        },
+        {
+            "catalogTitle": "MGT 6860",
+            "section": "001",
+            "courseTitle": "Lassonde Venture"
+        },
+        {
+            "catalogTitle": "MGT 7600",
+            "section": "001",
+            "courseTitle": "Sem-Strategic Mgt Theor"
+        },
+        {
+            "catalogTitle": "MGT 7720",
+            "section": "001",
+            "courseTitle": "PhD Seminar"
+        },
+        {
+            "catalogTitle": "MGT 7800",
+            "section": "001",
+            "courseTitle": "Sem-Rsch Org Beh"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "001",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "003",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MGT 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

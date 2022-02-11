@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "301",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "302",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "301",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "302",
+            "courseTitle": "Beg Span II"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 3100",
+            "section": "001",
+            "courseTitle": "Neutron-Engineering"
+        },
+        {
+            "catalogTitle": "NUCL 3200",
+            "section": "001",
+            "courseTitle": "Radiochemistry I"
+        },
+        {
+            "catalogTitle": "NUCL 3200",
+            "section": "002",
+            "courseTitle": "Radiochemistry I"
+        },
+        {
+            "catalogTitle": "NUCL 3200",
+            "section": "003",
+            "courseTitle": "Radiochemistry I"
+        },
+        {
+            "catalogTitle": "NUCL 3200",
+            "section": "004",
+            "courseTitle": "Radiochemistry I"
+        },
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "003",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5900",
+            "section": "003",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 6060",
+            "section": "001",
+            "courseTitle": "Reactor & Policy I"
+        },
+        {
+            "catalogTitle": "NUCL 6220",
+            "section": "001",
+            "courseTitle": "Analytical Forensics"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ETHNC 1800",
+            "section": "001",
+            "courseTitle": "Issues in ETHNC"
+        },
+        {
+            "catalogTitle": "ETHNC 2500",
+            "section": "090",
+            "courseTitle": "Intro To Ethnic Studies"
+        },
+        {
+            "catalogTitle": "ETHNC 2550",
+            "section": "090",
+            "courseTitle": "Africn Amer Experiences"
+        },
+        {
+            "catalogTitle": "ETHNC 2570",
+            "section": "090",
+            "courseTitle": "American Indian Exper"
+        },
+        {
+            "catalogTitle": "ETHNC 2580",
+            "section": "090",
+            "courseTitle": "Asian Pacific Am Exp"
+        },
+        {
+            "catalogTitle": "ETHNC 2590",
+            "section": "090",
+            "courseTitle": "Pacific Islander Am Exp"
+        },
+        {
+            "catalogTitle": "ETHNC 3365",
+            "section": "090",
+            "courseTitle": "Ethnic Minorities Amer"
+        },
+        {
+            "catalogTitle": "ETHNC 5590",
+            "section": "001",
+            "courseTitle": "Study Abroad"
+        }
+    ]
+}

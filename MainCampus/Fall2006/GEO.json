@@ -1,0 +1,384 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEO 1010",
+            "section": "001",
+            "courseTitle": "Architecture of Earth"
+        },
+        {
+            "catalogTitle": "GEO 1030",
+            "section": "001",
+            "courseTitle": "Earthquakes & Volcanoes"
+        },
+        {
+            "catalogTitle": "GEO 1030",
+            "section": "002",
+            "courseTitle": "Earthquakes & Volcanoes"
+        },
+        {
+            "catalogTitle": "GEO 1030",
+            "section": "090",
+            "courseTitle": "Earthquakes & Volcanoes"
+        },
+        {
+            "catalogTitle": "GEO 1050",
+            "section": "001",
+            "courseTitle": "National Parks Geology"
+        },
+        {
+            "catalogTitle": "GEO 1110",
+            "section": "001",
+            "courseTitle": "Intr to Earth Systems"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "001",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "002",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 3075",
+            "section": "001",
+            "courseTitle": "Intro Geol. Engg"
+        },
+        {
+            "catalogTitle": "GEO 3080",
+            "section": "001",
+            "courseTitle": "Earth Materials I"
+        },
+        {
+            "catalogTitle": "GEO 3080",
+            "section": "002",
+            "courseTitle": "Earth Materials I"
+        },
+        {
+            "catalogTitle": "GEO 3250",
+            "section": "001",
+            "courseTitle": "Geol/Scenery of Utah"
+        },
+        {
+            "catalogTitle": "GEO 3260",
+            "section": "001",
+            "courseTitle": "Utah Geol Field Trips"
+        },
+        {
+            "catalogTitle": "GEO 3400",
+            "section": "001",
+            "courseTitle": "Comp & Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 3800",
+            "section": "001",
+            "courseTitle": "The Oceans"
+        },
+        {
+            "catalogTitle": "GEO 3970",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "GEO 3980",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "GEO 4100",
+            "section": "001",
+            "courseTitle": "Petrography-Genesis"
+        },
+        {
+            "catalogTitle": "GEO 4100",
+            "section": "002",
+            "courseTitle": "Petrography-Genesis"
+        },
+        {
+            "catalogTitle": "GEO 4900",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "GEO 5050",
+            "section": "001",
+            "courseTitle": "Geochronology"
+        },
+        {
+            "catalogTitle": "GEO 5075",
+            "section": "001",
+            "courseTitle": "Intro Geol Engg"
+        },
+        {
+            "catalogTitle": "GEO 5190",
+            "section": "001",
+            "courseTitle": "Marine Geology"
+        },
+        {
+            "catalogTitle": "GEO 5210",
+            "section": "001",
+            "courseTitle": "Seismology I"
+        },
+        {
+            "catalogTitle": "GEO 5230",
+            "section": "001",
+            "courseTitle": "Physical Fields I"
+        },
+        {
+            "catalogTitle": "GEO 5250",
+            "section": "001",
+            "courseTitle": "Inversion Theory"
+        },
+        {
+            "catalogTitle": "GEO 5280",
+            "section": "001",
+            "courseTitle": "Ichnology"
+        },
+        {
+            "catalogTitle": "GEO 5340",
+            "section": "001",
+            "courseTitle": "Systm Dynamx&Env Policy"
+        },
+        {
+            "catalogTitle": "GEO 5350",
+            "section": "001",
+            "courseTitle": "Groundwater"
+        },
+        {
+            "catalogTitle": "GEO 5360",
+            "section": "001",
+            "courseTitle": "Fluid Dynmcs Geol Matls"
+        },
+        {
+            "catalogTitle": "GEO 5370",
+            "section": "001",
+            "courseTitle": "Cntm Prting for Eng"
+        },
+        {
+            "catalogTitle": "GEO 5510",
+            "section": "001",
+            "courseTitle": "PICP I"
+        },
+        {
+            "catalogTitle": "GEO 5520",
+            "section": "001",
+            "courseTitle": "PICP II"
+        },
+        {
+            "catalogTitle": "GEO 5555",
+            "section": "001",
+            "courseTitle": "Envir Engin Seminar"
+        },
+        {
+            "catalogTitle": "GEO 5660",
+            "section": "001",
+            "courseTitle": "Geochemistry"
+        },
+        {
+            "catalogTitle": "GEO 5760",
+            "section": "001",
+            "courseTitle": "Stratigraphy & Sed Proc"
+        },
+        {
+            "catalogTitle": "GEO 5760",
+            "section": "002",
+            "courseTitle": "Stratigraphy & Sed Proc"
+        },
+        {
+            "catalogTitle": "GEO 5900",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "001",
+            "courseTitle": "DLS-Undergraduate"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "002",
+            "courseTitle": "Comp Forland Basn Stratigraphy"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "003",
+            "courseTitle": "Crust Magmatism/Pluton Growth"
+        },
+        {
+            "catalogTitle": "GEO 6190",
+            "section": "001",
+            "courseTitle": "Marine Geology"
+        },
+        {
+            "catalogTitle": "GEO 6211",
+            "section": "001",
+            "courseTitle": "Seismology I"
+        },
+        {
+            "catalogTitle": "GEO 6230",
+            "section": "001",
+            "courseTitle": "Physical Fields I"
+        },
+        {
+            "catalogTitle": "GEO 6250",
+            "section": "001",
+            "courseTitle": "Inversion Theory and Apps"
+        },
+        {
+            "catalogTitle": "GEO 6280",
+            "section": "001",
+            "courseTitle": "Ichnology"
+        },
+        {
+            "catalogTitle": "GEO 6340",
+            "section": "001",
+            "courseTitle": "Systm Dynamx&Env Policy"
+        },
+        {
+            "catalogTitle": "GEO 6350",
+            "section": "001",
+            "courseTitle": "Groundwater"
+        },
+        {
+            "catalogTitle": "GEO 6360",
+            "section": "001",
+            "courseTitle": "Fluid Dynamics"
+        },
+        {
+            "catalogTitle": "GEO 6370",
+            "section": "001",
+            "courseTitle": "Cntm Prting for Eng"
+        },
+        {
+            "catalogTitle": "GEO 6510",
+            "section": "001",
+            "courseTitle": "PICP I"
+        },
+        {
+            "catalogTitle": "GEO 6520",
+            "section": "001",
+            "courseTitle": "PICP II"
+        },
+        {
+            "catalogTitle": "GEO 6555",
+            "section": "001",
+            "courseTitle": "Envir Engin Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6660",
+            "section": "001",
+            "courseTitle": "Geochemistry"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "001",
+            "courseTitle": "DLS-Graduate"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "002",
+            "courseTitle": "Grad-EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "003",
+            "courseTitle": "Isotopics Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "004",
+            "courseTitle": "Seismology Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "005",
+            "courseTitle": "Comp Forland Basn Stratigraphy"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "006",
+            "courseTitle": "Crust Magmatism/Pluton Growth"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "007",
+            "courseTitle": "Advanced Inversion Theory"
+        },
+        {
+            "catalogTitle": "GEO 6950",
+            "section": "001",
+            "courseTitle": "Reviews Earth Sci"
+        },
+        {
+            "catalogTitle": "GEO 6960",
+            "section": "001",
+            "courseTitle": "ME Special Project"
+        },
+        {
+            "catalogTitle": "GEO 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GEO 6970",
+            "section": "027",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GEO 6970",
+            "section": "028",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GEO 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7250",
+            "section": "001",
+            "courseTitle": "Inversion Theory"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "001",
+            "courseTitle": "EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "002",
+            "courseTitle": "Isotopics"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "004",
+            "courseTitle": "Seismology Seminar"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "005",
+            "courseTitle": "Crust Magmatism/Pluton Growth"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "006",
+            "courseTitle": "Adv Contaminant Partitioning"
+        },
+        {
+            "catalogTitle": "GEO 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "GEO 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

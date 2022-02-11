@@ -1,0 +1,394 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 10",
+            "section": "020",
+            "courseTitle": "Intro to Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "001",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "002",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "003",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "004",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "005",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "006",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "007",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "008",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "009",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "010",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "011",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "012",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "020",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "001",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "002",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "003",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "004",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "005",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "006",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "007",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "060",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 2010",
+            "section": "001",
+            "courseTitle": "Intro Phil Through Film"
+        },
+        {
+            "catalogTitle": "PHIL 2080",
+            "section": "001",
+            "courseTitle": "Phil Issues Feminism"
+        },
+        {
+            "catalogTitle": "PHIL 2500",
+            "section": "001",
+            "courseTitle": "Current Moral Issues"
+        },
+        {
+            "catalogTitle": "PHIL 2500",
+            "section": "002",
+            "courseTitle": "Current Moral Issues"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "001",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "002",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "003",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3300",
+            "section": "001",
+            "courseTitle": "Theory Of Knowledge"
+        },
+        {
+            "catalogTitle": "PHIL 3350",
+            "section": "001",
+            "courseTitle": "Hist & Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 3400",
+            "section": "001",
+            "courseTitle": "Mind, Lang, Reality"
+        },
+        {
+            "catalogTitle": "PHIL 3400",
+            "section": "002",
+            "courseTitle": "Mind, Lang, Reality"
+        },
+        {
+            "catalogTitle": "PHIL 3500",
+            "section": "001",
+            "courseTitle": "Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3500",
+            "section": "002",
+            "courseTitle": "Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3510",
+            "section": "001",
+            "courseTitle": "Business/Prof Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "001",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "001",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3540",
+            "section": "001",
+            "courseTitle": "Engineering, Ethics, Society"
+        },
+        {
+            "catalogTitle": "PHIL 3600",
+            "section": "001",
+            "courseTitle": "Phil Of Religion"
+        },
+        {
+            "catalogTitle": "PHIL 3620",
+            "section": "001",
+            "courseTitle": "Relig China/Japan"
+        },
+        {
+            "catalogTitle": "PHIL 3700",
+            "section": "001",
+            "courseTitle": "Political Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 3910",
+            "section": "005",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 4010",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        },
+        {
+            "catalogTitle": "PHIL 4110",
+            "section": "001",
+            "courseTitle": "Ancient Greek Philosphy"
+        },
+        {
+            "catalogTitle": "PHIL 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "PHIL 5060",
+            "section": "001",
+            "courseTitle": "20th Cent Cont Phil"
+        },
+        {
+            "catalogTitle": "PHIL 5190",
+            "section": "001",
+            "courseTitle": "Wittgenstein"
+        },
+        {
+            "catalogTitle": "PHIL 5350",
+            "section": "001",
+            "courseTitle": "Topics Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 5450",
+            "section": "001",
+            "courseTitle": "Philosophy Of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 5480",
+            "section": "001",
+            "courseTitle": "Philosophy Of Language"
+        },
+        {
+            "catalogTitle": "PHIL 5500",
+            "section": "001",
+            "courseTitle": "Contemporary Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 5910",
+            "section": "005",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 6060",
+            "section": "001",
+            "courseTitle": "20th Cent Cont Phil"
+        },
+        {
+            "catalogTitle": "PHIL 6120",
+            "section": "001",
+            "courseTitle": "Modern & Recent Phil"
+        },
+        {
+            "catalogTitle": "PHIL 6190",
+            "section": "001",
+            "courseTitle": "Wittgenstein"
+        },
+        {
+            "catalogTitle": "PHIL 6350",
+            "section": "001",
+            "courseTitle": "Topics Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 6450",
+            "section": "001",
+            "courseTitle": "Phil Of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 6480",
+            "section": "001",
+            "courseTitle": "Phil Of Language"
+        },
+        {
+            "catalogTitle": "PHIL 6500",
+            "section": "001",
+            "courseTitle": "Contemporary Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 6910",
+            "section": "005",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 6920",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "PHIL 6970",
+            "section": "005",
+            "courseTitle": "MA/MS Thesis Research"
+        },
+        {
+            "catalogTitle": "PHIL 6980",
+            "section": "005",
+            "courseTitle": "Faculty Consult M.A."
+        },
+        {
+            "catalogTitle": "PHIL 6990",
+            "section": "005",
+            "courseTitle": "Continuing Regis, M.A."
+        },
+        {
+            "catalogTitle": "PHIL 7010",
+            "section": "001",
+            "courseTitle": "Proseminar"
+        },
+        {
+            "catalogTitle": "PHIL 7020",
+            "section": "001",
+            "courseTitle": "Sem Phil Traditions"
+        },
+        {
+            "catalogTitle": "PHIL 7130",
+            "section": "001",
+            "courseTitle": "Sem-Modern Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 7400",
+            "section": "001",
+            "courseTitle": "Seminar Metaphysics"
+        },
+        {
+            "catalogTitle": "PHIL 7450",
+            "section": "001",
+            "courseTitle": "Sem- Philosophy Of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7980",
+            "section": "005",
+            "courseTitle": "Faculty Consult, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7980",
+            "section": "015",
+            "courseTitle": "Faculty Consult, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7980",
+            "section": "016",
+            "courseTitle": "Faculty Consult, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis., Ph.D"
+        }
+    ]
+}

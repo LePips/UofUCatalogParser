@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MSE 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "MSE 5050",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MSE 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 7050",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

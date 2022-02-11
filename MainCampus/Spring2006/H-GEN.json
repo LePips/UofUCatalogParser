@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "H GEN 5960",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "H GEN 6040",
+            "section": "001",
+            "courseTitle": "Concepts of Dev Biol"
+        },
+        {
+            "catalogTitle": "H GEN 6090",
+            "section": "001",
+            "courseTitle": "Genomics- Functnl & Proteomics"
+        },
+        {
+            "catalogTitle": "H GEN 6100",
+            "section": "001",
+            "courseTitle": "Genetics In Medicine"
+        },
+        {
+            "catalogTitle": "H GEN 6960",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "H GEN 6970",
+            "section": "001",
+            "courseTitle": "Master's Thesis Study"
+        },
+        {
+            "catalogTitle": "H GEN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "H GEN 7960",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "H GEN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "H GEN 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

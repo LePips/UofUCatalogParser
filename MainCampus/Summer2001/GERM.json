@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "001",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 1020",
+            "section": "001",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 2010",
+            "section": "001",
+            "courseTitle": "Intrm German I"
+        },
+        {
+            "catalogTitle": "GERM 2020",
+            "section": "001",
+            "courseTitle": "Intrm German II"
+        },
+        {
+            "catalogTitle": "GERM 3900",
+            "section": "001",
+            "courseTitle": "Conversation"
+        },
+        {
+            "catalogTitle": "GERM 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language"
+        }
+    ]
+}

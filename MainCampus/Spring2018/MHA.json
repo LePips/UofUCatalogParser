@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MHA 6001",
+            "section": "001",
+            "courseTitle": "MHA Career Readiness"
+        },
+        {
+            "catalogTitle": "MHA 6560",
+            "section": "002",
+            "courseTitle": "MHA Health Law"
+        },
+        {
+            "catalogTitle": "MHA 6801",
+            "section": "001",
+            "courseTitle": "HC Industry Players"
+        },
+        {
+            "catalogTitle": "MHA 6850",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MHA 6850",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MHA 6900",
+            "section": "001",
+            "courseTitle": "Health Care Admn Intern"
+        },
+        {
+            "catalogTitle": "MHA 6910",
+            "section": "001",
+            "courseTitle": "IS for Masters Students"
+        },
+        {
+            "catalogTitle": "MHA 6910",
+            "section": "002",
+            "courseTitle": "IS for Masters Students"
+        }
+    ]
+}

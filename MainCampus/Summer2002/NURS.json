@@ -1,0 +1,239 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NURS 2270",
+            "section": "001",
+            "courseTitle": "Pathophysiology I"
+        },
+        {
+            "catalogTitle": "NURS 3000",
+            "section": "001",
+            "courseTitle": "Indiv Assessmnt: Nrsg"
+        },
+        {
+            "catalogTitle": "NURS 3530",
+            "section": "001",
+            "courseTitle": "Fam/Comm Focused Care"
+        },
+        {
+            "catalogTitle": "NURS 4200",
+            "section": "001",
+            "courseTitle": "Profess Lead: Hlth Care"
+        },
+        {
+            "catalogTitle": "NURS 4270",
+            "section": "001",
+            "courseTitle": "Pathophysiology II"
+        },
+        {
+            "catalogTitle": "NURS 4400",
+            "section": "001",
+            "courseTitle": "Capstone"
+        },
+        {
+            "catalogTitle": "NURS 4410",
+            "section": "001",
+            "courseTitle": "Integrated Nrsg Pract"
+        },
+        {
+            "catalogTitle": "NURS 5905",
+            "section": "001",
+            "courseTitle": "Clinical Physiology"
+        },
+        {
+            "catalogTitle": "NURS 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 5961",
+            "section": "001",
+            "courseTitle": "Practicum: Study Abroad"
+        },
+        {
+            "catalogTitle": "NURS 6000",
+            "section": "001",
+            "courseTitle": "Scholarly Inquiry"
+        },
+        {
+            "catalogTitle": "NURS 6002",
+            "section": "001",
+            "courseTitle": "Health Care Delivery"
+        },
+        {
+            "catalogTitle": "NURS 6020",
+            "section": "001",
+            "courseTitle": "Adlt Assess/Hlth Promo"
+        },
+        {
+            "catalogTitle": "NURS 6030",
+            "section": "001",
+            "courseTitle": "Diagnostic Reasoning"
+        },
+        {
+            "catalogTitle": "NURS 6040",
+            "section": "001",
+            "courseTitle": "Child Assmt/Promo/Diag"
+        },
+        {
+            "catalogTitle": "NURS 6107",
+            "section": "001",
+            "courseTitle": "Nmw Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6108",
+            "section": "001",
+            "courseTitle": "Nmw Practicum III"
+        },
+        {
+            "catalogTitle": "NURS 6110",
+            "section": "001",
+            "courseTitle": "NMW Adv Practicum"
+        },
+        {
+            "catalogTitle": "NURS 6296",
+            "section": "001",
+            "courseTitle": "Pnp Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6297",
+            "section": "001",
+            "courseTitle": "Pnp Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6298",
+            "section": "001",
+            "courseTitle": "PNP Residency"
+        },
+        {
+            "catalogTitle": "NURS 6315",
+            "section": "001",
+            "courseTitle": "Adv Psyc Hlth Asses"
+        },
+        {
+            "catalogTitle": "NURS 6320",
+            "section": "001",
+            "courseTitle": "Psych/Mh Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6350",
+            "section": "001",
+            "courseTitle": "Psych/Mh Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6380",
+            "section": "001",
+            "courseTitle": "Psy/Mnth Prac III: Res"
+        },
+        {
+            "catalogTitle": "NURS 6396",
+            "section": "001",
+            "courseTitle": "WHNP Clinical II"
+        },
+        {
+            "catalogTitle": "NURS 6397",
+            "section": "001",
+            "courseTitle": "WHNP Clinical III"
+        },
+        {
+            "catalogTitle": "NURS 6398",
+            "section": "001",
+            "courseTitle": "WHNP Adv Practicum"
+        },
+        {
+            "catalogTitle": "NURS 6460",
+            "section": "001",
+            "courseTitle": "Adv Prac Res Acc Cr"
+        },
+        {
+            "catalogTitle": "NURS 6496",
+            "section": "001",
+            "courseTitle": "ANP  Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6497",
+            "section": "001",
+            "courseTitle": "ANP Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6498",
+            "section": "001",
+            "courseTitle": "ANP Residency"
+        },
+        {
+            "catalogTitle": "NURS 6696",
+            "section": "001",
+            "courseTitle": "Gnp  Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6697",
+            "section": "001",
+            "courseTitle": "Gnp Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6698",
+            "section": "001",
+            "courseTitle": "GNP Residency"
+        },
+        {
+            "catalogTitle": "NURS 6796",
+            "section": "001",
+            "courseTitle": "Fnp  Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6797",
+            "section": "001",
+            "courseTitle": "Fnp Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 6798",
+            "section": "001",
+            "courseTitle": "FNP Residency"
+        },
+        {
+            "catalogTitle": "NURS 6950",
+            "section": "035",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 6950",
+            "section": "036",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "NURS 6960",
+            "section": "001",
+            "courseTitle": "Special Topics: Nursing"
+        },
+        {
+            "catalogTitle": "NURS 6960",
+            "section": "002",
+            "courseTitle": "Special Topics: Nursing"
+        },
+        {
+            "catalogTitle": "NURS 6961",
+            "section": "001",
+            "courseTitle": "Grad Prac/Abroad"
+        },
+        {
+            "catalogTitle": "NURS 6970",
+            "section": "033",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NURS 6970",
+            "section": "034",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NURS 6975",
+            "section": "039",
+            "courseTitle": "Masters Project"
+        },
+        {
+            "catalogTitle": "NURS 6975",
+            "section": "040",
+            "courseTitle": "Masters Project"
+        }
+    ]
+}

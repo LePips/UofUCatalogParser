@@ -1,0 +1,259 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FRNCH 11",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 11",
+            "section": "002",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 12",
+            "section": "005",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "002",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "001",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "002",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "003",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "004",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "005",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "001",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "001",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "002",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "003",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "004",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2600",
+            "section": "001",
+            "courseTitle": "Int. Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3050",
+            "section": "001",
+            "courseTitle": "Grammar through Culture"
+        },
+        {
+            "catalogTitle": "FRNCH 3060",
+            "section": "001",
+            "courseTitle": "Grammar & Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 3600",
+            "section": "001",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3900",
+            "section": "001",
+            "courseTitle": "French Pop Culture"
+        },
+        {
+            "catalogTitle": "FRNCH 4500",
+            "section": "001",
+            "courseTitle": "Lang/Cultures"
+        },
+        {
+            "catalogTitle": "FRNCH 4510",
+            "section": "001",
+            "courseTitle": "Business French"
+        },
+        {
+            "catalogTitle": "FRNCH 4550",
+            "section": "001",
+            "courseTitle": "French Civilization"
+        },
+        {
+            "catalogTitle": "FRNCH 4600",
+            "section": "001",
+            "courseTitle": "Reading Seminar"
+        },
+        {
+            "catalogTitle": "FRNCH 4610",
+            "section": "001",
+            "courseTitle": "Med/Ren Fr Studies"
+        },
+        {
+            "catalogTitle": "FRNCH 4630",
+            "section": "001",
+            "courseTitle": "19th C Fr Studies"
+        },
+        {
+            "catalogTitle": "FRNCH 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 4880",
+            "section": "006",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 4880",
+            "section": "007",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "001",
+            "courseTitle": "French Theater Workshop"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "002",
+            "courseTitle": "Francophone Studies"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "003",
+            "courseTitle": "Early Modern Genres"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "004",
+            "courseTitle": "The New Novel"
+        },
+        {
+            "catalogTitle": "FRNCH 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "FRNCH 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "FRNCH 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 6880",
+            "section": "008",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 6900",
+            "section": "003",
+            "courseTitle": "Graduate Workshop"
+        },
+        {
+            "catalogTitle": "FRNCH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "FRNCH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "FRNCH 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "001",
+            "courseTitle": "Francophone Studies"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "002",
+            "courseTitle": "Early Modern Genres"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "003",
+            "courseTitle": "The New Novel"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

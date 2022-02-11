@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 238",
+            "section": "001",
+            "courseTitle": "Dutch Oven Cooking"
+        },
+        {
+            "catalogTitle": "LLFW 255",
+            "section": "001",
+            "courseTitle": "Cuisines: Provence/France"
+        },
+        {
+            "catalogTitle": "LLFW 257",
+            "section": "002",
+            "courseTitle": "Cuisines: Thailand"
+        },
+        {
+            "catalogTitle": "LLFW 261",
+            "section": "001",
+            "courseTitle": "Cheese and Wine"
+        },
+        {
+            "catalogTitle": "LLFW 261",
+            "section": "002",
+            "courseTitle": "Cheese and Wine"
+        },
+        {
+            "catalogTitle": "LLFW 262",
+            "section": "001",
+            "courseTitle": "The Veggie Gourmet"
+        },
+        {
+            "catalogTitle": "LLFW 262",
+            "section": "002",
+            "courseTitle": "The Veggie Gourmet"
+        },
+        {
+            "catalogTitle": "LLFW 262",
+            "section": "003",
+            "courseTitle": "The Veggie Gourmet"
+        }
+    ]
+}

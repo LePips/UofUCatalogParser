@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "TURK 112",
+            "section": "001",
+            "courseTitle": "Intensive Beg Turkish"
+        },
+        {
+            "catalogTitle": "TURK 488",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "TURK 1120",
+            "section": "001",
+            "courseTitle": "Intensive Beg Turkish"
+        },
+        {
+            "catalogTitle": "TURK 4880",
+            "section": "001",
+            "courseTitle": "Accelerated 3rd Year Turkish"
+        },
+        {
+            "catalogTitle": "TURK 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

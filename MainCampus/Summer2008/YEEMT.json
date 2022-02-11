@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEEMT 11",
+            "section": "001",
+            "courseTitle": "Secret Cookbook (Age 10-13)"
+        },
+        {
+            "catalogTitle": "YEEMT 15",
+            "section": "001",
+            "courseTitle": "Cooking Magic (Age 10-13)"
+        },
+        {
+            "catalogTitle": "YEEMT 16",
+            "section": "001",
+            "courseTitle": "Kitchen Chemistry (Grade 6-9)"
+        },
+        {
+            "catalogTitle": "YEEMT 17",
+            "section": "001",
+            "courseTitle": "Food Culture (Grade 8 & up)"
+        },
+        {
+            "catalogTitle": "YEEMT 20",
+            "section": "001",
+            "courseTitle": "Finances (Age 6-8)"
+        },
+        {
+            "catalogTitle": "YEEMT 59",
+            "section": "001",
+            "courseTitle": "Chess (Age 8-13)"
+        },
+        {
+            "catalogTitle": "YEEMT 59",
+            "section": "002",
+            "courseTitle": "Chess (Age 8-13)"
+        },
+        {
+            "catalogTitle": "YEEMT 72",
+            "section": "001",
+            "courseTitle": "Beyond Monopoly"
+        },
+        {
+            "catalogTitle": "YEEMT 111",
+            "section": "001",
+            "courseTitle": "Beginning Knitting (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YEEMT 300",
+            "section": "001",
+            "courseTitle": "Bicycle Maintenance"
+        }
+    ]
+}

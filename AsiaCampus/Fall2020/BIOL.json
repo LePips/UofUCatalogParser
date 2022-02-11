@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOL 1010",
+            "section": "301",
+            "courseTitle": "Biology in 21st Century"
+        },
+        {
+            "catalogTitle": "BIOL 1030",
+            "section": "301",
+            "courseTitle": "Human Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1030",
+            "section": "302",
+            "courseTitle": "Human Biology"
+        }
+    ]
+}

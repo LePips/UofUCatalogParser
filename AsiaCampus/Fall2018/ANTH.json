@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANTH 1000",
+            "section": "301",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "301",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "302",
+            "courseTitle": "Culture & Human Exper"
+        }
+    ]
+}

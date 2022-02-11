@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NURS 3010",
+            "section": "290",
+            "courseTitle": "Nutrition Intervention"
+        },
+        {
+            "catalogTitle": "NURS 3106",
+            "section": "290",
+            "courseTitle": "Complex Health Assess"
+        },
+        {
+            "catalogTitle": "NURS 3107",
+            "section": "290",
+            "courseTitle": "Nursing/Health Promo"
+        },
+        {
+            "catalogTitle": "NURS 3108",
+            "section": "290",
+            "courseTitle": "Evidence Based Prac"
+        },
+        {
+            "catalogTitle": "NURS 3113",
+            "section": "290",
+            "courseTitle": "Nurs across Syst/Popul"
+        },
+        {
+            "catalogTitle": "NURS 4140",
+            "section": "290",
+            "courseTitle": "Nursing Leadership"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "290",
+            "courseTitle": "Nursing Initiatives"
+        }
+    ]
+}

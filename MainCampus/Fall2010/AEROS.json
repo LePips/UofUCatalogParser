@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "AEROS 1010",
+            "section": "001",
+            "courseTitle": "USAF Foundations"
+        },
+        {
+            "catalogTitle": "AEROS 1110",
+            "section": "001",
+            "courseTitle": "Gen Mil Ldrshp Lab I"
+        },
+        {
+            "catalogTitle": "AEROS 2006",
+            "section": "001",
+            "courseTitle": "AFROTC Pt"
+        },
+        {
+            "catalogTitle": "AEROS 2010",
+            "section": "001",
+            "courseTitle": "Airpower History I"
+        },
+        {
+            "catalogTitle": "AEROS 2110",
+            "section": "001",
+            "courseTitle": "Gen Mil Ldrshp Lab III"
+        },
+        {
+            "catalogTitle": "AEROS 3000",
+            "section": "001",
+            "courseTitle": "AFROTC Field Training"
+        },
+        {
+            "catalogTitle": "AEROS 3010",
+            "section": "001",
+            "courseTitle": "Leadership Studies I"
+        },
+        {
+            "catalogTitle": "AEROS 3110",
+            "section": "001",
+            "courseTitle": "POC Ldrshp Lab I"
+        },
+        {
+            "catalogTitle": "AEROS 4010",
+            "section": "001",
+            "courseTitle": "Ntl Security Afrs I"
+        },
+        {
+            "catalogTitle": "AEROS 4110",
+            "section": "001",
+            "courseTitle": "POC Ldrshp Lab III"
+        }
+    ]
+}

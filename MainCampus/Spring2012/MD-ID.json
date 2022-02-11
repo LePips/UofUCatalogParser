@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD ID 7140",
+            "section": "001",
+            "courseTitle": "Topics In Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7170",
+            "section": "001",
+            "courseTitle": "Public Health"
+        },
+        {
+            "catalogTitle": "MD ID 7200",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MD ID 7210",
+            "section": "001",
+            "courseTitle": "US Health Care System"
+        },
+        {
+            "catalogTitle": "MD ID 7310",
+            "section": "001",
+            "courseTitle": "Cells, Molecules, & Cancer"
+        },
+        {
+            "catalogTitle": "MD ID 7320",
+            "section": "001",
+            "courseTitle": "Host and Defense"
+        },
+        {
+            "catalogTitle": "MD ID 7330",
+            "section": "001",
+            "courseTitle": "Life Cycle"
+        },
+        {
+            "catalogTitle": "MD ID 7350",
+            "section": "001",
+            "courseTitle": "Metabolism & Reprodctn"
+        },
+        {
+            "catalogTitle": "MD ID 7360",
+            "section": "001",
+            "courseTitle": "Circ, Resp, Elimination"
+        },
+        {
+            "catalogTitle": "MD ID 7370",
+            "section": "001",
+            "courseTitle": "Skin,Bone,Joint,Muscle"
+        }
+    ]
+}

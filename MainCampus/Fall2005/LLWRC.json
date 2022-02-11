@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 752",
+            "section": "001",
+            "courseTitle": "Creative Wtg"
+        },
+        {
+            "catalogTitle": "LLWRC 759",
+            "section": "001",
+            "courseTitle": "Fiction Fundamentals"
+        },
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction"
+        },
+        {
+            "catalogTitle": "LLWRC 762",
+            "section": "001",
+            "courseTitle": "Fantasy and Sci-Fi Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 772",
+            "section": "001",
+            "courseTitle": "Oral Histories"
+        }
+    ]
+}

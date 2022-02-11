@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RUSS 101",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 201",
+            "section": "001",
+            "courseTitle": "Interm Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 306",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 2010",
+            "section": "001",
+            "courseTitle": "Inter Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 3060",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "RUSS 4550",
+            "section": "001",
+            "courseTitle": "Russian Culture"
+        },
+        {
+            "catalogTitle": "RUSS 4720",
+            "section": "001",
+            "courseTitle": "20th Cent Russ Lit"
+        },
+        {
+            "catalogTitle": "RUSS 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "RUSS 4880",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "001",
+            "courseTitle": "Community Volunteering"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "002",
+            "courseTitle": "Slavic Folklore"
+        },
+        {
+            "catalogTitle": "RUSS 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "RUSS 5280",
+            "section": "001",
+            "courseTitle": "Russian Phonetics"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

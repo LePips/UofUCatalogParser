@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "060",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "090",
+            "courseTitle": "Intro: Survey of Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1001",
+            "section": "090",
+            "courseTitle": "Intro: Ethical Dilemmas"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "001",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3510",
+            "section": "001",
+            "courseTitle": "Business/Prof Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "060",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 6980",
+            "section": "006",
+            "courseTitle": "Faculty Consult M.A."
+        }
+    ]
+}

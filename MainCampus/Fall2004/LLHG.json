@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHG 456",
+            "section": "001",
+            "courseTitle": "Interior Paintng & Faux"
+        },
+        {
+            "catalogTitle": "LLHG 457",
+            "section": "001",
+            "courseTitle": "Organized Clutter Free"
+        },
+        {
+            "catalogTitle": "LLHG 500",
+            "section": "001",
+            "courseTitle": "Design w/ Fresh Flowers"
+        },
+        {
+            "catalogTitle": "LLHG 505",
+            "section": "001",
+            "courseTitle": "Pruning Trees and Shrubs"
+        },
+        {
+            "catalogTitle": "LLHG 505",
+            "section": "002",
+            "courseTitle": "Pruning Trees and Shrubs"
+        },
+        {
+            "catalogTitle": "LLHG 519",
+            "section": "001",
+            "courseTitle": "Spring Plants"
+        },
+        {
+            "catalogTitle": "LLHG 519",
+            "section": "002",
+            "courseTitle": "Spring Plants"
+        },
+        {
+            "catalogTitle": "LLHG 520",
+            "section": "001",
+            "courseTitle": "Trees and Shrubs"
+        },
+        {
+            "catalogTitle": "LLHG 520",
+            "section": "002",
+            "courseTitle": "Trees and Shrubs"
+        }
+    ]
+}

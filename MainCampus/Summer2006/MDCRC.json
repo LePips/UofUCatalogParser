@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MDCRC 6000",
+            "section": "001",
+            "courseTitle": "Intro Biostatistics"
+        },
+        {
+            "catalogTitle": "MDCRC 6010",
+            "section": "001",
+            "courseTitle": "Intro Epidemiology"
+        },
+        {
+            "catalogTitle": "MDCRC 6020",
+            "section": "001",
+            "courseTitle": "Data Management"
+        },
+        {
+            "catalogTitle": "MDCRC 6030",
+            "section": "001",
+            "courseTitle": "Computer Practicum"
+        },
+        {
+            "catalogTitle": "MDCRC 6100",
+            "section": "001",
+            "courseTitle": "Epidemiology Seminar"
+        },
+        {
+            "catalogTitle": "MDCRC 6210",
+            "section": "001",
+            "courseTitle": "Regression Models"
+        },
+        {
+            "catalogTitle": "MDCRC 6220",
+            "section": "001",
+            "courseTitle": "Survey Methods"
+        },
+        {
+            "catalogTitle": "MDCRC 6430",
+            "section": "001",
+            "courseTitle": "Clinical Research Ethics"
+        },
+        {
+            "catalogTitle": "MDCRC 6440",
+            "section": "001",
+            "courseTitle": "Medical Genetics"
+        },
+        {
+            "catalogTitle": "MDCRC 6510",
+            "section": "001",
+            "courseTitle": "Molecular Biology"
+        }
+    ]
+}

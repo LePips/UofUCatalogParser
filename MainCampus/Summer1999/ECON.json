@@ -1,0 +1,299 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECON 1010",
+            "section": "001",
+            "courseTitle": "Econ As Social Sci"
+        },
+        {
+            "catalogTitle": "ECON 1010",
+            "section": "002",
+            "courseTitle": "Econ As Social Sci"
+        },
+        {
+            "catalogTitle": "ECON 1740",
+            "section": "001",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "ECON 1740",
+            "section": "002",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "001",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "002",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "003",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "004",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "005",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "006",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "007",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "008",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "070",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "071",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "001",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "002",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "003",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "004",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "005",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "006",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "070",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "071",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "095",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "096",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "097",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "098",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "099",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 3100",
+            "section": "001",
+            "courseTitle": "Labor Economics"
+        },
+        {
+            "catalogTitle": "ECON 3250",
+            "section": "001",
+            "courseTitle": "Intr Envir/Nat Resrc Ec"
+        },
+        {
+            "catalogTitle": "ECON 3500",
+            "section": "001",
+            "courseTitle": "Intntl Economics"
+        },
+        {
+            "catalogTitle": "ECON 3540",
+            "section": "001",
+            "courseTitle": "Current Economic Pbls"
+        },
+        {
+            "catalogTitle": "ECON 3600",
+            "section": "001",
+            "courseTitle": "Quant Methods"
+        },
+        {
+            "catalogTitle": "ECON 3600",
+            "section": "002",
+            "courseTitle": "Quant Methods"
+        },
+        {
+            "catalogTitle": "ECON 4010",
+            "section": "001",
+            "courseTitle": "Intermed Microecon"
+        },
+        {
+            "catalogTitle": "ECON 4010",
+            "section": "002",
+            "courseTitle": "Intermed Microecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "001",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "002",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 5060",
+            "section": "001",
+            "courseTitle": "Hist-Economic Doctrine"
+        },
+        {
+            "catalogTitle": "ECON 5470",
+            "section": "001",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 5470",
+            "section": "002",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 5510",
+            "section": "001",
+            "courseTitle": "Interntl Monetary Reltn"
+        },
+        {
+            "catalogTitle": "ECON 5950",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ECON 5950",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ECON 5960",
+            "section": "001",
+            "courseTitle": "Capitalism & Alienation"
+        },
+        {
+            "catalogTitle": "ECON 5960",
+            "section": "002",
+            "courseTitle": "Multinatnl Frms: Intnl"
+        },
+        {
+            "catalogTitle": "ECON 5960",
+            "section": "003",
+            "courseTitle": "Multinatnl Frms: Intnl"
+        },
+        {
+            "catalogTitle": "ECON 6060",
+            "section": "001",
+            "courseTitle": "Hist-Economic Doctrine"
+        },
+        {
+            "catalogTitle": "ECON 6510",
+            "section": "001",
+            "courseTitle": "Intntl Monetary Reltn"
+        },
+        {
+            "catalogTitle": "ECON 6950",
+            "section": "001",
+            "courseTitle": "Directed Reading Mstrs"
+        },
+        {
+            "catalogTitle": "ECON 6955",
+            "section": "001",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "ECON 6960",
+            "section": "001",
+            "courseTitle": "Capitalism & Alienation"
+        },
+        {
+            "catalogTitle": "ECON 6960",
+            "section": "002",
+            "courseTitle": "Multinational Firms: Internati"
+        },
+        {
+            "catalogTitle": "ECON 6960",
+            "section": "003",
+            "courseTitle": "Multinational Firms: Internati"
+        },
+        {
+            "catalogTitle": "ECON 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research Mstrs"
+        },
+        {
+            "catalogTitle": "ECON 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECON 7950",
+            "section": "001",
+            "courseTitle": "Independ Study PhD"
+        },
+        {
+            "catalogTitle": "ECON 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ECON 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult PhD"
+        },
+        {
+            "catalogTitle": "ECON 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

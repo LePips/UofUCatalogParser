@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLDAN 212",
+            "section": "001",
+            "courseTitle": "Punchcard Yoga"
+        },
+        {
+            "catalogTitle": "LLDAN 215",
+            "section": "001",
+            "courseTitle": "Yoga for Strength"
+        },
+        {
+            "catalogTitle": "LLDAN 240",
+            "section": "001",
+            "courseTitle": "Basics of Back Care"
+        },
+        {
+            "catalogTitle": "LLDAN 244",
+            "section": "001",
+            "courseTitle": "Fundamentals of Yoga"
+        },
+        {
+            "catalogTitle": "LLDAN 245",
+            "section": "001",
+            "courseTitle": "Yoga for your Core"
+        }
+    ]
+}

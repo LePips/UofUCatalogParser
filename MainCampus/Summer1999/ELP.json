@@ -1,0 +1,154 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELP 3950",
+            "section": "001",
+            "courseTitle": "Indep Study-Upper Div"
+        },
+        {
+            "catalogTitle": "ELP 3960",
+            "section": "001",
+            "courseTitle": "Special Topics-Upp Div"
+        },
+        {
+            "catalogTitle": "ELP 3960",
+            "section": "015",
+            "courseTitle": "Special Topics-Upp Div"
+        },
+        {
+            "catalogTitle": "ELP 5850",
+            "section": "001",
+            "courseTitle": "Prof Dev Workshop/Ed Ad"
+        },
+        {
+            "catalogTitle": "ELP 5850",
+            "section": "002",
+            "courseTitle": "Prof Dev Workshop/Ed Ad"
+        },
+        {
+            "catalogTitle": "ELP 5850",
+            "section": "003",
+            "courseTitle": "Prof Dev Workshop/Ed Ad"
+        },
+        {
+            "catalogTitle": "ELP 5950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ELP 5960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ELP 6010",
+            "section": "001",
+            "courseTitle": "Analytic Methods"
+        },
+        {
+            "catalogTitle": "ELP 6011",
+            "section": "001",
+            "courseTitle": "Computer Applications"
+        },
+        {
+            "catalogTitle": "ELP 6030",
+            "section": "001",
+            "courseTitle": "Intro Research Design"
+        },
+        {
+            "catalogTitle": "ELP 6050",
+            "section": "001",
+            "courseTitle": "Program Evaluation"
+        },
+        {
+            "catalogTitle": "ELP 6110",
+            "section": "001",
+            "courseTitle": "Organizational Change"
+        },
+        {
+            "catalogTitle": "ELP 6130",
+            "section": "001",
+            "courseTitle": "Collab Ed Decsn Mak"
+        },
+        {
+            "catalogTitle": "ELP 6210",
+            "section": "001",
+            "courseTitle": "Ldrship-Ed Orgs"
+        },
+        {
+            "catalogTitle": "ELP 6210",
+            "section": "002",
+            "courseTitle": "Ldrship-Ed Orgs"
+        },
+        {
+            "catalogTitle": "ELP 6210",
+            "section": "003",
+            "courseTitle": "Ldrship-Ed Orgs"
+        },
+        {
+            "catalogTitle": "ELP 6310",
+            "section": "001",
+            "courseTitle": "Instructional Ldship"
+        },
+        {
+            "catalogTitle": "ELP 6350",
+            "section": "001",
+            "courseTitle": "Personnel Admin"
+        },
+        {
+            "catalogTitle": "ELP 6410",
+            "section": "001",
+            "courseTitle": "Education Law"
+        },
+        {
+            "catalogTitle": "ELP 6430",
+            "section": "001",
+            "courseTitle": "Politics Of Education"
+        },
+        {
+            "catalogTitle": "ELP 6450",
+            "section": "001",
+            "courseTitle": "Ed Budget & Finance"
+        },
+        {
+            "catalogTitle": "ELP 6950",
+            "section": "001",
+            "courseTitle": "Indep Study-Grad"
+        },
+        {
+            "catalogTitle": "ELP 6960",
+            "section": "001",
+            "courseTitle": "Special Topics-Grad"
+        },
+        {
+            "catalogTitle": "ELP 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-Grad"
+        },
+        {
+            "catalogTitle": "ELP 7950",
+            "section": "001",
+            "courseTitle": "Indep Study-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7960",
+            "section": "001",
+            "courseTitle": "Spec Topics-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7990",
+            "section": "001",
+            "courseTitle": "Continuing Reg-Doc"
+        }
+    ]
+}

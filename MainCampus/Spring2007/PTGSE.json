@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PTGSE 102",
+            "section": "001",
+            "courseTitle": "Beg Ptgse II"
+        },
+        {
+            "catalogTitle": "PTGSE 202",
+            "section": "001",
+            "courseTitle": "Intrm Portugese II"
+        },
+        {
+            "catalogTitle": "PTGSE 1020",
+            "section": "001",
+            "courseTitle": "Beg Portugese II"
+        },
+        {
+            "catalogTitle": "PTGSE 2020",
+            "section": "001",
+            "courseTitle": "Intrm Portugese II"
+        },
+        {
+            "catalogTitle": "PTGSE 3580",
+            "section": "001",
+            "courseTitle": "Contemporary Issues"
+        },
+        {
+            "catalogTitle": "PTGSE 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

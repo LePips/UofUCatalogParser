@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DES 2615",
+            "section": "001",
+            "courseTitle": "Intro Design Thinking"
+        },
+        {
+            "catalogTitle": "DES 3210",
+            "section": "001",
+            "courseTitle": "Design Research"
+        },
+        {
+            "catalogTitle": "DES 3600",
+            "section": "001",
+            "courseTitle": "Design Studio"
+        },
+        {
+            "catalogTitle": "DES 4010",
+            "section": "001",
+            "courseTitle": "Capstone Studio"
+        },
+        {
+            "catalogTitle": "DES 4955",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DES 4956",
+            "section": "001",
+            "courseTitle": "Indep Capstone Pro"
+        }
+    ]
+}

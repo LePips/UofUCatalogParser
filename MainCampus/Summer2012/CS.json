@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CS 1400",
+            "section": "001",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "002",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "CS 1400",
+            "section": "003",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "001",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "003",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "004",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "005",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "006",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2960",
+            "section": "001",
+            "courseTitle": "Apple Certification"
+        },
+        {
+            "catalogTitle": "CS 2963",
+            "section": "001",
+            "courseTitle": "LPI Level 1"
+        },
+        {
+            "catalogTitle": "CS 4010",
+            "section": "001",
+            "courseTitle": "CS Internship"
+        }
+    ]
+}

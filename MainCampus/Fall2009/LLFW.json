@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 255",
+            "section": "001",
+            "courseTitle": "French Cooking: Provence"
+        },
+        {
+            "catalogTitle": "LLFW 273",
+            "section": "001",
+            "courseTitle": "Artisan Bread"
+        },
+        {
+            "catalogTitle": "LLFW 273",
+            "section": "002",
+            "courseTitle": "Artisan Bread"
+        },
+        {
+            "catalogTitle": "LLFW 284",
+            "section": "001",
+            "courseTitle": "Monday Wine School"
+        },
+        {
+            "catalogTitle": "LLFW 295",
+            "section": "001",
+            "courseTitle": "World of Tea"
+        },
+        {
+            "catalogTitle": "LLFW 297",
+            "section": "001",
+            "courseTitle": "Sushi Making"
+        },
+        {
+            "catalogTitle": "LLFW 297",
+            "section": "002",
+            "courseTitle": "Sushi Making"
+        },
+        {
+            "catalogTitle": "LLFW 299",
+            "section": "001",
+            "courseTitle": "Mastering Martinis"
+        },
+        {
+            "catalogTitle": "LLFW 340",
+            "section": "001",
+            "courseTitle": "Italian Dinner for Friends"
+        },
+        {
+            "catalogTitle": "LLFW 371",
+            "section": "001",
+            "courseTitle": "Beer Tastings and Pairings"
+        },
+        {
+            "catalogTitle": "LLFW 371",
+            "section": "002",
+            "courseTitle": "Beer Tastings and Pairings"
+        }
+    ]
+}

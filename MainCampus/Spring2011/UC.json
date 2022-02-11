@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UC 1010",
+            "section": "001",
+            "courseTitle": "A Successful Start at U"
+        },
+        {
+            "catalogTitle": "UC 1010",
+            "section": "002",
+            "courseTitle": "A Successful Start at U"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "001",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "002",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "003",
+            "courseTitle": "Major Exploration"
+        }
+    ]
+}

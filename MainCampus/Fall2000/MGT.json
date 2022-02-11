@@ -1,0 +1,384 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "001",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "002",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "003",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "004",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "005",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "006",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "007",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "008",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "009",
+            "courseTitle": "Business Foundations I"
+        },
+        {
+            "catalogTitle": "MGT 2390",
+            "section": "001",
+            "courseTitle": "Business Statistics I"
+        },
+        {
+            "catalogTitle": "MGT 2390",
+            "section": "002",
+            "courseTitle": "Business Statistics I"
+        },
+        {
+            "catalogTitle": "MGT 2390",
+            "section": "003",
+            "courseTitle": "Business Statistics I"
+        },
+        {
+            "catalogTitle": "MGT 2490",
+            "section": "001",
+            "courseTitle": "Business Statistics II"
+        },
+        {
+            "catalogTitle": "MGT 2490",
+            "section": "002",
+            "courseTitle": "Business Statistics II"
+        },
+        {
+            "catalogTitle": "MGT 2490",
+            "section": "003",
+            "courseTitle": "Business Statistics II"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "001",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "002",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "003",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "060",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3500",
+            "section": "001",
+            "courseTitle": "Princ Of Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3500",
+            "section": "002",
+            "courseTitle": "Princ Of Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3660",
+            "section": "001",
+            "courseTitle": "Production Operatns Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3660",
+            "section": "002",
+            "courseTitle": "Production Operatns Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3660",
+            "section": "077",
+            "courseTitle": "Production Operatns Mgt"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "001",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "002",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "003",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "077",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3800",
+            "section": "001",
+            "courseTitle": "Business & Society"
+        },
+        {
+            "catalogTitle": "MGT 3800",
+            "section": "002",
+            "courseTitle": "Business & Society"
+        },
+        {
+            "catalogTitle": "MGT 4560",
+            "section": "001",
+            "courseTitle": "Small Business Mgt"
+        },
+        {
+            "catalogTitle": "MGT 4860",
+            "section": "001",
+            "courseTitle": "Managing Orgzatnl Confl"
+        },
+        {
+            "catalogTitle": "MGT 4900",
+            "section": "001",
+            "courseTitle": "Intntl Management"
+        },
+        {
+            "catalogTitle": "MGT 4999",
+            "section": "001",
+            "courseTitle": "Mgt Hon Thesis"
+        },
+        {
+            "catalogTitle": "MGT 5510",
+            "section": "001",
+            "courseTitle": "Human Resource Mgt I"
+        },
+        {
+            "catalogTitle": "MGT 5510",
+            "section": "002",
+            "courseTitle": "Human Resource Mgt I"
+        },
+        {
+            "catalogTitle": "MGT 5510",
+            "section": "077",
+            "courseTitle": "Human Resource Mgt I"
+        },
+        {
+            "catalogTitle": "MGT 5680",
+            "section": "001",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 5680",
+            "section": "077",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "001",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "002",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "003",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "004",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "005",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "077",
+            "courseTitle": "Adv Management"
+        },
+        {
+            "catalogTitle": "MGT 5770",
+            "section": "001",
+            "courseTitle": "Innovtn-Entrepreneurshp"
+        },
+        {
+            "catalogTitle": "MGT 5810",
+            "section": "001",
+            "courseTitle": "Mang Div Thru Comm"
+        },
+        {
+            "catalogTitle": "MGT 5810",
+            "section": "002",
+            "courseTitle": "Mang Div Thru Comm"
+        },
+        {
+            "catalogTitle": "MGT 5810",
+            "section": "077",
+            "courseTitle": "Mang Div Thru Comm"
+        },
+        {
+            "catalogTitle": "MGT 5910",
+            "section": "001",
+            "courseTitle": "Special Study"
+        },
+        {
+            "catalogTitle": "MGT 5910",
+            "section": "002",
+            "courseTitle": "Fund of Entrepreneurshp"
+        },
+        {
+            "catalogTitle": "MGT 6490",
+            "section": "001",
+            "courseTitle": "Global Strategic Mgt"
+        },
+        {
+            "catalogTitle": "MGT 6490",
+            "section": "002",
+            "courseTitle": "Global Strategic Mgt"
+        },
+        {
+            "catalogTitle": "MGT 6500",
+            "section": "001",
+            "courseTitle": "Corp Strategy"
+        },
+        {
+            "catalogTitle": "MGT 6710",
+            "section": "001",
+            "courseTitle": "Practical MGT Sci I"
+        },
+        {
+            "catalogTitle": "MGT 6710",
+            "section": "002",
+            "courseTitle": "Practical MGT Sci I"
+        },
+        {
+            "catalogTitle": "MGT 6770",
+            "section": "001",
+            "courseTitle": "Entrepreneurial Cnslng"
+        },
+        {
+            "catalogTitle": "MGT 6780",
+            "section": "001",
+            "courseTitle": "Entrepreneurship Fund"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "001",
+            "courseTitle": "Managerial Negotiation"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "002",
+            "courseTitle": "Managerial Negotiation"
+        },
+        {
+            "catalogTitle": "MGT 6900",
+            "section": "001",
+            "courseTitle": "Intntl Management"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "001",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "002",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "003",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "004",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "005",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "MGT 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MGT 7600",
+            "section": "001",
+            "courseTitle": "Sem-Strategic Mgt Theor"
+        },
+        {
+            "catalogTitle": "MGT 7800",
+            "section": "001",
+            "courseTitle": "Sem-Rsch Org Beh"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "001",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "002",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "004",
+            "courseTitle": "Groups & Organizations"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MGT 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improv Comedy Acting"
+        },
+        {
+            "catalogTitle": "LLMT 411",
+            "section": "001",
+            "courseTitle": "Blues Harmonica for Beg"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 460",
+            "section": "001",
+            "courseTitle": "Pop/Rock Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 464",
+            "section": "001",
+            "courseTitle": "Didgeridoo - Introduction"
+        },
+        {
+            "catalogTitle": "LLMT 464",
+            "section": "002",
+            "courseTitle": "Didgeridoo - Introduction"
+        }
+    ]
+}

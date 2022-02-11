@@ -1,0 +1,144 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PATH 3100",
+            "section": "001",
+            "courseTitle": "Medical Microbiology"
+        },
+        {
+            "catalogTitle": "PATH 5030",
+            "section": "001",
+            "courseTitle": "Basic Immunology"
+        },
+        {
+            "catalogTitle": "PATH 6020",
+            "section": "001",
+            "courseTitle": "Systemic Pathology"
+        },
+        {
+            "catalogTitle": "PATH 6070",
+            "section": "001",
+            "courseTitle": "Med Student Research"
+        },
+        {
+            "catalogTitle": "PATH 6520",
+            "section": "001",
+            "courseTitle": "ST-Medical Lab Science"
+        },
+        {
+            "catalogTitle": "PATH 6690",
+            "section": "001",
+            "courseTitle": "Med Lab Sci Admin"
+        },
+        {
+            "catalogTitle": "PATH 6700",
+            "section": "001",
+            "courseTitle": "Med Lab Sci Education"
+        },
+        {
+            "catalogTitle": "PATH 6810",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "PATH 6900",
+            "section": "001",
+            "courseTitle": "Techniques In Lab Med"
+        },
+        {
+            "catalogTitle": "PATH 6930",
+            "section": "001",
+            "courseTitle": "Directed Readings"
+        },
+        {
+            "catalogTitle": "PATH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: M.S."
+        },
+        {
+            "catalogTitle": "PATH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation:MS"
+        },
+        {
+            "catalogTitle": "PATH 7020",
+            "section": "001",
+            "courseTitle": "Clinical Pathology"
+        },
+        {
+            "catalogTitle": "PATH 7050",
+            "section": "001",
+            "courseTitle": "Anatomical Pathology"
+        },
+        {
+            "catalogTitle": "PATH 7090",
+            "section": "001",
+            "courseTitle": "Neuropathology"
+        },
+        {
+            "catalogTitle": "PATH 7120",
+            "section": "001",
+            "courseTitle": "Forensic Pathology"
+        },
+        {
+            "catalogTitle": "PATH 7140",
+            "section": "001",
+            "courseTitle": "Clin Diagnosis & Mgt"
+        },
+        {
+            "catalogTitle": "PATH 7200",
+            "section": "001",
+            "courseTitle": "Interim Med Stu Rsrch"
+        },
+        {
+            "catalogTitle": "PATH 7300",
+            "section": "001",
+            "courseTitle": "Digital Cell Imaging"
+        },
+        {
+            "catalogTitle": "PATH 7360",
+            "section": "001",
+            "courseTitle": "Advanced Immunology"
+        },
+        {
+            "catalogTitle": "PATH 7880",
+            "section": "001",
+            "courseTitle": "Path Research in Prog"
+        },
+        {
+            "catalogTitle": "PATH 7890",
+            "section": "001",
+            "courseTitle": "Journal Club"
+        },
+        {
+            "catalogTitle": "PATH 7900",
+            "section": "001",
+            "courseTitle": "Redox Regulation"
+        },
+        {
+            "catalogTitle": "PATH 7900",
+            "section": "002",
+            "courseTitle": "Redox Regulation"
+        },
+        {
+            "catalogTitle": "PATH 7901",
+            "section": "001",
+            "courseTitle": "ST: Vascular Biology"
+        },
+        {
+            "catalogTitle": "PATH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph D"
+        },
+        {
+            "catalogTitle": "PATH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PATH 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

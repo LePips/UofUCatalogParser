@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 3000",
+            "section": "001",
+            "courseTitle": "Nuclear Principles"
+        },
+        {
+            "catalogTitle": "NUCL 4000",
+            "section": "001",
+            "courseTitle": "Nuclear Lab"
+        },
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5030",
+            "section": "001",
+            "courseTitle": "Nuclear Principles"
+        },
+        {
+            "catalogTitle": "NUCL 5032",
+            "section": "001",
+            "courseTitle": "Radiochemistry I"
+        },
+        {
+            "catalogTitle": "NUCL 5100",
+            "section": "001",
+            "courseTitle": "Reactor Physics"
+        },
+        {
+            "catalogTitle": "NUCL 5900",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        },
+        {
+            "catalogTitle": "NUCL 6040",
+            "section": "001",
+            "courseTitle": "Nuc Eng&Sci using TRIGA"
+        },
+        {
+            "catalogTitle": "NUCL 6060",
+            "section": "001",
+            "courseTitle": "Reactor & Policy I"
+        },
+        {
+            "catalogTitle": "NUCL 6400",
+            "section": "001",
+            "courseTitle": "Nuclear Computation"
+        },
+        {
+            "catalogTitle": "NUCL 6500",
+            "section": "001",
+            "courseTitle": "Simulation BioMedicine"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        }
+    ]
+}

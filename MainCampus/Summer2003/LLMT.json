@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning I"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning II"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "002",
+            "courseTitle": "Guitar: Beginning II"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "001",
+            "courseTitle": "UT Shakespeare Festival"
+        },
+        {
+            "catalogTitle": "LLMT 392",
+            "section": "001",
+            "courseTitle": "Get Ready/Shakespeare"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improvisational Acting"
+        }
+    ]
+}

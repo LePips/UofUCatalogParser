@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NEURO 7020",
+            "section": "001",
+            "courseTitle": "Neurology 0.S"
+        },
+        {
+            "catalogTitle": "NEURO 7170",
+            "section": "001",
+            "courseTitle": "Pediatric Neurology"
+        },
+        {
+            "catalogTitle": "NEURO 7700",
+            "section": "001",
+            "courseTitle": "Neuro-Ophthalmology"
+        },
+        {
+            "catalogTitle": "NEURO 7900",
+            "section": "001",
+            "courseTitle": "Clin Clerkship-UHosp"
+        },
+        {
+            "catalogTitle": "NEURO 7910",
+            "section": "001",
+            "courseTitle": "Clin Clerkship - V.A."
+        },
+        {
+            "catalogTitle": "NEURO 7920",
+            "section": "001",
+            "courseTitle": "Honors Program"
+        },
+        {
+            "catalogTitle": "NEURO 7930",
+            "section": "001",
+            "courseTitle": "Clerkship (PCMC)"
+        },
+        {
+            "catalogTitle": "NEURO 7940",
+            "section": "001",
+            "courseTitle": "Clerkship-Community"
+        },
+        {
+            "catalogTitle": "NEURO 7950",
+            "section": "001",
+            "courseTitle": "Neurology Research"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 406",
+            "section": "001",
+            "courseTitle": "Blues Harmonica I"
+        },
+        {
+            "catalogTitle": "LLMT 411",
+            "section": "001",
+            "courseTitle": "Intermediate Blues Harmonica"
+        },
+        {
+            "catalogTitle": "LLMT 420",
+            "section": "001",
+            "courseTitle": "Intro to Song Writing"
+        },
+        {
+            "catalogTitle": "LLMT 429",
+            "section": "001",
+            "courseTitle": "Beginning Banjo"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 445",
+            "section": "001",
+            "courseTitle": "Guitar Set-up and Maintenance"
+        },
+        {
+            "catalogTitle": "LLMT 446",
+            "section": "001",
+            "courseTitle": "Ukulele, too"
+        }
+    ]
+}

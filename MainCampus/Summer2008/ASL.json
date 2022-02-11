@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASL 101",
+            "section": "060",
+            "courseTitle": "Beg American Sign Language I"
+        },
+        {
+            "catalogTitle": "ASL 102",
+            "section": "060",
+            "courseTitle": "Beg Amer Sign Lang II"
+        },
+        {
+            "catalogTitle": "ASL 201",
+            "section": "001",
+            "courseTitle": "Intermediate Amer Sign Lang I"
+        },
+        {
+            "catalogTitle": "ASL 202",
+            "section": "001",
+            "courseTitle": "Intrm Amer Sign Lang II"
+        },
+        {
+            "catalogTitle": "ASL 1010",
+            "section": "060",
+            "courseTitle": "Beg Amer Sign Lang I"
+        },
+        {
+            "catalogTitle": "ASL 1020",
+            "section": "060",
+            "courseTitle": "Beg Amer Sign Lang II"
+        },
+        {
+            "catalogTitle": "ASL 2010",
+            "section": "001",
+            "courseTitle": "Intrm Amer Sign Lang I"
+        },
+        {
+            "catalogTitle": "ASL 2020",
+            "section": "001",
+            "courseTitle": "Intrm Amer Sign Lang II"
+        }
+    ]
+}

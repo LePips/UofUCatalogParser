@@ -1,0 +1,919 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MATH 950",
+            "section": "001",
+            "courseTitle": "Elem Algebra"
+        },
+        {
+            "catalogTitle": "MATH 950",
+            "section": "002",
+            "courseTitle": "Elem Algebra"
+        },
+        {
+            "catalogTitle": "MATH 950",
+            "section": "003",
+            "courseTitle": "Elem Algebra"
+        },
+        {
+            "catalogTitle": "MATH 950",
+            "section": "018",
+            "courseTitle": "Elem Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "001",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "002",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "003",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "018",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "020",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1010",
+            "section": "021",
+            "courseTitle": "Intrm Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "001",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "002",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "003",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "004",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "005",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "006",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "007",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "008",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "009",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "011",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "018",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "020",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "001",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "002",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "003",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "004",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "005",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "006",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "007",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "008",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "009",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "010",
+            "courseTitle": "Intro Stats"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "001",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "002",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "003",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "020",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "021",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "060",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "070",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1060",
+            "section": "001",
+            "courseTitle": "Trig"
+        },
+        {
+            "catalogTitle": "MATH 1060",
+            "section": "002",
+            "courseTitle": "Trig"
+        },
+        {
+            "catalogTitle": "MATH 1060",
+            "section": "003",
+            "courseTitle": "Trig"
+        },
+        {
+            "catalogTitle": "MATH 1060",
+            "section": "020",
+            "courseTitle": "Trig"
+        },
+        {
+            "catalogTitle": "MATH 1070",
+            "section": "001",
+            "courseTitle": "Elem Statistics"
+        },
+        {
+            "catalogTitle": "MATH 1070",
+            "section": "002",
+            "courseTitle": "Elem Statistics"
+        },
+        {
+            "catalogTitle": "MATH 1070",
+            "section": "020",
+            "courseTitle": "Elem Statistics"
+        },
+        {
+            "catalogTitle": "MATH 1080",
+            "section": "001",
+            "courseTitle": "Perspective On Maths"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "001",
+            "courseTitle": "Coll Alg Bus/Soc Sci"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "002",
+            "courseTitle": "Coll Alg Bus/Soc Sci"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "003",
+            "courseTitle": "Coll Alg Bus/Soc Sci"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "004",
+            "courseTitle": "Coll Alg Bus/Soc Sci"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "005",
+            "courseTitle": "Coll Alg Bus/Soc Sci"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "006",
+            "courseTitle": "Coll Alg Bus/Soc Sci"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "001",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "002",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "003",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "004",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "005",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "006",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "007",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "MATH 1100",
+            "section": "020",
+            "courseTitle": "Quant Analysis"
+        },
+        {
+            "catalogTitle": "MATH 1180",
+            "section": "001",
+            "courseTitle": "Prob/Calc Life Sci II"
+        },
+        {
+            "catalogTitle": "MATH 1180",
+            "section": "002",
+            "courseTitle": "Prob/Calc Life Sci II"
+        },
+        {
+            "catalogTitle": "MATH 1180",
+            "section": "003",
+            "courseTitle": "Prob/Calc Life Sci II"
+        },
+        {
+            "catalogTitle": "MATH 1180",
+            "section": "004",
+            "courseTitle": "Prob/Calc Life Sci II"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "001",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "002",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "003",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "004",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "005",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "006",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "007",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "008",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "009",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "020",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "001",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "002",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "003",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "004",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "005",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "006",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "007",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "020",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 1225",
+            "section": "001",
+            "courseTitle": "Calculus II W/ Maple"
+        },
+        {
+            "catalogTitle": "MATH 1260",
+            "section": "001",
+            "courseTitle": "AP Calculus  II"
+        },
+        {
+            "catalogTitle": "MATH 1260",
+            "section": "002",
+            "courseTitle": "AP Calculus  II"
+        },
+        {
+            "catalogTitle": "MATH 2160",
+            "section": "001",
+            "courseTitle": "Intr Scientific Cmputng"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "001",
+            "courseTitle": "Calculus III"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "002",
+            "courseTitle": "Calculus III"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "003",
+            "courseTitle": "Calculus III"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "004",
+            "courseTitle": "Calculus III"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "005",
+            "courseTitle": "Calculus III"
+        },
+        {
+            "catalogTitle": "MATH 2250",
+            "section": "001",
+            "courseTitle": "Ode's And Lin Alg"
+        },
+        {
+            "catalogTitle": "MATH 2250",
+            "section": "002",
+            "courseTitle": "Ode's And Lin Alg"
+        },
+        {
+            "catalogTitle": "MATH 2250",
+            "section": "003",
+            "courseTitle": "Ode's And Lin Alg"
+        },
+        {
+            "catalogTitle": "MATH 2250",
+            "section": "004",
+            "courseTitle": "Ode's And Lin Alg"
+        },
+        {
+            "catalogTitle": "MATH 2250",
+            "section": "005",
+            "courseTitle": "Ode's And Lin Alg"
+        },
+        {
+            "catalogTitle": "MATH 2270",
+            "section": "001",
+            "courseTitle": "Linear Algebra"
+        },
+        {
+            "catalogTitle": "MATH 2270",
+            "section": "002",
+            "courseTitle": "Linear Algebra"
+        },
+        {
+            "catalogTitle": "MATH 2280",
+            "section": "001",
+            "courseTitle": "Intro De's"
+        },
+        {
+            "catalogTitle": "MATH 2280",
+            "section": "002",
+            "courseTitle": "Intro De's"
+        },
+        {
+            "catalogTitle": "MATH 3010",
+            "section": "001",
+            "courseTitle": "Topics-Hist Of Math"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "001",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "002",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "003",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "004",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "005",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "006",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "007",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3070",
+            "section": "008",
+            "courseTitle": "Applied Statistics I"
+        },
+        {
+            "catalogTitle": "MATH 3080",
+            "section": "001",
+            "courseTitle": "Applied Statistics II"
+        },
+        {
+            "catalogTitle": "MATH 3080",
+            "section": "002",
+            "courseTitle": "Applied Statistics II"
+        },
+        {
+            "catalogTitle": "MATH 3100",
+            "section": "001",
+            "courseTitle": "Foundations Geometry"
+        },
+        {
+            "catalogTitle": "MATH 3105",
+            "section": "001",
+            "courseTitle": "Geom Practicum"
+        },
+        {
+            "catalogTitle": "MATH 3150",
+            "section": "001",
+            "courseTitle": "PDE's For Engineers"
+        },
+        {
+            "catalogTitle": "MATH 3150",
+            "section": "002",
+            "courseTitle": "PDE's For Engineers"
+        },
+        {
+            "catalogTitle": "MATH 3160",
+            "section": "001",
+            "courseTitle": "Compl Vars For Engrs"
+        },
+        {
+            "catalogTitle": "MATH 3170",
+            "section": "002",
+            "courseTitle": "SAS Lab I"
+        },
+        {
+            "catalogTitle": "MATH 3170",
+            "section": "003",
+            "courseTitle": "SAS Lab I"
+        },
+        {
+            "catalogTitle": "MATH 3170",
+            "section": "004",
+            "courseTitle": "SAS Lab I"
+        },
+        {
+            "catalogTitle": "MATH 3170",
+            "section": "005",
+            "courseTitle": "SAS Lab I"
+        },
+        {
+            "catalogTitle": "MATH 3170",
+            "section": "007",
+            "courseTitle": "SAS Lab I"
+        },
+        {
+            "catalogTitle": "MATH 3170",
+            "section": "008",
+            "courseTitle": "SAS Lab I"
+        },
+        {
+            "catalogTitle": "MATH 3180",
+            "section": "002",
+            "courseTitle": "SAS Lab II"
+        },
+        {
+            "catalogTitle": "MATH 3210",
+            "section": "001",
+            "courseTitle": "Fndns Of Analysis I"
+        },
+        {
+            "catalogTitle": "MATH 3220",
+            "section": "001",
+            "courseTitle": "Fndns Of Analysis  II"
+        },
+        {
+            "catalogTitle": "MATH 3220",
+            "section": "002",
+            "courseTitle": "Fndns Of Analysis  II"
+        },
+        {
+            "catalogTitle": "MATH 3730",
+            "section": "001",
+            "courseTitle": "Applied Linear Algebra"
+        },
+        {
+            "catalogTitle": "MATH 3900",
+            "section": "001",
+            "courseTitle": "Topics-Maths"
+        },
+        {
+            "catalogTitle": "MATH 4010",
+            "section": "001",
+            "courseTitle": "Math Elem Sch Tchrs I"
+        },
+        {
+            "catalogTitle": "MATH 4020",
+            "section": "001",
+            "courseTitle": "Math Elem Sch Tchrs II"
+        },
+        {
+            "catalogTitle": "MATH 4020",
+            "section": "002",
+            "courseTitle": "Math Elem Sch Tchrs II"
+        },
+        {
+            "catalogTitle": "MATH 4050",
+            "section": "001",
+            "courseTitle": "Tchr Ldr Training II"
+        },
+        {
+            "catalogTitle": "MATH 4090",
+            "section": "001",
+            "courseTitle": "Tchg Math Sec Schl"
+        },
+        {
+            "catalogTitle": "MATH 4300",
+            "section": "001",
+            "courseTitle": "Intro To Algebra"
+        },
+        {
+            "catalogTitle": "MATH 4400",
+            "section": "001",
+            "courseTitle": "Intr To Number Theory"
+        },
+        {
+            "catalogTitle": "MATH 4530",
+            "section": "001",
+            "courseTitle": "Eucldn Curvs, Surfcs"
+        },
+        {
+            "catalogTitle": "MATH 4910",
+            "section": "001",
+            "courseTitle": "Internship-Math"
+        },
+        {
+            "catalogTitle": "MATH 4910",
+            "section": "002",
+            "courseTitle": "Internship-Math"
+        },
+        {
+            "catalogTitle": "MATH 5010",
+            "section": "001",
+            "courseTitle": "Intro To Probability"
+        },
+        {
+            "catalogTitle": "MATH 5010",
+            "section": "002",
+            "courseTitle": "Intro To Probability"
+        },
+        {
+            "catalogTitle": "MATH 5050",
+            "section": "001",
+            "courseTitle": "Stoch Proc, Simultn II"
+        },
+        {
+            "catalogTitle": "MATH 5080",
+            "section": "001",
+            "courseTitle": "Stat'l Inference I"
+        },
+        {
+            "catalogTitle": "MATH 5080",
+            "section": "002",
+            "courseTitle": "Stat'l Inference I"
+        },
+        {
+            "catalogTitle": "MATH 5120",
+            "section": "001",
+            "courseTitle": "Math Biology  II"
+        },
+        {
+            "catalogTitle": "MATH 5210",
+            "section": "001",
+            "courseTitle": "Intro Real Analysis"
+        },
+        {
+            "catalogTitle": "MATH 5320",
+            "section": "001",
+            "courseTitle": "Intro To Mod Alg   II"
+        },
+        {
+            "catalogTitle": "MATH 5420",
+            "section": "001",
+            "courseTitle": "Ode's And Dyn Systms"
+        },
+        {
+            "catalogTitle": "MATH 5440",
+            "section": "001",
+            "courseTitle": "Intro Part Diff Eqns"
+        },
+        {
+            "catalogTitle": "MATH 5470",
+            "section": "001",
+            "courseTitle": "Appl Dynamical Systems"
+        },
+        {
+            "catalogTitle": "MATH 5520",
+            "section": "001",
+            "courseTitle": "Intro Alg'c/Geom Top"
+        },
+        {
+            "catalogTitle": "MATH 5600",
+            "section": "001",
+            "courseTitle": "Surv-Numerical Analysis"
+        },
+        {
+            "catalogTitle": "MATH 5620",
+            "section": "001",
+            "courseTitle": "Intro Num Analysis II"
+        },
+        {
+            "catalogTitle": "MATH 5720",
+            "section": "001",
+            "courseTitle": "Intr Appl Math  II"
+        },
+        {
+            "catalogTitle": "MATH 5740",
+            "section": "001",
+            "courseTitle": "Mathematical Modeling"
+        },
+        {
+            "catalogTitle": "MATH 5750",
+            "section": "001",
+            "courseTitle": "Topics Appl Math"
+        },
+        {
+            "catalogTitle": "MATH 5910",
+            "section": "001",
+            "courseTitle": "Supervised Reading"
+        },
+        {
+            "catalogTitle": "MATH 5960",
+            "section": "001",
+            "courseTitle": "Undergrad Special Proj"
+        },
+        {
+            "catalogTitle": "MATH 6020",
+            "section": "001",
+            "courseTitle": "Multilinear Models"
+        },
+        {
+            "catalogTitle": "MATH 6040",
+            "section": "001",
+            "courseTitle": "Mathematical Probabilty"
+        },
+        {
+            "catalogTitle": "MATH 6070",
+            "section": "001",
+            "courseTitle": "Mathematical Statistics"
+        },
+        {
+            "catalogTitle": "MATH 6220",
+            "section": "001",
+            "courseTitle": "Complex Analysis"
+        },
+        {
+            "catalogTitle": "MATH 6320",
+            "section": "001",
+            "courseTitle": "Modern Algebra  II"
+        },
+        {
+            "catalogTitle": "MATH 6420",
+            "section": "001",
+            "courseTitle": "Partl Diffl Eqns"
+        },
+        {
+            "catalogTitle": "MATH 6520",
+            "section": "001",
+            "courseTitle": "Intro Alg Topology"
+        },
+        {
+            "catalogTitle": "MATH 6620",
+            "section": "001",
+            "courseTitle": "Analysis Num Mthds II"
+        },
+        {
+            "catalogTitle": "MATH 6720",
+            "section": "001",
+            "courseTitle": "Appl CV, Asymptc Mthds"
+        },
+        {
+            "catalogTitle": "MATH 6910",
+            "section": "001",
+            "courseTitle": "Supervised Reading"
+        },
+        {
+            "catalogTitle": "MATH 6960",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MATH 6960",
+            "section": "002",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MATH 6960",
+            "section": "003",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MATH 6960",
+            "section": "004",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MATH 6960",
+            "section": "005",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MATH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MATH 7250",
+            "section": "001",
+            "courseTitle": "Sev Cplx Vars II"
+        },
+        {
+            "catalogTitle": "MATH 7280",
+            "section": "001",
+            "courseTitle": "Operator Theory"
+        },
+        {
+            "catalogTitle": "MATH 7740",
+            "section": "001",
+            "courseTitle": "Nonlin Waves"
+        },
+        {
+            "catalogTitle": "MATH 7800",
+            "section": "001",
+            "courseTitle": "Topics-Alg Geometry"
+        },
+        {
+            "catalogTitle": "MATH 7853",
+            "section": "001",
+            "courseTitle": "Topics-Geom Topology"
+        },
+        {
+            "catalogTitle": "MATH 7885",
+            "section": "001",
+            "courseTitle": "Sem-Prob & Stat"
+        },
+        {
+            "catalogTitle": "MATH 7890",
+            "section": "001",
+            "courseTitle": "Topics-Repn Thy"
+        },
+        {
+            "catalogTitle": "MATH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MATH 7970",
+            "section": "056",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

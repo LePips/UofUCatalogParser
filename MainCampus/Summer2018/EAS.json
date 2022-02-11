@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EAS 160",
+            "section": "001",
+            "courseTitle": "Tch & Lrn Across Lang"
+        },
+        {
+            "catalogTitle": "EAS 1050",
+            "section": "002",
+            "courseTitle": "Composition For Nns"
+        },
+        {
+            "catalogTitle": "EAS 1060",
+            "section": "002",
+            "courseTitle": "Expository Wrtg for EAS"
+        },
+        {
+            "catalogTitle": "EAS 1600",
+            "section": "001",
+            "courseTitle": "Tch & Lrn Across Lang"
+        },
+        {
+            "catalogTitle": "EAS 3400",
+            "section": "001",
+            "courseTitle": "Arts around Globe"
+        },
+        {
+            "catalogTitle": "EAS 6150",
+            "section": "002",
+            "courseTitle": "Intro to Grad Writing 1"
+        },
+        {
+            "catalogTitle": "EAS 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTP 1210",
+            "section": "001",
+            "courseTitle": "Asian Civ: Traditions"
+        },
+        {
+            "catalogTitle": "ASTP 5001",
+            "section": "001",
+            "courseTitle": "Cur Res Asian Studies"
+        },
+        {
+            "catalogTitle": "ASTP 6900",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ASTP 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "ASTP 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "ASTP 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "ASTP 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

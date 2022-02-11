@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CECRT 101",
+            "section": "001",
+            "courseTitle": "Professional Management Cert"
+        },
+        {
+            "catalogTitle": "CECRT 103",
+            "section": "001",
+            "courseTitle": "Advanced HR Management Cert"
+        },
+        {
+            "catalogTitle": "CECRT 141",
+            "section": "001",
+            "courseTitle": "Financial Management Cert"
+        },
+        {
+            "catalogTitle": "CECRT 157",
+            "section": "001",
+            "courseTitle": "Human Resources Management Cer"
+        },
+        {
+            "catalogTitle": "CECRT 189",
+            "section": "001",
+            "courseTitle": "Professional TESOL Certificate"
+        },
+        {
+            "catalogTitle": "CECRT 195",
+            "section": "001",
+            "courseTitle": "Project Mgmt Fundamentals Cert"
+        },
+        {
+            "catalogTitle": "CECRT 219",
+            "section": "001",
+            "courseTitle": "Yoga Teacher Training Cert"
+        },
+        {
+            "catalogTitle": "CECRT 245",
+            "section": "001",
+            "courseTitle": "Supervisor Essentials Certific"
+        }
+    ]
+}

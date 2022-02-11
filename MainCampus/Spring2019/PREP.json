@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PREP 100",
+            "section": "006",
+            "courseTitle": "LSAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 100",
+            "section": "007",
+            "courseTitle": "LSAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "007",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 200",
+            "section": "008",
+            "courseTitle": "GMAT Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "007",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "008",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 300",
+            "section": "009",
+            "courseTitle": "GRE Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 500",
+            "section": "003",
+            "courseTitle": "TOEFL Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 500",
+            "section": "004",
+            "courseTitle": "TOEFL Prep Course"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "006",
+            "courseTitle": "Math Refresher"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "007",
+            "courseTitle": "Math Refresher"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "008",
+            "courseTitle": "Math Refresher"
+        },
+        {
+            "catalogTitle": "PREP 800",
+            "section": "009",
+            "courseTitle": "Math Refresher"
+        }
+    ]
+}

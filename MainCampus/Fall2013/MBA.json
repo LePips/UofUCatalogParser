@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBA 6000",
+            "section": "001",
+            "courseTitle": "Career Strategies"
+        },
+        {
+            "catalogTitle": "MBA 6001",
+            "section": "001",
+            "courseTitle": "Career Perspectives I"
+        },
+        {
+            "catalogTitle": "MBA 6002",
+            "section": "001",
+            "courseTitle": "Career Perspectives II"
+        },
+        {
+            "catalogTitle": "MBA 6800",
+            "section": "079",
+            "courseTitle": "Integratv Experience"
+        },
+        {
+            "catalogTitle": "MBA 6810",
+            "section": "001",
+            "courseTitle": "Stdnt Consult Initiativ"
+        },
+        {
+            "catalogTitle": "MBA 6900",
+            "section": "001",
+            "courseTitle": "Internship for Int'l Students"
+        },
+        {
+            "catalogTitle": "MBA 6950",
+            "section": "001",
+            "courseTitle": "MBA/ME Capstone"
+        }
+    ]
+}

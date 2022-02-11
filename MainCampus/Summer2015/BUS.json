@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BUS 105",
+            "section": "020",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "001",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "020",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 2900",
+            "section": "001",
+            "courseTitle": "Intro International Bus"
+        },
+        {
+            "catalogTitle": "BUS 3840",
+            "section": "001",
+            "courseTitle": "Geography of China"
+        },
+        {
+            "catalogTitle": "BUS 3920",
+            "section": "001",
+            "courseTitle": "Picturing Bus Practices in Gra"
+        },
+        {
+            "catalogTitle": "BUS 3940",
+            "section": "001",
+            "courseTitle": "India & Global. in Bus World"
+        },
+        {
+            "catalogTitle": "BUS 5880",
+            "section": "001",
+            "courseTitle": "Business Intern Program"
+        }
+    ]
+}

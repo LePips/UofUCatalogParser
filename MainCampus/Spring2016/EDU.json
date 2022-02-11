@@ -1,0 +1,209 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "001",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "002",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "EDU 5170",
+            "section": "001",
+            "courseTitle": "Sec Sci Methods"
+        },
+        {
+            "catalogTitle": "EDU 5195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5200",
+            "section": "001",
+            "courseTitle": "Teacher Language Aware"
+        },
+        {
+            "catalogTitle": "EDU 5300",
+            "section": "001",
+            "courseTitle": "Intg Art Curr Urban Sch"
+        },
+        {
+            "catalogTitle": "EDU 5316",
+            "section": "001",
+            "courseTitle": "RDG Pract K-3: Next"
+        },
+        {
+            "catalogTitle": "EDU 5321",
+            "section": "001",
+            "courseTitle": "RDG Pract 4-6: Higher"
+        },
+        {
+            "catalogTitle": "EDU 5375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 5375",
+            "section": "002",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 5391",
+            "section": "001",
+            "courseTitle": "Prof Dev Seminar"
+        },
+        {
+            "catalogTitle": "EDU 5391",
+            "section": "002",
+            "courseTitle": "Prof Dev Seminar"
+        },
+        {
+            "catalogTitle": "EDU 5391",
+            "section": "003",
+            "courseTitle": "Prof Dev Seminar"
+        },
+        {
+            "catalogTitle": "EDU 5395",
+            "section": "001",
+            "courseTitle": "Student Teaching: Elem"
+        },
+        {
+            "catalogTitle": "EDU 5395",
+            "section": "002",
+            "courseTitle": "Student Teaching: Elem"
+        },
+        {
+            "catalogTitle": "EDU 5395",
+            "section": "003",
+            "courseTitle": "Student Teaching: Elem"
+        },
+        {
+            "catalogTitle": "EDU 5491",
+            "section": "001",
+            "courseTitle": "Prof Dev & Teacher Res"
+        },
+        {
+            "catalogTitle": "EDU 5495",
+            "section": "003",
+            "courseTitle": "Student Teaching: Sec"
+        },
+        {
+            "catalogTitle": "EDU 5720",
+            "section": "001",
+            "courseTitle": "Child Dev Birth/Grade 6"
+        },
+        {
+            "catalogTitle": "EDU 5721",
+            "section": "001",
+            "courseTitle": "Adolesc Dev Grades 7-12"
+        },
+        {
+            "catalogTitle": "EDU 5950",
+            "section": "001",
+            "courseTitle": "Ind Reading/Resrch R&L"
+        },
+        {
+            "catalogTitle": "EDU 5960",
+            "section": "001",
+            "courseTitle": "Field Practicum"
+        },
+        {
+            "catalogTitle": "EDU 6200",
+            "section": "001",
+            "courseTitle": "Teacher Language Aware"
+        },
+        {
+            "catalogTitle": "EDU 6316",
+            "section": "001",
+            "courseTitle": "RDG Pract K-3: Next"
+        },
+        {
+            "catalogTitle": "EDU 6321",
+            "section": "001",
+            "courseTitle": "RDG Pract 4-6: Higher"
+        },
+        {
+            "catalogTitle": "EDU 6375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 6375",
+            "section": "002",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 6391",
+            "section": "001",
+            "courseTitle": "Prof Dev Seminar"
+        },
+        {
+            "catalogTitle": "EDU 6391",
+            "section": "002",
+            "courseTitle": "Prof Dev Seminar"
+        },
+        {
+            "catalogTitle": "EDU 6391",
+            "section": "003",
+            "courseTitle": "Prof Dev Seminar"
+        },
+        {
+            "catalogTitle": "EDU 6395",
+            "section": "001",
+            "courseTitle": "Student Teaching: Elem"
+        },
+        {
+            "catalogTitle": "EDU 6395",
+            "section": "002",
+            "courseTitle": "Student Teaching: Elem"
+        },
+        {
+            "catalogTitle": "EDU 6395",
+            "section": "003",
+            "courseTitle": "Student Teaching: Elem"
+        },
+        {
+            "catalogTitle": "EDU 6491",
+            "section": "001",
+            "courseTitle": "Prof Dev & Teacher Res"
+        },
+        {
+            "catalogTitle": "EDU 6491",
+            "section": "003",
+            "courseTitle": "Prof Development & Teacher Res"
+        },
+        {
+            "catalogTitle": "EDU 6495",
+            "section": "001",
+            "courseTitle": "Student Teaching: Sec"
+        },
+        {
+            "catalogTitle": "EDU 6495",
+            "section": "003",
+            "courseTitle": "Student Teaching: Sec"
+        },
+        {
+            "catalogTitle": "EDU 6720",
+            "section": "001",
+            "courseTitle": "Child Dev Birth/Grade 6"
+        },
+        {
+            "catalogTitle": "EDU 6721",
+            "section": "001",
+            "courseTitle": "Adolesc Dev Grades 7-12"
+        },
+        {
+            "catalogTitle": "EDU 6950",
+            "section": "001",
+            "courseTitle": "Dual Language Immersion"
+        }
+    ]
+}

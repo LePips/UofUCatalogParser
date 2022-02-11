@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CH EN 2300",
+            "section": "001",
+            "courseTitle": "Thermodynamics I"
+        },
+        {
+            "catalogTitle": "CH EN 2800",
+            "section": "001",
+            "courseTitle": "Fund Of Process Engg"
+        },
+        {
+            "catalogTitle": "CH EN 4973",
+            "section": "002",
+            "courseTitle": "Undergrad Thesis"
+        },
+        {
+            "catalogTitle": "CH EN 4977",
+            "section": "001",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "CH EN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "CH EN 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CH EN 5960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "CH EN 5960",
+            "section": "002",
+            "courseTitle": "Polymer Processing & Charac"
+        },
+        {
+            "catalogTitle": "CH EN 6253",
+            "section": "001",
+            "courseTitle": "Advanced Design"
+        },
+        {
+            "catalogTitle": "CH EN 6253",
+            "section": "002",
+            "courseTitle": "Advanced Design"
+        },
+        {
+            "catalogTitle": "CH EN 6853",
+            "section": "001",
+            "courseTitle": "Thermodynamics"
+        },
+        {
+            "catalogTitle": "CH EN 6973",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CH EN 6973",
+            "section": "013",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CH EN 7973",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        }
+    ]
+}

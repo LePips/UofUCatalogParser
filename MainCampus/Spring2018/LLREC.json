@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 663",
+            "section": "001",
+            "courseTitle": "Bike Repair I"
+        },
+        {
+            "catalogTitle": "LLREC 718",
+            "section": "001",
+            "courseTitle": "Animal Tracking"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "001",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "002",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "002",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 903",
+            "section": "001",
+            "courseTitle": "Bikepacking"
+        },
+        {
+            "catalogTitle": "LLREC 905",
+            "section": "001",
+            "courseTitle": "Beginning/Intermediate Squash"
+        },
+        {
+            "catalogTitle": "LLREC 909",
+            "section": "001",
+            "courseTitle": "Winter Hiking"
+        },
+        {
+            "catalogTitle": "LLREC 910",
+            "section": "001",
+            "courseTitle": "Snowshoe by Moonlight"
+        }
+    ]
+}

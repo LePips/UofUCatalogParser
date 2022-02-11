@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 1010",
+            "section": "301",
+            "courseTitle": "Soc Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 3000",
+            "section": "301",
+            "courseTitle": "Applied SW Statistics"
+        },
+        {
+            "catalogTitle": "SW 3201",
+            "section": "301",
+            "courseTitle": "Comm in Helping Process"
+        },
+        {
+            "catalogTitle": "SW 3715",
+            "section": "301",
+            "courseTitle": "A&D Dyn of Addic I"
+        },
+        {
+            "catalogTitle": "SW 3804",
+            "section": "301",
+            "courseTitle": "Grief, Death & Dying"
+        }
+    ]
+}

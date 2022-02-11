@@ -1,0 +1,264 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SOC 101",
+            "section": "090",
+            "courseTitle": "Introduction to Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "001",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1010",
+            "section": "090",
+            "courseTitle": "Intro To Sociology"
+        },
+        {
+            "catalogTitle": "SOC 1020",
+            "section": "090",
+            "courseTitle": "Social Problems"
+        },
+        {
+            "catalogTitle": "SOC 3020",
+            "section": "090",
+            "courseTitle": "Social Psychology"
+        },
+        {
+            "catalogTitle": "SOC 3051",
+            "section": "060",
+            "courseTitle": "Digital Society"
+        },
+        {
+            "catalogTitle": "SOC 3111",
+            "section": "001",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "001",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3112",
+            "section": "090",
+            "courseTitle": "Social Statistics"
+        },
+        {
+            "catalogTitle": "SOC 3140",
+            "section": "090",
+            "courseTitle": "Social Theory"
+        },
+        {
+            "catalogTitle": "SOC 3334",
+            "section": "090",
+            "courseTitle": "Class Race & Amer Dream"
+        },
+        {
+            "catalogTitle": "SOC 3337",
+            "section": "001",
+            "courseTitle": "Gender & Sexuality"
+        },
+        {
+            "catalogTitle": "SOC 3380",
+            "section": "090",
+            "courseTitle": "Social Inequality"
+        },
+        {
+            "catalogTitle": "SOC 3393",
+            "section": "001",
+            "courseTitle": "Diversity Internship"
+        },
+        {
+            "catalogTitle": "SOC 3440",
+            "section": "090",
+            "courseTitle": "Sociology of Religion"
+        },
+        {
+            "catalogTitle": "SOC 3480",
+            "section": "001",
+            "courseTitle": "Environmental Sociology"
+        },
+        {
+            "catalogTitle": "SOC 3480",
+            "section": "002",
+            "courseTitle": "Environmental Sociology"
+        },
+        {
+            "catalogTitle": "SOC 3561",
+            "section": "001",
+            "courseTitle": "Criminology"
+        },
+        {
+            "catalogTitle": "SOC 3562",
+            "section": "090",
+            "courseTitle": "Juvenile Delinquency"
+        },
+        {
+            "catalogTitle": "SOC 3563",
+            "section": "090",
+            "courseTitle": "Good Cop, Bad Cop"
+        },
+        {
+            "catalogTitle": "SOC 3566",
+            "section": "090",
+            "courseTitle": "Society & the Crim Mind"
+        },
+        {
+            "catalogTitle": "SOC 3569",
+            "section": "090",
+            "courseTitle": "Terrorism, Violence, Aggr"
+        },
+        {
+            "catalogTitle": "SOC 3593",
+            "section": "001",
+            "courseTitle": "Criminology Internship"
+        },
+        {
+            "catalogTitle": "SOC 3650",
+            "section": "001",
+            "courseTitle": "Population & Society"
+        },
+        {
+            "catalogTitle": "SOC 3673",
+            "section": "001",
+            "courseTitle": "Social Epidemiology"
+        },
+        {
+            "catalogTitle": "SOC 3769",
+            "section": "090",
+            "courseTitle": "Disparities in Health"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "002",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "003",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "004",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "005",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "006",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "007",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3950",
+            "section": "008",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 3951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SOC 3952",
+            "section": "001",
+            "courseTitle": "Individual Internships"
+        },
+        {
+            "catalogTitle": "SOC 3952",
+            "section": "003",
+            "courseTitle": "Individual Internships"
+        },
+        {
+            "catalogTitle": "SOC 3952",
+            "section": "004",
+            "courseTitle": "Individual Internships"
+        },
+        {
+            "catalogTitle": "SOC 4085",
+            "section": "090",
+            "courseTitle": "Cities and Communities"
+        },
+        {
+            "catalogTitle": "SOC 4693",
+            "section": "001",
+            "courseTitle": "Teaching Experience"
+        },
+        {
+            "catalogTitle": "SOC 4877",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "SOC 5440",
+            "section": "090",
+            "courseTitle": "Sociology of Religion"
+        },
+        {
+            "catalogTitle": "SOC 6940",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "SOC 6950",
+            "section": "001",
+            "courseTitle": "Research Project"
+        },
+        {
+            "catalogTitle": "SOC 6951",
+            "section": "001",
+            "courseTitle": "Dir Reading-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6977",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "SOC 6988",
+            "section": "001",
+            "courseTitle": "Fac Consult-Masters"
+        },
+        {
+            "catalogTitle": "SOC 7950",
+            "section": "001",
+            "courseTitle": "Dissertation Pro Dev"
+        },
+        {
+            "catalogTitle": "SOC 7951",
+            "section": "001",
+            "courseTitle": "Directed Reading-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7977",
+            "section": "001",
+            "courseTitle": "Dissertation Res-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7988",
+            "section": "001",
+            "courseTitle": "Fac Consultation-PhD"
+        },
+        {
+            "catalogTitle": "SOC 7999",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

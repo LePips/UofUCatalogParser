@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NAHTL 101",
+            "section": "001",
+            "courseTitle": "Beg. NAHTL I"
+        },
+        {
+            "catalogTitle": "NAHTL 201",
+            "section": "001",
+            "courseTitle": "Intrm. NAHTL I"
+        },
+        {
+            "catalogTitle": "NAHTL 1010",
+            "section": "001",
+            "courseTitle": "Beg. NAHTL I"
+        },
+        {
+            "catalogTitle": "NAHTL 2010",
+            "section": "001",
+            "courseTitle": "Intrm. NAHTL I"
+        },
+        {
+            "catalogTitle": "NAHTL 3010",
+            "section": "001",
+            "courseTitle": "Third Yr NAHTL I"
+        },
+        {
+            "catalogTitle": "NAHTL 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

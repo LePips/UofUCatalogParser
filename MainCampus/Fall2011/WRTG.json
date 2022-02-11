@@ -1,0 +1,804 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "WRTG 110",
+            "section": "060",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 210",
+            "section": "083",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 210",
+            "section": "084",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 210",
+            "section": "085",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1003",
+            "section": "001",
+            "courseTitle": "Intro to Univ Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1003",
+            "section": "002",
+            "courseTitle": "Intro to Univ Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1003",
+            "section": "003",
+            "courseTitle": "Intro to Univ Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1003",
+            "section": "004",
+            "courseTitle": "Intro to Univ Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "001",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "002",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "003",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "004",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "005",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "006",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "007",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "008",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "009",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "010",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "011",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "012",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "013",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "014",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "015",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "016",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "060",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "061",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "002",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "003",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "004",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "005",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "006",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "007",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "008",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "009",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "010",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "011",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "012",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "013",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "014",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "015",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "016",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "017",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "018",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "019",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "020",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "021",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "022",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "023",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "024",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "025",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "026",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "027",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "028",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "029",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "030",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "031",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "032",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "033",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "034",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "035",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "036",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "037",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "038",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "039",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "040",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "041",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "042",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "043",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "044",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "045",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "047",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "048",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "049",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "050",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "051",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "052",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "054",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "055",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "056",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "057",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "058",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "059",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "060",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "061",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "062",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "063",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "064",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "065",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "066",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "067",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "068",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "069",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "070",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "071",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "072",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "073",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "074",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "075",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "076",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "080",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "081",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "083",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "084",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "085",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "086",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "090",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "091",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "092",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2020",
+            "section": "001",
+            "courseTitle": "Intro Professional Wrtg"
+        },
+        {
+            "catalogTitle": "WRTG 3011",
+            "section": "001",
+            "courseTitle": "Arts and Humanities"
+        },
+        {
+            "catalogTitle": "WRTG 3011",
+            "section": "090",
+            "courseTitle": "Arts and Humanities"
+        },
+        {
+            "catalogTitle": "WRTG 3012",
+            "section": "001",
+            "courseTitle": "Social Sciences"
+        },
+        {
+            "catalogTitle": "WRTG 3012",
+            "section": "002",
+            "courseTitle": "Social Sciences"
+        },
+        {
+            "catalogTitle": "WRTG 3012",
+            "section": "090",
+            "courseTitle": "Social Sciences"
+        },
+        {
+            "catalogTitle": "WRTG 3014",
+            "section": "001",
+            "courseTitle": "Scientific Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3014",
+            "section": "002",
+            "courseTitle": "Scientific Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3014",
+            "section": "090",
+            "courseTitle": "Scientific Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "001",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "002",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "003",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "004",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "005",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "006",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "090",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "091",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "092",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3015",
+            "section": "093",
+            "courseTitle": "Professional Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "001",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "002",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "003",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "004",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "005",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "006",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "007",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "008",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "060",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "070",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3016",
+            "section": "071",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3040",
+            "section": "001",
+            "courseTitle": "Digital Storytelling"
+        },
+        {
+            "catalogTitle": "WRTG 3510",
+            "section": "001",
+            "courseTitle": "Grammar and Stylistics"
+        },
+        {
+            "catalogTitle": "WRTG 3860",
+            "section": "001",
+            "courseTitle": "Intro to Rhetoric"
+        },
+        {
+            "catalogTitle": "WRTG 4020",
+            "section": "002",
+            "courseTitle": "Writing Cntr Colloquim"
+        },
+        {
+            "catalogTitle": "WRTG 4030",
+            "section": "001",
+            "courseTitle": "Visual Rhetoric"
+        },
+        {
+            "catalogTitle": "WRTG 4080",
+            "section": "001",
+            "courseTitle": "Environmental Writing"
+        },
+        {
+            "catalogTitle": "WRTG 4830",
+            "section": "001",
+            "courseTitle": "Doc Design & Usability"
+        },
+        {
+            "catalogTitle": "WRTG 4910",
+            "section": "001",
+            "courseTitle": "Independent Readings"
+        },
+        {
+            "catalogTitle": "WRTG 6000",
+            "section": "001",
+            "courseTitle": "Writing For Publication"
+        },
+        {
+            "catalogTitle": "WRTG 6000",
+            "section": "002",
+            "courseTitle": "Writing For Publication"
+        },
+        {
+            "catalogTitle": "WRTG 6020",
+            "section": "001",
+            "courseTitle": "Resp. to Student Wrtg."
+        },
+        {
+            "catalogTitle": "WRTG 6040",
+            "section": "001",
+            "courseTitle": "Wrtg Electronic Media"
+        },
+        {
+            "catalogTitle": "WRTG 7000",
+            "section": "001",
+            "courseTitle": "Dissertation Writing"
+        },
+        {
+            "catalogTitle": "WRTG 7060",
+            "section": "001",
+            "courseTitle": "Scientific Writing"
+        },
+        {
+            "catalogTitle": "WRTG 7080",
+            "section": "090",
+            "courseTitle": "Wrtg Health Sciences"
+        },
+        {
+            "catalogTitle": "WRTG 7760",
+            "section": "001",
+            "courseTitle": "Sem-Rhet/Comp/Discourse"
+        },
+        {
+            "catalogTitle": "WRTG 7830",
+            "section": "001",
+            "courseTitle": "Colloquium: Wrtg 1010"
+        },
+        {
+            "catalogTitle": "WRTG 7840",
+            "section": "001",
+            "courseTitle": "Colloquium: Wrtg 2010"
+        },
+        {
+            "catalogTitle": "WRTG 7860",
+            "section": "001",
+            "courseTitle": "Colloquium: 3014"
+        },
+        {
+            "catalogTitle": "WRTG 7910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "WRTG 7910",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

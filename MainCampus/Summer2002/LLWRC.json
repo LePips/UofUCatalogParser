@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 752",
+            "section": "001",
+            "courseTitle": "Get Startd:Creatve Wrtg"
+        },
+        {
+            "catalogTitle": "LLWRC 752",
+            "section": "002",
+            "courseTitle": "Creative Wtg Workshop"
+        },
+        {
+            "catalogTitle": "LLWRC 756",
+            "section": "001",
+            "courseTitle": "Children's Literature"
+        },
+        {
+            "catalogTitle": "LLWRC 759",
+            "section": "001",
+            "courseTitle": "Fiction Fundamentals"
+        },
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction"
+        },
+        {
+            "catalogTitle": "LLWRC 762",
+            "section": "001",
+            "courseTitle": "Horror, Fantasy, Sci-Fi"
+        }
+    ]
+}

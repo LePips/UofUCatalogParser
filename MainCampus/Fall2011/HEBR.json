@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 101",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 201",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 1010",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 7300",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

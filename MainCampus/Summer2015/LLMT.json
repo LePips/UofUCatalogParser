@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improv Comedy Acting"
+        },
+        {
+            "catalogTitle": "LLMT 415",
+            "section": "001",
+            "courseTitle": "African Drumming"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "002",
+            "courseTitle": "Beginning Ukulele"
+        }
+    ]
+}

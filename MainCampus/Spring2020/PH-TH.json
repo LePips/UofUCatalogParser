@@ -1,3 +1,159 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "PH TH 101",
+            "section": "090",
+            "courseTitle": "Foundations of PT"
+        },
+        {
+            "catalogTitle": "PH TH 1010",
+            "section": "090",
+            "courseTitle": "Foundations of PT"
+        },
+        {
+            "catalogTitle": "PH TH 6140",
+            "section": "001",
+            "courseTitle": "Imaging for PT"
+        },
+        {
+            "catalogTitle": "PH TH 6820",
+            "section": "001",
+            "courseTitle": "ICE II"
+        },
+        {
+            "catalogTitle": "PH TH 6830",
+            "section": "001",
+            "courseTitle": "ICE III"
+        },
+        {
+            "catalogTitle": "PH TH 6850",
+            "section": "001",
+            "courseTitle": "ICE IV"
+        },
+        {
+            "catalogTitle": "PH TH 7050",
+            "section": "001",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 7050",
+            "section": "002",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 7050",
+            "section": "003",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 7050",
+            "section": "004",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 7100",
+            "section": "001",
+            "courseTitle": "Teach & Learn in PT"
+        },
+        {
+            "catalogTitle": "PH TH 7110",
+            "section": "001",
+            "courseTitle": "Physical Agents"
+        },
+        {
+            "catalogTitle": "PH TH 7240",
+            "section": "001",
+            "courseTitle": "Musculoskeletal Mgmt"
+        },
+        {
+            "catalogTitle": "PH TH 7240",
+            "section": "002",
+            "courseTitle": "Musculoskeletal Mgmt"
+        },
+        {
+            "catalogTitle": "PH TH 7250",
+            "section": "001",
+            "courseTitle": "Mgmt in Pediatrics"
+        },
+        {
+            "catalogTitle": "PH TH 7290",
+            "section": "001",
+            "courseTitle": "Cardiopulmonary Mgmt"
+        },
+        {
+            "catalogTitle": "PH TH 7290",
+            "section": "002",
+            "courseTitle": "Cardiopulmonary Mgmt"
+        },
+        {
+            "catalogTitle": "PH TH 7290",
+            "section": "003",
+            "courseTitle": "Cardiopulmonary Mgmt"
+        },
+        {
+            "catalogTitle": "PH TH 7310",
+            "section": "001",
+            "courseTitle": "Administration in PT"
+        },
+        {
+            "catalogTitle": "PH TH 7330",
+            "section": "001",
+            "courseTitle": "PT Topics II"
+        },
+        {
+            "catalogTitle": "PH TH 7860",
+            "section": "001",
+            "courseTitle": "Clinical Internship III"
+        },
+        {
+            "catalogTitle": "PH TH 7880",
+            "section": "001",
+            "courseTitle": "Terminal FTCE IV"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "001",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "002",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "003",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "010",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "014",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7960",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PH TH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PH TH 7980",
+            "section": "006",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
 }

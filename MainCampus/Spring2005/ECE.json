@@ -1,0 +1,484 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 1000",
+            "section": "001",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 1000",
+            "section": "002",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 1000",
+            "section": "003",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 1000",
+            "section": "004",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 1000",
+            "section": "005",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 1000",
+            "section": "006",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "001",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "002",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "003",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "004",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "005",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "006",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "001",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "002",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "003",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "004",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "005",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 1060",
+            "section": "001",
+            "courseTitle": "El/CP En for Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 1060",
+            "section": "002",
+            "courseTitle": "El/CP En for Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 1060",
+            "section": "003",
+            "courseTitle": "El/CP En for Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2100",
+            "section": "001",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2100",
+            "section": "002",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2100",
+            "section": "003",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2100",
+            "section": "004",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2100",
+            "section": "005",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "001",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "002",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "003",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "004",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "005",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "006",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3530",
+            "section": "001",
+            "courseTitle": "Eng Prob Stats"
+        },
+        {
+            "catalogTitle": "ECE 3700",
+            "section": "001",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "ECE 3720",
+            "section": "001",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 3720",
+            "section": "002",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 3720",
+            "section": "003",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 3720",
+            "section": "004",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 3720",
+            "section": "005",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 3720",
+            "section": "006",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 3810",
+            "section": "001",
+            "courseTitle": "Computer Architecture"
+        },
+        {
+            "catalogTitle": "ECE 3910",
+            "section": "001",
+            "courseTitle": "Prethesis"
+        },
+        {
+            "catalogTitle": "ECE 3961",
+            "section": "001",
+            "courseTitle": "The Business of Engineering II"
+        },
+        {
+            "catalogTitle": "ECE 3992",
+            "section": "001",
+            "courseTitle": "Pre-Thesis/Pre-Project"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "001",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "002",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "003",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "004",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "005",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "006",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "007",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "008",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "009",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "010",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4990",
+            "section": "079",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "ECE 4992",
+            "section": "001",
+            "courseTitle": "CE Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 5202",
+            "section": "001",
+            "courseTitle": "Semicond Device Phys II"
+        },
+        {
+            "catalogTitle": "ECE 5212",
+            "section": "001",
+            "courseTitle": "Semicond Dev Phys Lab II"
+        },
+        {
+            "catalogTitle": "ECE 5221",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 5321",
+            "section": "001",
+            "courseTitle": "Microwave Eng II"
+        },
+        {
+            "catalogTitle": "ECE 5321",
+            "section": "002",
+            "courseTitle": "Microwave Eng II"
+        },
+        {
+            "catalogTitle": "ECE 5324",
+            "section": "001",
+            "courseTitle": "Antenna Theory & Des"
+        },
+        {
+            "catalogTitle": "ECE 5325",
+            "section": "001",
+            "courseTitle": "Wireless Communication"
+        },
+        {
+            "catalogTitle": "ECE 5330",
+            "section": "001",
+            "courseTitle": "Microwave Tubes/El Dev"
+        },
+        {
+            "catalogTitle": "ECE 5411",
+            "section": "001",
+            "courseTitle": "Fiberoptic Systems"
+        },
+        {
+            "catalogTitle": "ECE 5520",
+            "section": "001",
+            "courseTitle": "Digital Comm Systems"
+        },
+        {
+            "catalogTitle": "ECE 5720",
+            "section": "001",
+            "courseTitle": "Analog IC Design"
+        },
+        {
+            "catalogTitle": "ECE 5830",
+            "section": "001",
+            "courseTitle": "VLSI Architecture"
+        },
+        {
+            "catalogTitle": "ECE 6221",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 6261",
+            "section": "001",
+            "courseTitle": "Phys Theory Semicon Dev"
+        },
+        {
+            "catalogTitle": "ECE 6550",
+            "section": "001",
+            "courseTitle": "Adaptive Filters"
+        },
+        {
+            "catalogTitle": "ECE 6561",
+            "section": "001",
+            "courseTitle": "Robust Multivariable Control"
+        },
+        {
+            "catalogTitle": "ECE 6580",
+            "section": "001",
+            "courseTitle": "Implemen Of DSP Sys"
+        },
+        {
+            "catalogTitle": "ECE 6580",
+            "section": "002",
+            "courseTitle": "Implemen Of DSP Sys"
+        },
+        {
+            "catalogTitle": "ECE 6580",
+            "section": "003",
+            "courseTitle": "Implemen Of DSP Sys"
+        },
+        {
+            "catalogTitle": "ECE 6720",
+            "section": "001",
+            "courseTitle": "Analog IC Design"
+        },
+        {
+            "catalogTitle": "ECE 6721",
+            "section": "002",
+            "courseTitle": "Analog IC Lab"
+        },
+        {
+            "catalogTitle": "ECE 6830",
+            "section": "001",
+            "courseTitle": "VLSI Architecture"
+        },
+        {
+            "catalogTitle": "ECE 6910",
+            "section": "001",
+            "courseTitle": "Graduate Sem"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "001",
+            "courseTitle": "Des & Simul of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "002",
+            "courseTitle": "Des & Simul of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "003",
+            "courseTitle": "Des & Simul of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "004",
+            "courseTitle": "Des & Simul of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "005",
+            "courseTitle": "Des & Simul of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "006",
+            "courseTitle": "Des & Simul of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "007",
+            "courseTitle": "Des & Simul of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6961",
+            "section": "001",
+            "courseTitle": "Software Radio"
+        },
+        {
+            "catalogTitle": "ECE 6962",
+            "section": "001",
+            "courseTitle": "Advanced Topics in Communicati"
+        },
+        {
+            "catalogTitle": "ECE 6962",
+            "section": "002",
+            "courseTitle": "Heterogeneous Microsystems Tec"
+        },
+        {
+            "catalogTitle": "ECE 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ECE 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECE 7310",
+            "section": "001",
+            "courseTitle": "Adv Magnetic Reson Imag"
+        },
+        {
+            "catalogTitle": "ECE 7910",
+            "section": "001",
+            "courseTitle": "Graduate Seminar IV"
+        },
+        {
+            "catalogTitle": "ECE 7960",
+            "section": "001",
+            "courseTitle": "Ultrafast Optics"
+        },
+        {
+            "catalogTitle": "ECE 7960",
+            "section": "002",
+            "courseTitle": "Des & Simul of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

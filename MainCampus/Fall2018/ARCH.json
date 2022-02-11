@@ -1,0 +1,239 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 1615",
+            "section": "001",
+            "courseTitle": "Intro To Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 1630",
+            "section": "001",
+            "courseTitle": "Architectural Graphics"
+        },
+        {
+            "catalogTitle": "ARCH 1630",
+            "section": "002",
+            "courseTitle": "Architectural Graphics"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "001",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "002",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "003",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "004",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "005",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "006",
+            "courseTitle": "Dsgn Fndtns Wkshp"
+        },
+        {
+            "catalogTitle": "ARCH 2632",
+            "section": "002",
+            "courseTitle": "Adv Arch Des Work"
+        },
+        {
+            "catalogTitle": "ARCH 2632",
+            "section": "003",
+            "courseTitle": "Adv Arch Des Work"
+        },
+        {
+            "catalogTitle": "ARCH 3010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio I"
+        },
+        {
+            "catalogTitle": "ARCH 3010",
+            "section": "002",
+            "courseTitle": "Arch'l Studio I"
+        },
+        {
+            "catalogTitle": "ARCH 3010",
+            "section": "003",
+            "courseTitle": "Arch'l Studio I"
+        },
+        {
+            "catalogTitle": "ARCH 3050",
+            "section": "001",
+            "courseTitle": "Architect'l Comm I"
+        },
+        {
+            "catalogTitle": "ARCH 3210",
+            "section": "002",
+            "courseTitle": "Surv-World Architctr I"
+        },
+        {
+            "catalogTitle": "ARCH 3216",
+            "section": "002",
+            "courseTitle": "Crit Concepts in Design"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "002",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "003",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 4270",
+            "section": "002",
+            "courseTitle": "Arch'l Theory"
+        },
+        {
+            "catalogTitle": "ARCH 4311",
+            "section": "001",
+            "courseTitle": "Arch'l Structures II"
+        },
+        {
+            "catalogTitle": "ARCH 4350",
+            "section": "001",
+            "courseTitle": "Environ Controls"
+        },
+        {
+            "catalogTitle": "ARCH 4955",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ARCH 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "ARCH 6010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IIIG"
+        },
+        {
+            "catalogTitle": "ARCH 6014",
+            "section": "001",
+            "courseTitle": "Grad Std: Design Meth"
+        },
+        {
+            "catalogTitle": "ARCH 6014",
+            "section": "002",
+            "courseTitle": "Grad Std: Design Meth"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "003",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6043",
+            "section": "003",
+            "courseTitle": "Analog Graphics"
+        },
+        {
+            "catalogTitle": "ARCH 6046",
+            "section": "003",
+            "courseTitle": "Applied Arch Comm"
+        },
+        {
+            "catalogTitle": "ARCH 6120",
+            "section": "001",
+            "courseTitle": "Arch'l Photog Bldg"
+        },
+        {
+            "catalogTitle": "ARCH 6210",
+            "section": "002",
+            "courseTitle": "Surv World Arch IG"
+        },
+        {
+            "catalogTitle": "ARCH 6275",
+            "section": "001",
+            "courseTitle": "Intro to Arch'l Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6301",
+            "section": "001",
+            "courseTitle": "Adv Struct Material"
+        },
+        {
+            "catalogTitle": "ARCH 6311",
+            "section": "001",
+            "courseTitle": "Arch'L Structures IIG"
+        },
+        {
+            "catalogTitle": "ARCH 6373",
+            "section": "001",
+            "courseTitle": "Adv Tech: DB Const"
+        },
+        {
+            "catalogTitle": "ARCH 6500",
+            "section": "001",
+            "courseTitle": "Pres. Theory & Practice"
+        },
+        {
+            "catalogTitle": "ARCH 6612",
+            "section": "001",
+            "courseTitle": "Comprehens Bldg Tech I"
+        },
+        {
+            "catalogTitle": "ARCH 6700",
+            "section": "001",
+            "courseTitle": "Arch'l Prof Prac"
+        },
+        {
+            "catalogTitle": "ARCH 6760",
+            "section": "002",
+            "courseTitle": "Arch'l Internship"
+        },
+        {
+            "catalogTitle": "ARCH 6760",
+            "section": "003",
+            "courseTitle": "Arch'l Internship"
+        },
+        {
+            "catalogTitle": "ARCH 6815",
+            "section": "002",
+            "courseTitle": "Research Methods"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "002",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6975",
+            "section": "001",
+            "courseTitle": "M.S. Project"
+        }
+    ]
+}

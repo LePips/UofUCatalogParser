@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "090",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "090",
+            "courseTitle": "Intro: Survey of Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1001",
+            "section": "090",
+            "courseTitle": "Intro: Ethical Dilemmas"
+        },
+        {
+            "catalogTitle": "PHIL 1003",
+            "section": "090",
+            "courseTitle": "Intro: Human Nature"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "001",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "090",
+            "courseTitle": "World Religions"
+        }
+    ]
+}

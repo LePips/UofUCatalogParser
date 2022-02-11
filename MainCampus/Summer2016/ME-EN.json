@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ME EN 1300",
+            "section": "001",
+            "courseTitle": "Statics/Strength"
+        },
+        {
+            "catalogTitle": "ME EN 2020",
+            "section": "001",
+            "courseTitle": "Particle Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2080",
+            "section": "001",
+            "courseTitle": "Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2300",
+            "section": "001",
+            "courseTitle": "Thermodynamics I"
+        },
+        {
+            "catalogTitle": "ME EN 5040",
+            "section": "001",
+            "courseTitle": "Quality Assurance"
+        },
+        {
+            "catalogTitle": "ME EN 5510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "001",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "002",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "003",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "001",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "002",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "003",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 6040",
+            "section": "001",
+            "courseTitle": "Quality Assurance"
+        },
+        {
+            "catalogTitle": "ME EN 6510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "005",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "006",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 6981",
+            "section": "001",
+            "courseTitle": "Faculty Consult - CPT"
+        }
+    ]
+}

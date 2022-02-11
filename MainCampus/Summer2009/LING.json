@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 120",
+            "section": "001",
+            "courseTitle": "Intr Study Language"
+        },
+        {
+            "catalogTitle": "LING 350",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 360",
+            "section": "001",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 3200",
+            "section": "001",
+            "courseTitle": "Ling And Education"
+        },
+        {
+            "catalogTitle": "LING 3500",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "001",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 3950",
+            "section": "001",
+            "courseTitle": "Service Learning"
+        },
+        {
+            "catalogTitle": "LING 5042",
+            "section": "001",
+            "courseTitle": "Minority Lang Issues Ed"
+        },
+        {
+            "catalogTitle": "LING 5811",
+            "section": "001",
+            "courseTitle": "Educating ELLs"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "001",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "007",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

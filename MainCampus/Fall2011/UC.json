@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UC 1000",
+            "section": "001",
+            "courseTitle": "Mathemaphobia"
+        },
+        {
+            "catalogTitle": "UC 1010",
+            "section": "002",
+            "courseTitle": "A Successful Start at U"
+        },
+        {
+            "catalogTitle": "UC 1010",
+            "section": "003",
+            "courseTitle": "A Successful Start at U"
+        },
+        {
+            "catalogTitle": "UC 1010",
+            "section": "004",
+            "courseTitle": "A Successful Start at U"
+        },
+        {
+            "catalogTitle": "UC 1010",
+            "section": "005",
+            "courseTitle": "A Successful Start at U"
+        },
+        {
+            "catalogTitle": "UC 1010",
+            "section": "006",
+            "courseTitle": "A Successful Start at U"
+        },
+        {
+            "catalogTitle": "UC 1010",
+            "section": "007",
+            "courseTitle": "A Successful Start at U"
+        },
+        {
+            "catalogTitle": "UC 1020",
+            "section": "001",
+            "courseTitle": "Introduction to Premed"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "001",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "002",
+            "courseTitle": "Major Exploration"
+        },
+        {
+            "catalogTitle": "UC 1050",
+            "section": "003",
+            "courseTitle": "Major Exploration"
+        }
+    ]
+}

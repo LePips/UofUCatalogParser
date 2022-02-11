@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 3970",
+            "section": "001",
+            "courseTitle": "Perfecting Job Search"
+        },
+        {
+            "catalogTitle": "HUM 6102",
+            "section": "001",
+            "courseTitle": "Field Methods in EH"
+        },
+        {
+            "catalogTitle": "HUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "HUM 6804",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "001",
+            "courseTitle": "Conservation in a New Era"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "002",
+            "courseTitle": "Environmental Phil"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "003",
+            "courseTitle": "Adv Sem Comp Stds"
+        },
+        {
+            "catalogTitle": "HUM 6970",
+            "section": "001",
+            "courseTitle": "Thesis/Proj Rsrch: M.A."
+        }
+    ]
+}

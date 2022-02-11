@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESPR 7",
+            "section": "001",
+            "courseTitle": "Beginning Fencing Camp"
+        },
+        {
+            "catalogTitle": "YESPR 8",
+            "section": "001",
+            "courseTitle": "Fencing I/II"
+        },
+        {
+            "catalogTitle": "YESPR 10",
+            "section": "001",
+            "courseTitle": "Adult-Child Golf"
+        },
+        {
+            "catalogTitle": "YESPR 10",
+            "section": "002",
+            "courseTitle": "Adult-Child Golf"
+        },
+        {
+            "catalogTitle": "YESPR 20",
+            "section": "001",
+            "courseTitle": "Adult-Child Scuba"
+        },
+        {
+            "catalogTitle": "YESPR 20",
+            "section": "002",
+            "courseTitle": "Adult-Child Scuba"
+        },
+        {
+            "catalogTitle": "YESPR 36",
+            "section": "001",
+            "courseTitle": "Elem. Kayaking (Age 15+UP)"
+        }
+    ]
+}

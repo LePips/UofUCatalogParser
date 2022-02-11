@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MDCRC 621",
+            "section": "001",
+            "courseTitle": "Regression Models"
+        },
+        {
+            "catalogTitle": "MDCRC 642",
+            "section": "001",
+            "courseTitle": "Gene of Complex Disease"
+        },
+        {
+            "catalogTitle": "MDCRC 653",
+            "section": "001",
+            "courseTitle": "Animal Models"
+        },
+        {
+            "catalogTitle": "MDCRC 6210",
+            "section": "001",
+            "courseTitle": "Regression Models"
+        },
+        {
+            "catalogTitle": "MDCRC 6410",
+            "section": "001",
+            "courseTitle": "Seminar Series"
+        },
+        {
+            "catalogTitle": "MDCRC 6420",
+            "section": "001",
+            "courseTitle": "Gene of Complex Disease"
+        },
+        {
+            "catalogTitle": "MDCRC 6450",
+            "section": "001",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "MDCRC 6530",
+            "section": "001",
+            "courseTitle": "Animal Models"
+        },
+        {
+            "catalogTitle": "MDCRC 6970",
+            "section": "001",
+            "courseTitle": "Research Project"
+        }
+    ]
+}

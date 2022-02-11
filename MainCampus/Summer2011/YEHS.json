@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEHS 101",
+            "section": "001",
+            "courseTitle": "English (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 101",
+            "section": "002",
+            "courseTitle": "English (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 102",
+            "section": "001",
+            "courseTitle": "Creative Writing (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 106",
+            "section": "001",
+            "courseTitle": "College Essay (Age 15-18)"
+        },
+        {
+            "catalogTitle": "YEHS 201",
+            "section": "001",
+            "courseTitle": "Geometry (Grade 8-10)"
+        },
+        {
+            "catalogTitle": "YEHS 201",
+            "section": "002",
+            "courseTitle": "Geometry (Grade 8-10)"
+        },
+        {
+            "catalogTitle": "YEHS 202",
+            "section": "001",
+            "courseTitle": "Intermediate Algebra (8-12)"
+        },
+        {
+            "catalogTitle": "YEHS 202",
+            "section": "002",
+            "courseTitle": "Intermediate Algebra (8-12)"
+        },
+        {
+            "catalogTitle": "YEHS 203",
+            "section": "003",
+            "courseTitle": "Precalculus (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 203",
+            "section": "004",
+            "courseTitle": "Precalculus (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 204",
+            "section": "001",
+            "courseTitle": "Intro to Calculus (age 15-18)"
+        },
+        {
+            "catalogTitle": "YEHS 205",
+            "section": "001",
+            "courseTitle": "Intro to Physics (age 15-18)"
+        },
+        {
+            "catalogTitle": "YEHS 402",
+            "section": "001",
+            "courseTitle": "Chemistry (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 402",
+            "section": "002",
+            "courseTitle": "Chemistry (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 502",
+            "section": "001",
+            "courseTitle": "Spanish II (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 502",
+            "section": "002",
+            "courseTitle": "Spanish II (Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YEHS 708",
+            "section": "001",
+            "courseTitle": "Intensive SAT (age 14-18)"
+        },
+        {
+            "catalogTitle": "YEHS 710",
+            "section": "001",
+            "courseTitle": "SAT Test Prep (Age 14-18)"
+        },
+        {
+            "catalogTitle": "YEHS 715",
+            "section": "001",
+            "courseTitle": "Intensive ACT (age 14-18)"
+        },
+        {
+            "catalogTitle": "YEHS 720",
+            "section": "001",
+            "courseTitle": "ACT Prep Crse (Grade 10 & Up)"
+        },
+        {
+            "catalogTitle": "YEHS 720",
+            "section": "002",
+            "courseTitle": "ACT Prep Crse (Grade 10 & Up)"
+        },
+        {
+            "catalogTitle": "YEHS 730",
+            "section": "001",
+            "courseTitle": "Study/Test Skills (Age 13-15)"
+        },
+        {
+            "catalogTitle": "YEHS 730",
+            "section": "002",
+            "courseTitle": "Study/Test Skills (Age 13-15)"
+        },
+        {
+            "catalogTitle": "YEHS 730",
+            "section": "003",
+            "courseTitle": "Study/Test Skills (Age 13-15)"
+        }
+    ]
+}

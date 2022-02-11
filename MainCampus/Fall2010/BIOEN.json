@@ -1,0 +1,409 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "001",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "002",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "003",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "004",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "005",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1101",
+            "section": "006",
+            "courseTitle": "Funds Bioengineering I"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "095",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "096",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "097",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 1510",
+            "section": "098",
+            "courseTitle": "Science Without Walls"
+        },
+        {
+            "catalogTitle": "BIOEN 2000",
+            "section": "001",
+            "courseTitle": "Careers Biomed Eng"
+        },
+        {
+            "catalogTitle": "BIOEN 3070",
+            "section": "001",
+            "courseTitle": "Bioen Statistics"
+        },
+        {
+            "catalogTitle": "BIOEN 3091",
+            "section": "001",
+            "courseTitle": "Current Research in BME"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "001",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "002",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "003",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3202",
+            "section": "004",
+            "courseTitle": "Physiol for Engineers"
+        },
+        {
+            "catalogTitle": "BIOEN 3301",
+            "section": "001",
+            "courseTitle": "Bioen Comput Methods"
+        },
+        {
+            "catalogTitle": "BIOEN 4200",
+            "section": "001",
+            "courseTitle": "BIOEN Research"
+        },
+        {
+            "catalogTitle": "BIOEN 4201",
+            "section": "001",
+            "courseTitle": "Bioeng Project I"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "001",
+            "courseTitle": "BME Design II"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "002",
+            "courseTitle": "BME Design II"
+        },
+        {
+            "catalogTitle": "BIOEN 4801",
+            "section": "003",
+            "courseTitle": "BME Design II"
+        },
+        {
+            "catalogTitle": "BIOEN 4990",
+            "section": "001",
+            "courseTitle": "Internships & Co-ops"
+        },
+        {
+            "catalogTitle": "BIOEN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "BIOEN 5020",
+            "section": "001",
+            "courseTitle": "Intractve Science Exhib"
+        },
+        {
+            "catalogTitle": "BIOEN 5070",
+            "section": "001",
+            "courseTitle": "Bioen Statistics"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "001",
+            "courseTitle": "Bioinstrumentation"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "002",
+            "courseTitle": "Bioinstrumentation"
+        },
+        {
+            "catalogTitle": "BIOEN 5101",
+            "section": "003",
+            "courseTitle": "Bioinstrumentation"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "001",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "002",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5201",
+            "section": "003",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "BIOEN 5900",
+            "section": "002",
+            "courseTitle": "Scanning Electron Microscopy"
+        },
+        {
+            "catalogTitle": "BIOEN 5900",
+            "section": "003",
+            "courseTitle": "Microfluidic Chip Design & Fab"
+        },
+        {
+            "catalogTitle": "BIOEN 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6002",
+            "section": "001",
+            "courseTitle": "Molecular Biophysics"
+        },
+        {
+            "catalogTitle": "BIOEN 6003",
+            "section": "001",
+            "courseTitle": "Cellular Biophysics"
+        },
+        {
+            "catalogTitle": "BIOEN 6050",
+            "section": "001",
+            "courseTitle": "Cellular Physiol"
+        },
+        {
+            "catalogTitle": "BIOEN 6090",
+            "section": "001",
+            "courseTitle": "Department Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6202",
+            "section": "001",
+            "courseTitle": "Biomechanics Lecture"
+        },
+        {
+            "catalogTitle": "BIOEN 6480",
+            "section": "001",
+            "courseTitle": "Biomechanics Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6640",
+            "section": "001",
+            "courseTitle": "Image Processing"
+        },
+        {
+            "catalogTitle": "BIOEN 6760",
+            "section": "001",
+            "courseTitle": "Modeling Bio Networks"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "002",
+            "courseTitle": "Nanomedicine"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "003",
+            "courseTitle": "Microfluidic Chip Design"
+        },
+        {
+            "catalogTitle": "BIOEN 6900",
+            "section": "004",
+            "courseTitle": "Medical Imaging Seminar"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "011",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "012",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6910",
+            "section": "013",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOEN 6960",
+            "section": "001",
+            "courseTitle": "Research Project:  Me"
+        },
+        {
+            "catalogTitle": "BIOEN 6960",
+            "section": "007",
+            "courseTitle": "Research Project:  Me"
+        },
+        {
+            "catalogTitle": "BIOEN 6960",
+            "section": "008",
+            "courseTitle": "Research Project:  Me"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "038",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "042",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "043",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "058",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "059",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "060",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6970",
+            "section": "061",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "BIOEN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "017",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "018",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "027",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "033",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "077",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "078",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "079",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7970",
+            "section": "080",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIOEN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

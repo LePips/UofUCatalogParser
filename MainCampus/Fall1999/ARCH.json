@@ -1,0 +1,269 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 1610",
+            "section": "001",
+            "courseTitle": "Freshman Seminar  I"
+        },
+        {
+            "catalogTitle": "ARCH 1615",
+            "section": "001",
+            "courseTitle": "Intro To Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 1616",
+            "section": "001",
+            "courseTitle": "Service Learning Proj"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "001",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 3010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio I"
+        },
+        {
+            "catalogTitle": "ARCH 3050",
+            "section": "001",
+            "courseTitle": "Architect'l Comm I"
+        },
+        {
+            "catalogTitle": "ARCH 3210",
+            "section": "001",
+            "courseTitle": "Surv-World Architctr I"
+        },
+        {
+            "catalogTitle": "ARCH 3212",
+            "section": "001",
+            "courseTitle": "Surv-American Arch"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 4110",
+            "section": "001",
+            "courseTitle": "Determ Arch Design"
+        },
+        {
+            "catalogTitle": "ARCH 4310",
+            "section": "001",
+            "courseTitle": "Arch'l Structures I"
+        },
+        {
+            "catalogTitle": "ARCH 4350",
+            "section": "001",
+            "courseTitle": "Environm'l Controls I"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "003",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "004",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IIIG"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "001",
+            "courseTitle": "Studio: Comp Project"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "002",
+            "courseTitle": "Studio: Comp Project"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "003",
+            "courseTitle": "Studio: Comp Project"
+        },
+        {
+            "catalogTitle": "ARCH 6050",
+            "section": "001",
+            "courseTitle": "Visual Communication"
+        },
+        {
+            "catalogTitle": "ARCH 6052",
+            "section": "001",
+            "courseTitle": "Modeling I"
+        },
+        {
+            "catalogTitle": "ARCH 6054",
+            "section": "001",
+            "courseTitle": "Contract Documents"
+        },
+        {
+            "catalogTitle": "ARCH 6110",
+            "section": "001",
+            "courseTitle": "Determ Arch Design G"
+        },
+        {
+            "catalogTitle": "ARCH 6203",
+            "section": "001",
+            "courseTitle": "Precolumbian"
+        },
+        {
+            "catalogTitle": "ARCH 6205",
+            "section": "001",
+            "courseTitle": "Scandinavian Architectr"
+        },
+        {
+            "catalogTitle": "ARCH 6261",
+            "section": "001",
+            "courseTitle": "Contemporary Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6261",
+            "section": "002",
+            "courseTitle": "Contemporary Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6271",
+            "section": "001",
+            "courseTitle": "Contemporary  Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6271",
+            "section": "002",
+            "courseTitle": "Contemporary  Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6272",
+            "section": "001",
+            "courseTitle": "Representation Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6300",
+            "section": "001",
+            "courseTitle": "Select Issues, Struct"
+        },
+        {
+            "catalogTitle": "ARCH 6301",
+            "section": "001",
+            "courseTitle": "Adv Struct Material"
+        },
+        {
+            "catalogTitle": "ARCH 6301",
+            "section": "002",
+            "courseTitle": "Adv Struct Material"
+        },
+        {
+            "catalogTitle": "ARCH 6303",
+            "section": "001",
+            "courseTitle": "Adv Structural Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6310",
+            "section": "001",
+            "courseTitle": "Arch'L Structures IG"
+        },
+        {
+            "catalogTitle": "ARCH 6340",
+            "section": "001",
+            "courseTitle": "Adv  Lighting Design"
+        },
+        {
+            "catalogTitle": "ARCH 6350",
+            "section": "001",
+            "courseTitle": "Environm'L Controls IG"
+        },
+        {
+            "catalogTitle": "ARCH 6430",
+            "section": "001",
+            "courseTitle": "Computer Systems I"
+        },
+        {
+            "catalogTitle": "ARCH 6500",
+            "section": "001",
+            "courseTitle": "Preserv Hist/Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6520",
+            "section": "001",
+            "courseTitle": "The National Register"
+        },
+        {
+            "catalogTitle": "ARCH 6521",
+            "section": "001",
+            "courseTitle": "Preserv Research"
+        },
+        {
+            "catalogTitle": "ARCH 6580",
+            "section": "001",
+            "courseTitle": "Preserv Admin & Law"
+        },
+        {
+            "catalogTitle": "ARCH 6590",
+            "section": "001",
+            "courseTitle": "Internship-Preservation"
+        },
+        {
+            "catalogTitle": "ARCH 6700",
+            "section": "001",
+            "courseTitle": "Arch Pract-Phil I"
+        },
+        {
+            "catalogTitle": "ARCH 6720",
+            "section": "001",
+            "courseTitle": "Project Finance/Econmcs"
+        },
+        {
+            "catalogTitle": "ARCH 6770",
+            "section": "001",
+            "courseTitle": "Arch Service Intern"
+        },
+        {
+            "catalogTitle": "ARCH 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6970",
+            "section": "001",
+            "courseTitle": "M.Arch Project Prep"
+        },
+        {
+            "catalogTitle": "ARCH 6971",
+            "section": "001",
+            "courseTitle": "Master's Project"
+        },
+        {
+            "catalogTitle": "ARCH 6975",
+            "section": "001",
+            "courseTitle": "MS Proj Preparation"
+        },
+        {
+            "catalogTitle": "ARCH 6985",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

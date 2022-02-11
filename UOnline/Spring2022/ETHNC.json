@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ETHNC 2500",
+            "section": "290",
+            "courseTitle": "Intro To Ethnic Studies"
+        },
+        {
+            "catalogTitle": "ETHNC 2550",
+            "section": "290",
+            "courseTitle": "Africn Amer Experiences"
+        },
+        {
+            "catalogTitle": "ETHNC 2570",
+            "section": "290",
+            "courseTitle": "American Indian Exper"
+        },
+        {
+            "catalogTitle": "ETHNC 2580",
+            "section": "290",
+            "courseTitle": "Asian American Exp"
+        },
+        {
+            "catalogTitle": "ETHNC 2590",
+            "section": "290",
+            "courseTitle": "Pacific Islander Am Exp"
+        },
+        {
+            "catalogTitle": "ETHNC 3870",
+            "section": "290",
+            "courseTitle": "American Indian Women"
+        },
+        {
+            "catalogTitle": "ETHNC 5800",
+            "section": "290",
+            "courseTitle": "Justice & Inequality"
+        }
+    ]
+}

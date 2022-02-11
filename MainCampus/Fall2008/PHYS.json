@@ -1,0 +1,879 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHYS 1010",
+            "section": "001",
+            "courseTitle": "The Way Things Work"
+        },
+        {
+            "catalogTitle": "PHYS 1050",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "PHYS 1050",
+            "section": "002",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "PHYS 1060",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "PHYS 1080",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "PHYS 1090",
+            "section": "001",
+            "courseTitle": "Intro To Computing Tool"
+        },
+        {
+            "catalogTitle": "PHYS 1330",
+            "section": "001",
+            "courseTitle": "Physics Audio & Video"
+        },
+        {
+            "catalogTitle": "PHYS 1500",
+            "section": "001",
+            "courseTitle": "Prep for PHYC 2010/2210"
+        },
+        {
+            "catalogTitle": "PHYS 1809",
+            "section": "001",
+            "courseTitle": "General Physics Lab"
+        },
+        {
+            "catalogTitle": "PHYS 1970",
+            "section": "001",
+            "courseTitle": "Undergrad Seminar I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "001",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "002",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "003",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "004",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "005",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "006",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "007",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "008",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "009",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "010",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "011",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "012",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "013",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "014",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "015",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "016",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "017",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "018",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "019",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "020",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "021",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "022",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "001",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "002",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "003",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "004",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "005",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "006",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "007",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "008",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "009",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "010",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2015",
+            "section": "011",
+            "courseTitle": "General Physics Lab I"
+        },
+        {
+            "catalogTitle": "PHYS 2025",
+            "section": "001",
+            "courseTitle": "General  Physics Lab II"
+        },
+        {
+            "catalogTitle": "PHYS 2025",
+            "section": "002",
+            "courseTitle": "General  Physics Lab II"
+        },
+        {
+            "catalogTitle": "PHYS 2110",
+            "section": "001",
+            "courseTitle": "Gen Phycs with Calc I"
+        },
+        {
+            "catalogTitle": "PHYS 2110",
+            "section": "002",
+            "courseTitle": "Gen Phycs with Calc I"
+        },
+        {
+            "catalogTitle": "PHYS 2110",
+            "section": "003",
+            "courseTitle": "Gen Phycs with Calc I"
+        },
+        {
+            "catalogTitle": "PHYS 2110",
+            "section": "004",
+            "courseTitle": "Gen Phycs with Calc I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "001",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "003",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "004",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "005",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "006",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "007",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "008",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "009",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "010",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "011",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "012",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "014",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "015",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "016",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "017",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "018",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "028",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "029",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "030",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2210",
+            "section": "031",
+            "courseTitle": "Phycs For Scien. & Eng. I"
+        },
+        {
+            "catalogTitle": "PHYS 2215",
+            "section": "001",
+            "courseTitle": "Physics Lab I for S & E"
+        },
+        {
+            "catalogTitle": "PHYS 2215",
+            "section": "002",
+            "courseTitle": "Physics Lab I for S & E"
+        },
+        {
+            "catalogTitle": "PHYS 2215",
+            "section": "003",
+            "courseTitle": "Physics Lab I for S & E"
+        },
+        {
+            "catalogTitle": "PHYS 2215",
+            "section": "004",
+            "courseTitle": "Physics Lab I for S & E"
+        },
+        {
+            "catalogTitle": "PHYS 2215",
+            "section": "005",
+            "courseTitle": "Physics Lab I for S & E"
+        },
+        {
+            "catalogTitle": "PHYS 2215",
+            "section": "006",
+            "courseTitle": "Physics Lab I for S & E"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "001",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "002",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "003",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "004",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "005",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "006",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "007",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "010",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "012",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "013",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "014",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "015",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "016",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "017",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2225",
+            "section": "001",
+            "courseTitle": "Physics Lab II for S&E"
+        },
+        {
+            "catalogTitle": "PHYS 2225",
+            "section": "002",
+            "courseTitle": "Physics Lab II for S&E"
+        },
+        {
+            "catalogTitle": "PHYS 2225",
+            "section": "003",
+            "courseTitle": "Physics Lab II for S&E"
+        },
+        {
+            "catalogTitle": "PHYS 2225",
+            "section": "004",
+            "courseTitle": "Physics Lab II for S&E"
+        },
+        {
+            "catalogTitle": "PHYS 3060",
+            "section": "001",
+            "courseTitle": "Intro to Astrophysics"
+        },
+        {
+            "catalogTitle": "PHYS 3110",
+            "section": "001",
+            "courseTitle": "Physics of Human Body"
+        },
+        {
+            "catalogTitle": "PHYS 3111",
+            "section": "001",
+            "courseTitle": "Phys of Body II"
+        },
+        {
+            "catalogTitle": "PHYS 3150",
+            "section": "001",
+            "courseTitle": "Energy & Sustainability"
+        },
+        {
+            "catalogTitle": "PHYS 3220",
+            "section": "001",
+            "courseTitle": "Physics For Scientists II"
+        },
+        {
+            "catalogTitle": "PHYS 3375",
+            "section": "001",
+            "courseTitle": "Women in Physics"
+        },
+        {
+            "catalogTitle": "PHYS 3410",
+            "section": "001",
+            "courseTitle": "Mod Optcs I & II"
+        },
+        {
+            "catalogTitle": "PHYS 3410",
+            "section": "002",
+            "courseTitle": "Mod Optcs I & II"
+        },
+        {
+            "catalogTitle": "PHYS 3410",
+            "section": "003",
+            "courseTitle": "Mod Optcs I & II"
+        },
+        {
+            "catalogTitle": "PHYS 3410",
+            "section": "004",
+            "courseTitle": "Mod Optcs I & II"
+        },
+        {
+            "catalogTitle": "PHYS 3411",
+            "section": "001",
+            "courseTitle": "Mod Optics I"
+        },
+        {
+            "catalogTitle": "PHYS 3411",
+            "section": "002",
+            "courseTitle": "Mod Optics I"
+        },
+        {
+            "catalogTitle": "PHYS 3411",
+            "section": "003",
+            "courseTitle": "Mod Optics I"
+        },
+        {
+            "catalogTitle": "PHYS 3610",
+            "section": "001",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 3610",
+            "section": "002",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 3610",
+            "section": "003",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 3610",
+            "section": "004",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 3610",
+            "section": "005",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "001",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "002",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "003",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "004",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "005",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3729",
+            "section": "001",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3730",
+            "section": "001",
+            "courseTitle": "Intro To Comput In Phys"
+        },
+        {
+            "catalogTitle": "PHYS 3740",
+            "section": "001",
+            "courseTitle": "Intro To Quantum & Rel"
+        },
+        {
+            "catalogTitle": "PHYS 3949",
+            "section": "001",
+            "courseTitle": "Special Lab Topics"
+        },
+        {
+            "catalogTitle": "PHYS 3949",
+            "section": "002",
+            "courseTitle": "Special Lab Topics"
+        },
+        {
+            "catalogTitle": "PHYS 3970",
+            "section": "005",
+            "courseTitle": "Special Reading Topics"
+        },
+        {
+            "catalogTitle": "PHYS 3970",
+            "section": "006",
+            "courseTitle": "Introduction to Cosmology"
+        },
+        {
+            "catalogTitle": "PHYS 3970",
+            "section": "007",
+            "courseTitle": "C++"
+        },
+        {
+            "catalogTitle": "PHYS 4080",
+            "section": "001",
+            "courseTitle": "Intro to Cosmology"
+        },
+        {
+            "catalogTitle": "PHYS 4410",
+            "section": "001",
+            "courseTitle": "Classical Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 4999",
+            "section": "001",
+            "courseTitle": "Senior Honors Project"
+        },
+        {
+            "catalogTitle": "PHYS 5010",
+            "section": "001",
+            "courseTitle": "Theor Mech & Q.M."
+        },
+        {
+            "catalogTitle": "PHYS 5450",
+            "section": "001",
+            "courseTitle": "Intro To Quantum Mech"
+        },
+        {
+            "catalogTitle": "PHYS 5510",
+            "section": "001",
+            "courseTitle": "Solid-State Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 5580",
+            "section": "001",
+            "courseTitle": "Extrgaltc Astr & Cosmo"
+        },
+        {
+            "catalogTitle": "PHYS 5590",
+            "section": "001",
+            "courseTitle": "Astrphys & Compact Obj"
+        },
+        {
+            "catalogTitle": "PHYS 5719",
+            "section": "001",
+            "courseTitle": "Lab Techniques"
+        },
+        {
+            "catalogTitle": "PHYS 5739",
+            "section": "001",
+            "courseTitle": "Microscopy"
+        },
+        {
+            "catalogTitle": "PHYS 5739",
+            "section": "002",
+            "courseTitle": "Scanning Electron Microscopy"
+        },
+        {
+            "catalogTitle": "PHYS 6610",
+            "section": "001",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 6610",
+            "section": "002",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 6610",
+            "section": "003",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 6610",
+            "section": "004",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 6610",
+            "section": "005",
+            "courseTitle": "Electronics Sci Instr"
+        },
+        {
+            "catalogTitle": "PHYS 6720",
+            "section": "001",
+            "courseTitle": "Intro To Comput In Phys"
+        },
+        {
+            "catalogTitle": "PHYS 6750",
+            "section": "001",
+            "courseTitle": "Mod Optics I & II"
+        },
+        {
+            "catalogTitle": "PHYS 6750",
+            "section": "002",
+            "courseTitle": "Mod Optics I & II"
+        },
+        {
+            "catalogTitle": "PHYS 6750",
+            "section": "003",
+            "courseTitle": "Mod Optics I & II"
+        },
+        {
+            "catalogTitle": "PHYS 6750",
+            "section": "004",
+            "courseTitle": "Mod Optics I & II"
+        },
+        {
+            "catalogTitle": "PHYS 6751",
+            "section": "001",
+            "courseTitle": "Mod Optics I"
+        },
+        {
+            "catalogTitle": "PHYS 6751",
+            "section": "002",
+            "courseTitle": "Mod Optics I"
+        },
+        {
+            "catalogTitle": "PHYS 6751",
+            "section": "003",
+            "courseTitle": "Mod Optics I"
+        },
+        {
+            "catalogTitle": "PHYS 6800",
+            "section": "001",
+            "courseTitle": "Physics Colloquium MS"
+        },
+        {
+            "catalogTitle": "PHYS 6810",
+            "section": "001",
+            "courseTitle": "Graduate Seminar: Ms"
+        },
+        {
+            "catalogTitle": "PHYS 6810",
+            "section": "032",
+            "courseTitle": "Graduate Seminar: Ms"
+        },
+        {
+            "catalogTitle": "PHYS 6810",
+            "section": "033",
+            "courseTitle": "Graduate Seminar: Ms"
+        },
+        {
+            "catalogTitle": "PHYS 6859",
+            "section": "001",
+            "courseTitle": "Instrumentation Project"
+        },
+        {
+            "catalogTitle": "PHYS 6950",
+            "section": "001",
+            "courseTitle": "Special Reading Topics:"
+        },
+        {
+            "catalogTitle": "PHYS 6950",
+            "section": "037",
+            "courseTitle": "Special Reading Topics:"
+        },
+        {
+            "catalogTitle": "PHYS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Master"
+        },
+        {
+            "catalogTitle": "PHYS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PHYS 7110",
+            "section": "001",
+            "courseTitle": "Electrodynamics I"
+        },
+        {
+            "catalogTitle": "PHYS 7220",
+            "section": "001",
+            "courseTitle": "Quantum Theory I"
+        },
+        {
+            "catalogTitle": "PHYS 7310",
+            "section": "001",
+            "courseTitle": "Statistical Mechanics"
+        },
+        {
+            "catalogTitle": "PHYS 7520",
+            "section": "001",
+            "courseTitle": "Advanced Solid-State II"
+        },
+        {
+            "catalogTitle": "PHYS 7530",
+            "section": "001",
+            "courseTitle": "Principles Of NMR"
+        },
+        {
+            "catalogTitle": "PHYS 7640",
+            "section": "001",
+            "courseTitle": "Quantum Field Theory I"
+        },
+        {
+            "catalogTitle": "PHYS 7740",
+            "section": "001",
+            "courseTitle": "Math Methods Of Phycs I"
+        },
+        {
+            "catalogTitle": "PHYS 7800",
+            "section": "001",
+            "courseTitle": "Physics Colloquium PhD"
+        },
+        {
+            "catalogTitle": "PHYS 7810",
+            "section": "001",
+            "courseTitle": "Graduate Seminar: Phd"
+        },
+        {
+            "catalogTitle": "PHYS 7910",
+            "section": "001",
+            "courseTitle": "Special Reading Topics:"
+        },
+        {
+            "catalogTitle": "PHYS 7910",
+            "section": "002",
+            "courseTitle": "Special Reading Topics:"
+        },
+        {
+            "catalogTitle": "PHYS 7910",
+            "section": "038",
+            "courseTitle": "Quantum Magnetism"
+        },
+        {
+            "catalogTitle": "PHYS 7910",
+            "section": "042",
+            "courseTitle": "Single-Molecule Biophysics Sem"
+        },
+        {
+            "catalogTitle": "PHYS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYS 7970",
+            "section": "026",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PHYS 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        },
+        {
+            "catalogTitle": "PHYS 7990",
+            "section": "006",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

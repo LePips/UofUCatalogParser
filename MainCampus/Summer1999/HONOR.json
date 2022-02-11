@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HONOR 2103",
+            "section": "001",
+            "courseTitle": "ITW Part III"
+        },
+        {
+            "catalogTitle": "HONOR 3378",
+            "section": "001",
+            "courseTitle": "Hon Intensive Spanish"
+        },
+        {
+            "catalogTitle": "HONOR 4473",
+            "section": "001",
+            "courseTitle": "From Studio to Gallery"
+        },
+        {
+            "catalogTitle": "HONOR 4473",
+            "section": "002",
+            "courseTitle": "Modern Dance"
+        },
+        {
+            "catalogTitle": "HONOR 4473",
+            "section": "003",
+            "courseTitle": "Sem/Wk-Fine Arts"
+        },
+        {
+            "catalogTitle": "HONOR 4673",
+            "section": "001",
+            "courseTitle": "Shakespeare at Cedar Cy"
+        },
+        {
+            "catalogTitle": "HONOR 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        }
+    ]
+}

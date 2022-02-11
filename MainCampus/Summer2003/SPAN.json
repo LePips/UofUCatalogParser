@@ -1,0 +1,289 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SPAN 11",
+            "section": "020",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 11",
+            "section": "060",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 12",
+            "section": "020",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 12",
+            "section": "060",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "001",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "002",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "003",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "004",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "020",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "060",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "001",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "020",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "060",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "084",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "089",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "001",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "002",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "060",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "084",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "089",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "001",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "002",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "060",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "084",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "089",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2500",
+            "section": "001",
+            "courseTitle": "Summer Span Intensive"
+        },
+        {
+            "catalogTitle": "SPAN 3020",
+            "section": "084",
+            "courseTitle": "Conversation & Reading"
+        },
+        {
+            "catalogTitle": "SPAN 3020",
+            "section": "089",
+            "courseTitle": "Conversation & Reading"
+        },
+        {
+            "catalogTitle": "SPAN 3040",
+            "section": "084",
+            "courseTitle": "Inter Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 3040",
+            "section": "089",
+            "courseTitle": "Inter Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 3060",
+            "section": "001",
+            "courseTitle": "Adv Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 3060",
+            "section": "084",
+            "courseTitle": "Adv Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 3060",
+            "section": "089",
+            "courseTitle": "Adv Grammar & Comp"
+        },
+        {
+            "catalogTitle": "SPAN 3580",
+            "section": "084",
+            "courseTitle": "Contemporary Issues"
+        },
+        {
+            "catalogTitle": "SPAN 3580",
+            "section": "089",
+            "courseTitle": "Contemporary Issues"
+        },
+        {
+            "catalogTitle": "SPAN 3950",
+            "section": "002",
+            "courseTitle": "SL-Spanish"
+        },
+        {
+            "catalogTitle": "SPAN 3950",
+            "section": "081",
+            "courseTitle": "SL-Spanish"
+        },
+        {
+            "catalogTitle": "SPAN 4510",
+            "section": "089",
+            "courseTitle": "Business Spanish"
+        },
+        {
+            "catalogTitle": "SPAN 4550",
+            "section": "089",
+            "courseTitle": "Spanish Civilization"
+        },
+        {
+            "catalogTitle": "SPAN 4560",
+            "section": "084",
+            "courseTitle": "Cultr/Cust Span America"
+        },
+        {
+            "catalogTitle": "SPAN 4620",
+            "section": "089",
+            "courseTitle": "Intro Span Literature"
+        },
+        {
+            "catalogTitle": "SPAN 4630",
+            "section": "084",
+            "courseTitle": "Intro Span Amer Lit"
+        },
+        {
+            "catalogTitle": "SPAN 4720",
+            "section": "084",
+            "courseTitle": "Hispanic Narrative"
+        },
+        {
+            "catalogTitle": "SPAN 4720",
+            "section": "089",
+            "courseTitle": "Hispanic Narrative"
+        },
+        {
+            "catalogTitle": "SPAN 4770",
+            "section": "084",
+            "courseTitle": "Hispanic Film & Culture"
+        },
+        {
+            "catalogTitle": "SPAN 4770",
+            "section": "089",
+            "courseTitle": "Hispanic Film & Culture"
+        },
+        {
+            "catalogTitle": "SPAN 4880",
+            "section": "007",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SPAN 4880",
+            "section": "084",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SPAN 4880",
+            "section": "089",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "001",
+            "courseTitle": "Gaucho Literature"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "084",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "089",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SPAN 4990",
+            "section": "084",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "SPAN 4990",
+            "section": "089",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "SPAN 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SPAN 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "SPAN 7980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

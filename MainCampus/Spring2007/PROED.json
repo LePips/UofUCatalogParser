@@ -1,0 +1,239 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 100",
+            "section": "003",
+            "courseTitle": "Acct/Budg for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 100",
+            "section": "004",
+            "courseTitle": "Acct/Budg for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 120",
+            "section": "005",
+            "courseTitle": "CPM Module 1 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 120",
+            "section": "015",
+            "courseTitle": "CPM Module 1 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 140",
+            "section": "005",
+            "courseTitle": "CPM Module 3"
+        },
+        {
+            "catalogTitle": "PROED 140",
+            "section": "015",
+            "courseTitle": "CPM Module 3"
+        },
+        {
+            "catalogTitle": "PROED 150",
+            "section": "005",
+            "courseTitle": "CPM Module 4 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 150",
+            "section": "015",
+            "courseTitle": "CPM Module 4 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 190",
+            "section": "005",
+            "courseTitle": "Economics for Bus"
+        },
+        {
+            "catalogTitle": "PROED 210",
+            "section": "003",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "PROED 210",
+            "section": "004",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "PROED 420",
+            "section": "005",
+            "courseTitle": "HRM Certificate Prog"
+        },
+        {
+            "catalogTitle": "PROED 422",
+            "section": "005",
+            "courseTitle": "HR Compensation"
+        },
+        {
+            "catalogTitle": "PROED 423",
+            "section": "005",
+            "courseTitle": "Benefits and Policies"
+        },
+        {
+            "catalogTitle": "PROED 424",
+            "section": "005",
+            "courseTitle": "Nego. and Conflict Mgt."
+        },
+        {
+            "catalogTitle": "PROED 425",
+            "section": "005",
+            "courseTitle": "Employment Law"
+        },
+        {
+            "catalogTitle": "PROED 426",
+            "section": "005",
+            "courseTitle": "Employee Section/Recruitment"
+        },
+        {
+            "catalogTitle": "PROED 427",
+            "section": "005",
+            "courseTitle": "Performance Management for HR"
+        },
+        {
+            "catalogTitle": "PROED 428",
+            "section": "005",
+            "courseTitle": "Org. Training Development"
+        },
+        {
+            "catalogTitle": "PROED 451",
+            "section": "005",
+            "courseTitle": "Advanced HR Certificate"
+        },
+        {
+            "catalogTitle": "PROED 452",
+            "section": "005",
+            "courseTitle": "Workplace Investigations"
+        },
+        {
+            "catalogTitle": "PROED 453",
+            "section": "005",
+            "courseTitle": "Advanced Employment Law"
+        },
+        {
+            "catalogTitle": "PROED 454",
+            "section": "005",
+            "courseTitle": "Adv Negotiation & ADR"
+        },
+        {
+            "catalogTitle": "PROED 455",
+            "section": "005",
+            "courseTitle": "Benefits and Costs"
+        },
+        {
+            "catalogTitle": "PROED 456",
+            "section": "005",
+            "courseTitle": "Organizational Development"
+        },
+        {
+            "catalogTitle": "PROED 457",
+            "section": "005",
+            "courseTitle": "Auditing the HR Function"
+        },
+        {
+            "catalogTitle": "PROED 458",
+            "section": "005",
+            "courseTitle": "Succession Planning"
+        },
+        {
+            "catalogTitle": "PROED 516",
+            "section": "001",
+            "courseTitle": "Fire Srv Lvl I Phase II"
+        },
+        {
+            "catalogTitle": "PROED 540",
+            "section": "005",
+            "courseTitle": "Proj Mgmt for Engineers"
+        },
+        {
+            "catalogTitle": "PROED 542",
+            "section": "005",
+            "courseTitle": "Proj Mgmt Enviroments"
+        },
+        {
+            "catalogTitle": "PROED 543",
+            "section": "005",
+            "courseTitle": "Project Management Practicum"
+        },
+        {
+            "catalogTitle": "PROED 555",
+            "section": "005",
+            "courseTitle": "PMP Exam Preparation"
+        },
+        {
+            "catalogTitle": "PROED 557",
+            "section": "005",
+            "courseTitle": "Project Scheduling"
+        },
+        {
+            "catalogTitle": "PROED 558",
+            "section": "005",
+            "courseTitle": "Project Risk Management"
+        },
+        {
+            "catalogTitle": "PROED 651",
+            "section": "005",
+            "courseTitle": "Collaborative Leadership I"
+        },
+        {
+            "catalogTitle": "PROED 653",
+            "section": "005",
+            "courseTitle": "Teams of Trust"
+        },
+        {
+            "catalogTitle": "PROED 800",
+            "section": "005",
+            "courseTitle": "Fund Development Cert."
+        },
+        {
+            "catalogTitle": "PROED 801",
+            "section": "005",
+            "courseTitle": "Fundraising Fundamentals"
+        },
+        {
+            "catalogTitle": "PROED 802",
+            "section": "005",
+            "courseTitle": "Fundraising Planning"
+        },
+        {
+            "catalogTitle": "PROED 803",
+            "section": "005",
+            "courseTitle": "Finding Funding"
+        },
+        {
+            "catalogTitle": "PROED 804",
+            "section": "005",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "PROED 805",
+            "section": "005",
+            "courseTitle": "Major Gifts"
+        },
+        {
+            "catalogTitle": "PROED 806",
+            "section": "005",
+            "courseTitle": "Mrkting for Nonprofits"
+        },
+        {
+            "catalogTitle": "PROED 807",
+            "section": "005",
+            "courseTitle": "Budgeting-Non-Profits"
+        },
+        {
+            "catalogTitle": "PROED 807",
+            "section": "015",
+            "courseTitle": "Budgeting-Non-Profits"
+        },
+        {
+            "catalogTitle": "PROED 906",
+            "section": "001",
+            "courseTitle": "University Neighborhood Prtnrs"
+        },
+        {
+            "catalogTitle": "PROED 906",
+            "section": "002",
+            "courseTitle": "University Neighborhood Prtnrs"
+        }
+    ]
+}

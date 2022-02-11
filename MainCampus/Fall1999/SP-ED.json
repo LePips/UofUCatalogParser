@@ -1,0 +1,284 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SP ED 3010",
+            "section": "001",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 3010",
+            "section": "002",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 3010",
+            "section": "003",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 5010",
+            "section": "001",
+            "courseTitle": "Partnerships"
+        },
+        {
+            "catalogTitle": "SP ED 5010",
+            "section": "002",
+            "courseTitle": "Partnerships"
+        },
+        {
+            "catalogTitle": "SP ED 6010",
+            "section": "001",
+            "courseTitle": "Partnerships"
+        },
+        {
+            "catalogTitle": "SP ED 6010",
+            "section": "002",
+            "courseTitle": "Partnerships"
+        },
+        {
+            "catalogTitle": "SP ED 6021",
+            "section": "001",
+            "courseTitle": "Learning & Assessment"
+        },
+        {
+            "catalogTitle": "SP ED 6022",
+            "section": "001",
+            "courseTitle": "Instruction & Behavior"
+        },
+        {
+            "catalogTitle": "SP ED 6022",
+            "section": "042",
+            "courseTitle": "Instruction & Behavior"
+        },
+        {
+            "catalogTitle": "SP ED 6030",
+            "section": "001",
+            "courseTitle": "Func Communication"
+        },
+        {
+            "catalogTitle": "SP ED 6040",
+            "section": "001",
+            "courseTitle": "Legal/Policy Foundation"
+        },
+        {
+            "catalogTitle": "SP ED 6051",
+            "section": "001",
+            "courseTitle": "Early Field I"
+        },
+        {
+            "catalogTitle": "SP ED 6051",
+            "section": "040",
+            "courseTitle": "Early Field I"
+        },
+        {
+            "catalogTitle": "SP ED 6051",
+            "section": "042",
+            "courseTitle": "Early Field I"
+        },
+        {
+            "catalogTitle": "SP ED 6110",
+            "section": "001",
+            "courseTitle": "Beh Supp Strat Mild Mod"
+        },
+        {
+            "catalogTitle": "SP ED 6121",
+            "section": "001",
+            "courseTitle": "AIM Mild Mod I"
+        },
+        {
+            "catalogTitle": "SP ED 6130",
+            "section": "001",
+            "courseTitle": "Field Exp I Mild/Mod"
+        },
+        {
+            "catalogTitle": "SP ED 6141",
+            "section": "001",
+            "courseTitle": "Seminar I Mild Mod"
+        },
+        {
+            "catalogTitle": "SP ED 6220",
+            "section": "001",
+            "courseTitle": "Curriculum/Inst/Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6230",
+            "section": "001",
+            "courseTitle": "Behavior Support/Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6240",
+            "section": "001",
+            "courseTitle": "Field Experience/Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6310",
+            "section": "001",
+            "courseTitle": "Curric Prog Presch"
+        },
+        {
+            "catalogTitle": "SP ED 6320",
+            "section": "001",
+            "courseTitle": "Comm Soc Play Dev Inter"
+        },
+        {
+            "catalogTitle": "SP ED 6330",
+            "section": "001",
+            "courseTitle": "Field Studies: EC"
+        },
+        {
+            "catalogTitle": "SP ED 6341",
+            "section": "001",
+            "courseTitle": "Seminar I:  EC"
+        },
+        {
+            "catalogTitle": "SP ED 6430",
+            "section": "001",
+            "courseTitle": "Ocu Ds/Exm Tech/Low Vis"
+        },
+        {
+            "catalogTitle": "SP ED 6441",
+            "section": "001",
+            "courseTitle": "Literary Braille/Tech"
+        },
+        {
+            "catalogTitle": "SP ED 6500",
+            "section": "001",
+            "courseTitle": "Student Teaching/VI"
+        },
+        {
+            "catalogTitle": "SP ED 6520",
+            "section": "001",
+            "courseTitle": "Audiol Tchr Of Stu W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6520",
+            "section": "002",
+            "courseTitle": "Audiol Tchr Of Stu W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6520",
+            "section": "003",
+            "courseTitle": "Audiol Tchr Of Stu W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6520",
+            "section": "004",
+            "courseTitle": "Audiol Tchr Of Stu W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6530",
+            "section": "001",
+            "courseTitle": "Spch/Aud Skills W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6540",
+            "section": "001",
+            "courseTitle": "Tchg Lang To Stud W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6600",
+            "section": "001",
+            "courseTitle": "Student Teaching/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6610",
+            "section": "001",
+            "courseTitle": "Intro. Research Design"
+        },
+        {
+            "catalogTitle": "SP ED 6950",
+            "section": "001",
+            "courseTitle": "Indep Reading"
+        },
+        {
+            "catalogTitle": "SP ED 6950",
+            "section": "018",
+            "courseTitle": "Indep Reading"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "019",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "031",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research:MS"
+        },
+        {
+            "catalogTitle": "SP ED 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "SP ED 7040",
+            "section": "001",
+            "courseTitle": "Effective Schools"
+        },
+        {
+            "catalogTitle": "SP ED 7121",
+            "section": "001",
+            "courseTitle": "Intern I: Univ Teaching"
+        },
+        {
+            "catalogTitle": "SP ED 7122",
+            "section": "001",
+            "courseTitle": "Intern II: Distance Edu"
+        },
+        {
+            "catalogTitle": "SP ED 7123",
+            "section": "001",
+            "courseTitle": "Intern III: Exempl Prog"
+        },
+        {
+            "catalogTitle": "SP ED 7124",
+            "section": "001",
+            "courseTitle": "Intern IV:Dist/Agcy"
+        },
+        {
+            "catalogTitle": "SP ED 7125",
+            "section": "001",
+            "courseTitle": "Intern V: Extramur Fund"
+        },
+        {
+            "catalogTitle": "SP ED 7950",
+            "section": "001",
+            "courseTitle": "Ph.D: Indep Reading"
+        },
+        {
+            "catalogTitle": "SP ED 7960",
+            "section": "001",
+            "courseTitle": "Ph.D: Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 7970",
+            "section": "001",
+            "courseTitle": "Prep Doc Proposal"
+        },
+        {
+            "catalogTitle": "SP ED 7971",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SP ED 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "SP ED 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

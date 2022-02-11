@@ -1,0 +1,289 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "H EDU 9",
+            "section": "001",
+            "courseTitle": "EMT Training"
+        },
+        {
+            "catalogTitle": "H EDU 75",
+            "section": "001",
+            "courseTitle": "EMT Recertification"
+        },
+        {
+            "catalogTitle": "H EDU 300",
+            "section": "001",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "H EDU 303",
+            "section": "001",
+            "courseTitle": "Medical Terminology"
+        },
+        {
+            "catalogTitle": "H EDU 305",
+            "section": "001",
+            "courseTitle": "Community Hlth Issues"
+        },
+        {
+            "catalogTitle": "H EDU 316",
+            "section": "002",
+            "courseTitle": "Stress Management"
+        },
+        {
+            "catalogTitle": "H EDU 319",
+            "section": "001",
+            "courseTitle": "Death & Dying"
+        },
+        {
+            "catalogTitle": "H EDU 353",
+            "section": "090",
+            "courseTitle": "Medical Spanish"
+        },
+        {
+            "catalogTitle": "H EDU 530",
+            "section": "002",
+            "courseTitle": "Diversity & Health"
+        },
+        {
+            "catalogTitle": "H EDU 542",
+            "section": "090",
+            "courseTitle": "Intro Android App"
+        },
+        {
+            "catalogTitle": "H EDU 1010",
+            "section": "090",
+            "courseTitle": "Healthy Lifestyles"
+        },
+        {
+            "catalogTitle": "H EDU 1950",
+            "section": "001",
+            "courseTitle": "Emergency First Aid"
+        },
+        {
+            "catalogTitle": "H EDU 3000",
+            "section": "001",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "H EDU 3030",
+            "section": "001",
+            "courseTitle": "Medical Terminology"
+        },
+        {
+            "catalogTitle": "H EDU 3033",
+            "section": "002",
+            "courseTitle": "Meds Drugs and EMS"
+        },
+        {
+            "catalogTitle": "H EDU 3035",
+            "section": "090",
+            "courseTitle": "Medical Spanish"
+        },
+        {
+            "catalogTitle": "H EDU 3050",
+            "section": "001",
+            "courseTitle": "Community Hlth Issues"
+        },
+        {
+            "catalogTitle": "H EDU 3160",
+            "section": "002",
+            "courseTitle": "Stress Management"
+        },
+        {
+            "catalogTitle": "H EDU 3190",
+            "section": "001",
+            "courseTitle": "Death And Dying"
+        },
+        {
+            "catalogTitle": "H EDU 3350",
+            "section": "091",
+            "courseTitle": "Eating Dis & Body Image"
+        },
+        {
+            "catalogTitle": "H EDU 3595",
+            "section": "001",
+            "courseTitle": "Intro to Emerg Mngmnt"
+        },
+        {
+            "catalogTitle": "H EDU 3850",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "H EDU 3920",
+            "section": "001",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "H EDU 3920",
+            "section": "002",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "H EDU 4180",
+            "section": "001",
+            "courseTitle": "Prevention Practices"
+        },
+        {
+            "catalogTitle": "H EDU 4250",
+            "section": "002",
+            "courseTitle": "Facilitating Hlth Behav"
+        },
+        {
+            "catalogTitle": "H EDU 4310",
+            "section": "001",
+            "courseTitle": "Hlth Promotion-Marketng"
+        },
+        {
+            "catalogTitle": "H EDU 4340",
+            "section": "001",
+            "courseTitle": "Epidemiology"
+        },
+        {
+            "catalogTitle": "H EDU 4350",
+            "section": "001",
+            "courseTitle": "Personal Resiliency"
+        },
+        {
+            "catalogTitle": "H EDU 4450",
+            "section": "001",
+            "courseTitle": "Pathophysiology for EMS"
+        },
+        {
+            "catalogTitle": "H EDU 4650",
+            "section": "090",
+            "courseTitle": "A & P for Health"
+        },
+        {
+            "catalogTitle": "H EDU 4790",
+            "section": "001",
+            "courseTitle": "Hlth Svc Administration"
+        },
+        {
+            "catalogTitle": "H EDU 5100",
+            "section": "001",
+            "courseTitle": "Health Care In The U.S."
+        },
+        {
+            "catalogTitle": "H EDU 5300",
+            "section": "001",
+            "courseTitle": "Diversity & Health"
+        },
+        {
+            "catalogTitle": "H EDU 5300",
+            "section": "002",
+            "courseTitle": "Diversity & Health"
+        },
+        {
+            "catalogTitle": "H EDU 5300",
+            "section": "003",
+            "courseTitle": "Diversity & Health"
+        },
+        {
+            "catalogTitle": "H EDU 5370",
+            "section": "090",
+            "courseTitle": "Health & Optimal Aging"
+        },
+        {
+            "catalogTitle": "H EDU 5400",
+            "section": "090",
+            "courseTitle": "Theory & Habit Tech"
+        },
+        {
+            "catalogTitle": "H EDU 5420",
+            "section": "090",
+            "courseTitle": "Intro Android App"
+        },
+        {
+            "catalogTitle": "H EDU 5500",
+            "section": "001",
+            "courseTitle": "Intro Grant Writing"
+        },
+        {
+            "catalogTitle": "H EDU 5750",
+            "section": "001",
+            "courseTitle": "EMT Recertification"
+        },
+        {
+            "catalogTitle": "H EDU 5900",
+            "section": "002",
+            "courseTitle": "Research Practicum"
+        },
+        {
+            "catalogTitle": "H EDU 5950",
+            "section": "001",
+            "courseTitle": "EMT Training"
+        },
+        {
+            "catalogTitle": "H EDU 5960",
+            "section": "070",
+            "courseTitle": "EMT-Non-Certification"
+        },
+        {
+            "catalogTitle": "H EDU 5990",
+            "section": "079",
+            "courseTitle": "Health Preceptorship"
+        },
+        {
+            "catalogTitle": "H EDU 6040",
+            "section": "001",
+            "courseTitle": "Applied Resiliency"
+        },
+        {
+            "catalogTitle": "H EDU 6080",
+            "section": "001",
+            "courseTitle": "Planning/SocMarket Hlth"
+        },
+        {
+            "catalogTitle": "H EDU 6180",
+            "section": "001",
+            "courseTitle": "Prevention:Atod&Violenc"
+        },
+        {
+            "catalogTitle": "H EDU 6200",
+            "section": "090",
+            "courseTitle": "Theory & Habit Tech"
+        },
+        {
+            "catalogTitle": "H EDU 6220",
+            "section": "090",
+            "courseTitle": "Intro Android App"
+        },
+        {
+            "catalogTitle": "H EDU 6500",
+            "section": "001",
+            "courseTitle": "Grant Writing-Health"
+        },
+        {
+            "catalogTitle": "H EDU 6700",
+            "section": "001",
+            "courseTitle": "Epi in Comm Hlth Prac"
+        },
+        {
+            "catalogTitle": "H EDU 6920",
+            "section": "007",
+            "courseTitle": "Indep Study-Research"
+        },
+        {
+            "catalogTitle": "H EDU 6990",
+            "section": "007",
+            "courseTitle": "Master's Practicum"
+        },
+        {
+            "catalogTitle": "H EDU 7103",
+            "section": "001",
+            "courseTitle": "Design & Analysis I"
+        },
+        {
+            "catalogTitle": "H EDU 7370",
+            "section": "001",
+            "courseTitle": "Teaching Practicum"
+        },
+        {
+            "catalogTitle": "H EDU 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

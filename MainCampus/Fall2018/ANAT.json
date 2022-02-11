@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANAT 6910",
+            "section": "001",
+            "courseTitle": "Prosection"
+        },
+        {
+            "catalogTitle": "ANAT 6920",
+            "section": "001",
+            "courseTitle": "Graduate Instruction"
+        },
+        {
+            "catalogTitle": "ANAT 6921",
+            "section": "001",
+            "courseTitle": "Special Dissections"
+        },
+        {
+            "catalogTitle": "ANAT 6922",
+            "section": "001",
+            "courseTitle": "Special Dissections"
+        },
+        {
+            "catalogTitle": "ANAT 6950",
+            "section": "001",
+            "courseTitle": "Medical Dissection"
+        },
+        {
+            "catalogTitle": "ANAT 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANAT 7050",
+            "section": "001",
+            "courseTitle": "Adv Human Gross Anatomy"
+        },
+        {
+            "catalogTitle": "ANAT 7710",
+            "section": "001",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "ANAT 7720",
+            "section": "001",
+            "courseTitle": "Seminar"
+        },
+        {
+            "catalogTitle": "ANAT 7730",
+            "section": "001",
+            "courseTitle": "Neurogenetics"
+        },
+        {
+            "catalogTitle": "ANAT 7750",
+            "section": "001",
+            "courseTitle": "Developmental Neurobiol"
+        },
+        {
+            "catalogTitle": "ANAT 7770",
+            "section": "001",
+            "courseTitle": "Neural Reg. Metabolism"
+        },
+        {
+            "catalogTitle": "ANAT 7790",
+            "section": "001",
+            "courseTitle": "Microscopy & Imaging"
+        },
+        {
+            "catalogTitle": "ANAT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ANAT 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ANAT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANAT 7990",
+            "section": "001",
+            "courseTitle": "Cont. Registration-PhD"
+        }
+    ]
+}

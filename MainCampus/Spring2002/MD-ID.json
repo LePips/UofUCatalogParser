@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD ID 7010",
+            "section": "001",
+            "courseTitle": "Intro To Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7020",
+            "section": "001",
+            "courseTitle": "Science of Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7030",
+            "section": "001",
+            "courseTitle": "Art of Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7040",
+            "section": "001",
+            "courseTitle": "Science of Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7050",
+            "section": "001",
+            "courseTitle": "Patient in the Community"
+        },
+        {
+            "catalogTitle": "MD ID 7060",
+            "section": "001",
+            "courseTitle": "Art of Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7140",
+            "section": "001",
+            "courseTitle": "Topics In Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7170",
+            "section": "001",
+            "courseTitle": "Primary Care Precept"
+        },
+        {
+            "catalogTitle": "MD ID 7180",
+            "section": "001",
+            "courseTitle": "Leadership Forum"
+        },
+        {
+            "catalogTitle": "MD ID 7200",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CHIN 1020",
+            "section": "001",
+            "courseTitle": "Beg Mandarin Chin II"
+        },
+        {
+            "catalogTitle": "CHIN 2020",
+            "section": "001",
+            "courseTitle": "Intrm Mandarin Chin II"
+        },
+        {
+            "catalogTitle": "CHIN 3020",
+            "section": "001",
+            "courseTitle": "Third Yr Mandarin Chin"
+        },
+        {
+            "catalogTitle": "CHIN 3510",
+            "section": "001",
+            "courseTitle": "Business Chinese"
+        },
+        {
+            "catalogTitle": "CHIN 4610",
+            "section": "001",
+            "courseTitle": "Narrative Literature"
+        },
+        {
+            "catalogTitle": "CHIN 4620",
+            "section": "001",
+            "courseTitle": "Literature Middl Period"
+        },
+        {
+            "catalogTitle": "CHIN 4710",
+            "section": "001",
+            "courseTitle": "Classical Chinese"
+        },
+        {
+            "catalogTitle": "CHIN 4900",
+            "section": "001",
+            "courseTitle": "Chinese Newspaper Reading"
+        },
+        {
+            "catalogTitle": "CHIN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "CHIN 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

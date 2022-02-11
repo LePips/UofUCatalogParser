@@ -1,0 +1,264 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARTH 101",
+            "section": "001",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 101",
+            "section": "070",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 250",
+            "section": "001",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 250",
+            "section": "002",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 360",
+            "section": "001",
+            "courseTitle": "Hist. of Photography"
+        },
+        {
+            "catalogTitle": "ARTH 1010",
+            "section": "001",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 1010",
+            "section": "002",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 1010",
+            "section": "070",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 1020",
+            "section": "001",
+            "courseTitle": "Art Now"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "001",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "002",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 3330",
+            "section": "001",
+            "courseTitle": "Visual Art of Modernity"
+        },
+        {
+            "catalogTitle": "ARTH 3510",
+            "section": "001",
+            "courseTitle": "Modern Latin America"
+        },
+        {
+            "catalogTitle": "ARTH 3600",
+            "section": "001",
+            "courseTitle": "Hist. of Photography"
+        },
+        {
+            "catalogTitle": "ARTH 4000",
+            "section": "002",
+            "courseTitle": "Good Looking"
+        },
+        {
+            "catalogTitle": "ARTH 4310",
+            "section": "001",
+            "courseTitle": "Art and the Public"
+        },
+        {
+            "catalogTitle": "ARTH 4430",
+            "section": "001",
+            "courseTitle": "Art Since 1970"
+        },
+        {
+            "catalogTitle": "ARTH 4750",
+            "section": "001",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "ARTH 4750",
+            "section": "002",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "ARTH 4750",
+            "section": "003",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "ARTH 4750",
+            "section": "004",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "ARTH 4750",
+            "section": "005",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "ARTH 4850",
+            "section": "001",
+            "courseTitle": "Art History Internship"
+        },
+        {
+            "catalogTitle": "ARTH 4910",
+            "section": "001",
+            "courseTitle": "Honors Art History I"
+        },
+        {
+            "catalogTitle": "ARTH 4910",
+            "section": "002",
+            "courseTitle": "Honors Art History I"
+        },
+        {
+            "catalogTitle": "ARTH 4910",
+            "section": "003",
+            "courseTitle": "Honors Art History I"
+        },
+        {
+            "catalogTitle": "ARTH 4910",
+            "section": "004",
+            "courseTitle": "Honors Art History I"
+        },
+        {
+            "catalogTitle": "ARTH 4920",
+            "section": "001",
+            "courseTitle": "Honors Art History II"
+        },
+        {
+            "catalogTitle": "ARTH 4920",
+            "section": "002",
+            "courseTitle": "Honors Art History II"
+        },
+        {
+            "catalogTitle": "ARTH 4920",
+            "section": "003",
+            "courseTitle": "Honors Art History II"
+        },
+        {
+            "catalogTitle": "ARTH 4920",
+            "section": "004",
+            "courseTitle": "Honors Art History II"
+        },
+        {
+            "catalogTitle": "ARTH 4985",
+            "section": "001",
+            "courseTitle": "Honors Seminar"
+        },
+        {
+            "catalogTitle": "ARTH 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ARTH 6001",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6001",
+            "section": "002",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6003",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6004",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6005",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6310",
+            "section": "001",
+            "courseTitle": "Adv. 18th c. Art"
+        },
+        {
+            "catalogTitle": "ARTH 6410",
+            "section": "001",
+            "courseTitle": "Adv Contemporary Art"
+        },
+        {
+            "catalogTitle": "ARTH 6800",
+            "section": "001",
+            "courseTitle": "Critical Theory/Methods"
+        },
+        {
+            "catalogTitle": "ARTH 6810",
+            "section": "001",
+            "courseTitle": "Visual Intersections: Land Art"
+        },
+        {
+            "catalogTitle": "ARTH 6850",
+            "section": "001",
+            "courseTitle": "Sem-Renaissance/Baroque"
+        },
+        {
+            "catalogTitle": "ARTH 6860",
+            "section": "001",
+            "courseTitle": "Sem: 18th-19th c. Art"
+        },
+        {
+            "catalogTitle": "ARTH 6870",
+            "section": "001",
+            "courseTitle": "Sem-20Th Century Art"
+        },
+        {
+            "catalogTitle": "ARTH 6910",
+            "section": "001",
+            "courseTitle": "Dir St-Asian Art"
+        },
+        {
+            "catalogTitle": "ARTH 6930",
+            "section": "001",
+            "courseTitle": "Dir St-Renaissanc/Baroq"
+        },
+        {
+            "catalogTitle": "ARTH 6940",
+            "section": "001",
+            "courseTitle": "Dir. St. 18th-19th c. Art"
+        },
+        {
+            "catalogTitle": "ARTH 6950",
+            "section": "001",
+            "courseTitle": "Dir St 20th c. Art"
+        },
+        {
+            "catalogTitle": "ARTH 6955",
+            "section": "001",
+            "courseTitle": "Dir St Contemp Art"
+        },
+        {
+            "catalogTitle": "ARTH 6960",
+            "section": "001",
+            "courseTitle": "Directed Study Lat Am"
+        },
+        {
+            "catalogTitle": "ARTH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: MA"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGL 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "ENGL 2600",
+            "section": "001",
+            "courseTitle": "Crit Intro To Lit Forms"
+        },
+        {
+            "catalogTitle": "ENGL 3310",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "ENGL 3600",
+            "section": "001",
+            "courseTitle": "Intr Critical Theory"
+        },
+        {
+            "catalogTitle": "ENGL 3701",
+            "section": "001",
+            "courseTitle": "Intro Lit Hist 1"
+        },
+        {
+            "catalogTitle": "ENGL 4990",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ENGL 4990",
+            "section": "010",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ENGL 4991",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENGL 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ENGL 5030",
+            "section": "001",
+            "courseTitle": "Studies In Poetry"
+        },
+        {
+            "catalogTitle": "ENGL 5650",
+            "section": "001",
+            "courseTitle": "Adv Sem Comp Stds"
+        },
+        {
+            "catalogTitle": "ENGL 5790",
+            "section": "001",
+            "courseTitle": "Studies In Modernism"
+        },
+        {
+            "catalogTitle": "ENGL 5940",
+            "section": "001",
+            "courseTitle": "Theory Gender/Sexuality"
+        },
+        {
+            "catalogTitle": "ENGL 5960",
+            "section": "001",
+            "courseTitle": "Theories Pop Culture"
+        }
+    ]
+}

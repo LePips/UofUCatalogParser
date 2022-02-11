@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MDCRC 6100",
+            "section": "001",
+            "courseTitle": "Epidemiology Seminar"
+        },
+        {
+            "catalogTitle": "MDCRC 6210",
+            "section": "001",
+            "courseTitle": "Regression Models"
+        },
+        {
+            "catalogTitle": "MDCRC 6440",
+            "section": "001",
+            "courseTitle": "Medical Genetics"
+        },
+        {
+            "catalogTitle": "MDCRC 6510",
+            "section": "001",
+            "courseTitle": "Molecular Biology"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESPR 7",
+            "section": "001",
+            "courseTitle": "Beginning Fencing (Age 8-15)"
+        },
+        {
+            "catalogTitle": "YESPR 20",
+            "section": "001",
+            "courseTitle": "Adult-Child Scuba (Age 12-17)"
+        },
+        {
+            "catalogTitle": "YESPR 36",
+            "section": "001",
+            "courseTitle": "Elementary Kayaking Age 16+up"
+        },
+        {
+            "catalogTitle": "YESPR 36",
+            "section": "002",
+            "courseTitle": "Elementary Kayaking Age 16+up"
+        },
+        {
+            "catalogTitle": "YESPR 39",
+            "section": "001",
+            "courseTitle": "Beginning Diving (Age 5-18)"
+        },
+        {
+            "catalogTitle": "YESPR 39",
+            "section": "002",
+            "courseTitle": "Beginning Diving (Age 5-18)"
+        },
+        {
+            "catalogTitle": "YESPR 39",
+            "section": "003",
+            "courseTitle": "Beginning Diving (Age 5-18)"
+        },
+        {
+            "catalogTitle": "YESPR 39",
+            "section": "004",
+            "courseTitle": "Beginning Diving (Age 5-18)"
+        },
+        {
+            "catalogTitle": "YESPR 40",
+            "section": "001",
+            "courseTitle": "Inter. Diving (Age 10-18)"
+        },
+        {
+            "catalogTitle": "YESPR 40",
+            "section": "002",
+            "courseTitle": "Inter. Diving (Age 10-18)"
+        },
+        {
+            "catalogTitle": "YESPR 40",
+            "section": "003",
+            "courseTitle": "Inter. Diving (Age 10-18)"
+        },
+        {
+            "catalogTitle": "YESPR 40",
+            "section": "004",
+            "courseTitle": "Inter. Diving (Age 10-18)"
+        },
+        {
+            "catalogTitle": "YESPR 41",
+            "section": "001",
+            "courseTitle": "Advanced Diving (Age 10-18)"
+        },
+        {
+            "catalogTitle": "YESPR 41",
+            "section": "002",
+            "courseTitle": "Advanced Diving (Age 10-18)"
+        },
+        {
+            "catalogTitle": "YESPR 42",
+            "section": "001",
+            "courseTitle": "High School Diving(Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YESPR 42",
+            "section": "002",
+            "courseTitle": "High School Diving(Grade 9-12)"
+        },
+        {
+            "catalogTitle": "YESPR 42",
+            "section": "003",
+            "courseTitle": "High School Diving(Grade 9-12)"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CHIN 3390",
+            "section": "001",
+            "courseTitle": "Chinese Calligraphy"
+        },
+        {
+            "catalogTitle": "CHIN 3510",
+            "section": "001",
+            "courseTitle": "Business Chinese"
+        },
+        {
+            "catalogTitle": "CHIN 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "CHIN 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "CHIN 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

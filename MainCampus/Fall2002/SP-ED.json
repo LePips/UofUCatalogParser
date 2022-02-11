@@ -1,0 +1,439 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SP ED 3010",
+            "section": "001",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 3010",
+            "section": "002",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 5010",
+            "section": "001",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 5010",
+            "section": "002",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 5021",
+            "section": "001",
+            "courseTitle": "Learning and Assessment"
+        },
+        {
+            "catalogTitle": "SP ED 5030",
+            "section": "001",
+            "courseTitle": "Func Communication"
+        },
+        {
+            "catalogTitle": "SP ED 5053",
+            "section": "001",
+            "courseTitle": "Prof Skills"
+        },
+        {
+            "catalogTitle": "SP ED 5110",
+            "section": "001",
+            "courseTitle": "Beh Supp Strat Mild Mod"
+        },
+        {
+            "catalogTitle": "SP ED 5122",
+            "section": "001",
+            "courseTitle": "AIM: Mild Mod II"
+        },
+        {
+            "catalogTitle": "SP ED 5132",
+            "section": "001",
+            "courseTitle": "Field Exp II: Mild Mod"
+        },
+        {
+            "catalogTitle": "SP ED 5221",
+            "section": "001",
+            "courseTitle": "Curr. Prog Severe I"
+        },
+        {
+            "catalogTitle": "SP ED 5230",
+            "section": "001",
+            "courseTitle": "Beh Supp Severe"
+        },
+        {
+            "catalogTitle": "SP ED 5240",
+            "section": "001",
+            "courseTitle": "Field Exp: Severe"
+        },
+        {
+            "catalogTitle": "SP ED 5250",
+            "section": "001",
+            "courseTitle": "Management/Severe"
+        },
+        {
+            "catalogTitle": "SP ED 5310",
+            "section": "001",
+            "courseTitle": "Curr. Prog. Presch."
+        },
+        {
+            "catalogTitle": "SP ED 5320",
+            "section": "001",
+            "courseTitle": "Comm & Soc Dev & Int EC"
+        },
+        {
+            "catalogTitle": "SP ED 5330",
+            "section": "001",
+            "courseTitle": "FS I: Early Childhood"
+        },
+        {
+            "catalogTitle": "SP ED 5340",
+            "section": "001",
+            "courseTitle": "Individualizing Needs"
+        },
+        {
+            "catalogTitle": "SP ED 5430",
+            "section": "001",
+            "courseTitle": "Ocular Dis & Exam Tech"
+        },
+        {
+            "catalogTitle": "SP ED 5441",
+            "section": "001",
+            "courseTitle": "Literary Braille Codes"
+        },
+        {
+            "catalogTitle": "SP ED 5443",
+            "section": "001",
+            "courseTitle": "Field Studies Vis Imp I"
+        },
+        {
+            "catalogTitle": "SP ED 5500",
+            "section": "001",
+            "courseTitle": "Student Tch Vision 5-21"
+        },
+        {
+            "catalogTitle": "SP ED 5530",
+            "section": "002",
+            "courseTitle": "Tch Spch & Aud. skills (0-21)"
+        },
+        {
+            "catalogTitle": "SP ED 5531",
+            "section": "002",
+            "courseTitle": "Speech/Aud Hear Imp (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 5540",
+            "section": "002",
+            "courseTitle": "Tchg Lan to Stu w/HI"
+        },
+        {
+            "catalogTitle": "SP ED 5541",
+            "section": "001",
+            "courseTitle": "Tchg Lan to Child w/HI"
+        },
+        {
+            "catalogTitle": "SP ED 5600",
+            "section": "001",
+            "courseTitle": "Stu Tchg: Stu w/HI (5-21)"
+        },
+        {
+            "catalogTitle": "SP ED 5700",
+            "section": "001",
+            "courseTitle": "Stu Tch Vis Imp (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 5800",
+            "section": "001",
+            "courseTitle": "Stu Tch HI (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 5950",
+            "section": "001",
+            "courseTitle": "Independent Reading"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "003",
+            "courseTitle": "Field Experience: Severe"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "004",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "SP ED 6021",
+            "section": "001",
+            "courseTitle": "Learning & Assessment"
+        },
+        {
+            "catalogTitle": "SP ED 6030",
+            "section": "001",
+            "courseTitle": "Func Communication"
+        },
+        {
+            "catalogTitle": "SP ED 6053",
+            "section": "001",
+            "courseTitle": "Prof Skills"
+        },
+        {
+            "catalogTitle": "SP ED 6110",
+            "section": "001",
+            "courseTitle": "Beh Supp Strat Mild Mod"
+        },
+        {
+            "catalogTitle": "SP ED 6122",
+            "section": "001",
+            "courseTitle": "AIM Mild Mod II"
+        },
+        {
+            "catalogTitle": "SP ED 6132",
+            "section": "001",
+            "courseTitle": "Field Exp II: Mild Mod"
+        },
+        {
+            "catalogTitle": "SP ED 6221",
+            "section": "001",
+            "courseTitle": "Curriculum Inst Severe I"
+        },
+        {
+            "catalogTitle": "SP ED 6230",
+            "section": "001",
+            "courseTitle": "Behavior Support/Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6240",
+            "section": "001",
+            "courseTitle": "Field Experience/Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6250",
+            "section": "001",
+            "courseTitle": "Learning Env/Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6310",
+            "section": "001",
+            "courseTitle": "Curric Prog Presch"
+        },
+        {
+            "catalogTitle": "SP ED 6320",
+            "section": "001",
+            "courseTitle": "Comm Soc Play Dev Inter"
+        },
+        {
+            "catalogTitle": "SP ED 6330",
+            "section": "001",
+            "courseTitle": "FS I: Early Childhood"
+        },
+        {
+            "catalogTitle": "SP ED 6340",
+            "section": "001",
+            "courseTitle": "Individualizing Needs"
+        },
+        {
+            "catalogTitle": "SP ED 6430",
+            "section": "001",
+            "courseTitle": "Ocu Ds/Exm Tech/Low Vis"
+        },
+        {
+            "catalogTitle": "SP ED 6441",
+            "section": "001",
+            "courseTitle": "Literary Braille/Tech"
+        },
+        {
+            "catalogTitle": "SP ED 6443",
+            "section": "001",
+            "courseTitle": "Field Studies Vis Imp I"
+        },
+        {
+            "catalogTitle": "SP ED 6500",
+            "section": "001",
+            "courseTitle": "Student Teaching/VI (5-21)"
+        },
+        {
+            "catalogTitle": "SP ED 6530",
+            "section": "002",
+            "courseTitle": "Spch/Aud Skills W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6531",
+            "section": "002",
+            "courseTitle": "Tch Speech/Aud Skills"
+        },
+        {
+            "catalogTitle": "SP ED 6540",
+            "section": "002",
+            "courseTitle": "Tchg Lang To Stud W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6541",
+            "section": "002",
+            "courseTitle": "Tch Lang Child w/HI (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 6600",
+            "section": "001",
+            "courseTitle": "Student Teaching/HI (5-21)"
+        },
+        {
+            "catalogTitle": "SP ED 6610",
+            "section": "001",
+            "courseTitle": "Intro. Research Design"
+        },
+        {
+            "catalogTitle": "SP ED 6700",
+            "section": "001",
+            "courseTitle": "Stu Tch Vis Imp (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 6800",
+            "section": "001",
+            "courseTitle": "Stu Tch Hear Imp (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 6950",
+            "section": "001",
+            "courseTitle": "Indep Reading"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "021",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "022",
+            "courseTitle": "Field Exp. in Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "023",
+            "courseTitle": "Field Exp- Vision Impairments"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "024",
+            "courseTitle": "Field Exp. in Severe"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "030",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research:MS"
+        },
+        {
+            "catalogTitle": "SP ED 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "SP ED 7030",
+            "section": "001",
+            "courseTitle": "Doctoral Colloquium"
+        },
+        {
+            "catalogTitle": "SP ED 7112",
+            "section": "001",
+            "courseTitle": "Sem II: Inclusive Ed"
+        },
+        {
+            "catalogTitle": "SP ED 7115",
+            "section": "001",
+            "courseTitle": "Dist Ed & Tech Instr"
+        },
+        {
+            "catalogTitle": "SP ED 7121",
+            "section": "001",
+            "courseTitle": "Intern I: Univ Teaching"
+        },
+        {
+            "catalogTitle": "SP ED 7121",
+            "section": "002",
+            "courseTitle": "Intern I: Univ Teaching"
+        },
+        {
+            "catalogTitle": "SP ED 7121",
+            "section": "003",
+            "courseTitle": "Intern I: Univ Teaching"
+        },
+        {
+            "catalogTitle": "SP ED 7122",
+            "section": "001",
+            "courseTitle": "Intern II: Distance Edu"
+        },
+        {
+            "catalogTitle": "SP ED 7123",
+            "section": "001",
+            "courseTitle": "Intern III: Exempl Prog"
+        },
+        {
+            "catalogTitle": "SP ED 7123",
+            "section": "004",
+            "courseTitle": "Intern III: Exempl Prog"
+        },
+        {
+            "catalogTitle": "SP ED 7124",
+            "section": "001",
+            "courseTitle": "Intern IV:Dist/Agcy"
+        },
+        {
+            "catalogTitle": "SP ED 7124",
+            "section": "005",
+            "courseTitle": "Intern IV:Dist/Agcy"
+        },
+        {
+            "catalogTitle": "SP ED 7125",
+            "section": "001",
+            "courseTitle": "Intern V: Extramur Fund"
+        },
+        {
+            "catalogTitle": "SP ED 7125",
+            "section": "005",
+            "courseTitle": "Intern V: Extramur Fund"
+        },
+        {
+            "catalogTitle": "SP ED 7950",
+            "section": "001",
+            "courseTitle": "Ph.D: Indep Reading"
+        },
+        {
+            "catalogTitle": "SP ED 7960",
+            "section": "001",
+            "courseTitle": "Ph.D: Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 7970",
+            "section": "001",
+            "courseTitle": "Prep Doc Proposal"
+        },
+        {
+            "catalogTitle": "SP ED 7971",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SP ED 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "SP ED 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

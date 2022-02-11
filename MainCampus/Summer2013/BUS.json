@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "001",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 2900",
+            "section": "001",
+            "courseTitle": "Intro International Bus"
+        },
+        {
+            "catalogTitle": "BUS 3213",
+            "section": "001",
+            "courseTitle": "Bus of Popular Culture"
+        },
+        {
+            "catalogTitle": "BUS 3223",
+            "section": "001",
+            "courseTitle": "Imagine of Comm. Life"
+        },
+        {
+            "catalogTitle": "BUS 3261",
+            "section": "001",
+            "courseTitle": "Profit, Percept & Real"
+        }
+    ]
+}

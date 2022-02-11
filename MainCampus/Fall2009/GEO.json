@@ -1,0 +1,339 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEO 105",
+            "section": "001",
+            "courseTitle": "National Parks Geology"
+        },
+        {
+            "catalogTitle": "GEO 1000",
+            "section": "001",
+            "courseTitle": "Natural Disasters"
+        },
+        {
+            "catalogTitle": "GEO 1010",
+            "section": "090",
+            "courseTitle": "Exploring Earth"
+        },
+        {
+            "catalogTitle": "GEO 1030",
+            "section": "001",
+            "courseTitle": "Earthquakes & Volcanoes"
+        },
+        {
+            "catalogTitle": "GEO 1030",
+            "section": "090",
+            "courseTitle": "Earthquakes & Volcanoes"
+        },
+        {
+            "catalogTitle": "GEO 1040",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 1050",
+            "section": "001",
+            "courseTitle": "National Parks Geology"
+        },
+        {
+            "catalogTitle": "GEO 1110",
+            "section": "001",
+            "courseTitle": "Intr to Earth Systems"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "001",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "002",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 3075",
+            "section": "001",
+            "courseTitle": "Intro Geol. Engg"
+        },
+        {
+            "catalogTitle": "GEO 3080",
+            "section": "001",
+            "courseTitle": "Earth Materials I"
+        },
+        {
+            "catalogTitle": "GEO 3080",
+            "section": "002",
+            "courseTitle": "Earth Materials I"
+        },
+        {
+            "catalogTitle": "GEO 3800",
+            "section": "001",
+            "courseTitle": "The Oceans"
+        },
+        {
+            "catalogTitle": "GEO 3970",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "GEO 4900",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "GEO 5050",
+            "section": "001",
+            "courseTitle": "Geochronology"
+        },
+        {
+            "catalogTitle": "GEO 5060",
+            "section": "001",
+            "courseTitle": "Global Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 5075",
+            "section": "001",
+            "courseTitle": "Intro Geol Engg"
+        },
+        {
+            "catalogTitle": "GEO 5180",
+            "section": "001",
+            "courseTitle": "Paleoecology"
+        },
+        {
+            "catalogTitle": "GEO 5230",
+            "section": "001",
+            "courseTitle": "Physical Fields I"
+        },
+        {
+            "catalogTitle": "GEO 5250",
+            "section": "001",
+            "courseTitle": "Inversion Theory"
+        },
+        {
+            "catalogTitle": "GEO 5340",
+            "section": "001",
+            "courseTitle": "Systm Dynamx&Env Policy"
+        },
+        {
+            "catalogTitle": "GEO 5350",
+            "section": "001",
+            "courseTitle": "Groundwater"
+        },
+        {
+            "catalogTitle": "GEO 5360",
+            "section": "001",
+            "courseTitle": "Fluid Dynmcs Geol Matls"
+        },
+        {
+            "catalogTitle": "GEO 5510",
+            "section": "001",
+            "courseTitle": "PICP I"
+        },
+        {
+            "catalogTitle": "GEO 5520",
+            "section": "001",
+            "courseTitle": "PICP II"
+        },
+        {
+            "catalogTitle": "GEO 5660",
+            "section": "001",
+            "courseTitle": "Geochemistry"
+        },
+        {
+            "catalogTitle": "GEO 5760",
+            "section": "001",
+            "courseTitle": "Stratigraphy & Sed Proc"
+        },
+        {
+            "catalogTitle": "GEO 5760",
+            "section": "002",
+            "courseTitle": "Stratigraphy & Sed Proc"
+        },
+        {
+            "catalogTitle": "GEO 5900",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "001",
+            "courseTitle": "DLS-Undergraduate"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "002",
+            "courseTitle": "ST: EAST Seminar"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "003",
+            "courseTitle": "Basin Modeling"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "004",
+            "courseTitle": "Field Studies in Volcanism"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "005",
+            "courseTitle": "Seismic Array Processing"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "006",
+            "courseTitle": "Tapho, Paleoeco, & Sedi bnebds"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "007",
+            "courseTitle": "Intro to Matlab"
+        },
+        {
+            "catalogTitle": "GEO 6061",
+            "section": "001",
+            "courseTitle": "Global Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 6180",
+            "section": "001",
+            "courseTitle": "Paleoecology"
+        },
+        {
+            "catalogTitle": "GEO 6230",
+            "section": "001",
+            "courseTitle": "Physical Fields I"
+        },
+        {
+            "catalogTitle": "GEO 6250",
+            "section": "001",
+            "courseTitle": "Inversion Theory and Apps"
+        },
+        {
+            "catalogTitle": "GEO 6340",
+            "section": "001",
+            "courseTitle": "Systm Dynamx&Env Policy"
+        },
+        {
+            "catalogTitle": "GEO 6350",
+            "section": "001",
+            "courseTitle": "Groundwater"
+        },
+        {
+            "catalogTitle": "GEO 6360",
+            "section": "001",
+            "courseTitle": "Fluid Dynamics"
+        },
+        {
+            "catalogTitle": "GEO 6480",
+            "section": "001",
+            "courseTitle": "Landslides & Slope Stab"
+        },
+        {
+            "catalogTitle": "GEO 6510",
+            "section": "001",
+            "courseTitle": "PICP I"
+        },
+        {
+            "catalogTitle": "GEO 6520",
+            "section": "001",
+            "courseTitle": "PICP II"
+        },
+        {
+            "catalogTitle": "GEO 6660",
+            "section": "001",
+            "courseTitle": "Geochemistry"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "001",
+            "courseTitle": "DLS-Graduate"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "002",
+            "courseTitle": "Grad-EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "003",
+            "courseTitle": "Basin Modeling"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "004",
+            "courseTitle": "Global Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "006",
+            "courseTitle": "WEST Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "009",
+            "courseTitle": "Stable Isotope Ecology"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "011",
+            "courseTitle": "Isotopics"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "012",
+            "courseTitle": "Seismic Array Processing"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "013",
+            "courseTitle": "Tapho, Paleoeco, & Sedi bnebds"
+        },
+        {
+            "catalogTitle": "GEO 6950",
+            "section": "001",
+            "courseTitle": "Reviews Earth Sci"
+        },
+        {
+            "catalogTitle": "GEO 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GEO 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7480",
+            "section": "001",
+            "courseTitle": "Landslides & Slope Stab"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "001",
+            "courseTitle": "EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "005",
+            "courseTitle": "WEST Seminar"
+        },
+        {
+            "catalogTitle": "GEO 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "GEO 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

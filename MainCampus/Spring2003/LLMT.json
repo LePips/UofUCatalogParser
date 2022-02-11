@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 375",
+            "section": "001",
+            "courseTitle": "Music Theory"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "002",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "003",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "001",
+            "courseTitle": "Guitar: Beg II"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "002",
+            "courseTitle": "Guitar: Beg II"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "002",
+            "courseTitle": "UT Shakespeare Festival"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improvisational Acting"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "002",
+            "courseTitle": "Improvisational Acting"
+        }
+    ]
+}

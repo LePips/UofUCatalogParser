@@ -1,0 +1,29 @@
+{
+    "semester": "Fall2020",
+    "id": "1208",
+    "subjects": {
+        "ART": "Art",
+        "BIOL": "Biology",
+        "BMI": "Biomedical Informatics",
+        "CHEM": "Chemistry",
+        "CHIN": "Chinese",
+        "CMP": "City & Metropolitan Planning",
+        "COMM": "Communication",
+        "CVEEN": "Civil and Environmental Engineering",
+        "DES": "Design",
+        "EAS": "English for Academic Success",
+        "ECS": "Education, Culture and Society",
+        "FILM": "Film and Media Arts",
+        "HIST": "History",
+        "LDRSP": "Leadership",
+        "MATH": "Mathematics",
+        "ME-EN": "Mechanical Engineering",
+        "MUSC": "Music",
+        "PBHLT": "Public Health",
+        "PHYS": "Physics",
+        "POLS": "Political Science",
+        "PSY": "Psychology",
+        "UGS": "Undergraduate Studies",
+        "WRTG": "Writing and Rhetoric Studies"
+    }
+}

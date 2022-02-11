@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "001",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "002",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "003",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 4990",
+            "section": "079",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "ECE 6950",
+            "section": "035",
+            "courseTitle": "Special Study-MS"
+        },
+        {
+            "catalogTitle": "ECE 6950",
+            "section": "044",
+            "courseTitle": "Special Study-MS"
+        },
+        {
+            "catalogTitle": "ECE 6970",
+            "section": "039",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ECE 7950",
+            "section": "034",
+            "courseTitle": "Special Studies Ph D"
+        }
+    ]
+}

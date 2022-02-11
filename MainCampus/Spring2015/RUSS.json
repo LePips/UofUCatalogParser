@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RUSS 102",
+            "section": "001",
+            "courseTitle": "Beg Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 202",
+            "section": "001",
+            "courseTitle": "Inter Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 1020",
+            "section": "001",
+            "courseTitle": "Beg Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 2020",
+            "section": "001",
+            "courseTitle": "Inter Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 3050",
+            "section": "001",
+            "courseTitle": "Sixth Sem Russian"
+        },
+        {
+            "catalogTitle": "RUSS 3070",
+            "section": "001",
+            "courseTitle": "Third-Year Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 4710",
+            "section": "001",
+            "courseTitle": "19th Cent Russ Lit"
+        },
+        {
+            "catalogTitle": "RUSS 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "001",
+            "courseTitle": "CLAC"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "002",
+            "courseTitle": "Community Volunteering"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "003",
+            "courseTitle": "20th Cent. Russian Literature"
+        },
+        {
+            "catalogTitle": "RUSS 5280",
+            "section": "001",
+            "courseTitle": "Russian Phonetics"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "002",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

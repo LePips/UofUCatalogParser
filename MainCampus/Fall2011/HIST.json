@@ -1,0 +1,429 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HIST 105",
+            "section": "070",
+            "courseTitle": "World History since 1500"
+        },
+        {
+            "catalogTitle": "HIST 170",
+            "section": "020",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 170",
+            "section": "070",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "001",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1210",
+            "section": "001",
+            "courseTitle": "Asian Civ: Traditions"
+        },
+        {
+            "catalogTitle": "HIST 1300",
+            "section": "001",
+            "courseTitle": "Latin Amer Civ To 1820s"
+        },
+        {
+            "catalogTitle": "HIST 1450",
+            "section": "090",
+            "courseTitle": "Mid-East Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1500",
+            "section": "001",
+            "courseTitle": "World Hist to 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "060",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "090",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "001",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "002",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "003",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "020",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "070",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "090",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "091",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "092",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "095",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "096",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "097",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "098",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "099",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 2100",
+            "section": "001",
+            "courseTitle": "Nazi Germany: Holocaust"
+        },
+        {
+            "catalogTitle": "HIST 2700",
+            "section": "001",
+            "courseTitle": "US History To 1877"
+        },
+        {
+            "catalogTitle": "HIST 3080",
+            "section": "001",
+            "courseTitle": "The Renaissance"
+        },
+        {
+            "catalogTitle": "HIST 3140",
+            "section": "001",
+            "courseTitle": "Victorian Britain"
+        },
+        {
+            "catalogTitle": "HIST 3200",
+            "section": "001",
+            "courseTitle": "Age Of Imperialism"
+        },
+        {
+            "catalogTitle": "HIST 3400",
+            "section": "001",
+            "courseTitle": "Mid E Since 1914"
+        },
+        {
+            "catalogTitle": "HIST 3560",
+            "section": "001",
+            "courseTitle": "Modern India"
+        },
+        {
+            "catalogTitle": "HIST 3700",
+            "section": "001",
+            "courseTitle": "Colonial America"
+        },
+        {
+            "catalogTitle": "HIST 3720",
+            "section": "001",
+            "courseTitle": "New Nation, 1789-1848"
+        },
+        {
+            "catalogTitle": "HIST 3750",
+            "section": "001",
+            "courseTitle": "Recent America"
+        },
+        {
+            "catalogTitle": "HIST 4010",
+            "section": "001",
+            "courseTitle": "Roman Republic"
+        },
+        {
+            "catalogTitle": "HIST 4270",
+            "section": "001",
+            "courseTitle": "Empire/Explor 1400-1750"
+        },
+        {
+            "catalogTitle": "HIST 4320",
+            "section": "001",
+            "courseTitle": "America At War 1620-1898"
+        },
+        {
+            "catalogTitle": "HIST 4380",
+            "section": "001",
+            "courseTitle": "US Environmental Hist"
+        },
+        {
+            "catalogTitle": "HIST 4400",
+            "section": "090",
+            "courseTitle": "Introduction to Islam"
+        },
+        {
+            "catalogTitle": "HIST 4410",
+            "section": "001",
+            "courseTitle": "Arabian Days Caliphates"
+        },
+        {
+            "catalogTitle": "HIST 4420",
+            "section": "001",
+            "courseTitle": "The Crusades"
+        },
+        {
+            "catalogTitle": "HIST 4490",
+            "section": "001",
+            "courseTitle": "Israel & Palestine:War to Peac"
+        },
+        {
+            "catalogTitle": "HIST 4510",
+            "section": "001",
+            "courseTitle": "Japan's Aging Society"
+        },
+        {
+            "catalogTitle": "HIST 4510",
+            "section": "002",
+            "courseTitle": "Sources in Chinese Hist"
+        },
+        {
+            "catalogTitle": "HIST 4630",
+            "section": "001",
+            "courseTitle": "Hist of Sex in Amer"
+        },
+        {
+            "catalogTitle": "HIST 4671",
+            "section": "001",
+            "courseTitle": "Indians:Age of Conquest"
+        },
+        {
+            "catalogTitle": "HIST 4690",
+            "section": "001",
+            "courseTitle": "Africn Am Hst 1619-1890"
+        },
+        {
+            "catalogTitle": "HIST 4780",
+            "section": "001",
+            "courseTitle": "The Korean War"
+        },
+        {
+            "catalogTitle": "HIST 4855",
+            "section": "001",
+            "courseTitle": "Enviro Hist of India"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "001",
+            "courseTitle": "Feudalism & Chivalry"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "002",
+            "courseTitle": "Frontiers"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "003",
+            "courseTitle": "History and Fiction"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "004",
+            "courseTitle": "Caesar"
+        },
+        {
+            "catalogTitle": "HIST 5080",
+            "section": "001",
+            "courseTitle": "Amer Hist & Its Publics"
+        },
+        {
+            "catalogTitle": "HIST 5100",
+            "section": "001",
+            "courseTitle": "Internship Public Hist"
+        },
+        {
+            "catalogTitle": "HIST 5340",
+            "section": "001",
+            "courseTitle": "Teaching History"
+        },
+        {
+            "catalogTitle": "HIST 6010",
+            "section": "001",
+            "courseTitle": "Roman Republic"
+        },
+        {
+            "catalogTitle": "HIST 6380",
+            "section": "001",
+            "courseTitle": "U.S. Environmental Hist"
+        },
+        {
+            "catalogTitle": "HIST 6400",
+            "section": "001",
+            "courseTitle": "The Mid-East since 1914"
+        },
+        {
+            "catalogTitle": "HIST 6410",
+            "section": "001",
+            "courseTitle": "Arabian Days: Caliphate"
+        },
+        {
+            "catalogTitle": "HIST 6420",
+            "section": "001",
+            "courseTitle": "The Crusades"
+        },
+        {
+            "catalogTitle": "HIST 6490",
+            "section": "001",
+            "courseTitle": "Mid E Peace Negotiations"
+        },
+        {
+            "catalogTitle": "HIST 6510",
+            "section": "001",
+            "courseTitle": "Japan's Aging Society"
+        },
+        {
+            "catalogTitle": "HIST 6510",
+            "section": "002",
+            "courseTitle": "Sources in Chinese Hist"
+        },
+        {
+            "catalogTitle": "HIST 6780",
+            "section": "001",
+            "courseTitle": "The Korean War"
+        },
+        {
+            "catalogTitle": "HIST 6855",
+            "section": "001",
+            "courseTitle": "Enviro Hist of India"
+        },
+        {
+            "catalogTitle": "HIST 6880",
+            "section": "001",
+            "courseTitle": "Sp St-Latin America"
+        },
+        {
+            "catalogTitle": "HIST 6890",
+            "section": "001",
+            "courseTitle": "Sp St-World History"
+        },
+        {
+            "catalogTitle": "HIST 6900",
+            "section": "001",
+            "courseTitle": "Sp St-European History"
+        },
+        {
+            "catalogTitle": "HIST 6910",
+            "section": "001",
+            "courseTitle": "Sp St-American History"
+        },
+        {
+            "catalogTitle": "HIST 6910",
+            "section": "002",
+            "courseTitle": "Sp St-American History"
+        },
+        {
+            "catalogTitle": "HIST 6910",
+            "section": "004",
+            "courseTitle": "Sp St-American History"
+        },
+        {
+            "catalogTitle": "HIST 6950",
+            "section": "001",
+            "courseTitle": "Sp St-British History"
+        },
+        {
+            "catalogTitle": "HIST 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "HIST 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "HIST 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "HIST 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "HIST 7500",
+            "section": "001",
+            "courseTitle": "Prosem: US Hist To 1877"
+        },
+        {
+            "catalogTitle": "HIST 7600",
+            "section": "001",
+            "courseTitle": "Colloq in American Hist"
+        },
+        {
+            "catalogTitle": "HIST 7680",
+            "section": "001",
+            "courseTitle": "Colloq Amer Relig Hist"
+        },
+        {
+            "catalogTitle": "HIST 7740",
+            "section": "001",
+            "courseTitle": "Hist Colloquium Mid E"
+        },
+        {
+            "catalogTitle": "HIST 7760",
+            "section": "001",
+            "courseTitle": "Colloq in Asian History"
+        },
+        {
+            "catalogTitle": "HIST 7800",
+            "section": "001",
+            "courseTitle": "Historical Methods"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "019",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

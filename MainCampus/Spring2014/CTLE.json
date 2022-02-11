@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CTLE 600",
+            "section": "001",
+            "courseTitle": "Teaching in Higher Ed"
+        },
+        {
+            "catalogTitle": "CTLE 651",
+            "section": "090",
+            "courseTitle": "Cyber Pedagogy"
+        },
+        {
+            "catalogTitle": "CTLE 652",
+            "section": "001",
+            "courseTitle": "Advanced Cyber Pedagogy"
+        },
+        {
+            "catalogTitle": "CTLE 6000",
+            "section": "001",
+            "courseTitle": "Teaching in Higher Ed"
+        },
+        {
+            "catalogTitle": "CTLE 6510",
+            "section": "090",
+            "courseTitle": "Cyber Pedagogy"
+        },
+        {
+            "catalogTitle": "CTLE 6520",
+            "section": "001",
+            "courseTitle": "Advanced Cyber Pedagogy"
+        }
+    ]
+}

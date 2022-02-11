@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 925",
+            "section": "001",
+            "courseTitle": "Final Cut Pro Workshop"
+        },
+        {
+            "catalogTitle": "FA 945",
+            "section": "001",
+            "courseTitle": "Adv Final Cut Pro Wkshp"
+        },
+        {
+            "catalogTitle": "FA 946",
+            "section": "001",
+            "courseTitle": "FCP Wkshp & Adv. FCP Wkshp"
+        },
+        {
+            "catalogTitle": "FA 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 3300",
+            "section": "001",
+            "courseTitle": "Intro to Computer Music"
+        },
+        {
+            "catalogTitle": "FA 3350",
+            "section": "001",
+            "courseTitle": "3 D Computer Graphics"
+        },
+        {
+            "catalogTitle": "FA 3400",
+            "section": "001",
+            "courseTitle": "Digital Visual Effects"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "FA 3730",
+            "section": "001",
+            "courseTitle": "Beg Video Prod/Edit"
+        },
+        {
+            "catalogTitle": "FA 4800",
+            "section": "001",
+            "courseTitle": "Capstone Projects"
+        },
+        {
+            "catalogTitle": "FA 4900",
+            "section": "001",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 4900",
+            "section": "002",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 4900",
+            "section": "003",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 6800",
+            "section": "001",
+            "courseTitle": "Grad. Sem. ArtsTech"
+        }
+    ]
+}

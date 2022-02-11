@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "TURK 1010",
+            "section": "001",
+            "courseTitle": "Beginning Turkish I"
+        },
+        {
+            "catalogTitle": "TURK 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Turkish I"
+        },
+        {
+            "catalogTitle": "TURK 3010",
+            "section": "001",
+            "courseTitle": "Third Year Turkish I"
+        },
+        {
+            "catalogTitle": "TURK 4630",
+            "section": "001",
+            "courseTitle": "Cult Enctrs East & West"
+        },
+        {
+            "catalogTitle": "TURK 4880",
+            "section": "001",
+            "courseTitle": "Uzbek"
+        },
+        {
+            "catalogTitle": "TURK 6630",
+            "section": "001",
+            "courseTitle": "Cult Enctrs East & West"
+        },
+        {
+            "catalogTitle": "TURK 6880",
+            "section": "001",
+            "courseTitle": "Uzbek"
+        },
+        {
+            "catalogTitle": "TURK 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "TURK 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "TURK 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation-MA"
+        },
+        {
+            "catalogTitle": "TURK 6990",
+            "section": "001",
+            "courseTitle": "Cont Registration-MA"
+        }
+    ]
+}

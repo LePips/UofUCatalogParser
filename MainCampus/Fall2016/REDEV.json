@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6100",
+            "section": "001",
+            "courseTitle": "Urban Theory & Form"
+        },
+        {
+            "catalogTitle": "REDEV 6371",
+            "section": "001",
+            "courseTitle": "Systems Complexity"
+        },
+        {
+            "catalogTitle": "REDEV 6460",
+            "section": "001",
+            "courseTitle": "R.E. Market Analysis"
+        },
+        {
+            "catalogTitle": "REDEV 6500",
+            "section": "001",
+            "courseTitle": "Pres. Theory & Practice"
+        },
+        {
+            "catalogTitle": "REDEV 6971",
+            "section": "001",
+            "courseTitle": "Professional Project"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 112",
+            "section": "001",
+            "courseTitle": "Investment Stategies"
+        },
+        {
+            "catalogTitle": "LLBUS 180",
+            "section": "001",
+            "courseTitle": "Intro to Personal Trading"
+        },
+        {
+            "catalogTitle": "LLBUS 183",
+            "section": "001",
+            "courseTitle": "How Nature Shapes the Markets"
+        },
+        {
+            "catalogTitle": "LLBUS 191",
+            "section": "001",
+            "courseTitle": "Lane Change: Network Your Way"
+        },
+        {
+            "catalogTitle": "LLBUS 192",
+            "section": "001",
+            "courseTitle": "How to Execute a Trade"
+        }
+    ]
+}

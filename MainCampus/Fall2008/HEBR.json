@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 101",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 201",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 301",
+            "section": "001",
+            "courseTitle": "3rd Yr Israeli Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 1010",
+            "section": "001",
+            "courseTitle": "Beginning Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 3010",
+            "section": "001",
+            "courseTitle": "3rd Yr Israeli Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 4601",
+            "section": "001",
+            "courseTitle": "Biblical Hebrew: Poetry"
+        },
+        {
+            "catalogTitle": "HEBR 6601",
+            "section": "001",
+            "courseTitle": "Biblical Hebrew: Poetry"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "HEBR 6920",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

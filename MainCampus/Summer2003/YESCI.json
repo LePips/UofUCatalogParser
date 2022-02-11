@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESCI 411",
+            "section": "001",
+            "courseTitle": "Bird Brains"
+        },
+        {
+            "catalogTitle": "YESCI 500",
+            "section": "001",
+            "courseTitle": "Tech Town"
+        },
+        {
+            "catalogTitle": "YESCI 500",
+            "section": "003",
+            "courseTitle": "Tech Town"
+        },
+        {
+            "catalogTitle": "YESCI 510",
+            "section": "001",
+            "courseTitle": "Space Academy"
+        },
+        {
+            "catalogTitle": "YESCI 510",
+            "section": "002",
+            "courseTitle": "Space Academy"
+        }
+    ]
+}

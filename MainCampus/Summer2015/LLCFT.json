@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLCFT 224",
+            "section": "001",
+            "courseTitle": "Screen Printing"
+        },
+        {
+            "catalogTitle": "LLCFT 229",
+            "section": "001",
+            "courseTitle": "Beginning Metal Smithing"
+        },
+        {
+            "catalogTitle": "LLCFT 229",
+            "section": "002",
+            "courseTitle": "Beginning Metal Smithing"
+        },
+        {
+            "catalogTitle": "LLCFT 233",
+            "section": "001",
+            "courseTitle": "Painting with Glass"
+        },
+        {
+            "catalogTitle": "LLCFT 234",
+            "section": "001",
+            "courseTitle": "Introduction to Welding"
+        },
+        {
+            "catalogTitle": "LLCFT 234",
+            "section": "002",
+            "courseTitle": "Introduction to Welding"
+        },
+        {
+            "catalogTitle": "LLCFT 242",
+            "section": "001",
+            "courseTitle": "Metal Clay - Silver"
+        },
+        {
+            "catalogTitle": "LLCFT 257",
+            "section": "001",
+            "courseTitle": "Italian Ceramics"
+        },
+        {
+            "catalogTitle": "LLCFT 257",
+            "section": "002",
+            "courseTitle": "Italian Ceramics"
+        },
+        {
+            "catalogTitle": "LLCFT 267",
+            "section": "001",
+            "courseTitle": "Sewing Basics"
+        },
+        {
+            "catalogTitle": "LLCFT 269",
+            "section": "001",
+            "courseTitle": "Wire Work - Beaded Abacus"
+        },
+        {
+            "catalogTitle": "LLCFT 270",
+            "section": "001",
+            "courseTitle": "Heritage Jewelry - Knotting"
+        }
+    ]
+}

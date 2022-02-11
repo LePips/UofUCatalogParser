@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "001",
+            "courseTitle": "Ciliogen., Signal., and Ciliop"
+        },
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "002",
+            "courseTitle": "Shaping the Mitochondrion"
+        },
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "003",
+            "courseTitle": "Genome Evolution"
+        },
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "004",
+            "courseTitle": "Metastasis"
+        },
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "005",
+            "courseTitle": "Mechanisms of Innate Immunity"
+        },
+        {
+            "catalogTitle": "MBIOL 6480",
+            "section": "001",
+            "courseTitle": "Cell Biology"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HIST 105",
+            "section": "060",
+            "courseTitle": "World History since 1500"
+        },
+        {
+            "catalogTitle": "HIST 170",
+            "section": "070",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "090",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1500",
+            "section": "090",
+            "courseTitle": "World Hist to 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "060",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "001",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "070",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "091",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 4400",
+            "section": "090",
+            "courseTitle": "Introduction to Islam"
+        },
+        {
+            "catalogTitle": "HIST 4760",
+            "section": "001",
+            "courseTitle": "US For Rel SN 1898"
+        },
+        {
+            "catalogTitle": "HIST 4790",
+            "section": "001",
+            "courseTitle": "American Religions"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "001",
+            "courseTitle": "Modern Warfare"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

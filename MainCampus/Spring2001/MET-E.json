@@ -1,0 +1,234 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MET E 1050",
+            "section": "001",
+            "courseTitle": "Metals and Civilization"
+        },
+        {
+            "catalogTitle": "MET E 1620",
+            "section": "001",
+            "courseTitle": "Intr Phys Metallurgy"
+        },
+        {
+            "catalogTitle": "MET E 3080",
+            "section": "001",
+            "courseTitle": "Image Analysis"
+        },
+        {
+            "catalogTitle": "MET E 3530",
+            "section": "001",
+            "courseTitle": "Exper Tech Metallurgy"
+        },
+        {
+            "catalogTitle": "MET E 3530",
+            "section": "002",
+            "courseTitle": "Exper Tech Metallurgy"
+        },
+        {
+            "catalogTitle": "MET E 3620",
+            "section": "001",
+            "courseTitle": "Thermdynm-Phase Equilib"
+        },
+        {
+            "catalogTitle": "MET E 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "MET E 5555",
+            "section": "001",
+            "courseTitle": "Envir Engin Seminar"
+        },
+        {
+            "catalogTitle": "MET E 5600",
+            "section": "001",
+            "courseTitle": "Corrosion Engineering"
+        },
+        {
+            "catalogTitle": "MET E 5670",
+            "section": "001",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 5670",
+            "section": "002",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 5670",
+            "section": "003",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 5690",
+            "section": "001",
+            "courseTitle": "Process Eng Statistcs"
+        },
+        {
+            "catalogTitle": "MET E 5690",
+            "section": "002",
+            "courseTitle": "Process Eng Statistcs"
+        },
+        {
+            "catalogTitle": "MET E 5710",
+            "section": "001",
+            "courseTitle": "High Temp Chem Process"
+        },
+        {
+            "catalogTitle": "MET E 5710",
+            "section": "002",
+            "courseTitle": "High Temp Chem Process"
+        },
+        {
+            "catalogTitle": "MET E 5750",
+            "section": "001",
+            "courseTitle": "Rate Processes"
+        },
+        {
+            "catalogTitle": "MET E 5760",
+            "section": "001",
+            "courseTitle": "Process Design/Econ"
+        },
+        {
+            "catalogTitle": "MET E 5780",
+            "section": "001",
+            "courseTitle": "Metals Processing"
+        },
+        {
+            "catalogTitle": "MET E 5780",
+            "section": "002",
+            "courseTitle": "Metals Processing"
+        },
+        {
+            "catalogTitle": "MET E 5800",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MET E 5830",
+            "section": "001",
+            "courseTitle": "Senior Project"
+        },
+        {
+            "catalogTitle": "MET E 5910",
+            "section": "001",
+            "courseTitle": "Selected Topics"
+        },
+        {
+            "catalogTitle": "MET E 5910",
+            "section": "002",
+            "courseTitle": "Selected Topics"
+        },
+        {
+            "catalogTitle": "MET E 6600",
+            "section": "001",
+            "courseTitle": "Corrosion Engineering"
+        },
+        {
+            "catalogTitle": "MET E 6670",
+            "section": "001",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 6670",
+            "section": "002",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 6670",
+            "section": "003",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 6690",
+            "section": "001",
+            "courseTitle": "Process Eng Statistics"
+        },
+        {
+            "catalogTitle": "MET E 6690",
+            "section": "002",
+            "courseTitle": "Process Eng Statistics"
+        },
+        {
+            "catalogTitle": "MET E 6710",
+            "section": "001",
+            "courseTitle": "High Temp Chem Process"
+        },
+        {
+            "catalogTitle": "MET E 6710",
+            "section": "002",
+            "courseTitle": "High Temp Chem Process"
+        },
+        {
+            "catalogTitle": "MET E 6740",
+            "section": "001",
+            "courseTitle": "Solution Conc-Purifcatn"
+        },
+        {
+            "catalogTitle": "MET E 6750",
+            "section": "001",
+            "courseTitle": "Rate Processes"
+        },
+        {
+            "catalogTitle": "MET E 6760",
+            "section": "001",
+            "courseTitle": "Process Design/Econ"
+        },
+        {
+            "catalogTitle": "MET E 6780",
+            "section": "001",
+            "courseTitle": "Metals Processing"
+        },
+        {
+            "catalogTitle": "MET E 6780",
+            "section": "002",
+            "courseTitle": "Metals Processing"
+        },
+        {
+            "catalogTitle": "MET E 6800",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MET E 7270",
+            "section": "001",
+            "courseTitle": "Physical Metallurgy II"
+        },
+        {
+            "catalogTitle": "MET E 7910",
+            "section": "001",
+            "courseTitle": "Selected Topics"
+        },
+        {
+            "catalogTitle": "MET E 7910",
+            "section": "002",
+            "courseTitle": "Selected Topics"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MET E 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

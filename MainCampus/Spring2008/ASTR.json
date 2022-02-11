@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTR 105",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 106",
+            "section": "002",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 108",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "ASTR 206",
+            "section": "001",
+            "courseTitle": "Popular Observ Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 1050",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 1050",
+            "section": "002",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "ASTR 1060",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 1060",
+            "section": "002",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 1080",
+            "section": "001",
+            "courseTitle": "Does Et Exist?"
+        },
+        {
+            "catalogTitle": "ASTR 2060",
+            "section": "001",
+            "courseTitle": "Popular Observ Astronomy"
+        }
+    ]
+}

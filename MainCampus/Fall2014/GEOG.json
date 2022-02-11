@@ -1,0 +1,404 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEOG 100",
+            "section": "001",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 314",
+            "section": "001",
+            "courseTitle": "Intro to GIS"
+        },
+        {
+            "catalogTitle": "GEOG 314",
+            "section": "004",
+            "courseTitle": "Intro to GIS"
+        },
+        {
+            "catalogTitle": "GEOG 1000",
+            "section": "001",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 1000",
+            "section": "090",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "GEOG 1010",
+            "section": "090",
+            "courseTitle": "Into Geographic Data"
+        },
+        {
+            "catalogTitle": "GEOG 1100",
+            "section": "001",
+            "courseTitle": "Exploring Google Earth"
+        },
+        {
+            "catalogTitle": "GEOG 1180",
+            "section": "090",
+            "courseTitle": "Intro Geo-Programming"
+        },
+        {
+            "catalogTitle": "GEOG 1300",
+            "section": "001",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 1300",
+            "section": "090",
+            "courseTitle": "World Regional Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 1400",
+            "section": "090",
+            "courseTitle": "Human Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3000",
+            "section": "001",
+            "courseTitle": "Geo-Excursions"
+        },
+        {
+            "catalogTitle": "GEOG 3040",
+            "section": "001",
+            "courseTitle": "Principl Of Cartography"
+        },
+        {
+            "catalogTitle": "GEOG 3040",
+            "section": "002",
+            "courseTitle": "Principl Of Cartography"
+        },
+        {
+            "catalogTitle": "GEOG 3040",
+            "section": "003",
+            "courseTitle": "Principl Of Cartography"
+        },
+        {
+            "catalogTitle": "GEOG 3040",
+            "section": "005",
+            "courseTitle": "Principl Of Cartography"
+        },
+        {
+            "catalogTitle": "GEOG 3110",
+            "section": "001",
+            "courseTitle": "The Earth From Space"
+        },
+        {
+            "catalogTitle": "GEOG 3140",
+            "section": "001",
+            "courseTitle": "Intro to GIS"
+        },
+        {
+            "catalogTitle": "GEOG 3140",
+            "section": "002",
+            "courseTitle": "Intro to GIS"
+        },
+        {
+            "catalogTitle": "GEOG 3140",
+            "section": "003",
+            "courseTitle": "Intro to GIS"
+        },
+        {
+            "catalogTitle": "GEOG 3140",
+            "section": "004",
+            "courseTitle": "Intro to GIS"
+        },
+        {
+            "catalogTitle": "GEOG 3170",
+            "section": "001",
+            "courseTitle": "GeoData Field Methods"
+        },
+        {
+            "catalogTitle": "GEOG 3200",
+            "section": "001",
+            "courseTitle": "Mtns, Rivers, Deserts"
+        },
+        {
+            "catalogTitle": "GEOG 3205",
+            "section": "001",
+            "courseTitle": "Reg. & Global Climates"
+        },
+        {
+            "catalogTitle": "GEOG 3215",
+            "section": "001",
+            "courseTitle": "Climate Change Impacts"
+        },
+        {
+            "catalogTitle": "GEOG 3310",
+            "section": "001",
+            "courseTitle": "Intro Natural Hazards"
+        },
+        {
+            "catalogTitle": "GEOG 3350",
+            "section": "001",
+            "courseTitle": "Resource Consrv/Env Mgt"
+        },
+        {
+            "catalogTitle": "GEOG 3400",
+            "section": "001",
+            "courseTitle": "Population Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 3400",
+            "section": "002",
+            "courseTitle": "Population Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 3400",
+            "section": "003",
+            "courseTitle": "Population Geogr"
+        },
+        {
+            "catalogTitle": "GEOG 3430",
+            "section": "090",
+            "courseTitle": "U.S. Historical Geog."
+        },
+        {
+            "catalogTitle": "GEOG 3600",
+            "section": "090",
+            "courseTitle": "Geography of Utah"
+        },
+        {
+            "catalogTitle": "GEOG 3610",
+            "section": "001",
+            "courseTitle": "World Cities"
+        },
+        {
+            "catalogTitle": "GEOG 3620",
+            "section": "090",
+            "courseTitle": "Geog of North America"
+        },
+        {
+            "catalogTitle": "GEOG 3650",
+            "section": "090",
+            "courseTitle": "Middle East Geography"
+        },
+        {
+            "catalogTitle": "GEOG 3670",
+            "section": "090",
+            "courseTitle": "Latin America"
+        },
+        {
+            "catalogTitle": "GEOG 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "GEOG 5120",
+            "section": "001",
+            "courseTitle": "Environmental Optics"
+        },
+        {
+            "catalogTitle": "GEOG 5131",
+            "section": "001",
+            "courseTitle": "Capstone in RS"
+        },
+        {
+            "catalogTitle": "GEOG 5140",
+            "section": "090",
+            "courseTitle": "Methods in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5150",
+            "section": "001",
+            "courseTitle": "Spatial Data Design GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5150",
+            "section": "002",
+            "courseTitle": "Spatial Data Design GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5161",
+            "section": "001",
+            "courseTitle": "Capstone in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5165",
+            "section": "001",
+            "courseTitle": "Web GIS"
+        },
+        {
+            "catalogTitle": "GEOG 5170",
+            "section": "001",
+            "courseTitle": "GeoData Field Methods"
+        },
+        {
+            "catalogTitle": "GEOG 5180",
+            "section": "001",
+            "courseTitle": "Geoprocessing w/Python"
+        },
+        {
+            "catalogTitle": "GEOG 5200",
+            "section": "001",
+            "courseTitle": "Mtns, Rivers, Deserts"
+        },
+        {
+            "catalogTitle": "GEOG 5205",
+            "section": "001",
+            "courseTitle": "Reg. & Global Climates"
+        },
+        {
+            "catalogTitle": "GEOG 5215",
+            "section": "001",
+            "courseTitle": "Climate Change Impacts"
+        },
+        {
+            "catalogTitle": "GEOG 5400",
+            "section": "001",
+            "courseTitle": "Population Geography"
+        },
+        {
+            "catalogTitle": "GEOG 5400",
+            "section": "002",
+            "courseTitle": "Population Geography"
+        },
+        {
+            "catalogTitle": "GEOG 5400",
+            "section": "003",
+            "courseTitle": "Population Geography"
+        },
+        {
+            "catalogTitle": "GEOG 5460",
+            "section": "001",
+            "courseTitle": "Pop Lit Global Change"
+        },
+        {
+            "catalogTitle": "GEOG 5940",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEOG 5951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6000",
+            "section": "001",
+            "courseTitle": "Adv Geog Data Analysis"
+        },
+        {
+            "catalogTitle": "GEOG 6120",
+            "section": "001",
+            "courseTitle": "Environmental Optics"
+        },
+        {
+            "catalogTitle": "GEOG 6150",
+            "section": "001",
+            "courseTitle": "Spatial Data Design GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6150",
+            "section": "002",
+            "courseTitle": "Spatial Data Design GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6161",
+            "section": "001",
+            "courseTitle": "Capstone in GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6162",
+            "section": "001",
+            "courseTitle": "Project Management"
+        },
+        {
+            "catalogTitle": "GEOG 6165",
+            "section": "001",
+            "courseTitle": "Web GIS"
+        },
+        {
+            "catalogTitle": "GEOG 6180",
+            "section": "001",
+            "courseTitle": "Geoprocessing w/Python"
+        },
+        {
+            "catalogTitle": "GEOG 6430",
+            "section": "001",
+            "courseTitle": "PERG Reading Group"
+        },
+        {
+            "catalogTitle": "GEOG 6460",
+            "section": "001",
+            "courseTitle": "Pop Lit Global Change"
+        },
+        {
+            "catalogTitle": "GEOG 6900",
+            "section": "001",
+            "courseTitle": "Research Practicum"
+        },
+        {
+            "catalogTitle": "GEOG 6940",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEOG 6950",
+            "section": "001",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 6951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 6960",
+            "section": "002",
+            "courseTitle": "Topics in Medical/ Health Geog"
+        },
+        {
+            "catalogTitle": "GEOG 6961",
+            "section": "001",
+            "courseTitle": "Sem-Geog Thought/Inquir"
+        },
+        {
+            "catalogTitle": "GEOG 6963",
+            "section": "001",
+            "courseTitle": "Grant Wrtg -Social/Behavorial"
+        },
+        {
+            "catalogTitle": "GEOG 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 6974",
+            "section": "001",
+            "courseTitle": "Tech Reprt Resrch-Mstrs"
+        },
+        {
+            "catalogTitle": "GEOG 7940",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEOG 7950",
+            "section": "001",
+            "courseTitle": "Indiv Projects"
+        },
+        {
+            "catalogTitle": "GEOG 7951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GEOG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "GEOG 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "GEOG 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

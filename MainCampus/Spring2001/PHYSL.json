@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHYSL 5200",
+            "section": "001",
+            "courseTitle": "Princ Of Physiology"
+        },
+        {
+            "catalogTitle": "PHYSL 6010",
+            "section": "001",
+            "courseTitle": "Systemic Physiology"
+        },
+        {
+            "catalogTitle": "PHYSL 6050",
+            "section": "001",
+            "courseTitle": "General Physiology"
+        },
+        {
+            "catalogTitle": "PHYSL 6070",
+            "section": "001",
+            "courseTitle": "Systemic Physiology"
+        },
+        {
+            "catalogTitle": "PHYSL 7800",
+            "section": "001",
+            "courseTitle": "Physiology Seminar"
+        },
+        {
+            "catalogTitle": "PHYSL 7930",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "PHYSL 7930",
+            "section": "003",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "PHYSL 7950",
+            "section": "001",
+            "courseTitle": "Cell Structure/Function"
+        },
+        {
+            "catalogTitle": "PHYSL 7960",
+            "section": "001",
+            "courseTitle": "Chemosensory Systems"
+        },
+        {
+            "catalogTitle": "PHYSL 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Res: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYSL 7980",
+            "section": "001",
+            "courseTitle": "Faculty Rotation"
+        },
+        {
+            "catalogTitle": "PHYSL 7990",
+            "section": "001",
+            "courseTitle": "Continuing Reg: Ph.D."
+        }
+    ]
+}

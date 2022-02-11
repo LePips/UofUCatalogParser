@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MG EN 2400",
+            "section": "001",
+            "courseTitle": "Intro Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 2400",
+            "section": "002",
+            "courseTitle": "Intro Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 2400",
+            "section": "003",
+            "courseTitle": "Intro Surveying"
+        },
+        {
+            "catalogTitle": "MG EN 5970",
+            "section": "001",
+            "courseTitle": "Intern Program"
+        },
+        {
+            "catalogTitle": "MG EN 5980",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 6900",
+            "section": "003",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "MG EN 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MG EN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MG EN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MG EN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MG EN 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MG EN 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

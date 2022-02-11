@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBIOL 6100",
+            "section": "001",
+            "courseTitle": "Journal Club/Grant Wrtg"
+        },
+        {
+            "catalogTitle": "MBIOL 6480",
+            "section": "001",
+            "courseTitle": "Cell Biology"
+        },
+        {
+            "catalogTitle": "MBIOL 6481",
+            "section": "001",
+            "courseTitle": "Cell Biology II"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "MBIOL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

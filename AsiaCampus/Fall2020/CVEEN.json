@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CVEEN 2010",
+            "section": "301",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "CVEEN 2140",
+            "section": "301",
+            "courseTitle": "Strength of Materials"
+        },
+        {
+            "catalogTitle": "CVEEN 2300",
+            "section": "301",
+            "courseTitle": "Engineering Economics"
+        },
+        {
+            "catalogTitle": "CVEEN 2310",
+            "section": "301",
+            "courseTitle": "Probability/Statistics"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 113",
+            "section": "007",
+            "courseTitle": "Accounting"
+        },
+        {
+            "catalogTitle": "PROED 114",
+            "section": "007",
+            "courseTitle": "Finance for Non-Financial Mgrs"
+        },
+        {
+            "catalogTitle": "PROED 303",
+            "section": "007",
+            "courseTitle": "Nego. and Conflict Mgt."
+        },
+        {
+            "catalogTitle": "PROED 401",
+            "section": "007",
+            "courseTitle": "Collaborative Leadership"
+        },
+        {
+            "catalogTitle": "PROED 402",
+            "section": "007",
+            "courseTitle": "Managing Collaboratively"
+        },
+        {
+            "catalogTitle": "PROED 403",
+            "section": "007",
+            "courseTitle": "Teams of Trust"
+        },
+        {
+            "catalogTitle": "PROED 509",
+            "section": "007",
+            "courseTitle": "NP Fundraising Plan"
+        },
+        {
+            "catalogTitle": "PROED 611",
+            "section": "007",
+            "courseTitle": "Fundamentals of PM I"
+        },
+        {
+            "catalogTitle": "PROED 612",
+            "section": "007",
+            "courseTitle": "Fundamentals of PM II"
+        },
+        {
+            "catalogTitle": "PROED 720",
+            "section": "007",
+            "courseTitle": "Effective Presentations"
+        },
+        {
+            "catalogTitle": "PROED 722",
+            "section": "007",
+            "courseTitle": "Skills for Trainers"
+        },
+        {
+            "catalogTitle": "PROED 723",
+            "section": "007",
+            "courseTitle": "Adv Skills for Wrkplc Trainers"
+        },
+        {
+            "catalogTitle": "PROED 769",
+            "section": "007",
+            "courseTitle": "Curriculum Design"
+        }
+    ]
+}

@@ -1,0 +1,504 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 200",
+            "section": "002",
+            "courseTitle": "So Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 578",
+            "section": "001",
+            "courseTitle": "SW Practice Methods"
+        },
+        {
+            "catalogTitle": "SW 702",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 706",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 713",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 802",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 806",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 813",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "001",
+            "courseTitle": "Healthcare Respnse to Violence"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "002",
+            "courseTitle": "Selfish Sacred: Case Self Care"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "003",
+            "courseTitle": "Contemporary Ethics & Legal Is"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "004",
+            "courseTitle": "Finding the Best Evidence"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "005",
+            "courseTitle": "Private Practice: Get Started"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "006",
+            "courseTitle": "Informatics: A New Speciality?"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "007",
+            "courseTitle": "Arts in Caring"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "008",
+            "courseTitle": "Psychiatric Medications"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "009",
+            "courseTitle": "Multi Dimensional Therapy"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "010",
+            "courseTitle": "Shame and Trauma"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "011",
+            "courseTitle": "Love and Logic Parenting"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "012",
+            "courseTitle": "Adv Tech Counseling Couples"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "013",
+            "courseTitle": "Differential Diagnosis"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "014",
+            "courseTitle": "Positive Psychology"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "015",
+            "courseTitle": "Adolescents Who Self-Injure"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "016",
+            "courseTitle": "Adv Adolescent Counseling"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "017",
+            "courseTitle": "Drugs A to Z and Hep C Too"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "018",
+            "courseTitle": "Trad/Non Health and Healing"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "019",
+            "courseTitle": "SW in West African Context"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "020",
+            "courseTitle": "PTSD and TBI"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "021",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "120",
+            "courseTitle": "Intimate Partner Violence"
+        },
+        {
+            "catalogTitle": "SW 1010",
+            "section": "002",
+            "courseTitle": "Soc Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 3550",
+            "section": "001",
+            "courseTitle": "Soc Div & Cultrl Undrstng"
+        },
+        {
+            "catalogTitle": "SW 3804",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SW 3804",
+            "section": "002",
+            "courseTitle": "Writing in Social Work"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "001",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "002",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "003",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "001",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "002",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "003",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "002",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 5702",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 5706",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 5713",
+            "section": "001",
+            "courseTitle": "Function & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "011",
+            "courseTitle": "Love and Logic Parenting"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "012",
+            "courseTitle": "Adv Tech Counseling Couples"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "013",
+            "courseTitle": "Differential Diagnosis"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "014",
+            "courseTitle": "Positive Psychology"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "015",
+            "courseTitle": "Adolescents Who Self-Injure"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "016",
+            "courseTitle": "Adv Adolescent Counseling"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "017",
+            "courseTitle": "Drugs A to Z and Hep C Too"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "018",
+            "courseTitle": "Trad/Non in Health and Healing"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "019",
+            "courseTitle": "SW in a West African Context"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "020",
+            "courseTitle": "PTSD and TBI"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "001",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "001",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "001",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "001",
+            "courseTitle": "Advanced Brief Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "002",
+            "courseTitle": "Spirituality in Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "003",
+            "courseTitle": "DSM IV-TR"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "004",
+            "courseTitle": "Clinical Hypnosis Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "005",
+            "courseTitle": "Mind & Body Bridging"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "006",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "007",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "008",
+            "courseTitle": "Play Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "009",
+            "courseTitle": "Adolescent Offender/Drug Abuse"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "010",
+            "courseTitle": "Intercultural Communications"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "011",
+            "courseTitle": "Experiencing Experientialism"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "012",
+            "courseTitle": "Criminal Thinking"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "013",
+            "courseTitle": "Eating Disorders"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "014",
+            "courseTitle": "Management in Managed Care"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "016",
+            "courseTitle": "Elective I Assesment Models"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "017",
+            "courseTitle": "Elective II Treatment Models"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "090",
+            "courseTitle": "Issues in Women's Health"
+        },
+        {
+            "catalogTitle": "SW 6802",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 6806",
+            "section": "001",
+            "courseTitle": "A&D Field Training II"
+        },
+        {
+            "catalogTitle": "SW 6813",
+            "section": "001",
+            "courseTitle": "Functions & Recovery II"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "011",
+            "courseTitle": "Love and Logic Parenting"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "012",
+            "courseTitle": "Adv Tech Counseling Couples"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "013",
+            "courseTitle": "Differential Diagnosis"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "014",
+            "courseTitle": "Positive Psychology"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "015",
+            "courseTitle": "Adolescents Who Self-Injure"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "016",
+            "courseTitle": "Adv Adolescent Counseling"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "017",
+            "courseTitle": "Drugs A to Z and Hep C Too"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "018",
+            "courseTitle": "Trad/Non to Health and Healing"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "019",
+            "courseTitle": "SW in a West African Context"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "020",
+            "courseTitle": "PTSD and TBI"
+        },
+        {
+            "catalogTitle": "SW 6900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 6940",
+            "section": "001",
+            "courseTitle": "Rsch Project"
+        },
+        {
+            "catalogTitle": "SW 7612",
+            "section": "821",
+            "courseTitle": "Educational Theory"
+        },
+        {
+            "catalogTitle": "SW 7722",
+            "section": "821",
+            "courseTitle": "Appl. Research Methods"
+        },
+        {
+            "catalogTitle": "SW 7822",
+            "section": "822",
+            "courseTitle": "Ph.D. Practicum"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "821",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "821",
+            "courseTitle": "Dissertation Research"
+        }
+    ]
+}

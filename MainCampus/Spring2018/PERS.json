@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PERS 102",
+            "section": "001",
+            "courseTitle": "Beginning Persian II"
+        },
+        {
+            "catalogTitle": "PERS 202",
+            "section": "001",
+            "courseTitle": "Intermediate Persian II"
+        },
+        {
+            "catalogTitle": "PERS 1020",
+            "section": "001",
+            "courseTitle": "Beginning Persian II"
+        },
+        {
+            "catalogTitle": "PERS 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Persian II"
+        },
+        {
+            "catalogTitle": "PERS 3020",
+            "section": "001",
+            "courseTitle": "Third Year Persian"
+        },
+        {
+            "catalogTitle": "PERS 4020",
+            "section": "001",
+            "courseTitle": "Adv Pers Lang Skills II"
+        },
+        {
+            "catalogTitle": "PERS 4880",
+            "section": "001",
+            "courseTitle": "God, Love, And Mysticism"
+        },
+        {
+            "catalogTitle": "PERS 6880",
+            "section": "001",
+            "courseTitle": "God, Love, & Mysticism"
+        },
+        {
+            "catalogTitle": "PERS 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

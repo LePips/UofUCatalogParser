@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHL 101",
+            "section": "001",
+            "courseTitle": "Yoga for Strength"
+        },
+        {
+            "catalogTitle": "LLHL 102",
+            "section": "001",
+            "courseTitle": "Yoga Experiential Retreat"
+        },
+        {
+            "catalogTitle": "LLHL 105",
+            "section": "001",
+            "courseTitle": "Back Care"
+        },
+        {
+            "catalogTitle": "LLHL 107",
+            "section": "001",
+            "courseTitle": "Zen Meditation"
+        },
+        {
+            "catalogTitle": "LLHL 117",
+            "section": "001",
+            "courseTitle": "Gluten-free Living"
+        },
+        {
+            "catalogTitle": "LLHL 121",
+            "section": "001",
+            "courseTitle": "Nutrition for Vegetarians"
+        },
+        {
+            "catalogTitle": "LLHL 245",
+            "section": "001",
+            "courseTitle": "Yoga for Your Core"
+        }
+    ]
+}

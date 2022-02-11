@@ -1,0 +1,784 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELI 17",
+            "section": "001",
+            "courseTitle": "Prgrm Coordinator Consultation"
+        },
+        {
+            "catalogTitle": "ELI 17",
+            "section": "002",
+            "courseTitle": "Prgrm Coordinator Consultation"
+        },
+        {
+            "catalogTitle": "ELI 18",
+            "section": "002",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 19",
+            "section": "001",
+            "courseTitle": "ELI Orientation Class"
+        },
+        {
+            "catalogTitle": "ELI 19",
+            "section": "002",
+            "courseTitle": "ELI Orientation Class"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "002",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "003",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 110",
+            "section": "001",
+            "courseTitle": "Introduction to Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 110",
+            "section": "002",
+            "courseTitle": "Introduction to Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 110",
+            "section": "004",
+            "courseTitle": "Introduction to Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 120",
+            "section": "001",
+            "courseTitle": "Skill Building Writing I"
+        },
+        {
+            "catalogTitle": "ELI 120",
+            "section": "002",
+            "courseTitle": "Skill Building Writing I"
+        },
+        {
+            "catalogTitle": "ELI 130",
+            "section": "001",
+            "courseTitle": "Skill Building Reading I"
+        },
+        {
+            "catalogTitle": "ELI 130",
+            "section": "002",
+            "courseTitle": "Skill Building Reading I"
+        },
+        {
+            "catalogTitle": "ELI 140",
+            "section": "001",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 140",
+            "section": "002",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 210",
+            "section": "001",
+            "courseTitle": "Skill Building Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 210",
+            "section": "002",
+            "courseTitle": "Skill Building Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 220",
+            "section": "001",
+            "courseTitle": "Skill Building Writing II"
+        },
+        {
+            "catalogTitle": "ELI 220",
+            "section": "002",
+            "courseTitle": "Skill Building Writing II"
+        },
+        {
+            "catalogTitle": "ELI 230",
+            "section": "001",
+            "courseTitle": "Skill Building Reading II"
+        },
+        {
+            "catalogTitle": "ELI 230",
+            "section": "002",
+            "courseTitle": "Skill Building Reading II"
+        },
+        {
+            "catalogTitle": "ELI 240",
+            "section": "001",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 240",
+            "section": "002",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 310",
+            "section": "001",
+            "courseTitle": "Skill Building Grammar III"
+        },
+        {
+            "catalogTitle": "ELI 310",
+            "section": "002",
+            "courseTitle": "Skill Building Grammar III"
+        },
+        {
+            "catalogTitle": "ELI 310",
+            "section": "004",
+            "courseTitle": "Skill Building Grammar III"
+        },
+        {
+            "catalogTitle": "ELI 320",
+            "section": "001",
+            "courseTitle": "Skill Building Writing III"
+        },
+        {
+            "catalogTitle": "ELI 320",
+            "section": "002",
+            "courseTitle": "Skill Building Writing III"
+        },
+        {
+            "catalogTitle": "ELI 320",
+            "section": "004",
+            "courseTitle": "Skill Building Writing III"
+        },
+        {
+            "catalogTitle": "ELI 330",
+            "section": "001",
+            "courseTitle": "Skill Building Reading III"
+        },
+        {
+            "catalogTitle": "ELI 330",
+            "section": "002",
+            "courseTitle": "Skill Building Reading III"
+        },
+        {
+            "catalogTitle": "ELI 330",
+            "section": "004",
+            "courseTitle": "Skill Building Reading III"
+        },
+        {
+            "catalogTitle": "ELI 340",
+            "section": "001",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 340",
+            "section": "002",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 340",
+            "section": "004",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "001",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "002",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "003",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "004",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "005",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "006",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "001",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "002",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "003",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "004",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "005",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "001",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "002",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "003",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "004",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "005",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "006",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "001",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "002",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "003",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "004",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "005",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "006",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "001",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "002",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "003",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "004",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "005",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "006",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "008",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "001",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "002",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "003",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "004",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "005",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "006",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "008",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "001",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "002",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "003",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "004",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "005",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "006",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "007",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "008",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "001",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "002",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "003",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "004",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "005",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "006",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "008",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 550",
+            "section": "001",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 550",
+            "section": "002",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 610",
+            "section": "001",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 610",
+            "section": "002",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 610",
+            "section": "003",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 610",
+            "section": "004",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 610",
+            "section": "005",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 610",
+            "section": "006",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 620",
+            "section": "001",
+            "courseTitle": "Intermediate Writing II"
+        },
+        {
+            "catalogTitle": "ELI 620",
+            "section": "002",
+            "courseTitle": "Intermediate Writing II"
+        },
+        {
+            "catalogTitle": "ELI 620",
+            "section": "003",
+            "courseTitle": "Intermediate Writing II"
+        },
+        {
+            "catalogTitle": "ELI 620",
+            "section": "004",
+            "courseTitle": "Intermediate Writing II"
+        },
+        {
+            "catalogTitle": "ELI 620",
+            "section": "005",
+            "courseTitle": "Intermediate Writing II"
+        },
+        {
+            "catalogTitle": "ELI 620",
+            "section": "006",
+            "courseTitle": "Intermediate Writing II"
+        },
+        {
+            "catalogTitle": "ELI 630",
+            "section": "001",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 630",
+            "section": "002",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 630",
+            "section": "003",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 630",
+            "section": "004",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 630",
+            "section": "005",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 630",
+            "section": "006",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 640",
+            "section": "001",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 640",
+            "section": "002",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 640",
+            "section": "003",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 640",
+            "section": "004",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 640",
+            "section": "005",
+            "courseTitle": "Dramatically Speaking"
+        },
+        {
+            "catalogTitle": "ELI 640",
+            "section": "006",
+            "courseTitle": "Intermediate Listening Speakin"
+        },
+        {
+            "catalogTitle": "ELI 710",
+            "section": "001",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 710",
+            "section": "002",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 710",
+            "section": "003",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 710",
+            "section": "004",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 710",
+            "section": "005",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 710",
+            "section": "006",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 720",
+            "section": "001",
+            "courseTitle": "Advanced Writing I"
+        },
+        {
+            "catalogTitle": "ELI 720",
+            "section": "002",
+            "courseTitle": "Advanced Writing I"
+        },
+        {
+            "catalogTitle": "ELI 720",
+            "section": "003",
+            "courseTitle": "Advanced Writing I"
+        },
+        {
+            "catalogTitle": "ELI 720",
+            "section": "004",
+            "courseTitle": "Advanced Writing I"
+        },
+        {
+            "catalogTitle": "ELI 720",
+            "section": "005",
+            "courseTitle": "Advanced Writing I"
+        },
+        {
+            "catalogTitle": "ELI 720",
+            "section": "006",
+            "courseTitle": "Advanced Writing I"
+        },
+        {
+            "catalogTitle": "ELI 750",
+            "section": "001",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 750",
+            "section": "002",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 750",
+            "section": "003",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 750",
+            "section": "004",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 750",
+            "section": "005",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 750",
+            "section": "006",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 761",
+            "section": "001",
+            "courseTitle": "Advanced Speaking"
+        },
+        {
+            "catalogTitle": "ELI 761",
+            "section": "002",
+            "courseTitle": "Advanced Speaking"
+        },
+        {
+            "catalogTitle": "ELI 761",
+            "section": "004",
+            "courseTitle": "Advanced Speaking"
+        },
+        {
+            "catalogTitle": "ELI 810",
+            "section": "002",
+            "courseTitle": "Advanced Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 810",
+            "section": "004",
+            "courseTitle": "Advanced Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 810",
+            "section": "006",
+            "courseTitle": "Advanced Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 820",
+            "section": "001",
+            "courseTitle": "Advanced Writing II"
+        },
+        {
+            "catalogTitle": "ELI 820",
+            "section": "002",
+            "courseTitle": "Advanced Writing II"
+        },
+        {
+            "catalogTitle": "ELI 820",
+            "section": "004",
+            "courseTitle": "Advanced Writing II"
+        },
+        {
+            "catalogTitle": "ELI 820",
+            "section": "006",
+            "courseTitle": "Advanced Writing II"
+        },
+        {
+            "catalogTitle": "ELI 845",
+            "section": "001",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 845",
+            "section": "002",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "001",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "002",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "004",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "006",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 871",
+            "section": "001",
+            "courseTitle": "Intro University Lvl Sciences"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "002",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "003",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "004",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "006",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 999",
+            "section": "001",
+            "courseTitle": "Graduate School Preparation"
+        },
+        {
+            "catalogTitle": "ELI 999",
+            "section": "002",
+            "courseTitle": "Graduate School Preparation"
+        }
+    ]
+}

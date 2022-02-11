@@ -1,3 +1,244 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "H EDU 300",
+            "section": "001",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "H EDU 303",
+            "section": "001",
+            "courseTitle": "Medical Terminology"
+        },
+        {
+            "catalogTitle": "H EDU 305",
+            "section": "001",
+            "courseTitle": "Community Hlth Issues"
+        },
+        {
+            "catalogTitle": "H EDU 316",
+            "section": "090",
+            "courseTitle": "Stress Management"
+        },
+        {
+            "catalogTitle": "H EDU 319",
+            "section": "001",
+            "courseTitle": "Death & Dying"
+        },
+        {
+            "catalogTitle": "H EDU 350",
+            "section": "090",
+            "courseTitle": "Intro to Driver Education"
+        },
+        {
+            "catalogTitle": "H EDU 353",
+            "section": "090",
+            "courseTitle": "Medical Spanish"
+        },
+        {
+            "catalogTitle": "H EDU 530",
+            "section": "002",
+            "courseTitle": "Diversity & Health"
+        },
+        {
+            "catalogTitle": "H EDU 542",
+            "section": "090",
+            "courseTitle": "Intro Android App"
+        },
+        {
+            "catalogTitle": "H EDU 1010",
+            "section": "090",
+            "courseTitle": "Healthy Lifestyles"
+        },
+        {
+            "catalogTitle": "H EDU 2000",
+            "section": "001",
+            "courseTitle": "First Aid and CPR"
+        },
+        {
+            "catalogTitle": "H EDU 2000",
+            "section": "002",
+            "courseTitle": "First Aid and CPR"
+        },
+        {
+            "catalogTitle": "H EDU 2000",
+            "section": "003",
+            "courseTitle": "First Aid and CPR"
+        },
+        {
+            "catalogTitle": "H EDU 3000",
+            "section": "001",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "H EDU 3030",
+            "section": "001",
+            "courseTitle": "Medical Terminology"
+        },
+        {
+            "catalogTitle": "H EDU 3033",
+            "section": "002",
+            "courseTitle": "Meds Drugs and EMS"
+        },
+        {
+            "catalogTitle": "H EDU 3035",
+            "section": "090",
+            "courseTitle": "Medical Spanish"
+        },
+        {
+            "catalogTitle": "H EDU 3050",
+            "section": "001",
+            "courseTitle": "Community Hlth Issues"
+        },
+        {
+            "catalogTitle": "H EDU 3160",
+            "section": "002",
+            "courseTitle": "Stress Management"
+        },
+        {
+            "catalogTitle": "H EDU 3190",
+            "section": "001",
+            "courseTitle": "Death And Dying"
+        },
+        {
+            "catalogTitle": "H EDU 3350",
+            "section": "091",
+            "courseTitle": "Eating Dis & Body Image"
+        },
+        {
+            "catalogTitle": "H EDU 3500",
+            "section": "090",
+            "courseTitle": "Intro Driver Education"
+        },
+        {
+            "catalogTitle": "H EDU 3520",
+            "section": "001",
+            "courseTitle": "Intro Occup Safety Hlth"
+        },
+        {
+            "catalogTitle": "H EDU 3920",
+            "section": "001",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "H EDU 3920",
+            "section": "002",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "H EDU 3920",
+            "section": "006",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "H EDU 4180",
+            "section": "001",
+            "courseTitle": "Prevention Practices"
+        },
+        {
+            "catalogTitle": "H EDU 4450",
+            "section": "001",
+            "courseTitle": "Pathophysiology for EMS"
+        },
+        {
+            "catalogTitle": "H EDU 4650",
+            "section": "090",
+            "courseTitle": "A & P for Health"
+        },
+        {
+            "catalogTitle": "H EDU 4790",
+            "section": "001",
+            "courseTitle": "Hlth Svc Administration"
+        },
+        {
+            "catalogTitle": "H EDU 5100",
+            "section": "001",
+            "courseTitle": "Health Care In The U.S."
+        },
+        {
+            "catalogTitle": "H EDU 5300",
+            "section": "001",
+            "courseTitle": "Diversity & Health"
+        },
+        {
+            "catalogTitle": "H EDU 5300",
+            "section": "002",
+            "courseTitle": "Diversity & Health"
+        },
+        {
+            "catalogTitle": "H EDU 5300",
+            "section": "003",
+            "courseTitle": "Diversity & Health"
+        },
+        {
+            "catalogTitle": "H EDU 5370",
+            "section": "090",
+            "courseTitle": "Health & Optimal Aging"
+        },
+        {
+            "catalogTitle": "H EDU 5400",
+            "section": "090",
+            "courseTitle": "Theory & Habit Tech"
+        },
+        {
+            "catalogTitle": "H EDU 5420",
+            "section": "090",
+            "courseTitle": "Intro Android App"
+        },
+        {
+            "catalogTitle": "H EDU 5900",
+            "section": "002",
+            "courseTitle": "Research Practicum"
+        },
+        {
+            "catalogTitle": "H EDU 5990",
+            "section": "079",
+            "courseTitle": "Comm Health Internship"
+        },
+        {
+            "catalogTitle": "H EDU 6180",
+            "section": "001",
+            "courseTitle": "Prevention:Atod&Violenc"
+        },
+        {
+            "catalogTitle": "H EDU 6200",
+            "section": "090",
+            "courseTitle": "Theory & Habit Tech"
+        },
+        {
+            "catalogTitle": "H EDU 6220",
+            "section": "090",
+            "courseTitle": "Intro Android App"
+        },
+        {
+            "catalogTitle": "H EDU 6920",
+            "section": "007",
+            "courseTitle": "Indep Study-Research"
+        },
+        {
+            "catalogTitle": "H EDU 6990",
+            "section": "007",
+            "courseTitle": "Master's Practicum"
+        },
+        {
+            "catalogTitle": "H EDU 7920",
+            "section": "006",
+            "courseTitle": "Indep Study-Research"
+        },
+        {
+            "catalogTitle": "H EDU 7970",
+            "section": "006",
+            "courseTitle": "Dissertation"
+        },
+        {
+            "catalogTitle": "H EDU 7980",
+            "section": "006",
+            "courseTitle": "Faculty Consult-Ph.D."
+        },
+        {
+            "catalogTitle": "H EDU 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
 }

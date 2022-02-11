@@ -1,0 +1,234 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2010",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "004",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "005",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "006",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "007",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "008",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "010",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "090",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "003",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "070",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "001",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4440",
+            "section": "001",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 4460",
+            "section": "001",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 4470",
+            "section": "001",
+            "courseTitle": "Telecom & Security"
+        },
+        {
+            "catalogTitle": "IS 4480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "001",
+            "courseTitle": "IS Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 5910",
+            "section": "001",
+            "courseTitle": "Indep. Study: Project Managemt"
+        },
+        {
+            "catalogTitle": "IS 5910",
+            "section": "002",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "001",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "002",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6465",
+            "section": "001",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 6480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 6481",
+            "section": "001",
+            "courseTitle": "Data Driven Strategies"
+        },
+        {
+            "catalogTitle": "IS 6482",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "IS 6570",
+            "section": "001",
+            "courseTitle": "IT Security"
+        },
+        {
+            "catalogTitle": "IS 6571",
+            "section": "001",
+            "courseTitle": "IT Forensics"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "001",
+            "courseTitle": "Master's Project I"
+        },
+        {
+            "catalogTitle": "IS 6597",
+            "section": "001",
+            "courseTitle": "Master's Project II"
+        },
+        {
+            "catalogTitle": "IS 6640",
+            "section": "001",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "001",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "002",
+            "courseTitle": "IT Validation and Accreditatio"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "003",
+            "courseTitle": "Salesforce Admin & Development"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "004",
+            "courseTitle": "Java 7 Certification"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "005",
+            "courseTitle": "Android Application Developmnt"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "006",
+            "courseTitle": "Security Domains"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "007",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "009",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "010",
+            "courseTitle": "Forensics 6571-001"
+        },
+        {
+            "catalogTitle": "IS 7411",
+            "section": "001",
+            "courseTitle": "Web & Data Mining Sem"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "001",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration PhD"
+        }
+    ]
+}

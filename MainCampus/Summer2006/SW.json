@@ -1,0 +1,579 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 200",
+            "section": "002",
+            "courseTitle": "So Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 300",
+            "section": "002",
+            "courseTitle": "Soc. Welfare Institution"
+        },
+        {
+            "catalogTitle": "SW 702",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 706",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 781",
+            "section": "001",
+            "courseTitle": "Corr/Integrative Sem"
+        },
+        {
+            "catalogTitle": "SW 802",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 806",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "001",
+            "courseTitle": "Dialectical Beh. Therapy"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "002",
+            "courseTitle": "Navigating Social Services"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "003",
+            "courseTitle": "SW Ethics & Legal Issues"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "004",
+            "courseTitle": "Human-Animal Bond"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "005",
+            "courseTitle": "REBT"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "006",
+            "courseTitle": "Pacific Islanders"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "007",
+            "courseTitle": "Adolescent Self-Injurious Beh."
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "008",
+            "courseTitle": "Art in Psychotherapy"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "009",
+            "courseTitle": "Children of Color"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "010",
+            "courseTitle": "Anxiety Disorders / Discipline"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "011",
+            "courseTitle": "Adult Survivors of Sex Abuse"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "012",
+            "courseTitle": "Practice Stndrds/ MH Disorders"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "013",
+            "courseTitle": "The Whole Woman"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "014",
+            "courseTitle": "Suicide Awareness & Prevention"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "015",
+            "courseTitle": "Geriatric Care"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "016",
+            "courseTitle": "Parent Child Relationship"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "017",
+            "courseTitle": "Psychodrama"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "018",
+            "courseTitle": "Differential Dx Chronic MI"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "019",
+            "courseTitle": "Acting Out Adolescent"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "020",
+            "courseTitle": "The Great Divide"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "021",
+            "courseTitle": "Social Work with Latinos"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "022",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "023",
+            "courseTitle": "Attachment & Brain Development"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "024",
+            "courseTitle": "Personality Disorders"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "025",
+            "courseTitle": "Drugs A-Z & Hep C"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "026",
+            "courseTitle": "Intimate Partner Violence"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "027",
+            "courseTitle": "Workshops, Conf & Inst"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "030",
+            "courseTitle": "Time Dollar"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "031",
+            "courseTitle": "Critical Incident Stress"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "032",
+            "courseTitle": "New IDEA"
+        },
+        {
+            "catalogTitle": "SW 860",
+            "section": "033",
+            "courseTitle": "Creative Art Therapy"
+        },
+        {
+            "catalogTitle": "SW 1010",
+            "section": "002",
+            "courseTitle": "Soc Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 2300",
+            "section": "002",
+            "courseTitle": "Soc. Welfare Institution"
+        },
+        {
+            "catalogTitle": "SW 3804",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SW 4702",
+            "section": "001",
+            "courseTitle": "Social Work Practicum"
+        },
+        {
+            "catalogTitle": "SW 4782",
+            "section": "001",
+            "courseTitle": "Soc Wk Practicum Sem"
+        },
+        {
+            "catalogTitle": "SW 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "SW 5702",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 5706",
+            "section": "001",
+            "courseTitle": "A&D: Field Train II"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "015",
+            "courseTitle": "Geriatric Care"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "016",
+            "courseTitle": "Parent-Child Relationship"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "017",
+            "courseTitle": "Psychodrama"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "018",
+            "courseTitle": "Differential Dx Chronic MI"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "019",
+            "courseTitle": "Acting Out Adolescent"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "020",
+            "courseTitle": "The Great Divide"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "022",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "023",
+            "courseTitle": "Attachment & Brain Development"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "024",
+            "courseTitle": "Personality Disorders"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "025",
+            "courseTitle": "Drugs A-Z & Hep C"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "026",
+            "courseTitle": "Intimate Partner Violence"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "027",
+            "courseTitle": "Workshops, Seminars"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "031",
+            "courseTitle": "Critical Incident Stress"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "032",
+            "courseTitle": "New IDEA"
+        },
+        {
+            "catalogTitle": "SW 5860",
+            "section": "033",
+            "courseTitle": "Creative Art Therapy"
+        },
+        {
+            "catalogTitle": "SW 6500",
+            "section": "001",
+            "courseTitle": "Opt SW Prac"
+        },
+        {
+            "catalogTitle": "SW 6511",
+            "section": "001",
+            "courseTitle": "Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6512",
+            "section": "001",
+            "courseTitle": "Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6521",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum I"
+        },
+        {
+            "catalogTitle": "SW 6522",
+            "section": "001",
+            "courseTitle": "Adv Field Practicum II"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "001",
+            "courseTitle": "Advanced Brief Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "002",
+            "courseTitle": "Spirituality in Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "003",
+            "courseTitle": "DSM IV-TR"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "004",
+            "courseTitle": "Clinical Hypnosis Social Work"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "005",
+            "courseTitle": "Substance Abuse and PTSD"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "006",
+            "courseTitle": "SW & The Law"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "007",
+            "courseTitle": "Domestic Violence/Date Violenc"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "008",
+            "courseTitle": "Clients with Personality &"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "009",
+            "courseTitle": "Exploration of Cross-Cultural"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "010",
+            "courseTitle": "Soc Work & Sports Performance"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "011",
+            "courseTitle": "Eating Disorders"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "012",
+            "courseTitle": "SW Practice with Grief & Loss"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "013",
+            "courseTitle": "Intensive Case Management"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "014",
+            "courseTitle": "Practice in International SW"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "016",
+            "courseTitle": "Elective I Assesment Models"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "017",
+            "courseTitle": "Elective II Treatment Models"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "018",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "019",
+            "courseTitle": "Psyc Thry & Dlctl Bhvr Therapy"
+        },
+        {
+            "catalogTitle": "SW 6623",
+            "section": "020",
+            "courseTitle": "An Experiential Journey in SW"
+        },
+        {
+            "catalogTitle": "SW 6802",
+            "section": "001",
+            "courseTitle": "A&D: Professional Development"
+        },
+        {
+            "catalogTitle": "SW 6806",
+            "section": "001",
+            "courseTitle": "A&D Field Training II"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "015",
+            "courseTitle": "Geriatric Care"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "016",
+            "courseTitle": "Parent-Child Relationship"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "017",
+            "courseTitle": "Psychodrama"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "018",
+            "courseTitle": "Differential Dx & Chronic MI"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "019",
+            "courseTitle": "Acting Out Adolescent"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "020",
+            "courseTitle": "The Great Divide"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "022",
+            "courseTitle": "Motivational Interviewing"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "023",
+            "courseTitle": "Attachment & Brain Development"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "024",
+            "courseTitle": "Personality Disorders"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "025",
+            "courseTitle": "Drugs A - Z & Hep C"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "026",
+            "courseTitle": "Intimate Partner Violence"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "027",
+            "courseTitle": "Workshops, Conf & Inst"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "030",
+            "courseTitle": "Time Dollar"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "031",
+            "courseTitle": "Critical Incident Stress"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "032",
+            "courseTitle": "New IDEA"
+        },
+        {
+            "catalogTitle": "SW 6860",
+            "section": "033",
+            "courseTitle": "Creative Art Therapy"
+        },
+        {
+            "catalogTitle": "SW 6900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 6940",
+            "section": "001",
+            "courseTitle": "Rsch Project"
+        },
+        {
+            "catalogTitle": "SW 7111",
+            "section": "821",
+            "courseTitle": "Quant Research I"
+        },
+        {
+            "catalogTitle": "SW 7211",
+            "section": "821",
+            "courseTitle": "Statistics I:"
+        },
+        {
+            "catalogTitle": "SW 7311",
+            "section": "821",
+            "courseTitle": "Soc Welfr Policy I"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7900",
+            "section": "821",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SW 7970",
+            "section": "821",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SW 7980",
+            "section": "001",
+            "courseTitle": "Research Consultation"
+        },
+        {
+            "catalogTitle": "SW 7980",
+            "section": "821",
+            "courseTitle": "Research Consultation"
+        }
+    ]
+}

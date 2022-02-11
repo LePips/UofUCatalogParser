@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "301",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 3100",
+            "section": "301",
+            "courseTitle": "Intro to Doc Studies"
+        },
+        {
+            "catalogTitle": "FILM 3110",
+            "section": "301",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 3411",
+            "section": "301",
+            "courseTitle": "Editing I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "301",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "301",
+            "courseTitle": "BIFF Film Festival"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "301",
+            "courseTitle": "Screenwriting I"
+        }
+    ]
+}

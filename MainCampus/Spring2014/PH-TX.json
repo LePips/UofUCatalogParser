@@ -1,0 +1,109 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PH TX 2700",
+            "section": "001",
+            "courseTitle": "Common Medicines"
+        },
+        {
+            "catalogTitle": "PH TX 5121",
+            "section": "001",
+            "courseTitle": "Biomedical Basis Dis"
+        },
+        {
+            "catalogTitle": "PH TX 5221",
+            "section": "001",
+            "courseTitle": "Pharmacology II"
+        },
+        {
+            "catalogTitle": "PH TX 5990",
+            "section": "001",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PH TX 6710",
+            "section": "001",
+            "courseTitle": "Dev Biochem Tox"
+        },
+        {
+            "catalogTitle": "PH TX 6720",
+            "section": "001",
+            "courseTitle": "Dev Neuropharm"
+        },
+        {
+            "catalogTitle": "PH TX 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "PH TX 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "PH TX 7114",
+            "section": "001",
+            "courseTitle": "Prin Tox"
+        },
+        {
+            "catalogTitle": "PH TX 7221",
+            "section": "001",
+            "courseTitle": "Pharmacology II"
+        },
+        {
+            "catalogTitle": "PH TX 7222",
+            "section": "001",
+            "courseTitle": "Grad Sem Pharm II"
+        },
+        {
+            "catalogTitle": "PH TX 7280",
+            "section": "001",
+            "courseTitle": "Advances In Neuropharm"
+        },
+        {
+            "catalogTitle": "PH TX 7710",
+            "section": "001",
+            "courseTitle": "Pharm Res Exp I"
+        },
+        {
+            "catalogTitle": "PH TX 7720",
+            "section": "001",
+            "courseTitle": "Pharm Res Exp II"
+        },
+        {
+            "catalogTitle": "PH TX 7777",
+            "section": "001",
+            "courseTitle": "Applied Genomics I"
+        },
+        {
+            "catalogTitle": "PH TX 7778",
+            "section": "001",
+            "courseTitle": "Applied Genomics II"
+        },
+        {
+            "catalogTitle": "PH TX 7890",
+            "section": "001",
+            "courseTitle": "Research Seminar"
+        },
+        {
+            "catalogTitle": "PH TX 7920",
+            "section": "001",
+            "courseTitle": "Research Pharmacology"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg PhD"
+        }
+    ]
+}

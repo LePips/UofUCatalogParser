@@ -1,3 +1,49 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "CH EN 3453",
+            "section": "001",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "CH EN 4870",
+            "section": "001",
+            "courseTitle": "Indust Energy Analysis"
+        },
+        {
+            "catalogTitle": "CH EN 4977",
+            "section": "001",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "CH EN 4978",
+            "section": "001",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "CH EN 6253",
+            "section": "001",
+            "courseTitle": "Advanced Design"
+        },
+        {
+            "catalogTitle": "CH EN 6900",
+            "section": "001",
+            "courseTitle": "Petroleum Eng Project"
+        },
+        {
+            "catalogTitle": "CH EN 6973",
+            "section": "018",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CH EN 7973",
+            "section": "019",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "CH EN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Phd"
+        }
+    ]
 }

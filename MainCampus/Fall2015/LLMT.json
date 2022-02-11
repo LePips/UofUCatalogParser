@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "001",
+            "courseTitle": "Guitar: Advanced Beginner"
+        },
+        {
+            "catalogTitle": "LLMT 411",
+            "section": "001",
+            "courseTitle": "Blues Harmonica for Beg"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "002",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 449",
+            "section": "001",
+            "courseTitle": "An Evening at the Organ Loft"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OEHS 6800",
+            "section": "001",
+            "courseTitle": "Occupa Health Practicum"
+        },
+        {
+            "catalogTitle": "OEHS 6976",
+            "section": "001",
+            "courseTitle": "Funded Proj Res-MSOH"
+        },
+        {
+            "catalogTitle": "OEHS 6978",
+            "section": "001",
+            "courseTitle": "Funded Thesis Res-MSOH"
+        },
+        {
+            "catalogTitle": "OEHS 7975",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 7975",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 7975",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OEHS 7987",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 7987",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "OEHS 7987",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

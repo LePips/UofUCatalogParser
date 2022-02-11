@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "001",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "002",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1020",
+            "section": "003",
+            "courseTitle": "EE Prob Solving Matlab"
+        },
+        {
+            "catalogTitle": "ECE 1270",
+            "section": "001",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 1270",
+            "section": "002",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 1270",
+            "section": "003",
+            "courseTitle": "Intro Elect/Cmptr Eng"
+        },
+        {
+            "catalogTitle": "ECE 4990",
+            "section": "079",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "ECE 5321",
+            "section": "001",
+            "courseTitle": "Microwave Eng II"
+        },
+        {
+            "catalogTitle": "ECE 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ECE 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ECE 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

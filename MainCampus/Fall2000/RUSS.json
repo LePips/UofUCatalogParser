@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 2010",
+            "section": "001",
+            "courseTitle": "Inter Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 3040",
+            "section": "001",
+            "courseTitle": "Fifth Sem Russian"
+        },
+        {
+            "catalogTitle": "RUSS 3060",
+            "section": "001",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "RUSS 3950",
+            "section": "001",
+            "courseTitle": "SL- Russian"
+        },
+        {
+            "catalogTitle": "RUSS 4590",
+            "section": "001",
+            "courseTitle": "Mod Russa Through Music"
+        },
+        {
+            "catalogTitle": "RUSS 4710",
+            "section": "001",
+            "courseTitle": "Surv-19Th Cen Russ Lit"
+        },
+        {
+            "catalogTitle": "RUSS 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "RUSS 4880",
+            "section": "003",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "RUSS 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "RUSS 4990",
+            "section": "003",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "RUSS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

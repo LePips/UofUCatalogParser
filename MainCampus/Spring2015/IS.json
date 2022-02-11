@@ -1,0 +1,264 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2010",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "003",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "004",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "005",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "090",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "091",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "003",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "004",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "005",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "006",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4415",
+            "section": "001",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "001",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4430",
+            "section": "001",
+            "courseTitle": "Systems Analysis & Des"
+        },
+        {
+            "catalogTitle": "IS 4440",
+            "section": "090",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 4460",
+            "section": "001",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 4470",
+            "section": "090",
+            "courseTitle": "Telecom & Security"
+        },
+        {
+            "catalogTitle": "IS 4480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "001",
+            "courseTitle": "IS Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 6010",
+            "section": "001",
+            "courseTitle": "Information Technology"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "001",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6465",
+            "section": "001",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 6471",
+            "section": "001",
+            "courseTitle": "Emerging Web Tech & Stg"
+        },
+        {
+            "catalogTitle": "IS 6480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 6482",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "IS 6482",
+            "section": "002",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "IS 6483",
+            "section": "001",
+            "courseTitle": "Advanced Data Mining"
+        },
+        {
+            "catalogTitle": "IS 6570",
+            "section": "001",
+            "courseTitle": "IT Security"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "001",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6597",
+            "section": "001",
+            "courseTitle": "Master's Project II"
+        },
+        {
+            "catalogTitle": "IS 6615",
+            "section": "001",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 6615",
+            "section": "002",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "001",
+            "courseTitle": "Health IT"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "001",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "002",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "003",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "004",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "005",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "008",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "IS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7412",
+            "section": "001",
+            "courseTitle": "Empirical IS Res"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "001",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "002",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "003",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration PhD"
+        }
+    ]
+}

@@ -1,3 +1,29 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MID E 1000",
+            "section": "090",
+            "courseTitle": "Intro to Middle East"
+        },
+        {
+            "catalogTitle": "MID E 2780",
+            "section": "090",
+            "courseTitle": "Religiosity in ME/USA"
+        },
+        {
+            "catalogTitle": "MID E 3545",
+            "section": "001",
+            "courseTitle": "History Mid E 1798-1914"
+        },
+        {
+            "catalogTitle": "MID E 4007",
+            "section": "001",
+            "courseTitle": "Wmn's Voices-Egypt/Iran"
+        },
+        {
+            "catalogTitle": "MID E 5647",
+            "section": "001",
+            "courseTitle": "Intntl Relations Mid E"
+        }
+    ]
 }

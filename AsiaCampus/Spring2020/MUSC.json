@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "301",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "302",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "303",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 3600",
+            "section": "301",
+            "courseTitle": "World Music"
+        }
+    ]
+}

@@ -1,0 +1,584 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CS 1030",
+            "section": "001",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "CS 1030",
+            "section": "002",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "CS 1030",
+            "section": "003",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "CS 1030",
+            "section": "004",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "CS 1030",
+            "section": "005",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "CS 1030",
+            "section": "006",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "CS 1030",
+            "section": "007",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "CS 1030",
+            "section": "008",
+            "courseTitle": "Foundations of CS"
+        },
+        {
+            "catalogTitle": "CS 1040",
+            "section": "090",
+            "courseTitle": "Creating Web Content"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "001",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "002",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "003",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "004",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "005",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "006",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "007",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "008",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "030",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "031",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "032",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "033",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "034",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "035",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "040",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "041",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "042",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "043",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "044",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 1410",
+            "section": "045",
+            "courseTitle": "Object-Oriented Prog"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "001",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "002",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "003",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2100",
+            "section": "004",
+            "courseTitle": "Discrete Structures"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "001",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "002",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "003",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "004",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "005",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "006",
+            "courseTitle": "Intro Alg & Data Struct"
+        },
+        {
+            "catalogTitle": "CS 2963",
+            "section": "001",
+            "courseTitle": "LPI Level 1"
+        },
+        {
+            "catalogTitle": "CS 3020",
+            "section": "001",
+            "courseTitle": "Research Forum"
+        },
+        {
+            "catalogTitle": "CS 3100",
+            "section": "001",
+            "courseTitle": "Models Of Computation"
+        },
+        {
+            "catalogTitle": "CS 3130",
+            "section": "001",
+            "courseTitle": "Eng Prob Stats"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "001",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "002",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "003",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "004",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "005",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "006",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "007",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3500",
+            "section": "008",
+            "courseTitle": "Software Practice"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "001",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "002",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "003",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3505",
+            "section": "004",
+            "courseTitle": "Software Practice II"
+        },
+        {
+            "catalogTitle": "CS 3710",
+            "section": "001",
+            "courseTitle": "Computer Design Lab"
+        },
+        {
+            "catalogTitle": "CS 3810",
+            "section": "001",
+            "courseTitle": "Computer Organization"
+        },
+        {
+            "catalogTitle": "CS 3991",
+            "section": "001",
+            "courseTitle": "CE Junior Seminar"
+        },
+        {
+            "catalogTitle": "CS 4000",
+            "section": "001",
+            "courseTitle": "Senior Capstone Design"
+        },
+        {
+            "catalogTitle": "CS 4010",
+            "section": "001",
+            "courseTitle": "CS Internship"
+        },
+        {
+            "catalogTitle": "CS 4300",
+            "section": "001",
+            "courseTitle": "Artificial Intelligence"
+        },
+        {
+            "catalogTitle": "CS 4400",
+            "section": "001",
+            "courseTitle": "Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 4600",
+            "section": "001",
+            "courseTitle": "Computer Graphics"
+        },
+        {
+            "catalogTitle": "CS 4710",
+            "section": "001",
+            "courseTitle": "Comptr Eng Sr Project"
+        },
+        {
+            "catalogTitle": "CS 4962",
+            "section": "001",
+            "courseTitle": "Mobile Apps: Android"
+        },
+        {
+            "catalogTitle": "CS 4962",
+            "section": "002",
+            "courseTitle": "Mobile Apps: Android"
+        },
+        {
+            "catalogTitle": "CS 5310",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "CS 5340",
+            "section": "001",
+            "courseTitle": "Natural Language"
+        },
+        {
+            "catalogTitle": "CS 5350",
+            "section": "001",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "CS 5490",
+            "section": "001",
+            "courseTitle": "Network Security"
+        },
+        {
+            "catalogTitle": "CS 5510",
+            "section": "001",
+            "courseTitle": "Programming Languages"
+        },
+        {
+            "catalogTitle": "CS 5630",
+            "section": "001",
+            "courseTitle": "Visualization"
+        },
+        {
+            "catalogTitle": "CS 5710",
+            "section": "001",
+            "courseTitle": "Digital VLSI Design"
+        },
+        {
+            "catalogTitle": "CS 5750",
+            "section": "001",
+            "courseTitle": "Syn/Verif Asyn VLSI Sys"
+        },
+        {
+            "catalogTitle": "CS 5959",
+            "section": "001",
+            "courseTitle": "Writing Solid Code"
+        },
+        {
+            "catalogTitle": "CS 5962",
+            "section": "001",
+            "courseTitle": "Programming for Engineers"
+        },
+        {
+            "catalogTitle": "CS 5965",
+            "section": "001",
+            "courseTitle": "Big Data Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 6020",
+            "section": "001",
+            "courseTitle": "Early-Career Research"
+        },
+        {
+            "catalogTitle": "CS 6150",
+            "section": "001",
+            "courseTitle": "Advanced Algorithms"
+        },
+        {
+            "catalogTitle": "CS 6150",
+            "section": "002",
+            "courseTitle": "Advanced Algorithms"
+        },
+        {
+            "catalogTitle": "CS 6210",
+            "section": "001",
+            "courseTitle": "Adv Sci Computing I"
+        },
+        {
+            "catalogTitle": "CS 6310",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "CS 6340",
+            "section": "001",
+            "courseTitle": "Natural Language"
+        },
+        {
+            "catalogTitle": "CS 6350",
+            "section": "001",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "CS 6350",
+            "section": "002",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "CS 6370",
+            "section": "001",
+            "courseTitle": "Motion Planning"
+        },
+        {
+            "catalogTitle": "CS 6480",
+            "section": "001",
+            "courseTitle": "Adv Computer Networks"
+        },
+        {
+            "catalogTitle": "CS 6490",
+            "section": "001",
+            "courseTitle": "Network Security"
+        },
+        {
+            "catalogTitle": "CS 6530",
+            "section": "001",
+            "courseTitle": "Database Systems"
+        },
+        {
+            "catalogTitle": "CS 6530",
+            "section": "002",
+            "courseTitle": "Database Systems"
+        },
+        {
+            "catalogTitle": "CS 6600",
+            "section": "001",
+            "courseTitle": "Math of Comp Graphics"
+        },
+        {
+            "catalogTitle": "CS 6620",
+            "section": "001",
+            "courseTitle": "Ray Tracing for Graphic"
+        },
+        {
+            "catalogTitle": "CS 6630",
+            "section": "001",
+            "courseTitle": "Visualization"
+        },
+        {
+            "catalogTitle": "CS 6630",
+            "section": "002",
+            "courseTitle": "Visualization"
+        },
+        {
+            "catalogTitle": "CS 6640",
+            "section": "001",
+            "courseTitle": "Image Processing"
+        },
+        {
+            "catalogTitle": "CS 6710",
+            "section": "001",
+            "courseTitle": "Digital VLSI Design"
+        },
+        {
+            "catalogTitle": "CS 6750",
+            "section": "001",
+            "courseTitle": "Syn & Ver Asyn VLSI Sys"
+        },
+        {
+            "catalogTitle": "CS 6945",
+            "section": "001",
+            "courseTitle": "Graduate Internship"
+        },
+        {
+            "catalogTitle": "CS 6962",
+            "section": "001",
+            "courseTitle": "Programming for Engineers"
+        },
+        {
+            "catalogTitle": "CS 6963",
+            "section": "001",
+            "courseTitle": "Distributed Systems"
+        },
+        {
+            "catalogTitle": "CS 6964",
+            "section": "001",
+            "courseTitle": "Computer Security Research"
+        },
+        {
+            "catalogTitle": "CS 6965",
+            "section": "001",
+            "courseTitle": "Big Data Computer Systems"
+        },
+        {
+            "catalogTitle": "CS 7930",
+            "section": "001",
+            "courseTitle": "Colloquium"
+        },
+        {
+            "catalogTitle": "CS 7931",
+            "section": "001",
+            "courseTitle": "Machine Learning Seminar"
+        },
+        {
+            "catalogTitle": "CS 7932",
+            "section": "001",
+            "courseTitle": "Scientific Computing & Imaging"
+        },
+        {
+            "catalogTitle": "CS 7933",
+            "section": "002",
+            "courseTitle": "Graphics Seminar"
+        },
+        {
+            "catalogTitle": "CS 7934",
+            "section": "001",
+            "courseTitle": "Computer Systems Seminar"
+        },
+        {
+            "catalogTitle": "CS 7935",
+            "section": "001",
+            "courseTitle": "Distributed Linear Algebra"
+        },
+        {
+            "catalogTitle": "CS 7936",
+            "section": "001",
+            "courseTitle": "Security Seminar"
+        },
+        {
+            "catalogTitle": "CS 7937",
+            "section": "001",
+            "courseTitle": "Arch/VLSI"
+        },
+        {
+            "catalogTitle": "CS 7938",
+            "section": "001",
+            "courseTitle": "Image Analysis Seminar"
+        },
+        {
+            "catalogTitle": "CS 7939",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "CS 7940",
+            "section": "001",
+            "courseTitle": "Performance Optimization"
+        },
+        {
+            "catalogTitle": "CS 7941",
+            "section": "001",
+            "courseTitle": "Advanced Seminar"
+        },
+        {
+            "catalogTitle": "CS 7942",
+            "section": "001",
+            "courseTitle": "Visualization Seminar"
+        },
+        {
+            "catalogTitle": "CS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

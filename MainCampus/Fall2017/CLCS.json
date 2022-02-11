@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "001",
+            "courseTitle": "Russia Under the Czars"
+        },
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "002",
+            "courseTitle": "Goethe, Nietzsche, Hesse, Bynd"
+        },
+        {
+            "catalogTitle": "CLCS 3960",
+            "section": "001",
+            "courseTitle": "Cultures in Contact"
+        },
+        {
+            "catalogTitle": "CLCS 4325",
+            "section": "001",
+            "courseTitle": "Muslim-Americans in US"
+        },
+        {
+            "catalogTitle": "CLCS 6880",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "CLCS 6900",
+            "section": "001",
+            "courseTitle": "Aesthetics - Empathy - Form"
+        },
+        {
+            "catalogTitle": "CLCS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CLCS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

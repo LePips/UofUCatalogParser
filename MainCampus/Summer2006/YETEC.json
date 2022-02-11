@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YETEC 50",
+            "section": "001",
+            "courseTitle": "Graphic Art-Drawing (10-16)"
+        },
+        {
+            "catalogTitle": "YETEC 50",
+            "section": "002",
+            "courseTitle": "Graphic Art-Drawing (10-16)"
+        },
+        {
+            "catalogTitle": "YETEC 51",
+            "section": "001",
+            "courseTitle": "Adv Graphic Art (Age 10-16)"
+        },
+        {
+            "catalogTitle": "YETEC 100",
+            "section": "001",
+            "courseTitle": "Intro to Dreamweaver (11-16)"
+        },
+        {
+            "catalogTitle": "YETEC 105",
+            "section": "001",
+            "courseTitle": "Adv. Dreamweaver (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 110",
+            "section": "001",
+            "courseTitle": "Flash Animation (13-16)"
+        },
+        {
+            "catalogTitle": "YETEC 111",
+            "section": "001",
+            "courseTitle": "Advanced Flash (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 115",
+            "section": "001",
+            "courseTitle": "DarkBasic Programming (13-17)"
+        },
+        {
+            "catalogTitle": "YETEC 115",
+            "section": "002",
+            "courseTitle": "DarkBasic Programming (13-17)"
+        },
+        {
+            "catalogTitle": "YETEC 115",
+            "section": "003",
+            "courseTitle": "DarkBasic Programming (13-17)"
+        },
+        {
+            "catalogTitle": "YETEC 116",
+            "section": "001",
+            "courseTitle": "Adv DarkBasic (age 13-17)"
+        },
+        {
+            "catalogTitle": "YETEC 120",
+            "section": "001",
+            "courseTitle": "Quick Time (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 125",
+            "section": "001",
+            "courseTitle": "PHP Programming"
+        },
+        {
+            "catalogTitle": "YETEC 150",
+            "section": "001",
+            "courseTitle": "Intro Computer Gaming (9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 150",
+            "section": "002",
+            "courseTitle": "Intro Computer Gaming (9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 150",
+            "section": "003",
+            "courseTitle": "Intro Computer Gaming (9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 200",
+            "section": "001",
+            "courseTitle": "Ready for Junior High (5-6)"
+        }
+    ]
+}

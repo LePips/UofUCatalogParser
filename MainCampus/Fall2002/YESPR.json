@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESPR 1",
+            "section": "001",
+            "courseTitle": "Bronze Level Diving"
+        },
+        {
+            "catalogTitle": "YESPR 1",
+            "section": "002",
+            "courseTitle": "Bronze Level Diving"
+        },
+        {
+            "catalogTitle": "YESPR 2",
+            "section": "001",
+            "courseTitle": "Silver Level Diving"
+        },
+        {
+            "catalogTitle": "YESPR 3",
+            "section": "001",
+            "courseTitle": "Gold Level Diving Team"
+        },
+        {
+            "catalogTitle": "YESPR 4",
+            "section": "001",
+            "courseTitle": "High School Diving"
+        },
+        {
+            "catalogTitle": "YESPR 5",
+            "section": "001",
+            "courseTitle": "Aerial Trick Dive Course"
+        },
+        {
+            "catalogTitle": "YESPR 10",
+            "section": "001",
+            "courseTitle": "Adult-Child Golf"
+        },
+        {
+            "catalogTitle": "YESPR 10",
+            "section": "002",
+            "courseTitle": "Adult-Child Golf"
+        }
+    ]
+}

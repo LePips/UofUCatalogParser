@@ -1,0 +1,164 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2010",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "003",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "004",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "005",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "006",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "007",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "008",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "009",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "010",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "011",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "012",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "003",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "004",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "005",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "077",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4415",
+            "section": "001",
+            "courseTitle": "Data Structures & Algor"
+        },
+        {
+            "catalogTitle": "IS 4415",
+            "section": "002",
+            "courseTitle": "Data Structures & Algor"
+        },
+        {
+            "catalogTitle": "IS 4440",
+            "section": "001",
+            "courseTitle": "Networking & Servers"
+        },
+        {
+            "catalogTitle": "IS 4460",
+            "section": "001",
+            "courseTitle": "Web based Applications"
+        },
+        {
+            "catalogTitle": "IS 4470",
+            "section": "001",
+            "courseTitle": "Telecom & Security"
+        },
+        {
+            "catalogTitle": "IS 4480",
+            "section": "001",
+            "courseTitle": "Business Intell Systems"
+        },
+        {
+            "catalogTitle": "IS 5910",
+            "section": "001",
+            "courseTitle": "Telecom & Security"
+        },
+        {
+            "catalogTitle": "IS 5910",
+            "section": "002",
+            "courseTitle": "Data Strategies and Mining"
+        },
+        {
+            "catalogTitle": "IS 6480",
+            "section": "001",
+            "courseTitle": "Business Intelligence"
+        },
+        {
+            "catalogTitle": "IS 6481",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 6482",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "IS 7000",
+            "section": "001",
+            "courseTitle": "AIS Seminar"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "002",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        }
+    ]
+}

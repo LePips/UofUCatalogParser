@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PUBPL 6910",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "PUBPL 6920",
+            "section": "001",
+            "courseTitle": "IAGE Internship"
+        },
+        {
+            "catalogTitle": "PUBPL 6920",
+            "section": "002",
+            "courseTitle": "IAGE Internship"
+        },
+        {
+            "catalogTitle": "PUBPL 6960",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PUBPL 6960",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PUBPL 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATHL 1020",
+            "section": "001",
+            "courseTitle": "Basketball-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1040",
+            "section": "001",
+            "courseTitle": "Cross Country-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1050",
+            "section": "001",
+            "courseTitle": "Cross Country-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1160",
+            "section": "001",
+            "courseTitle": "Soccer-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1190",
+            "section": "001",
+            "courseTitle": "Volleyball-Women"
+        },
+        {
+            "catalogTitle": "ATHL 1200",
+            "section": "001",
+            "courseTitle": "Football-Men"
+        },
+        {
+            "catalogTitle": "ATHL 1210",
+            "section": "001",
+            "courseTitle": "Cheerleading"
+        },
+        {
+            "catalogTitle": "ATHL 1220",
+            "section": "001",
+            "courseTitle": "Crimson Line Dance Team"
+        }
+    ]
+}

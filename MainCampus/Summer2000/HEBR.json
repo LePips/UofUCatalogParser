@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HEBR 1010",
+            "section": "008",
+            "courseTitle": "Beginning Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 1020",
+            "section": "008",
+            "courseTitle": "Beginning Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 2010",
+            "section": "008",
+            "courseTitle": "Intermediate Hebrew I"
+        },
+        {
+            "catalogTitle": "HEBR 2020",
+            "section": "008",
+            "courseTitle": "Intermediate Hebrew II"
+        },
+        {
+            "catalogTitle": "HEBR 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "HEBR 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HEBR 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-MA"
+        }
+    ]
+}

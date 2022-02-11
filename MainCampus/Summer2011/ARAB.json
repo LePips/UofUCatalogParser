@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARAB 101",
+            "section": "001",
+            "courseTitle": "Beginning Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 102",
+            "section": "001",
+            "courseTitle": "Beg Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 201",
+            "section": "001",
+            "courseTitle": "Intermediate Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 202",
+            "section": "001",
+            "courseTitle": "Intermediate Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 1010",
+            "section": "001",
+            "courseTitle": "Beginning Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 1020",
+            "section": "001",
+            "courseTitle": "Beginning Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 6920",
+            "section": "001",
+            "courseTitle": "Graduate Lang Study"
+        },
+        {
+            "catalogTitle": "ARAB 6920",
+            "section": "002",
+            "courseTitle": "Graduate Lang Study"
+        }
+    ]
+}

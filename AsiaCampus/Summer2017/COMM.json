@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "COMM 3560",
+            "section": "302",
+            "courseTitle": "Video Production I"
+        },
+        {
+            "catalogTitle": "COMM 3610",
+            "section": "301",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "COMM 3775",
+            "section": "301",
+            "courseTitle": "Korean Media & Culture"
+        },
+        {
+            "catalogTitle": "COMM 3910",
+            "section": "301",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

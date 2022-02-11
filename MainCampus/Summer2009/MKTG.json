@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MKTG 300",
+            "section": "001",
+            "courseTitle": "Marketing Vision"
+        },
+        {
+            "catalogTitle": "MKTG 3000",
+            "section": "001",
+            "courseTitle": "Marketing Vision"
+        },
+        {
+            "catalogTitle": "MKTG 3010",
+            "section": "001",
+            "courseTitle": "Princ Of Marketing"
+        },
+        {
+            "catalogTitle": "MKTG 4020",
+            "section": "001",
+            "courseTitle": "Marketing Management"
+        },
+        {
+            "catalogTitle": "MKTG 4450",
+            "section": "001",
+            "courseTitle": "Marketing Research"
+        },
+        {
+            "catalogTitle": "MKTG 4500",
+            "section": "001",
+            "courseTitle": "Intro To Advertising"
+        },
+        {
+            "catalogTitle": "MKTG 4770",
+            "section": "001",
+            "courseTitle": "Consumer Behavior"
+        },
+        {
+            "catalogTitle": "MKTG 4840",
+            "section": "001",
+            "courseTitle": "Interntl Marketing"
+        },
+        {
+            "catalogTitle": "MKTG 4880",
+            "section": "001",
+            "courseTitle": "Marketing Internship"
+        },
+        {
+            "catalogTitle": "MKTG 6715",
+            "section": "001",
+            "courseTitle": "Entrepreneurial Mktg"
+        },
+        {
+            "catalogTitle": "MKTG 6730",
+            "section": "001",
+            "courseTitle": "Strategic Mktg Comm"
+        },
+        {
+            "catalogTitle": "MKTG 6810",
+            "section": "001",
+            "courseTitle": "Product & Brand Mgt"
+        },
+        {
+            "catalogTitle": "MKTG 6900",
+            "section": "001",
+            "courseTitle": "Health Care Admn Intern"
+        },
+        {
+            "catalogTitle": "MKTG 6910",
+            "section": "001",
+            "courseTitle": "SS for Masters Students"
+        },
+        {
+            "catalogTitle": "MKTG 6910",
+            "section": "003",
+            "courseTitle": "SS for Masters Students"
+        },
+        {
+            "catalogTitle": "MKTG 7910",
+            "section": "001",
+            "courseTitle": "Individual Research Project"
+        },
+        {
+            "catalogTitle": "MKTG 7910",
+            "section": "003",
+            "courseTitle": "Special Study"
+        },
+        {
+            "catalogTitle": "MKTG 7920",
+            "section": "001",
+            "courseTitle": "Directed Summer Research"
+        },
+        {
+            "catalogTitle": "MKTG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

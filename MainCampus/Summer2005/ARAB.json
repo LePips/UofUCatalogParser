@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARAB 4010",
+            "section": "001",
+            "courseTitle": "Colloquial Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 4020",
+            "section": "001",
+            "courseTitle": "Colloquial Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 4910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ARAB 6010",
+            "section": "001",
+            "courseTitle": "Colloquial Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 6020",
+            "section": "001",
+            "courseTitle": "Colloquial Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 6920",
+            "section": "001",
+            "courseTitle": "Graduate Lang Study"
+        },
+        {
+            "catalogTitle": "ARAB 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation-MA"
+        },
+        {
+            "catalogTitle": "ARAB 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

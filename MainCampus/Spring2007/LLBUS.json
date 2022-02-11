@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 112",
+            "section": "001",
+            "courseTitle": "Investment Stategies"
+        },
+        {
+            "catalogTitle": "LLBUS 140",
+            "section": "001",
+            "courseTitle": "WaterLaw for the Layman"
+        },
+        {
+            "catalogTitle": "LLBUS 149",
+            "section": "001",
+            "courseTitle": "Owning Rental Property"
+        },
+        {
+            "catalogTitle": "LLBUS 161",
+            "section": "001",
+            "courseTitle": "Investing in Real Estate"
+        },
+        {
+            "catalogTitle": "LLBUS 162",
+            "section": "001",
+            "courseTitle": "Mutual Funds, A to Z"
+        },
+        {
+            "catalogTitle": "LLBUS 166",
+            "section": "001",
+            "courseTitle": "Small Business"
+        }
+    ]
+}

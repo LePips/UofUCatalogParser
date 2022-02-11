@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 340",
+            "section": "001",
+            "courseTitle": "Digital Visual Effects"
+        },
+        {
+            "catalogTitle": "FA 370",
+            "section": "001",
+            "courseTitle": "Multimedia Graphics"
+        },
+        {
+            "catalogTitle": "FA 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 2300",
+            "section": "001",
+            "courseTitle": "Videogame Theory/Design"
+        },
+        {
+            "catalogTitle": "FA 3200",
+            "section": "001",
+            "courseTitle": "Exp Anim, Vid., and Web"
+        },
+        {
+            "catalogTitle": "FA 3400",
+            "section": "001",
+            "courseTitle": "Digital Visual Effects"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "002",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "FA 3700",
+            "section": "001",
+            "courseTitle": "Multimedia Graphics"
+        },
+        {
+            "catalogTitle": "FA 3760",
+            "section": "001",
+            "courseTitle": "Game Development"
+        },
+        {
+            "catalogTitle": "FA 4000",
+            "section": "001",
+            "courseTitle": "Integrating the Arts"
+        },
+        {
+            "catalogTitle": "FA 4000",
+            "section": "002",
+            "courseTitle": "Integrating the Arts"
+        },
+        {
+            "catalogTitle": "FA 4100",
+            "section": "001",
+            "courseTitle": "Designing for the Net II"
+        },
+        {
+            "catalogTitle": "FA 4950",
+            "section": "001",
+            "courseTitle": "Interdisciplin Capstone"
+        }
+    ]
+}

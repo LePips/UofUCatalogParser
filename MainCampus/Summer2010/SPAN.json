@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "001",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 101",
+            "section": "060",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 102",
+            "section": "060",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 201",
+            "section": "004",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 201",
+            "section": "060",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "004",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 202",
+            "section": "060",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "001",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1010",
+            "section": "060",
+            "courseTitle": "Beg Span I"
+        },
+        {
+            "catalogTitle": "SPAN 1020",
+            "section": "060",
+            "courseTitle": "Beg Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "004",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2010",
+            "section": "060",
+            "courseTitle": "Intrm Span I"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "004",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 2020",
+            "section": "060",
+            "courseTitle": "Intrm Span II"
+        },
+        {
+            "catalogTitle": "SPAN 4560",
+            "section": "090",
+            "courseTitle": "Cultr/Cust Span America"
+        },
+        {
+            "catalogTitle": "SPAN 4620",
+            "section": "001",
+            "courseTitle": "Intro Span Literature"
+        },
+        {
+            "catalogTitle": "SPAN 4880",
+            "section": "003",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "001",
+            "courseTitle": "20th-Century Central American"
+        },
+        {
+            "catalogTitle": "SPAN 4900",
+            "section": "002",
+            "courseTitle": "The Hispanic American Essay"
+        }
+    ]
+}

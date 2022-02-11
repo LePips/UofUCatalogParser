@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANAT 6920",
+            "section": "001",
+            "courseTitle": "Graduate Instruction"
+        },
+        {
+            "catalogTitle": "ANAT 6921",
+            "section": "001",
+            "courseTitle": "Special Dissections"
+        },
+        {
+            "catalogTitle": "ANAT 6922",
+            "section": "001",
+            "courseTitle": "Special Dissections"
+        },
+        {
+            "catalogTitle": "ANAT 7690",
+            "section": "001",
+            "courseTitle": "Sci Lecturing & Writing"
+        },
+        {
+            "catalogTitle": "ANAT 7720",
+            "section": "001",
+            "courseTitle": "Seminar"
+        },
+        {
+            "catalogTitle": "ANAT 7750",
+            "section": "001",
+            "courseTitle": "Developmental Neurobiol"
+        },
+        {
+            "catalogTitle": "ANAT 7900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ANAT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ANAT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANAT 7990",
+            "section": "001",
+            "courseTitle": "Cont. Registration-PhD"
+        }
+    ]
+}

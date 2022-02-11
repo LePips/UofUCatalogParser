@@ -1,0 +1,279 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FRNCH 101",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 101",
+            "section": "004",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 101",
+            "section": "005",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 102",
+            "section": "001",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 102",
+            "section": "002",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 201",
+            "section": "001",
+            "courseTitle": "Intermediate French I"
+        },
+        {
+            "catalogTitle": "FRNCH 201",
+            "section": "003",
+            "courseTitle": "Intermediate French I"
+        },
+        {
+            "catalogTitle": "FRNCH 201",
+            "section": "004",
+            "courseTitle": "Intermediate French I"
+        },
+        {
+            "catalogTitle": "FRNCH 260",
+            "section": "001",
+            "courseTitle": "Int. Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 306",
+            "section": "001",
+            "courseTitle": "Grammar & Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 360",
+            "section": "001",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "002",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "003",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "004",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "005",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "001",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "002",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "001",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "002",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "003",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "005",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "001",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2600",
+            "section": "001",
+            "courseTitle": "Int. Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3040",
+            "section": "001",
+            "courseTitle": "Intensive Grammar"
+        },
+        {
+            "catalogTitle": "FRNCH 3060",
+            "section": "001",
+            "courseTitle": "Grammar & Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 3600",
+            "section": "001",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3900",
+            "section": "001",
+            "courseTitle": "French Pop Culture"
+        },
+        {
+            "catalogTitle": "FRNCH 3950",
+            "section": "001",
+            "courseTitle": "Sl - French"
+        },
+        {
+            "catalogTitle": "FRNCH 3950",
+            "section": "087",
+            "courseTitle": "Sl - French"
+        },
+        {
+            "catalogTitle": "FRNCH 4550",
+            "section": "001",
+            "courseTitle": "French Civilization"
+        },
+        {
+            "catalogTitle": "FRNCH 4600",
+            "section": "001",
+            "courseTitle": "Reading Seminar"
+        },
+        {
+            "catalogTitle": "FRNCH 4620",
+            "section": "001",
+            "courseTitle": "Early Modern Fr Studies"
+        },
+        {
+            "catalogTitle": "FRNCH 4640",
+            "section": "001",
+            "courseTitle": "20/21st C Fr Studies"
+        },
+        {
+            "catalogTitle": "FRNCH 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "001",
+            "courseTitle": "Medieval Studies"
+        },
+        {
+            "catalogTitle": "FRNCH 4900",
+            "section": "002",
+            "courseTitle": "Laicity & Religion"
+        },
+        {
+            "catalogTitle": "FRNCH 4990",
+            "section": "002",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "FRNCH 4990",
+            "section": "004",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "FRNCH 4990",
+            "section": "005",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "FRNCH 4990",
+            "section": "007",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "FRNCH 4990",
+            "section": "008",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "FRNCH 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "FRNCH 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 6880",
+            "section": "006",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 6900",
+            "section": "001",
+            "courseTitle": "Graduate Workshop"
+        },
+        {
+            "catalogTitle": "FRNCH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "FRNCH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "FRNCH 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "FRNCH 7300",
+            "section": "002",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "001",
+            "courseTitle": "Medieval Studies"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "002",
+            "courseTitle": "Laicity & Religion"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "003",
+            "courseTitle": "French for Reading Cmprehnsion"
+        },
+        {
+            "catalogTitle": "FRNCH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "FRNCH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLDAN 206",
+            "section": "001",
+            "courseTitle": "Swing is King"
+        },
+        {
+            "catalogTitle": "LLDAN 208",
+            "section": "001",
+            "courseTitle": "Cardio Salsa Workout"
+        },
+        {
+            "catalogTitle": "LLDAN 210",
+            "section": "001",
+            "courseTitle": "Latin Combo Salsa & Merengue"
+        },
+        {
+            "catalogTitle": "LLDAN 215",
+            "section": "001",
+            "courseTitle": "Yoga-Strength & Toning"
+        },
+        {
+            "catalogTitle": "LLDAN 226",
+            "section": "001",
+            "courseTitle": "Hip Hop"
+        }
+    ]
+}

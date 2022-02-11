@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CHEM 1010",
+            "section": "301",
+            "courseTitle": "Chem, Humanity, Envirnm"
+        },
+        {
+            "catalogTitle": "CHEM 1010",
+            "section": "302",
+            "courseTitle": "Chem, Humanity, Envirnm"
+        },
+        {
+            "catalogTitle": "CHEM 1010",
+            "section": "303",
+            "courseTitle": "Chem, Humanity, Envirnm"
+        },
+        {
+            "catalogTitle": "CHEM 1220",
+            "section": "301",
+            "courseTitle": "General Chemistry II"
+        }
+    ]
+}

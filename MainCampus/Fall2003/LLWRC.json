@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 752",
+            "section": "001",
+            "courseTitle": "Creative Wtg"
+        },
+        {
+            "catalogTitle": "LLWRC 752",
+            "section": "002",
+            "courseTitle": "Creative Wtg"
+        },
+        {
+            "catalogTitle": "LLWRC 756",
+            "section": "002",
+            "courseTitle": "Children's Literature"
+        },
+        {
+            "catalogTitle": "LLWRC 757",
+            "section": "001",
+            "courseTitle": "Intro to Screen Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction"
+        }
+    ]
+}

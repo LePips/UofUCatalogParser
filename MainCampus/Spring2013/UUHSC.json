@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UUHSC 2600",
+            "section": "001",
+            "courseTitle": "Intro 2 Qualitative Rsh"
+        },
+        {
+            "catalogTitle": "UUHSC 3001",
+            "section": "001",
+            "courseTitle": "HS Leap 3 Research"
+        },
+        {
+            "catalogTitle": "UUHSC 4001",
+            "section": "001",
+            "courseTitle": "HS Leap IV Spring"
+        },
+        {
+            "catalogTitle": "UUHSC 5600",
+            "section": "001",
+            "courseTitle": "IPE SIM Hosp Patient"
+        },
+        {
+            "catalogTitle": "UUHSC 6600",
+            "section": "001",
+            "courseTitle": "IPE SIM Hosp Patient"
+        },
+        {
+            "catalogTitle": "UUHSC 6601",
+            "section": "001",
+            "courseTitle": "IPE SIM Hosp Patient"
+        },
+        {
+            "catalogTitle": "UUHSC 6701",
+            "section": "001",
+            "courseTitle": "IPE SIM Ambulatory Care"
+        }
+    ]
+}

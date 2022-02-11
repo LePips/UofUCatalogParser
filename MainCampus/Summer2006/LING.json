@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 3200",
+            "section": "001",
+            "courseTitle": "Ling And Education"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "001",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 3950",
+            "section": "001",
+            "courseTitle": "Service Learning"
+        },
+        {
+            "catalogTitle": "LING 5810",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 5940",
+            "section": "001",
+            "courseTitle": "Tchg Tech/Strat K-12"
+        },
+        {
+            "catalogTitle": "LING 5981",
+            "section": "001",
+            "courseTitle": "Intro Programming Ling Info"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "001",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 6000",
+            "section": "001",
+            "courseTitle": "Linguistics for Educators"
+        },
+        {
+            "catalogTitle": "LING 6080",
+            "section": "001",
+            "courseTitle": "Intro Programming Ling Info"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "LING 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

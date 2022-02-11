@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 650",
+            "section": "001",
+            "courseTitle": "Avalanche Workshop"
+        },
+        {
+            "catalogTitle": "LLREC 663",
+            "section": "001",
+            "courseTitle": "Bike Repair I"
+        },
+        {
+            "catalogTitle": "LLREC 731",
+            "section": "001",
+            "courseTitle": "Skate Skiing"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "001",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 768",
+            "section": "001",
+            "courseTitle": "Aerial Dance: Silks"
+        },
+        {
+            "catalogTitle": "LLREC 768",
+            "section": "002",
+            "courseTitle": "Aerial Dance: Silks"
+        },
+        {
+            "catalogTitle": "LLREC 781",
+            "section": "001",
+            "courseTitle": "Intermediate Golf Workshop"
+        },
+        {
+            "catalogTitle": "LLREC 787",
+            "section": "001",
+            "courseTitle": "Bike Touring 101"
+        },
+        {
+            "catalogTitle": "LLREC 788",
+            "section": "002",
+            "courseTitle": "Mixed Apparatus/Trapeze Worksh"
+        }
+    ]
+}

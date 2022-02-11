@@ -1,0 +1,424 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANTH 100",
+            "section": "001",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 1000",
+            "section": "001",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 1000",
+            "section": "090",
+            "courseTitle": "Intro to Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "001",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "090",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "001",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "090",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1030",
+            "section": "001",
+            "courseTitle": "World Prehistory: Intro"
+        },
+        {
+            "catalogTitle": "ANTH 1030",
+            "section": "090",
+            "courseTitle": "World Prehistory: Intro"
+        },
+        {
+            "catalogTitle": "ANTH 1050",
+            "section": "090",
+            "courseTitle": "Evolution Human Nature"
+        },
+        {
+            "catalogTitle": "ANTH 2021",
+            "section": "001",
+            "courseTitle": "Growing Up Human"
+        },
+        {
+            "catalogTitle": "ANTH 2030",
+            "section": "090",
+            "courseTitle": "Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 2220",
+            "section": "001",
+            "courseTitle": "Intro to Forensic Anth"
+        },
+        {
+            "catalogTitle": "ANTH 2281",
+            "section": "001",
+            "courseTitle": "Intro to Primates"
+        },
+        {
+            "catalogTitle": "ANTH 3001",
+            "section": "001",
+            "courseTitle": "Anthro:Major and Career"
+        },
+        {
+            "catalogTitle": "ANTH 3125",
+            "section": "090",
+            "courseTitle": "Silk Road"
+        },
+        {
+            "catalogTitle": "ANTH 3127",
+            "section": "001",
+            "courseTitle": "Peoples of Europe"
+        },
+        {
+            "catalogTitle": "ANTH 3128",
+            "section": "001",
+            "courseTitle": "Andean Cultures"
+        },
+        {
+            "catalogTitle": "ANTH 3151",
+            "section": "001",
+            "courseTitle": "Peoples Of The Pacific"
+        },
+        {
+            "catalogTitle": "ANTH 3154",
+            "section": "001",
+            "courseTitle": "Brazilian Culture"
+        },
+        {
+            "catalogTitle": "ANTH 3321",
+            "section": "001",
+            "courseTitle": "Classic Maya"
+        },
+        {
+            "catalogTitle": "ANTH 3329",
+            "section": "090",
+            "courseTitle": "Anth Arch Anc Egypt"
+        },
+        {
+            "catalogTitle": "ANTH 3969",
+            "section": "002",
+            "courseTitle": "Cultural Resources Management"
+        },
+        {
+            "catalogTitle": "ANTH 4110",
+            "section": "001",
+            "courseTitle": "Women Cross Culturally"
+        },
+        {
+            "catalogTitle": "ANTH 4133",
+            "section": "001",
+            "courseTitle": "Maternal & Child Health"
+        },
+        {
+            "catalogTitle": "ANTH 4134",
+            "section": "001",
+            "courseTitle": "Anthropology Human Mind"
+        },
+        {
+            "catalogTitle": "ANTH 4186",
+            "section": "001",
+            "courseTitle": "Human Ecology"
+        },
+        {
+            "catalogTitle": "ANTH 4193",
+            "section": "001",
+            "courseTitle": "Medical Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 4193",
+            "section": "090",
+            "courseTitle": "Medical Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 4234",
+            "section": "001",
+            "courseTitle": "Genes, Health & History"
+        },
+        {
+            "catalogTitle": "ANTH 4240",
+            "section": "001",
+            "courseTitle": "Acceleration Human Evol"
+        },
+        {
+            "catalogTitle": "ANTH 4252",
+            "section": "090",
+            "courseTitle": "Human Biology"
+        },
+        {
+            "catalogTitle": "ANTH 4261",
+            "section": "001",
+            "courseTitle": "Paleoanthropology"
+        },
+        {
+            "catalogTitle": "ANTH 4271",
+            "section": "001",
+            "courseTitle": "Human Osteology"
+        },
+        {
+            "catalogTitle": "ANTH 4272",
+            "section": "001",
+            "courseTitle": "Forensic Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 4291",
+            "section": "001",
+            "courseTitle": "Evolution Human Health"
+        },
+        {
+            "catalogTitle": "ANTH 4341",
+            "section": "001",
+            "courseTitle": "Fundmentls Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 4372",
+            "section": "001",
+            "courseTitle": "Zooarchaeology"
+        },
+        {
+            "catalogTitle": "ANTH 4470",
+            "section": "001",
+            "courseTitle": "Mating and Parenting"
+        },
+        {
+            "catalogTitle": "ANTH 4481",
+            "section": "001",
+            "courseTitle": "Evolutionary Psychology"
+        },
+        {
+            "catalogTitle": "ANTH 4501",
+            "section": "001",
+            "courseTitle": "Lang in Soc Context"
+        },
+        {
+            "catalogTitle": "ANTH 4900",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ANTH 4900",
+            "section": "002",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ANTH 4950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "ANTH 4955",
+            "section": "001",
+            "courseTitle": "Undergraduate TA"
+        },
+        {
+            "catalogTitle": "ANTH 4955",
+            "section": "002",
+            "courseTitle": "Undergraduate TA"
+        },
+        {
+            "catalogTitle": "ANTH 4990",
+            "section": "001",
+            "courseTitle": "Ind Res: Health Track"
+        },
+        {
+            "catalogTitle": "ANTH 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ANTH 5321",
+            "section": "001",
+            "courseTitle": "The Classic Maya"
+        },
+        {
+            "catalogTitle": "ANTH 5471",
+            "section": "001",
+            "courseTitle": "Models in Evol. Ecology"
+        },
+        {
+            "catalogTitle": "ANTH 5711",
+            "section": "001",
+            "courseTitle": "Stu Ind Research Group"
+        },
+        {
+            "catalogTitle": "ANTH 6100",
+            "section": "001",
+            "courseTitle": "Proseminar in Anthr I"
+        },
+        {
+            "catalogTitle": "ANTH 6125",
+            "section": "090",
+            "courseTitle": "Silk Road"
+        },
+        {
+            "catalogTitle": "ANTH 6127",
+            "section": "001",
+            "courseTitle": "Peoples of Europe"
+        },
+        {
+            "catalogTitle": "ANTH 6133",
+            "section": "001",
+            "courseTitle": "Maternal & Child Health"
+        },
+        {
+            "catalogTitle": "ANTH 6134",
+            "section": "001",
+            "courseTitle": "Anthropology Human Mind"
+        },
+        {
+            "catalogTitle": "ANTH 6151",
+            "section": "001",
+            "courseTitle": "Peoples Of The Pacific"
+        },
+        {
+            "catalogTitle": "ANTH 6154",
+            "section": "001",
+            "courseTitle": "Brazilian Culture"
+        },
+        {
+            "catalogTitle": "ANTH 6186",
+            "section": "001",
+            "courseTitle": "Human Ecology"
+        },
+        {
+            "catalogTitle": "ANTH 6193",
+            "section": "001",
+            "courseTitle": "Medical Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 6193",
+            "section": "090",
+            "courseTitle": "Medical Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 6240",
+            "section": "001",
+            "courseTitle": "Acceleration Human Evol"
+        },
+        {
+            "catalogTitle": "ANTH 6261",
+            "section": "001",
+            "courseTitle": "Paleoanthropology"
+        },
+        {
+            "catalogTitle": "ANTH 6271",
+            "section": "001",
+            "courseTitle": "Human Osteology"
+        },
+        {
+            "catalogTitle": "ANTH 6272",
+            "section": "001",
+            "courseTitle": "Forensic Anthropology"
+        },
+        {
+            "catalogTitle": "ANTH 6291",
+            "section": "001",
+            "courseTitle": "Evolution Human Health"
+        },
+        {
+            "catalogTitle": "ANTH 6329",
+            "section": "090",
+            "courseTitle": "Anth Arch Anc Egypt"
+        },
+        {
+            "catalogTitle": "ANTH 6372",
+            "section": "001",
+            "courseTitle": "Zooarchaeology"
+        },
+        {
+            "catalogTitle": "ANTH 6400",
+            "section": "001",
+            "courseTitle": "Proseminar in Anthr IV"
+        },
+        {
+            "catalogTitle": "ANTH 6470",
+            "section": "001",
+            "courseTitle": "Mating and Parenting"
+        },
+        {
+            "catalogTitle": "ANTH 6481",
+            "section": "001",
+            "courseTitle": "Evolutionary Psychology"
+        },
+        {
+            "catalogTitle": "ANTH 6498",
+            "section": "001",
+            "courseTitle": "Pblms In Evol Anthro"
+        },
+        {
+            "catalogTitle": "ANTH 6501",
+            "section": "001",
+            "courseTitle": "Lang in Social Context"
+        },
+        {
+            "catalogTitle": "ANTH 6611",
+            "section": "001",
+            "courseTitle": "Prep Grant Proposals"
+        },
+        {
+            "catalogTitle": "ANTH 6950",
+            "section": "001",
+            "courseTitle": "Individual Study"
+        },
+        {
+            "catalogTitle": "ANTH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ANTH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANTH 7910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "ANTH 7920",
+            "section": "001",
+            "courseTitle": "Guided Reading"
+        },
+        {
+            "catalogTitle": "ANTH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ANTH 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ANTH 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ANTH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ANTH 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

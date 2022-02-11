@@ -1,0 +1,259 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 111",
+            "section": "005",
+            "courseTitle": "Finance for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 112",
+            "section": "005",
+            "courseTitle": "Finance for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 113",
+            "section": "005",
+            "courseTitle": "Accounting"
+        },
+        {
+            "catalogTitle": "PROED 121",
+            "section": "005",
+            "courseTitle": "Economics for Bus"
+        },
+        {
+            "catalogTitle": "PROED 300",
+            "section": "005",
+            "courseTitle": "HRM Certificate Prog"
+        },
+        {
+            "catalogTitle": "PROED 301",
+            "section": "005",
+            "courseTitle": "Strategic Planning"
+        },
+        {
+            "catalogTitle": "PROED 302",
+            "section": "005",
+            "courseTitle": "Total Rewards"
+        },
+        {
+            "catalogTitle": "PROED 303",
+            "section": "005",
+            "courseTitle": "Nego. and Conflict Mgt."
+        },
+        {
+            "catalogTitle": "PROED 304",
+            "section": "005",
+            "courseTitle": "Employment Law"
+        },
+        {
+            "catalogTitle": "PROED 305",
+            "section": "005",
+            "courseTitle": "Benefits and Policies"
+        },
+        {
+            "catalogTitle": "PROED 306",
+            "section": "005",
+            "courseTitle": "Employee Recruitment/Selection"
+        },
+        {
+            "catalogTitle": "PROED 308",
+            "section": "005",
+            "courseTitle": "Org. Training Development"
+        },
+        {
+            "catalogTitle": "PROED 309",
+            "section": "005",
+            "courseTitle": "HR Essentials"
+        },
+        {
+            "catalogTitle": "PROED 401",
+            "section": "005",
+            "courseTitle": "Collaborative Leadership"
+        },
+        {
+            "catalogTitle": "PROED 402",
+            "section": "005",
+            "courseTitle": "Managing Collaboratively"
+        },
+        {
+            "catalogTitle": "PROED 403",
+            "section": "005",
+            "courseTitle": "Teams of Trust"
+        },
+        {
+            "catalogTitle": "PROED 501",
+            "section": "005",
+            "courseTitle": "Foundations of NP Sector"
+        },
+        {
+            "catalogTitle": "PROED 504",
+            "section": "005",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "PROED 505",
+            "section": "005",
+            "courseTitle": "Finding Funding"
+        },
+        {
+            "catalogTitle": "PROED 506",
+            "section": "005",
+            "courseTitle": "Mrkting for Nonprofits"
+        },
+        {
+            "catalogTitle": "PROED 507",
+            "section": "005",
+            "courseTitle": "Major Gifts"
+        },
+        {
+            "catalogTitle": "PROED 508",
+            "section": "005",
+            "courseTitle": "Grant Writing II"
+        },
+        {
+            "catalogTitle": "PROED 509",
+            "section": "005",
+            "courseTitle": "NP Fundraising Plan"
+        },
+        {
+            "catalogTitle": "PROED 510",
+            "section": "005",
+            "courseTitle": "Your One-Year Marketing Plan"
+        },
+        {
+            "catalogTitle": "PROED 521",
+            "section": "005",
+            "courseTitle": "Creating NP Boards"
+        },
+        {
+            "catalogTitle": "PROED 529",
+            "section": "005",
+            "courseTitle": "Language of Finance NP I"
+        },
+        {
+            "catalogTitle": "PROED 530",
+            "section": "005",
+            "courseTitle": "The Planning Process"
+        },
+        {
+            "catalogTitle": "PROED 541",
+            "section": "005",
+            "courseTitle": "Your NP Org & Community"
+        },
+        {
+            "catalogTitle": "PROED 543",
+            "section": "005",
+            "courseTitle": "Nonprofit Wrap Up"
+        },
+        {
+            "catalogTitle": "PROED 548",
+            "section": "005",
+            "courseTitle": "NP Executive Director"
+        },
+        {
+            "catalogTitle": "PROED 606",
+            "section": "005",
+            "courseTitle": "Project Scheduling"
+        },
+        {
+            "catalogTitle": "PROED 607",
+            "section": "005",
+            "courseTitle": "Project Risk Management"
+        },
+        {
+            "catalogTitle": "PROED 610",
+            "section": "005",
+            "courseTitle": "PMP Exam Preparation"
+        },
+        {
+            "catalogTitle": "PROED 611",
+            "section": "005",
+            "courseTitle": "Fundamentals of PM"
+        },
+        {
+            "catalogTitle": "PROED 612",
+            "section": "005",
+            "courseTitle": "Fundamentals of PM II"
+        },
+        {
+            "catalogTitle": "PROED 622",
+            "section": "005",
+            "courseTitle": "PM Project Leadership & Teams"
+        },
+        {
+            "catalogTitle": "PROED 623",
+            "section": "005",
+            "courseTitle": "Agile Project Management SCRUM"
+        },
+        {
+            "catalogTitle": "PROED 641",
+            "section": "042",
+            "courseTitle": "Project Mgmt Training Camp"
+        },
+        {
+            "catalogTitle": "PROED 643",
+            "section": "042",
+            "courseTitle": "Guiding Organizational Change"
+        },
+        {
+            "catalogTitle": "PROED 647",
+            "section": "030",
+            "courseTitle": "PM Online Certificate"
+        },
+        {
+            "catalogTitle": "PROED 648",
+            "section": "030",
+            "courseTitle": "Advanced Project Mgmt Cert"
+        },
+        {
+            "catalogTitle": "PROED 700",
+            "section": "005",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "PROED 720",
+            "section": "005",
+            "courseTitle": "Effective Presentations"
+        },
+        {
+            "catalogTitle": "PROED 726",
+            "section": "005",
+            "courseTitle": "Time Management"
+        },
+        {
+            "catalogTitle": "PROED 766",
+            "section": "005",
+            "courseTitle": "Coaching Leadership Tools"
+        },
+        {
+            "catalogTitle": "PROED 770",
+            "section": "005",
+            "courseTitle": "Intro to Coaching"
+        },
+        {
+            "catalogTitle": "PROED 820",
+            "section": "007",
+            "courseTitle": "Utah Municipal Clerks Acdmy"
+        },
+        {
+            "catalogTitle": "PROED 820",
+            "section": "071",
+            "courseTitle": "Utah Municipal Clerks Acdmy"
+        },
+        {
+            "catalogTitle": "PROED 821",
+            "section": "007",
+            "courseTitle": "Utah Municipal Clerks Inst"
+        },
+        {
+            "catalogTitle": "PROED 825",
+            "section": "007",
+            "courseTitle": "MMC Professional Dev"
+        },
+        {
+            "catalogTitle": "PROED 876",
+            "section": "007",
+            "courseTitle": "Public Safety Strategic Team"
+        }
+    ]
+}

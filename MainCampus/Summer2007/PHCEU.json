@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHCEU 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "PHCEU 7960",
+            "section": "001",
+            "courseTitle": "Special Problems-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "015",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

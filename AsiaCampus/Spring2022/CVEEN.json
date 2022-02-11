@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CVEEN 1000",
+            "section": "301",
+            "courseTitle": "Intr Civil Envirnm Engg"
+        },
+        {
+            "catalogTitle": "CVEEN 1400",
+            "section": "301",
+            "courseTitle": "Computer-Aided Design"
+        },
+        {
+            "catalogTitle": "CVEEN 2000",
+            "section": "301",
+            "courseTitle": "Seminar"
+        },
+        {
+            "catalogTitle": "CVEEN 2010",
+            "section": "301",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "CVEEN 2140",
+            "section": "301",
+            "courseTitle": "Strength of Materials"
+        },
+        {
+            "catalogTitle": "CVEEN 2410",
+            "section": "302",
+            "courseTitle": "Geomatics"
+        },
+        {
+            "catalogTitle": "CVEEN 2750",
+            "section": "301",
+            "courseTitle": "Computer Tools"
+        },
+        {
+            "catalogTitle": "CVEEN 3100",
+            "section": "301",
+            "courseTitle": "Tech Comm for Engrs"
+        },
+        {
+            "catalogTitle": "CVEEN 3210",
+            "section": "301",
+            "courseTitle": "Struct Loads & Anal"
+        },
+        {
+            "catalogTitle": "CVEEN 3520",
+            "section": "301",
+            "courseTitle": "Transportation Engg"
+        }
+    ]
+}

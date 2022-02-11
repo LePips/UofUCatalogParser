@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "TURK 212",
+            "section": "001",
+            "courseTitle": "Accel Interm TURK"
+        },
+        {
+            "catalogTitle": "TURK 488",
+            "section": "001",
+            "courseTitle": "Advanced Turkish"
+        },
+        {
+            "catalogTitle": "TURK 2120",
+            "section": "001",
+            "courseTitle": "Accel Interm TURK"
+        },
+        {
+            "catalogTitle": "TURK 4880",
+            "section": "001",
+            "courseTitle": "Advanced Turkish"
+        },
+        {
+            "catalogTitle": "TURK 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

@@ -1,3 +1,29 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "CL CV 155",
+            "section": "001",
+            "courseTitle": "Classical Mythology"
+        },
+        {
+            "catalogTitle": "CL CV 1550",
+            "section": "001",
+            "courseTitle": "Classical Mythology"
+        },
+        {
+            "catalogTitle": "CL CV 1550",
+            "section": "090",
+            "courseTitle": "Classical Mythology"
+        },
+        {
+            "catalogTitle": "CL CV 3790",
+            "section": "001",
+            "courseTitle": "Ancient Epic"
+        },
+        {
+            "catalogTitle": "CL CV 4550",
+            "section": "001",
+            "courseTitle": "Ancient Myth & Religion"
+        }
+    ]
 }

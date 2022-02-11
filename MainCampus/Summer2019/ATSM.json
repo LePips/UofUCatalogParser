@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATSM 3400",
+            "section": "001",
+            "courseTitle": "Clinical Exam I"
+        },
+        {
+            "catalogTitle": "ATSM 3406",
+            "section": "001",
+            "courseTitle": "Sports Med Internship"
+        },
+        {
+            "catalogTitle": "ATSM 4880",
+            "section": "001",
+            "courseTitle": "Scholarship Sports Med"
+        },
+        {
+            "catalogTitle": "ATSM 6040",
+            "section": "001",
+            "courseTitle": "Gross Anatomy"
+        }
+    ]
+}

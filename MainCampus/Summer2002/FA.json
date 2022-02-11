@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 3700",
+            "section": "001",
+            "courseTitle": "Multimedia Graphics"
+        },
+        {
+            "catalogTitle": "FA 3730",
+            "section": "001",
+            "courseTitle": "Beg Video Prod/Edit"
+        },
+        {
+            "catalogTitle": "FA 4100",
+            "section": "001",
+            "courseTitle": "Inter. Media Design"
+        },
+        {
+            "catalogTitle": "FA 5160",
+            "section": "001",
+            "courseTitle": "3 D Computer Graphics"
+        },
+        {
+            "catalogTitle": "FA 5900",
+            "section": "001",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 6500",
+            "section": "001",
+            "courseTitle": "Grad. Proj. ArtsTech"
+        }
+    ]
+}

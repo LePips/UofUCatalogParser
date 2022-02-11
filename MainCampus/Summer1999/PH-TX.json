@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PH TX 2700",
+            "section": "094",
+            "courseTitle": "Common Medicines"
+        },
+        {
+            "catalogTitle": "PH TX 5633",
+            "section": "001",
+            "courseTitle": "Journal Club"
+        },
+        {
+            "catalogTitle": "PH TX 5634",
+            "section": "001",
+            "courseTitle": "Selected Topics"
+        },
+        {
+            "catalogTitle": "PH TX 5990",
+            "section": "001",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PH TX 6910",
+            "section": "001",
+            "courseTitle": "Advanced Studies-MS"
+        },
+        {
+            "catalogTitle": "PH TX 7890",
+            "section": "001",
+            "courseTitle": "Research Seminar"
+        },
+        {
+            "catalogTitle": "PH TX 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "PH TX 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg PhD"
+        }
+    ]
+}

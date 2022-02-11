@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTR 106",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 206",
+            "section": "001",
+            "courseTitle": "Popular Observ Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 1060",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 2060",
+            "section": "001",
+            "courseTitle": "Popular Obsrv Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 2500",
+            "section": "001",
+            "courseTitle": "Foundations Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 4060",
+            "section": "001",
+            "courseTitle": "Observational Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 4090",
+            "section": "001",
+            "courseTitle": "Stellar Astrophysics"
+        },
+        {
+            "catalogTitle": "ASTR 5580",
+            "section": "001",
+            "courseTitle": "Cosmology"
+        }
+    ]
+}

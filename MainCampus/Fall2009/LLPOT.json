@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLPOT 614",
+            "section": "001",
+            "courseTitle": "Stargazing"
+        },
+        {
+            "catalogTitle": "LLPOT 622",
+            "section": "001",
+            "courseTitle": "Geology of the Wasatch"
+        },
+        {
+            "catalogTitle": "LLPOT 648",
+            "section": "001",
+            "courseTitle": "Ghost Hunting"
+        },
+        {
+            "catalogTitle": "LLPOT 661",
+            "section": "001",
+            "courseTitle": "Crime Scene Investigation"
+        },
+        {
+            "catalogTitle": "LLPOT 671",
+            "section": "001",
+            "courseTitle": "Blogging 101"
+        },
+        {
+            "catalogTitle": "LLPOT 686",
+            "section": "001",
+            "courseTitle": "Back-Country Car Camping"
+        },
+        {
+            "catalogTitle": "LLPOT 693",
+            "section": "001",
+            "courseTitle": "Tour the Avenues Cemetery"
+        }
+    ]
+}

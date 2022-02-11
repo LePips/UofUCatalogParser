@@ -1,0 +1,109 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2010",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "003",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "001",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4430",
+            "section": "001",
+            "courseTitle": "Process Analysis"
+        },
+        {
+            "catalogTitle": "IS 4470",
+            "section": "001",
+            "courseTitle": "Telecom & Security"
+        },
+        {
+            "catalogTitle": "IS 4480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 5910",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "IS 6010",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 6010",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "001",
+            "courseTitle": "Process Analysis"
+        },
+        {
+            "catalogTitle": "IS 6480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 6570",
+            "section": "001",
+            "courseTitle": "IT Security"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "001",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 7410",
+            "section": "001",
+            "courseTitle": "IS Research Survey"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "001",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "002",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research PhD"
+        }
+    ]
+}

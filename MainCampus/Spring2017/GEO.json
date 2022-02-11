@@ -1,0 +1,429 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GEO 104",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 330",
+            "section": "001",
+            "courseTitle": "The Water Planet"
+        },
+        {
+            "catalogTitle": "GEO 538",
+            "section": "001",
+            "courseTitle": "Intro GW Modeling"
+        },
+        {
+            "catalogTitle": "GEO 539",
+            "section": "001",
+            "courseTitle": "Sol Trns & Subsrf Rem"
+        },
+        {
+            "catalogTitle": "GEO 1000",
+            "section": "001",
+            "courseTitle": "Natural Disasters"
+        },
+        {
+            "catalogTitle": "GEO 1010",
+            "section": "090",
+            "courseTitle": "Exploring Earth"
+        },
+        {
+            "catalogTitle": "GEO 1030",
+            "section": "090",
+            "courseTitle": "Earthquakes & Volcanoes"
+        },
+        {
+            "catalogTitle": "GEO 1040",
+            "section": "001",
+            "courseTitle": "World of Dinosaurs"
+        },
+        {
+            "catalogTitle": "GEO 1080",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "GEO 1110",
+            "section": "001",
+            "courseTitle": "Intr to Earth Systems"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "001",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 1115",
+            "section": "002",
+            "courseTitle": "Intro Earth Systems Lab"
+        },
+        {
+            "catalogTitle": "GEO 1220",
+            "section": "001",
+            "courseTitle": "Earth History"
+        },
+        {
+            "catalogTitle": "GEO 3010",
+            "section": "001",
+            "courseTitle": "Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 3010",
+            "section": "002",
+            "courseTitle": "Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 3010",
+            "section": "003",
+            "courseTitle": "Geophysics"
+        },
+        {
+            "catalogTitle": "GEO 3030",
+            "section": "070",
+            "courseTitle": "Living with Quakes"
+        },
+        {
+            "catalogTitle": "GEO 3030",
+            "section": "090",
+            "courseTitle": "Living with Quakes"
+        },
+        {
+            "catalogTitle": "GEO 3060",
+            "section": "001",
+            "courseTitle": "Struct Geol & Tectonics"
+        },
+        {
+            "catalogTitle": "GEO 3060",
+            "section": "002",
+            "courseTitle": "Struct Geol & Tectonics"
+        },
+        {
+            "catalogTitle": "GEO 3060",
+            "section": "003",
+            "courseTitle": "Struct Geol & Tectonics"
+        },
+        {
+            "catalogTitle": "GEO 3080",
+            "section": "001",
+            "courseTitle": "Earth Materials I"
+        },
+        {
+            "catalogTitle": "GEO 3080",
+            "section": "002",
+            "courseTitle": "Earth Materials I"
+        },
+        {
+            "catalogTitle": "GEO 3090",
+            "section": "001",
+            "courseTitle": "Earth Materials II"
+        },
+        {
+            "catalogTitle": "GEO 3090",
+            "section": "002",
+            "courseTitle": "Earth Materials II"
+        },
+        {
+            "catalogTitle": "GEO 3090",
+            "section": "003",
+            "courseTitle": "Earth Materials II"
+        },
+        {
+            "catalogTitle": "GEO 3180",
+            "section": "001",
+            "courseTitle": "Paleobiology"
+        },
+        {
+            "catalogTitle": "GEO 3180",
+            "section": "002",
+            "courseTitle": "Paleobiology"
+        },
+        {
+            "catalogTitle": "GEO 3300",
+            "section": "001",
+            "courseTitle": "The Water Planet"
+        },
+        {
+            "catalogTitle": "GEO 3500",
+            "section": "001",
+            "courseTitle": "Volcanism"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "001",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "002",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "003",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "004",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "005",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "006",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "007",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "008",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "009",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3670",
+            "section": "010",
+            "courseTitle": "Sci Comm for Next G"
+        },
+        {
+            "catalogTitle": "GEO 3900",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "GEO 4500",
+            "section": "001",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 4500",
+            "section": "002",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 4500",
+            "section": "003",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 4970",
+            "section": "001",
+            "courseTitle": "Senior Thesis"
+        },
+        {
+            "catalogTitle": "GEO 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "GEO 5150",
+            "section": "001",
+            "courseTitle": "Geological Engg Design"
+        },
+        {
+            "catalogTitle": "GEO 5220",
+            "section": "001",
+            "courseTitle": "Seismology II: Seismic"
+        },
+        {
+            "catalogTitle": "GEO 5240",
+            "section": "001",
+            "courseTitle": "Physical Fields II"
+        },
+        {
+            "catalogTitle": "GEO 5320",
+            "section": "001",
+            "courseTitle": "Signal/Image Processing"
+        },
+        {
+            "catalogTitle": "GEO 5385",
+            "section": "001",
+            "courseTitle": "Intro GW Modeling"
+        },
+        {
+            "catalogTitle": "GEO 5390",
+            "section": "001",
+            "courseTitle": "Sol Trns & Subsrf Rem"
+        },
+        {
+            "catalogTitle": "GEO 5500",
+            "section": "001",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 5500",
+            "section": "002",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 5500",
+            "section": "003",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "GEO 5900",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "001",
+            "courseTitle": "DLS-Undergraduate"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "003",
+            "courseTitle": "Tectonics & Sedimentary Basin"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "005",
+            "courseTitle": "Countertop Geology"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "006",
+            "courseTitle": "Snow Hydrology"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "007",
+            "courseTitle": "Karoo Basin"
+        },
+        {
+            "catalogTitle": "GEO 5920",
+            "section": "010",
+            "courseTitle": "Tectonics Reading Group"
+        },
+        {
+            "catalogTitle": "GEO 6150",
+            "section": "001",
+            "courseTitle": "Geological Engg Design"
+        },
+        {
+            "catalogTitle": "GEO 6220",
+            "section": "001",
+            "courseTitle": "Theoretical Seismology"
+        },
+        {
+            "catalogTitle": "GEO 6222",
+            "section": "001",
+            "courseTitle": "Seismology II: Seismic"
+        },
+        {
+            "catalogTitle": "GEO 6240",
+            "section": "001",
+            "courseTitle": "Phs Flds II: EM Mthds"
+        },
+        {
+            "catalogTitle": "GEO 6320",
+            "section": "001",
+            "courseTitle": "Sig & Img Process Geo"
+        },
+        {
+            "catalogTitle": "GEO 6385",
+            "section": "001",
+            "courseTitle": "Intro GW Modeling"
+        },
+        {
+            "catalogTitle": "GEO 6390",
+            "section": "001",
+            "courseTitle": "Sol Trns & Subsrf Rem"
+        },
+        {
+            "catalogTitle": "GEO 6540",
+            "section": "001",
+            "courseTitle": "PICP 3b"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "001",
+            "courseTitle": "DLS-Graduate"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "002",
+            "courseTitle": "Grad-EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "003",
+            "courseTitle": "Tectonics & Sedimentary Basin"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "004",
+            "courseTitle": "Fld Stdies in Sed Basin Analys"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "005",
+            "courseTitle": "Countertop Geology"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "007",
+            "courseTitle": "Karoo Basin"
+        },
+        {
+            "catalogTitle": "GEO 6920",
+            "section": "010",
+            "courseTitle": "Tectonics Reading Group"
+        },
+        {
+            "catalogTitle": "GEO 6970",
+            "section": "020",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "GEO 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7220",
+            "section": "001",
+            "courseTitle": "Theoretical Seismology"
+        },
+        {
+            "catalogTitle": "GEO 7320",
+            "section": "001",
+            "courseTitle": "Sig & Img Proc in Geo"
+        },
+        {
+            "catalogTitle": "GEO 7920",
+            "section": "001",
+            "courseTitle": "EM Seminar"
+        },
+        {
+            "catalogTitle": "GEO 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "GEO 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

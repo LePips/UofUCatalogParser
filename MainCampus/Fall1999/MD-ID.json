@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD ID 7010",
+            "section": "001",
+            "courseTitle": "Intro To Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7170",
+            "section": "001",
+            "courseTitle": "Primary Care Precept"
+        },
+        {
+            "catalogTitle": "MD ID 7200",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

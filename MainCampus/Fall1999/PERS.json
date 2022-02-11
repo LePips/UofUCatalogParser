@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PERS 1010",
+            "section": "001",
+            "courseTitle": "Beginning Persian I"
+        },
+        {
+            "catalogTitle": "PERS 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Persian I"
+        },
+        {
+            "catalogTitle": "PERS 3010",
+            "section": "001",
+            "courseTitle": "Third Year Persian I"
+        },
+        {
+            "catalogTitle": "PERS 4880",
+            "section": "001",
+            "courseTitle": "Iranian-American Litera"
+        },
+        {
+            "catalogTitle": "PERS 4910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "PERS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "PERS 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "PERS 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MA"
+        },
+        {
+            "catalogTitle": "PERS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-MA"
+        },
+        {
+            "catalogTitle": "PERS 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-MA"
+        },
+        {
+            "catalogTitle": "PERS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "PERS 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-PhD"
+        }
+    ]
+}

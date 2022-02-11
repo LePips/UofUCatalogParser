@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "JAPAN 3950",
+            "section": "001",
+            "courseTitle": "SL - Japanese"
+        },
+        {
+            "catalogTitle": "JAPAN 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "JAPAN 4880",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "JAPAN 4900",
+            "section": "001",
+            "courseTitle": "Japanese Film"
+        },
+        {
+            "catalogTitle": "JAPAN 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "JAPAN 5290",
+            "section": "001",
+            "courseTitle": "Struct Japanese:Syntax"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2010",
+            "section": "090",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "091",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "090",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "001",
+            "courseTitle": "IS Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "001",
+            "courseTitle": "Analysis & Design"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "090",
+            "courseTitle": "Analysis & Design"
+        },
+        {
+            "catalogTitle": "IS 6465",
+            "section": "001",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 6480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 6482",
+            "section": "090",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "IS 6484",
+            "section": "001",
+            "courseTitle": "Advanced Data Mgmt"
+        },
+        {
+            "catalogTitle": "IS 6496",
+            "section": "001",
+            "courseTitle": "MSBA Capstone Course"
+        },
+        {
+            "catalogTitle": "IS 6496",
+            "section": "002",
+            "courseTitle": "MSBA Capstone Course"
+        },
+        {
+            "catalogTitle": "IS 6496",
+            "section": "003",
+            "courseTitle": "MSBA Capstone Course"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "001",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "002",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "003",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "004",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "005",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "006",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "091",
+            "courseTitle": "MSIS Capstone Project"
+        },
+        {
+            "catalogTitle": "IS 6615",
+            "section": "001",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 6615",
+            "section": "090",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 6641",
+            "section": "001",
+            "courseTitle": "Cloud Computing"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "001",
+            "courseTitle": "IT Leadership and Strategy"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "002",
+            "courseTitle": "Advanced Security"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "003",
+            "courseTitle": "Product Management"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "010",
+            "courseTitle": "Full Stack Dev.-React.js"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "011",
+            "courseTitle": "Machine Learning with Spark"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "019",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "022",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "023",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "001",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "002",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "003",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration PhD"
+        }
+    ]
+}

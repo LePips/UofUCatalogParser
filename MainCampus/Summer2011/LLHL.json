@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHL 100",
+            "section": "001",
+            "courseTitle": "Yoga Basics"
+        },
+        {
+            "catalogTitle": "LLHL 101",
+            "section": "001",
+            "courseTitle": "Yoga-Power I"
+        },
+        {
+            "catalogTitle": "LLHL 101",
+            "section": "002",
+            "courseTitle": "Yoga-Power I"
+        },
+        {
+            "catalogTitle": "LLHL 102",
+            "section": "001",
+            "courseTitle": "Yoga Experiential Retreat"
+        },
+        {
+            "catalogTitle": "LLHL 107",
+            "section": "001",
+            "courseTitle": "Zen Meditation"
+        },
+        {
+            "catalogTitle": "LLHL 113",
+            "section": "001",
+            "courseTitle": "Eating for Weight Loss"
+        },
+        {
+            "catalogTitle": "LLHL 115",
+            "section": "001",
+            "courseTitle": "Cleansing Diets"
+        },
+        {
+            "catalogTitle": "LLHL 121",
+            "section": "001",
+            "courseTitle": "Nutrition for Vegetarians"
+        }
+    ]
+}

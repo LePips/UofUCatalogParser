@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 2632",
+            "section": "001",
+            "courseTitle": "Adv Arch Des Work"
+        },
+        {
+            "catalogTitle": "ARCH 3011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio II"
+        },
+        {
+            "catalogTitle": "ARCH 4010",
+            "section": "001",
+            "courseTitle": "Arch'l Studio III"
+        },
+        {
+            "catalogTitle": "ARCH 6012",
+            "section": "001",
+            "courseTitle": "Intensive Arch'l Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6013",
+            "section": "001",
+            "courseTitle": "Arch'l Skill Dev Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6055",
+            "section": "001",
+            "courseTitle": "Int. Arch. Comm"
+        },
+        {
+            "catalogTitle": "ARCH 6213",
+            "section": "002",
+            "courseTitle": "Intens Arch Hist Survey"
+        },
+        {
+            "catalogTitle": "ARCH 6770",
+            "section": "001",
+            "courseTitle": "Arch Service Intern"
+        },
+        {
+            "catalogTitle": "ARCH 6830",
+            "section": "001",
+            "courseTitle": "Landscape Arch"
+        },
+        {
+            "catalogTitle": "ARCH 6965",
+            "section": "001",
+            "courseTitle": "Chicago LAB"
+        }
+    ]
+}

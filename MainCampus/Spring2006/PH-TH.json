@@ -1,0 +1,364 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PH TH 1010",
+            "section": "090",
+            "courseTitle": "Foundations of PT"
+        },
+        {
+            "catalogTitle": "PH TH 5090",
+            "section": "001",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 5090",
+            "section": "002",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 5090",
+            "section": "003",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 5150",
+            "section": "001",
+            "courseTitle": "Musculoskeletal Eval"
+        },
+        {
+            "catalogTitle": "PH TH 5150",
+            "section": "002",
+            "courseTitle": "Musculoskeletal Eval"
+        },
+        {
+            "catalogTitle": "PH TH 5150",
+            "section": "003",
+            "courseTitle": "Musculoskeletal Eval"
+        },
+        {
+            "catalogTitle": "PH TH 5880",
+            "section": "001",
+            "courseTitle": "Clinical Experience II"
+        },
+        {
+            "catalogTitle": "PH TH 6020",
+            "section": "005",
+            "courseTitle": "Mgt of Phys Therapy"
+        },
+        {
+            "catalogTitle": "PH TH 6025",
+            "section": "005",
+            "courseTitle": "Prof Practice II"
+        },
+        {
+            "catalogTitle": "PH TH 6060",
+            "section": "005",
+            "courseTitle": "Pathophysiology"
+        },
+        {
+            "catalogTitle": "PH TH 6130",
+            "section": "001",
+            "courseTitle": "Pharmacotherapeutics"
+        },
+        {
+            "catalogTitle": "PH TH 6140",
+            "section": "090",
+            "courseTitle": "Imaging for PT"
+        },
+        {
+            "catalogTitle": "PH TH 6190",
+            "section": "001",
+            "courseTitle": "Therapeutic Exer"
+        },
+        {
+            "catalogTitle": "PH TH 6190",
+            "section": "002",
+            "courseTitle": "Therapeutic Exer"
+        },
+        {
+            "catalogTitle": "PH TH 6190",
+            "section": "003",
+            "courseTitle": "Therapeutic Exer"
+        },
+        {
+            "catalogTitle": "PH TH 6220",
+            "section": "001",
+            "courseTitle": "Ortho Medical Lectures"
+        },
+        {
+            "catalogTitle": "PH TH 6230",
+            "section": "001",
+            "courseTitle": "Orthopedic Rehab"
+        },
+        {
+            "catalogTitle": "PH TH 6230",
+            "section": "002",
+            "courseTitle": "Orthopedic Rehab"
+        },
+        {
+            "catalogTitle": "PH TH 6230",
+            "section": "003",
+            "courseTitle": "Orthopedic Rehab"
+        },
+        {
+            "catalogTitle": "PH TH 6240",
+            "section": "001",
+            "courseTitle": "Cardiopulmo Rehab"
+        },
+        {
+            "catalogTitle": "PH TH 6240",
+            "section": "002",
+            "courseTitle": "Cardiopulmo Rehab"
+        },
+        {
+            "catalogTitle": "PH TH 6240",
+            "section": "003",
+            "courseTitle": "Cardiopulmo Rehab"
+        },
+        {
+            "catalogTitle": "PH TH 6820",
+            "section": "001",
+            "courseTitle": "Clinical Experience II"
+        },
+        {
+            "catalogTitle": "PH TH 6830",
+            "section": "001",
+            "courseTitle": "Clinical Experience III"
+        },
+        {
+            "catalogTitle": "PH TH 6850",
+            "section": "001",
+            "courseTitle": "Clinical Experience IV"
+        },
+        {
+            "catalogTitle": "PH TH 6870",
+            "section": "001",
+            "courseTitle": "Clinical Experience III"
+        },
+        {
+            "catalogTitle": "PH TH 6880",
+            "section": "001",
+            "courseTitle": "Clinical Experience IV"
+        },
+        {
+            "catalogTitle": "PH TH 6900",
+            "section": "001",
+            "courseTitle": "Clinical Internship III"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "001",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "002",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "003",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "004",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "005",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "006",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "007",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "008",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "009",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "010",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "011",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6910",
+            "section": "012",
+            "courseTitle": "Practicum In Research"
+        },
+        {
+            "catalogTitle": "PH TH 6920",
+            "section": "001",
+            "courseTitle": "Indiv Study & Research"
+        },
+        {
+            "catalogTitle": "PH TH 7050",
+            "section": "001",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 7050",
+            "section": "002",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 7050",
+            "section": "003",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "PH TH 7100",
+            "section": "005",
+            "courseTitle": "Teach & Learn in PT"
+        },
+        {
+            "catalogTitle": "PH TH 7110",
+            "section": "001",
+            "courseTitle": "Physical Agents"
+        },
+        {
+            "catalogTitle": "PH TH 7110",
+            "section": "002",
+            "courseTitle": "Physical Agents"
+        },
+        {
+            "catalogTitle": "PH TH 7110",
+            "section": "003",
+            "courseTitle": "Physical Agents"
+        },
+        {
+            "catalogTitle": "PH TH 7120",
+            "section": "001",
+            "courseTitle": "Intervention II-TherEx"
+        },
+        {
+            "catalogTitle": "PH TH 7120",
+            "section": "002",
+            "courseTitle": "Intervention II-TherEx"
+        },
+        {
+            "catalogTitle": "PH TH 7120",
+            "section": "003",
+            "courseTitle": "Intervention II-TherEx"
+        },
+        {
+            "catalogTitle": "PH TH 7200",
+            "section": "005",
+            "courseTitle": "Motor Control"
+        },
+        {
+            "catalogTitle": "PH TH 7210",
+            "section": "005",
+            "courseTitle": "Contemporary Techniques"
+        },
+        {
+            "catalogTitle": "PH TH 7230",
+            "section": "005",
+            "courseTitle": "Integumentary Mgmt."
+        },
+        {
+            "catalogTitle": "PH TH 7240",
+            "section": "005",
+            "courseTitle": "Musculoskeletal Mgmt"
+        },
+        {
+            "catalogTitle": "PH TH 7270",
+            "section": "001",
+            "courseTitle": "Teach & Learn In PT II"
+        },
+        {
+            "catalogTitle": "PH TH 7280",
+            "section": "005",
+            "courseTitle": "Physical Therapy II"
+        },
+        {
+            "catalogTitle": "PH TH 7290",
+            "section": "005",
+            "courseTitle": "Cardiopulmonary Mgmt"
+        },
+        {
+            "catalogTitle": "PH TH 7300",
+            "section": "005",
+            "courseTitle": "Neuromuscular Mgmt"
+        },
+        {
+            "catalogTitle": "PH TH 7310",
+            "section": "005",
+            "courseTitle": "Administration in PT"
+        },
+        {
+            "catalogTitle": "PH TH 7330",
+            "section": "005",
+            "courseTitle": "PT Topics II"
+        },
+        {
+            "catalogTitle": "PH TH 7880",
+            "section": "005",
+            "courseTitle": "Clinical Internship IV"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "002",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "003",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "005",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "006",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "009",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "010",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7910",
+            "section": "012",
+            "courseTitle": "Doctoral Seminar I"
+        },
+        {
+            "catalogTitle": "PH TH 7940",
+            "section": "005",
+            "courseTitle": "Doctoral Seminar IV"
+        },
+        {
+            "catalogTitle": "PH TH 7970",
+            "section": "005",
+            "courseTitle": "Doctoral Project"
+        }
+    ]
+}

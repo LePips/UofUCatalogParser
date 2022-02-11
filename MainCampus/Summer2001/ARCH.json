@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "001",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 4960",
+            "section": "001",
+            "courseTitle": "Color"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6012",
+            "section": "001",
+            "courseTitle": "Intensive Arch'l Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6210",
+            "section": "001",
+            "courseTitle": "Intens Surv Wrld Arch"
+        },
+        {
+            "catalogTitle": "ARCH 6535",
+            "section": "001",
+            "courseTitle": "Historic Field Methods"
+        },
+        {
+            "catalogTitle": "ARCH 6850",
+            "section": "001",
+            "courseTitle": "Behavior and Arch."
+        },
+        {
+            "catalogTitle": "ARCH 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ARCH 6960",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ARCH 6985",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LATIN 1010",
+            "section": "001",
+            "courseTitle": "Beg Classical Latin I"
+        },
+        {
+            "catalogTitle": "LATIN 1010",
+            "section": "002",
+            "courseTitle": "Beg Classical Latin I"
+        },
+        {
+            "catalogTitle": "LATIN 2010",
+            "section": "001",
+            "courseTitle": "Intrm Classical Latin I"
+        },
+        {
+            "catalogTitle": "LATIN 3610",
+            "section": "001",
+            "courseTitle": "Third Year Prose"
+        },
+        {
+            "catalogTitle": "LATIN 4610",
+            "section": "001",
+            "courseTitle": "Fourth Year Prose"
+        },
+        {
+            "catalogTitle": "LATIN 4990",
+            "section": "002",
+            "courseTitle": "Capstone Course"
+        }
+    ]
+}

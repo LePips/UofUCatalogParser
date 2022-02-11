@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHL 101",
+            "section": "001",
+            "courseTitle": "Yoga-Power I"
+        },
+        {
+            "catalogTitle": "LLHL 102",
+            "section": "001",
+            "courseTitle": "Yoga Experiential Retreat"
+        },
+        {
+            "catalogTitle": "LLHL 113",
+            "section": "001",
+            "courseTitle": "Eating for Weight Loss"
+        },
+        {
+            "catalogTitle": "LLHL 128",
+            "section": "001",
+            "courseTitle": "All-Levels Flow Yoga"
+        },
+        {
+            "catalogTitle": "LLHL 140",
+            "section": "001",
+            "courseTitle": "Restorative Yoga"
+        },
+        {
+            "catalogTitle": "LLHL 141",
+            "section": "001",
+            "courseTitle": "Meditation Sampler"
+        },
+        {
+            "catalogTitle": "LLHL 143",
+            "section": "001",
+            "courseTitle": "Tibetan Buddhist Meditation"
+        }
+    ]
+}

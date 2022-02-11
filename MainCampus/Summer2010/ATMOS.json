@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATMOS 101",
+            "section": "001",
+            "courseTitle": "Severe/Unusual Weather"
+        },
+        {
+            "catalogTitle": "ATMOS 1010",
+            "section": "001",
+            "courseTitle": "Severe/Unusual Weather"
+        },
+        {
+            "catalogTitle": "ATMOS 3910",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ATMOS 6910",
+            "section": "001",
+            "courseTitle": "Grad/Special Topics"
+        },
+        {
+            "catalogTitle": "ATMOS 6960",
+            "section": "001",
+            "courseTitle": "Non-Thesis Res MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "ATMOS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation MS"
+        },
+        {
+            "catalogTitle": "ATMOS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "ATMOS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

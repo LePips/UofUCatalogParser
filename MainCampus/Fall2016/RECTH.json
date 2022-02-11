@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RECTH 3330",
+            "section": "001",
+            "courseTitle": "Found in Rec Ther"
+        },
+        {
+            "catalogTitle": "RECTH 3360",
+            "section": "001",
+            "courseTitle": "Assess & Doc in Rec Ther"
+        },
+        {
+            "catalogTitle": "RECTH 3360",
+            "section": "002",
+            "courseTitle": "Assess & Doc in Rec Ther"
+        },
+        {
+            "catalogTitle": "RECTH 3360",
+            "section": "003",
+            "courseTitle": "Assess & Doc in Rec Ther"
+        },
+        {
+            "catalogTitle": "RECTH 4300",
+            "section": "001",
+            "courseTitle": "Rec Ther Intell Disabil"
+        },
+        {
+            "catalogTitle": "RECTH 5828",
+            "section": "079",
+            "courseTitle": "Rec Ther Internship"
+        }
+    ]
+}

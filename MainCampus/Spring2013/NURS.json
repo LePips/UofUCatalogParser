@@ -1,0 +1,544 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NURS 210",
+            "section": "060",
+            "courseTitle": "Human Dev: Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 2100",
+            "section": "060",
+            "courseTitle": "Human Dev: Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 2100",
+            "section": "090",
+            "courseTitle": "Human Dev: Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 2270",
+            "section": "001",
+            "courseTitle": "Pathophysiology"
+        },
+        {
+            "catalogTitle": "NURS 3106",
+            "section": "090",
+            "courseTitle": "Complex Health Assess"
+        },
+        {
+            "catalogTitle": "NURS 3110",
+            "section": "001",
+            "courseTitle": "Nurs Systems/Population"
+        },
+        {
+            "catalogTitle": "NURS 3110",
+            "section": "010",
+            "courseTitle": "Nurs Systems/Population"
+        },
+        {
+            "catalogTitle": "NURS 3113",
+            "section": "090",
+            "courseTitle": "Nurs across Syst/Popul"
+        },
+        {
+            "catalogTitle": "NURS 3115",
+            "section": "001",
+            "courseTitle": "Clin Care Indiv/Family"
+        },
+        {
+            "catalogTitle": "NURS 3117",
+            "section": "001",
+            "courseTitle": "Resp to Illness/Lifespa"
+        },
+        {
+            "catalogTitle": "NURS 4110",
+            "section": "002",
+            "courseTitle": "Global Health Nursing"
+        },
+        {
+            "catalogTitle": "NURS 4115",
+            "section": "001",
+            "courseTitle": "Clinical Care Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 4115",
+            "section": "002",
+            "courseTitle": "Clinical Care Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 4115",
+            "section": "003",
+            "courseTitle": "Clinical Care Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 4115",
+            "section": "004",
+            "courseTitle": "Clinical Care Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 4115",
+            "section": "005",
+            "courseTitle": "Clinical Care Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 4115",
+            "section": "006",
+            "courseTitle": "Clinical Care Lifespan"
+        },
+        {
+            "catalogTitle": "NURS 4117",
+            "section": "002",
+            "courseTitle": "Develop Family Systems"
+        },
+        {
+            "catalogTitle": "NURS 4118",
+            "section": "002",
+            "courseTitle": "Population Hlth/Illness"
+        },
+        {
+            "catalogTitle": "NURS 4118",
+            "section": "010",
+            "courseTitle": "Population Hlth/Illness"
+        },
+        {
+            "catalogTitle": "NURS 4119",
+            "section": "001",
+            "courseTitle": "Clin Care Vuln Popul"
+        },
+        {
+            "catalogTitle": "NURS 4119",
+            "section": "002",
+            "courseTitle": "Clin Care Vuln Popul"
+        },
+        {
+            "catalogTitle": "NURS 4119",
+            "section": "003",
+            "courseTitle": "Clin Care Vuln Popul"
+        },
+        {
+            "catalogTitle": "NURS 4119",
+            "section": "004",
+            "courseTitle": "Clin Care Vuln Popul"
+        },
+        {
+            "catalogTitle": "NURS 4119",
+            "section": "005",
+            "courseTitle": "Clin Care Vuln Popul"
+        },
+        {
+            "catalogTitle": "NURS 4119",
+            "section": "006",
+            "courseTitle": "Clin Care Vuln Popul"
+        },
+        {
+            "catalogTitle": "NURS 4119",
+            "section": "007",
+            "courseTitle": "Clin Care Vuln Popul"
+        },
+        {
+            "catalogTitle": "NURS 4119",
+            "section": "008",
+            "courseTitle": "Clin Care Vuln Popul"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "001",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "002",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "003",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4150",
+            "section": "010",
+            "courseTitle": "Nursing Initiatives"
+        },
+        {
+            "catalogTitle": "NURS 4155",
+            "section": "001",
+            "courseTitle": "Clinical Capstone"
+        },
+        {
+            "catalogTitle": "NURS 4505",
+            "section": "001",
+            "courseTitle": "Concepts Critical Care"
+        },
+        {
+            "catalogTitle": "NURS 5050",
+            "section": "090",
+            "courseTitle": "Best Prac in Geriatric"
+        },
+        {
+            "catalogTitle": "NURS 5200",
+            "section": "001",
+            "courseTitle": "Spanish Hlth Care Prov"
+        },
+        {
+            "catalogTitle": "NURS 5905",
+            "section": "090",
+            "courseTitle": "Clinical Physiology"
+        },
+        {
+            "catalogTitle": "NURS 6000",
+            "section": "090",
+            "courseTitle": "Evidence Based Pract I"
+        },
+        {
+            "catalogTitle": "NURS 6004",
+            "section": "090",
+            "courseTitle": "Intro to Infor Technol"
+        },
+        {
+            "catalogTitle": "NURS 6005",
+            "section": "001",
+            "courseTitle": "Prog Mgnt & Eval"
+        },
+        {
+            "catalogTitle": "NURS 6011",
+            "section": "001",
+            "courseTitle": "Intro Nurs Curric/Class"
+        },
+        {
+            "catalogTitle": "NURS 6017",
+            "section": "001",
+            "courseTitle": "Teaching Rse in Nurs Ed"
+        },
+        {
+            "catalogTitle": "NURS 6021",
+            "section": "001",
+            "courseTitle": "Adult Assess/Hlth Promo"
+        },
+        {
+            "catalogTitle": "NURS 6042",
+            "section": "001",
+            "courseTitle": "Complex Ped Problems"
+        },
+        {
+            "catalogTitle": "NURS 6106",
+            "section": "001",
+            "courseTitle": "Chldbear Complications"
+        },
+        {
+            "catalogTitle": "NURS 6111",
+            "section": "001",
+            "courseTitle": "Normal Intrapartum Mgt"
+        },
+        {
+            "catalogTitle": "NURS 6116",
+            "section": "001",
+            "courseTitle": "Well Woman Hlth Manag"
+        },
+        {
+            "catalogTitle": "NURS 6199",
+            "section": "001",
+            "courseTitle": "Psych Aspects Onc"
+        },
+        {
+            "catalogTitle": "NURS 6240",
+            "section": "001",
+            "courseTitle": "Clinical Genetics"
+        },
+        {
+            "catalogTitle": "NURS 6310",
+            "section": "001",
+            "courseTitle": "Mood/Anxiety Disorders"
+        },
+        {
+            "catalogTitle": "NURS 6320",
+            "section": "001",
+            "courseTitle": "Psych/MH Practicum I"
+        },
+        {
+            "catalogTitle": "NURS 6322",
+            "section": "001",
+            "courseTitle": "Serious Mental Illness"
+        },
+        {
+            "catalogTitle": "NURS 6342",
+            "section": "001",
+            "courseTitle": "Family Therapy"
+        },
+        {
+            "catalogTitle": "NURS 6355",
+            "section": "001",
+            "courseTitle": "Adv Patho Mental Illness"
+        },
+        {
+            "catalogTitle": "NURS 6380",
+            "section": "001",
+            "courseTitle": "Psy/MH Practicum IV"
+        },
+        {
+            "catalogTitle": "NURS 6392",
+            "section": "090",
+            "courseTitle": "Care Management II"
+        },
+        {
+            "catalogTitle": "NURS 6555",
+            "section": "090",
+            "courseTitle": "Globl Iss Women's Hlth"
+        },
+        {
+            "catalogTitle": "NURS 6555",
+            "section": "091",
+            "courseTitle": "Globl Iss Women's Hlth"
+        },
+        {
+            "catalogTitle": "NURS 6564",
+            "section": "001",
+            "courseTitle": "EndLife Palliative Care"
+        },
+        {
+            "catalogTitle": "NURS 6565",
+            "section": "001",
+            "courseTitle": "Intro to Forensic Nurse"
+        },
+        {
+            "catalogTitle": "NURS 6565",
+            "section": "030",
+            "courseTitle": "Intro to Forensic Nurse"
+        },
+        {
+            "catalogTitle": "NURS 6600",
+            "section": "001",
+            "courseTitle": "Elder Health Promotion"
+        },
+        {
+            "catalogTitle": "NURS 6603",
+            "section": "001",
+            "courseTitle": "Chron Prob-Adult/Elder"
+        },
+        {
+            "catalogTitle": "NURS 6661",
+            "section": "001",
+            "courseTitle": "Project Management"
+        },
+        {
+            "catalogTitle": "NURS 6661",
+            "section": "090",
+            "courseTitle": "Project Management"
+        },
+        {
+            "catalogTitle": "NURS 6801",
+            "section": "001",
+            "courseTitle": "Clinical Sytems Analys"
+        },
+        {
+            "catalogTitle": "NURS 6801",
+            "section": "090",
+            "courseTitle": "Clinical Sytems Analys"
+        },
+        {
+            "catalogTitle": "NURS 6809",
+            "section": "001",
+            "courseTitle": "NI Roles/Collaboration"
+        },
+        {
+            "catalogTitle": "NURS 6888",
+            "section": "001",
+            "courseTitle": "Masters Synthesis"
+        },
+        {
+            "catalogTitle": "NURS 7007",
+            "section": "001",
+            "courseTitle": "Advanced Patho II"
+        },
+        {
+            "catalogTitle": "NURS 7040",
+            "section": "001",
+            "courseTitle": "Data Collection Methods"
+        },
+        {
+            "catalogTitle": "NURS 7050",
+            "section": "001",
+            "courseTitle": "Advanced Pharmacology"
+        },
+        {
+            "catalogTitle": "NURS 7201",
+            "section": "001",
+            "courseTitle": "Statistics I"
+        },
+        {
+            "catalogTitle": "NURS 7461",
+            "section": "001",
+            "courseTitle": "Adult Critical Care"
+        },
+        {
+            "catalogTitle": "NURS 7500",
+            "section": "090",
+            "courseTitle": "Evidence-Based Pract II"
+        },
+        {
+            "catalogTitle": "NURS 7505",
+            "section": "090",
+            "courseTitle": "Biostatistics"
+        },
+        {
+            "catalogTitle": "NURS 7505",
+            "section": "091",
+            "courseTitle": "Biostatistics"
+        },
+        {
+            "catalogTitle": "NURS 7510",
+            "section": "001",
+            "courseTitle": "Social Context of Med"
+        },
+        {
+            "catalogTitle": "NURS 7602",
+            "section": "001",
+            "courseTitle": "DNP NP Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 7603",
+            "section": "001",
+            "courseTitle": "DNP NP Practicum III"
+        },
+        {
+            "catalogTitle": "NURS 7604",
+            "section": "001",
+            "courseTitle": "DNP NP Residency"
+        },
+        {
+            "catalogTitle": "NURS 7612",
+            "section": "001",
+            "courseTitle": "NMW Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 7613",
+            "section": "001",
+            "courseTitle": "WHNP Practicum II"
+        },
+        {
+            "catalogTitle": "NURS 7618",
+            "section": "001",
+            "courseTitle": "NMW Residency"
+        },
+        {
+            "catalogTitle": "NURS 7619",
+            "section": "001",
+            "courseTitle": "WHNP Residency"
+        },
+        {
+            "catalogTitle": "NURS 7621",
+            "section": "001",
+            "courseTitle": "NNP Residency"
+        },
+        {
+            "catalogTitle": "NURS 7651",
+            "section": "001",
+            "courseTitle": "Adult Critic Care Pract"
+        },
+        {
+            "catalogTitle": "NURS 7652",
+            "section": "001",
+            "courseTitle": "Acute Care Residency"
+        },
+        {
+            "catalogTitle": "NURS 7773",
+            "section": "090",
+            "courseTitle": "Leadership & Hlth Care"
+        },
+        {
+            "catalogTitle": "NURS 7780",
+            "section": "001",
+            "courseTitle": "Research Immersion"
+        },
+        {
+            "catalogTitle": "NURS 7910",
+            "section": "001",
+            "courseTitle": "Adv Clinical Immersion"
+        },
+        {
+            "catalogTitle": "NURS 7910",
+            "section": "002",
+            "courseTitle": "Adv Clinical Immersion"
+        },
+        {
+            "catalogTitle": "NURS 7910",
+            "section": "004",
+            "courseTitle": "Adv Clinical Immersion"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "001",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "002",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "003",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "004",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "005",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "006",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "007",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "008",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "009",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "010",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "011",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "012",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "013",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7976",
+            "section": "014",
+            "courseTitle": "DNP Scholarl Project II"
+        },
+        {
+            "catalogTitle": "NURS 7990",
+            "section": "005",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

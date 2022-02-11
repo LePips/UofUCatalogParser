@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "WLC 2010",
+            "section": "001",
+            "courseTitle": "Intro Stdy Lit & Cultr"
+        },
+        {
+            "catalogTitle": "WLC 2020",
+            "section": "001",
+            "courseTitle": "Language in Society"
+        },
+        {
+            "catalogTitle": "WLC 4900",
+            "section": "001",
+            "courseTitle": "Peer Advising"
+        },
+        {
+            "catalogTitle": "WLC 5410",
+            "section": "090",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "WLC 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PBHLT 6100",
+            "section": "301",
+            "courseTitle": "Biostatistics I"
+        },
+        {
+            "catalogTitle": "PBHLT 6250",
+            "section": "301",
+            "courseTitle": "Community Health Assess"
+        },
+        {
+            "catalogTitle": "PBHLT 6400",
+            "section": "301",
+            "courseTitle": "PH Mgmt & Practice"
+        },
+        {
+            "catalogTitle": "PBHLT 6500",
+            "section": "301",
+            "courseTitle": "PH Systems & Services"
+        },
+        {
+            "catalogTitle": "PBHLT 6550",
+            "section": "301",
+            "courseTitle": "PH Plan/Eval/Implmnt"
+        },
+        {
+            "catalogTitle": "PBHLT 6600",
+            "section": "301",
+            "courseTitle": "Soc & Behav Science PH"
+        },
+        {
+            "catalogTitle": "PBHLT 6954",
+            "section": "301",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

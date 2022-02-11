@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "001",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6012",
+            "section": "001",
+            "courseTitle": "Intensive Arch'l Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6055",
+            "section": "001",
+            "courseTitle": "Int. Arch. Comm"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ARCH 6965",
+            "section": "001",
+            "courseTitle": "Furniture Design"
+        }
+    ]
+}

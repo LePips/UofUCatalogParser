@@ -1,3 +1,274 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MD ID 6000",
+            "section": "001",
+            "courseTitle": "Creative Thinking"
+        },
+        {
+            "catalogTitle": "MD ID 6001",
+            "section": "001",
+            "courseTitle": "Research & Innovation"
+        },
+        {
+            "catalogTitle": "MD ID 6002",
+            "section": "001",
+            "courseTitle": "Virtual Care"
+        },
+        {
+            "catalogTitle": "MD ID 6003",
+            "section": "001",
+            "courseTitle": "Rural & Refugee Health"
+        },
+        {
+            "catalogTitle": "MD ID 6004",
+            "section": "001",
+            "courseTitle": "Sustain, Med & Health"
+        },
+        {
+            "catalogTitle": "MD ID 6100",
+            "section": "001",
+            "courseTitle": "Case-based Teaching"
+        },
+        {
+            "catalogTitle": "MD ID 6202",
+            "section": "001",
+            "courseTitle": "Foundations of IPE"
+        },
+        {
+            "catalogTitle": "MD ID 6500",
+            "section": "001",
+            "courseTitle": "Intro to Global Health"
+        },
+        {
+            "catalogTitle": "MD ID 6515",
+            "section": "001",
+            "courseTitle": "Mat-Neo Survival"
+        },
+        {
+            "catalogTitle": "MD ID 6520",
+            "section": "001",
+            "courseTitle": "GH Scholarship Elective"
+        },
+        {
+            "catalogTitle": "MD ID 6520",
+            "section": "002",
+            "courseTitle": "GH Scholarship Elective"
+        },
+        {
+            "catalogTitle": "MD ID 6540",
+            "section": "001",
+            "courseTitle": "Global Health Elective"
+        },
+        {
+            "catalogTitle": "MD ID 6550",
+            "section": "001",
+            "courseTitle": "Intr PopHlth RuralWest "
+        },
+        {
+            "catalogTitle": "MD ID 7001",
+            "section": "001",
+            "courseTitle": "CMC 1"
+        },
+        {
+            "catalogTitle": "MD ID 7001",
+            "section": "002",
+            "courseTitle": "CMC 1"
+        },
+        {
+            "catalogTitle": "MD ID 7003",
+            "section": "001",
+            "courseTitle": "CMC 3"
+        },
+        {
+            "catalogTitle": "MD ID 7003",
+            "section": "002",
+            "courseTitle": "CMC 3"
+        },
+        {
+            "catalogTitle": "MD ID 7101",
+            "section": "001",
+            "courseTitle": "Layers of Medicine 1"
+        },
+        {
+            "catalogTitle": "MD ID 7101",
+            "section": "002",
+            "courseTitle": "Layers of Medicine 1"
+        },
+        {
+            "catalogTitle": "MD ID 7103",
+            "section": "001",
+            "courseTitle": "Layers of Medicine 3"
+        },
+        {
+            "catalogTitle": "MD ID 7103",
+            "section": "002",
+            "courseTitle": "Layers of Medicine 3"
+        },
+        {
+            "catalogTitle": "MD ID 7104",
+            "section": "001",
+            "courseTitle": "Layers of Medicine 4"
+        },
+        {
+            "catalogTitle": "MD ID 7200",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MD ID 7220",
+            "section": "001",
+            "courseTitle": "MD Student Teachers"
+        },
+        {
+            "catalogTitle": "MD ID 7221",
+            "section": "001",
+            "courseTitle": "SaT Pathway I "
+        },
+        {
+            "catalogTitle": "MD ID 7223",
+            "section": "001",
+            "courseTitle": "SaT Pathway 3"
+        },
+        {
+            "catalogTitle": "MD ID 7240",
+            "section": "001",
+            "courseTitle": "MSATP"
+        },
+        {
+            "catalogTitle": "MD ID 7250",
+            "section": "001",
+            "courseTitle": "Foundations in PHC"
+        },
+        {
+            "catalogTitle": "MD ID 7253",
+            "section": "001",
+            "courseTitle": "Genomic Analysis I"
+        },
+        {
+            "catalogTitle": "MD ID 7255",
+            "section": "001",
+            "courseTitle": "Personal Med Capstone"
+        },
+        {
+            "catalogTitle": "MD ID 7260",
+            "section": "001",
+            "courseTitle": "Transgender Health"
+        },
+        {
+            "catalogTitle": "MD ID 7300",
+            "section": "001",
+            "courseTitle": "Foundations of Med"
+        },
+        {
+            "catalogTitle": "MD ID 7300",
+            "section": "002",
+            "courseTitle": "Foundations of Med"
+        },
+        {
+            "catalogTitle": "MD ID 7350",
+            "section": "001",
+            "courseTitle": "Metabolism & Reprodctn"
+        },
+        {
+            "catalogTitle": "MD ID 7350",
+            "section": "002",
+            "courseTitle": "Metabolism & Reprodctn"
+        },
+        {
+            "catalogTitle": "MD ID 7360",
+            "section": "001",
+            "courseTitle": "Circ, Resp, Regulation"
+        },
+        {
+            "catalogTitle": "MD ID 7360",
+            "section": "002",
+            "courseTitle": "Circ, Resp, Regulation"
+        },
+        {
+            "catalogTitle": "MD ID 7520",
+            "section": "001",
+            "courseTitle": "Year 3 Assessment"
+        },
+        {
+            "catalogTitle": "MD ID 7600",
+            "section": "001",
+            "courseTitle": "Critical Care"
+        },
+        {
+            "catalogTitle": "MD ID 7601",
+            "section": "001",
+            "courseTitle": "Critical Care - UU NICU"
+        },
+        {
+            "catalogTitle": "MD ID 7602",
+            "section": "001",
+            "courseTitle": "Critical Care -PCH PICU"
+        },
+        {
+            "catalogTitle": "MD ID 7603",
+            "section": "001",
+            "courseTitle": "Critical Care-PCMC CICU"
+        },
+        {
+            "catalogTitle": "MD ID 7604",
+            "section": "001",
+            "courseTitle": "Critical Care - UU SICU"
+        },
+        {
+            "catalogTitle": "MD ID 7605",
+            "section": "001",
+            "courseTitle": "Critical Care-Burn Unit"
+        },
+        {
+            "catalogTitle": "MD ID 7606",
+            "section": "001",
+            "courseTitle": "Critical Care - VA MICU"
+        },
+        {
+            "catalogTitle": "MD ID 7607",
+            "section": "001",
+            "courseTitle": "Critical Care - UU MICU"
+        },
+        {
+            "catalogTitle": "MD ID 7608",
+            "section": "001",
+            "courseTitle": "Critical Care-IMC STICU"
+        },
+        {
+            "catalogTitle": "MD ID 7609",
+            "section": "001",
+            "courseTitle": "Critical Care--Huntsman"
+        },
+        {
+            "catalogTitle": "MD ID 7610",
+            "section": "001",
+            "courseTitle": "Critical Care - LDS ICU"
+        },
+        {
+            "catalogTitle": "MD ID 7611",
+            "section": "001",
+            "courseTitle": "Critical Care- UU NCC"
+        },
+        {
+            "catalogTitle": "MD ID 7612",
+            "section": "001",
+            "courseTitle": "Critical Care--UU CVICU"
+        },
+        {
+            "catalogTitle": "MD ID 7613",
+            "section": "001",
+            "courseTitle": "Critical Care--PCH NICU"
+        },
+        {
+            "catalogTitle": "MD ID 7614",
+            "section": "001",
+            "courseTitle": "Critical Care-UVH ICU"
+        },
+        {
+            "catalogTitle": "MD ID 7615",
+            "section": "001",
+            "courseTitle": "Critical Care-UU CVICU"
+        }
+    ]
 }

@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHG 192",
+            "section": "001",
+            "courseTitle": "Constructing Roman Shades"
+        },
+        {
+            "catalogTitle": "LLHG 460",
+            "section": "001",
+            "courseTitle": "Beginning Upholstery"
+        },
+        {
+            "catalogTitle": "LLHG 500",
+            "section": "001",
+            "courseTitle": "Design w/ Fresh Flowers"
+        },
+        {
+            "catalogTitle": "LLHG 504",
+            "section": "001",
+            "courseTitle": "Herb Gardening"
+        },
+        {
+            "catalogTitle": "LLHG 504",
+            "section": "002",
+            "courseTitle": "Herb Gardening"
+        },
+        {
+            "catalogTitle": "LLHG 532",
+            "section": "001",
+            "courseTitle": "Waterwise Perennials"
+        },
+        {
+            "catalogTitle": "LLHG 532",
+            "section": "002",
+            "courseTitle": "Waterwise Perennials"
+        },
+        {
+            "catalogTitle": "LLHG 533",
+            "section": "001",
+            "courseTitle": "Stone in the Landscape"
+        },
+        {
+            "catalogTitle": "LLHG 533",
+            "section": "002",
+            "courseTitle": "Stone in the Landscape"
+        }
+    ]
+}

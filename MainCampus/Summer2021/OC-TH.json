@@ -1,3 +1,134 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "OC TH 6040",
+            "section": "001",
+            "courseTitle": "Creative Occupations"
+        },
+        {
+            "catalogTitle": "OC TH 6060",
+            "section": "090",
+            "courseTitle": "Found Theory of OT"
+        },
+        {
+            "catalogTitle": "OC TH 6062",
+            "section": "090",
+            "courseTitle": "Theories in OT Practice"
+        },
+        {
+            "catalogTitle": "OC TH 6340",
+            "section": "001",
+            "courseTitle": "Occ Aging & Wellness"
+        },
+        {
+            "catalogTitle": "OC TH 6400",
+            "section": "001",
+            "courseTitle": "Clinical Intern Sem-I"
+        },
+        {
+            "catalogTitle": "OC TH 6440",
+            "section": "001",
+            "courseTitle": "Clinical Internship-II"
+        },
+        {
+            "catalogTitle": "OC TH 6820",
+            "section": "001",
+            "courseTitle": "Professional Seminar II"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7272",
+            "section": "090",
+            "courseTitle": "Program Development"
+        },
+        {
+            "catalogTitle": "OC TH 7302",
+            "section": "090",
+            "courseTitle": "Evidence & Research I"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "092",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "093",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "095",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "096",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "097",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "098",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "090",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "091",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "092",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "093",
+            "courseTitle": "Capstone in OT"
+        }
+    ]
 }

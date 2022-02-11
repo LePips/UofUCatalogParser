@@ -1,0 +1,389 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FCS 321",
+            "section": "001",
+            "courseTitle": "FCS Statistics"
+        },
+        {
+            "catalogTitle": "FCS 1500",
+            "section": "001",
+            "courseTitle": "Human Development"
+        },
+        {
+            "catalogTitle": "FCS 1500",
+            "section": "090",
+            "courseTitle": "Human Development"
+        },
+        {
+            "catalogTitle": "FCS 2400",
+            "section": "001",
+            "courseTitle": "Family Studies"
+        },
+        {
+            "catalogTitle": "FCS 2400",
+            "section": "002",
+            "courseTitle": "Family Studies"
+        },
+        {
+            "catalogTitle": "FCS 2400",
+            "section": "003",
+            "courseTitle": "Family Studies"
+        },
+        {
+            "catalogTitle": "FCS 2570",
+            "section": "090",
+            "courseTitle": "Middle Childhood"
+        },
+        {
+            "catalogTitle": "FCS 2610",
+            "section": "001",
+            "courseTitle": "Understanding Children"
+        },
+        {
+            "catalogTitle": "FCS 2620",
+            "section": "001",
+            "courseTitle": "Child Dev Pract"
+        },
+        {
+            "catalogTitle": "FCS 2621",
+            "section": "090",
+            "courseTitle": "Whole Child"
+        },
+        {
+            "catalogTitle": "FCS 2640",
+            "section": "001",
+            "courseTitle": "Integ Curr Meth"
+        },
+        {
+            "catalogTitle": "FCS 2640",
+            "section": "002",
+            "courseTitle": "Integ Curr Meth"
+        },
+        {
+            "catalogTitle": "FCS 3180",
+            "section": "001",
+            "courseTitle": "Home School Comm Relat"
+        },
+        {
+            "catalogTitle": "FCS 3180",
+            "section": "090",
+            "courseTitle": "Home School Comm Relat"
+        },
+        {
+            "catalogTitle": "FCS 3200",
+            "section": "001",
+            "courseTitle": "Research Meth-Fcs"
+        },
+        {
+            "catalogTitle": "FCS 3200",
+            "section": "002",
+            "courseTitle": "Research Meth-Fcs"
+        },
+        {
+            "catalogTitle": "FCS 3200",
+            "section": "090",
+            "courseTitle": "Research Meth-Fcs"
+        },
+        {
+            "catalogTitle": "FCS 3210",
+            "section": "001",
+            "courseTitle": "FCS Statistics"
+        },
+        {
+            "catalogTitle": "FCS 3210",
+            "section": "002",
+            "courseTitle": "FCS Statistics"
+        },
+        {
+            "catalogTitle": "FCS 3210",
+            "section": "003",
+            "courseTitle": "FCS Statistics"
+        },
+        {
+            "catalogTitle": "FCS 3215",
+            "section": "001",
+            "courseTitle": "Dev Inf & Childhood"
+        },
+        {
+            "catalogTitle": "FCS 3215",
+            "section": "002",
+            "courseTitle": "Dev Inf & Childhood"
+        },
+        {
+            "catalogTitle": "FCS 3215",
+            "section": "003",
+            "courseTitle": "Dev Inf & Childhood"
+        },
+        {
+            "catalogTitle": "FCS 3240",
+            "section": "001",
+            "courseTitle": "Family Belief Systems"
+        },
+        {
+            "catalogTitle": "FCS 3245",
+            "section": "001",
+            "courseTitle": "Human Sexuality"
+        },
+        {
+            "catalogTitle": "FCS 3260",
+            "section": "001",
+            "courseTitle": "Fatherhood"
+        },
+        {
+            "catalogTitle": "FCS 3270",
+            "section": "001",
+            "courseTitle": "Parent Child Relationsh"
+        },
+        {
+            "catalogTitle": "FCS 3290",
+            "section": "001",
+            "courseTitle": "Ethnic Min Families"
+        },
+        {
+            "catalogTitle": "FCS 3290",
+            "section": "002",
+            "courseTitle": "Ethnic Min Families"
+        },
+        {
+            "catalogTitle": "FCS 3370",
+            "section": "001",
+            "courseTitle": "Parenting & Cultures"
+        },
+        {
+            "catalogTitle": "FCS 3430",
+            "section": "001",
+            "courseTitle": "Intro Family Policy"
+        },
+        {
+            "catalogTitle": "FCS 3450",
+            "section": "001",
+            "courseTitle": "Family Economic Issues"
+        },
+        {
+            "catalogTitle": "FCS 3450",
+            "section": "003",
+            "courseTitle": "Family Economic Issues"
+        },
+        {
+            "catalogTitle": "FCS 3450",
+            "section": "090",
+            "courseTitle": "Family Economic Issues"
+        },
+        {
+            "catalogTitle": "FCS 3450",
+            "section": "091",
+            "courseTitle": "Family Economic Issues"
+        },
+        {
+            "catalogTitle": "FCS 3470",
+            "section": "001",
+            "courseTitle": "Interntl Consumr Policy"
+        },
+        {
+            "catalogTitle": "FCS 3500",
+            "section": "090",
+            "courseTitle": "Con. and Fam. Finance"
+        },
+        {
+            "catalogTitle": "FCS 3600",
+            "section": "090",
+            "courseTitle": "Consumer & Community"
+        },
+        {
+            "catalogTitle": "FCS 3630",
+            "section": "001",
+            "courseTitle": "Strengthening Families"
+        },
+        {
+            "catalogTitle": "FCS 3904",
+            "section": "001",
+            "courseTitle": "Modes Learn: SL"
+        },
+        {
+            "catalogTitle": "FCS 3904",
+            "section": "002",
+            "courseTitle": "Modes Learn: SL"
+        },
+        {
+            "catalogTitle": "FCS 3904",
+            "section": "003",
+            "courseTitle": "Modes Learn: SL"
+        },
+        {
+            "catalogTitle": "FCS 3904",
+            "section": "004",
+            "courseTitle": "Modes Learn: SL"
+        },
+        {
+            "catalogTitle": "FCS 3905",
+            "section": "001",
+            "courseTitle": "Modes Learn: WC"
+        },
+        {
+            "catalogTitle": "FCS 3905",
+            "section": "002",
+            "courseTitle": "Modes Learn: WC"
+        },
+        {
+            "catalogTitle": "FCS 3905",
+            "section": "004",
+            "courseTitle": "Modes Learn: WC"
+        },
+        {
+            "catalogTitle": "FCS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "FCS 4999",
+            "section": "002",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "FCS 4999",
+            "section": "003",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "FCS 5110",
+            "section": "001",
+            "courseTitle": "Grad Multivariate Stat"
+        },
+        {
+            "catalogTitle": "FCS 5120",
+            "section": "001",
+            "courseTitle": "Demographic Methods"
+        },
+        {
+            "catalogTitle": "FCS 5170",
+            "section": "001",
+            "courseTitle": "Creat&Cogn:EC Assess"
+        },
+        {
+            "catalogTitle": "FCS 5190",
+            "section": "001",
+            "courseTitle": "Early Chldhd Internship"
+        },
+        {
+            "catalogTitle": "FCS 5190",
+            "section": "002",
+            "courseTitle": "Early Chldhd Internship"
+        },
+        {
+            "catalogTitle": "FCS 5210",
+            "section": "001",
+            "courseTitle": "Family Life Education"
+        },
+        {
+            "catalogTitle": "FCS 5230",
+            "section": "001",
+            "courseTitle": "Adolescent Development"
+        },
+        {
+            "catalogTitle": "FCS 5230",
+            "section": "090",
+            "courseTitle": "Adolescent Development"
+        },
+        {
+            "catalogTitle": "FCS 5250",
+            "section": "002",
+            "courseTitle": "Theory Human Developmnt"
+        },
+        {
+            "catalogTitle": "FCS 5280",
+            "section": "001",
+            "courseTitle": "Marriage and Divorce"
+        },
+        {
+            "catalogTitle": "FCS 5312",
+            "section": "001",
+            "courseTitle": "Child Health Care II"
+        },
+        {
+            "catalogTitle": "FCS 5370",
+            "section": "001",
+            "courseTitle": "Family Violence"
+        },
+        {
+            "catalogTitle": "FCS 5430",
+            "section": "090",
+            "courseTitle": "Family Consumer Health"
+        },
+        {
+            "catalogTitle": "FCS 5520",
+            "section": "090",
+            "courseTitle": "Fam retirement Planning"
+        },
+        {
+            "catalogTitle": "FCS 5530",
+            "section": "090",
+            "courseTitle": "Fam Income Tax Planning"
+        },
+        {
+            "catalogTitle": "FCS 5550",
+            "section": "001",
+            "courseTitle": "Financial Planning Caps"
+        },
+        {
+            "catalogTitle": "FCS 5700",
+            "section": "001",
+            "courseTitle": "Res for Con & Com Needs"
+        },
+        {
+            "catalogTitle": "FCS 5920",
+            "section": "001",
+            "courseTitle": "Field Training"
+        },
+        {
+            "catalogTitle": "FCS 5950",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "FCS 5950",
+            "section": "004",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "FCS 5962",
+            "section": "002",
+            "courseTitle": "Attachment Across the Lifespan"
+        },
+        {
+            "catalogTitle": "FCS 5962",
+            "section": "061",
+            "courseTitle": "Basic Mediation"
+        },
+        {
+            "catalogTitle": "FCS 5964",
+            "section": "061",
+            "courseTitle": "Basic Mediation"
+        },
+        {
+            "catalogTitle": "FCS 6110",
+            "section": "001",
+            "courseTitle": "Grad Multivariate Stat"
+        },
+        {
+            "catalogTitle": "FCS 6120",
+            "section": "001",
+            "courseTitle": "Demographic Methods"
+        },
+        {
+            "catalogTitle": "FCS 6700",
+            "section": "001",
+            "courseTitle": "Research Com Needs"
+        },
+        {
+            "catalogTitle": "FCS 6970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "FCS 6980",
+            "section": "008",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

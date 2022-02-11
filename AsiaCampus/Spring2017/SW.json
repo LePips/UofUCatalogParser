@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 1010",
+            "section": "301",
+            "courseTitle": "Soc Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 2300",
+            "section": "301",
+            "courseTitle": "Soc Welfare Institution"
+        },
+        {
+            "catalogTitle": "SW 3100",
+            "section": "301",
+            "courseTitle": "HBSE I"
+        },
+        {
+            "catalogTitle": "SW 3550",
+            "section": "301",
+            "courseTitle": "Soc Div & Cultrl Under."
+        },
+        {
+            "catalogTitle": "SW 3602",
+            "section": "301",
+            "courseTitle": "Global Leadership"
+        },
+        {
+            "catalogTitle": "SW 4100",
+            "section": "301",
+            "courseTitle": "Global Com Bsd Resch"
+        },
+        {
+            "catalogTitle": "SW 4823",
+            "section": "301",
+            "courseTitle": "Survey Research"
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 1611",
+            "section": "001",
+            "courseTitle": "Arch & Planning LEAP II"
+        },
+        {
+            "catalogTitle": "ARCH 1615",
+            "section": "001",
+            "courseTitle": "Intro To Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 1630",
+            "section": "001",
+            "courseTitle": "Architectural Graphics"
+        },
+        {
+            "catalogTitle": "ARCH 1630",
+            "section": "002",
+            "courseTitle": "Architectural Graphics"
+        },
+        {
+            "catalogTitle": "ARCH 2615",
+            "section": "001",
+            "courseTitle": "Hon People & Place II"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "001",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "002",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 3011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio II"
+        },
+        {
+            "catalogTitle": "ARCH 3051",
+            "section": "001",
+            "courseTitle": "Architect'l Comm II"
+        },
+        {
+            "catalogTitle": "ARCH 3211",
+            "section": "001",
+            "courseTitle": "Surv-World Architctr II"
+        },
+        {
+            "catalogTitle": "ARCH 3212",
+            "section": "001",
+            "courseTitle": "Surv-American Arch"
+        },
+        {
+            "catalogTitle": "ARCH 3371",
+            "section": "001",
+            "courseTitle": "Materials Construction"
+        },
+        {
+            "catalogTitle": "ARCH 3371",
+            "section": "002",
+            "courseTitle": "Materials Construction"
+        },
+        {
+            "catalogTitle": "ARCH 3612",
+            "section": "001",
+            "courseTitle": "Race Gender in Arch"
+        },
+        {
+            "catalogTitle": "ARCH 4011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IV"
+        },
+        {
+            "catalogTitle": "ARCH 4011",
+            "section": "002",
+            "courseTitle": "Arch'l Studio IV"
+        },
+        {
+            "catalogTitle": "ARCH 4011",
+            "section": "003",
+            "courseTitle": "Arch'l Studio IV"
+        },
+        {
+            "catalogTitle": "ARCH 4011",
+            "section": "004",
+            "courseTitle": "Arch'l Studio IV"
+        },
+        {
+            "catalogTitle": "ARCH 4051",
+            "section": "001",
+            "courseTitle": "Arch'l Theory"
+        },
+        {
+            "catalogTitle": "ARCH 4051",
+            "section": "002",
+            "courseTitle": "Arch'l Theory"
+        },
+        {
+            "catalogTitle": "ARCH 4311",
+            "section": "001",
+            "courseTitle": "Arch'l Structures II"
+        },
+        {
+            "catalogTitle": "ARCH 4351",
+            "section": "001",
+            "courseTitle": "Environm'l Controls II"
+        },
+        {
+            "catalogTitle": "ARCH 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6011",
+            "section": "001",
+            "courseTitle": "Arch'l Studio IVG"
+        },
+        {
+            "catalogTitle": "ARCH 6011",
+            "section": "002",
+            "courseTitle": "Arch'l Studio IVG"
+        },
+        {
+            "catalogTitle": "ARCH 6011",
+            "section": "003",
+            "courseTitle": "Arch'l Studio IVG"
+        },
+        {
+            "catalogTitle": "ARCH 6011",
+            "section": "004",
+            "courseTitle": "Arch'l Studio IVG"
+        },
+        {
+            "catalogTitle": "ARCH 6015",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6016",
+            "section": "001",
+            "courseTitle": "Elective Grad Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6016",
+            "section": "002",
+            "courseTitle": "Elective Grad Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6053",
+            "section": "001",
+            "courseTitle": "Traditional Graphics"
+        },
+        {
+            "catalogTitle": "ARCH 6116",
+            "section": "001",
+            "courseTitle": "Bluff Program Seminar"
+        },
+        {
+            "catalogTitle": "ARCH 6120",
+            "section": "001",
+            "courseTitle": "Arch'l Photog Bldg"
+        },
+        {
+            "catalogTitle": "ARCH 6203",
+            "section": "001",
+            "courseTitle": "Precolumbian"
+        },
+        {
+            "catalogTitle": "ARCH 6205",
+            "section": "001",
+            "courseTitle": "Scandinavian Architectr"
+        },
+        {
+            "catalogTitle": "ARCH 6211",
+            "section": "001",
+            "courseTitle": "Surv World Arch IIG"
+        },
+        {
+            "catalogTitle": "ARCH 6212",
+            "section": "001",
+            "courseTitle": "American Architecture"
+        },
+        {
+            "catalogTitle": "ARCH 6261",
+            "section": "001",
+            "courseTitle": "Contemporary Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6261",
+            "section": "002",
+            "courseTitle": "Contemporary Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6261",
+            "section": "003",
+            "courseTitle": "Contemporary Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6261",
+            "section": "004",
+            "courseTitle": "Contemporary Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6271",
+            "section": "001",
+            "courseTitle": "Contemporary  Theory"
+        },
+        {
+            "catalogTitle": "ARCH 6301",
+            "section": "001",
+            "courseTitle": "Adv Struct Material"
+        },
+        {
+            "catalogTitle": "ARCH 6311",
+            "section": "001",
+            "courseTitle": "Arch'L Structures IIG"
+        },
+        {
+            "catalogTitle": "ARCH 6351",
+            "section": "001",
+            "courseTitle": "Environm'L Controls IIG"
+        },
+        {
+            "catalogTitle": "ARCH 6370",
+            "section": "002",
+            "courseTitle": "Advanced Tech Const"
+        },
+        {
+            "catalogTitle": "ARCH 6370",
+            "section": "003",
+            "courseTitle": "Advanced Tech Const"
+        },
+        {
+            "catalogTitle": "ARCH 6370",
+            "section": "004",
+            "courseTitle": "Advanced Tech Const"
+        },
+        {
+            "catalogTitle": "ARCH 6371",
+            "section": "001",
+            "courseTitle": "Intensive Mat & Const"
+        },
+        {
+            "catalogTitle": "ARCH 6371",
+            "section": "002",
+            "courseTitle": "Intensive Mat & Const"
+        },
+        {
+            "catalogTitle": "ARCH 6570",
+            "section": "001",
+            "courseTitle": "Preservation Technology"
+        },
+        {
+            "catalogTitle": "ARCH 6701",
+            "section": "001",
+            "courseTitle": "Law For Architects"
+        },
+        {
+            "catalogTitle": "ARCH 6702",
+            "section": "001",
+            "courseTitle": "Arch Pract-Phil II"
+        },
+        {
+            "catalogTitle": "ARCH 6770",
+            "section": "001",
+            "courseTitle": "Arch Service Intern"
+        },
+        {
+            "catalogTitle": "ARCH 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6950",
+            "section": "002",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6955",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ARCH 6971",
+            "section": "001",
+            "courseTitle": "Final Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6971",
+            "section": "002",
+            "courseTitle": "Final Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6971",
+            "section": "003",
+            "courseTitle": "Final Studio"
+        }
+    ]
+}

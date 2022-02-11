@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CTLE 600",
+            "section": "001",
+            "courseTitle": "Teaching in Higher Ed"
+        },
+        {
+            "catalogTitle": "CTLE 651",
+            "section": "090",
+            "courseTitle": "Cyber Pedagogy"
+        },
+        {
+            "catalogTitle": "CTLE 4800",
+            "section": "001",
+            "courseTitle": "USET Orientation"
+        },
+        {
+            "catalogTitle": "CTLE 6000",
+            "section": "001",
+            "courseTitle": "Teaching in Higher Ed"
+        },
+        {
+            "catalogTitle": "CTLE 6510",
+            "section": "090",
+            "courseTitle": "Cyber Pedagogy"
+        }
+    ]
+}

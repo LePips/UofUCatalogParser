@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESCI 190",
+            "section": "001",
+            "courseTitle": "Engineering (Grade 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 200",
+            "section": "001",
+            "courseTitle": "Complex Systems (Grade 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 201",
+            "section": "001",
+            "courseTitle": "Math & Science (Grade 5-8)"
+        },
+        {
+            "catalogTitle": "YESCI 202",
+            "section": "001",
+            "courseTitle": "Things Tick? (Grade 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 495",
+            "section": "001",
+            "courseTitle": "Engineering Matters (Age 9-13)"
+        },
+        {
+            "catalogTitle": "YESCI 500",
+            "section": "001",
+            "courseTitle": "Tech Town (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YESCI 505",
+            "section": "001",
+            "courseTitle": "Aviation 101 (Age 10-13)"
+        },
+        {
+            "catalogTitle": "YESCI 510",
+            "section": "001",
+            "courseTitle": "Space Academy (6-8 & 9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 510",
+            "section": "002",
+            "courseTitle": "Space Academy (6-8 & 9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 516",
+            "section": "001",
+            "courseTitle": "Creature Connection (Age 9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 516",
+            "section": "002",
+            "courseTitle": "Creature Connection (Age 9-12)"
+        },
+        {
+            "catalogTitle": "YESCI 517",
+            "section": "001",
+            "courseTitle": "Farm & Forest (Age 6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 518",
+            "section": "001",
+            "courseTitle": "Anatomy 101 (Age 6-9)"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "001",
+            "courseTitle": "LegoMania (Age 6-11)"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "002",
+            "courseTitle": "LegoMania (Age 6-11)"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "003",
+            "courseTitle": "LegoMania (Age 6-11)"
+        },
+        {
+            "catalogTitle": "YESCI 525",
+            "section": "004",
+            "courseTitle": "LegoMania (Age 6-11)"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "001",
+            "courseTitle": "Robotics (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "002",
+            "courseTitle": "Robotics (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YESCI 615",
+            "section": "001",
+            "courseTitle": "Cool Chemistry (Age 12-15)"
+        }
+    ]
+}

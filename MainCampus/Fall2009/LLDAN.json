@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLDAN 212",
+            "section": "001",
+            "courseTitle": "Punchcard Yoga"
+        },
+        {
+            "catalogTitle": "LLDAN 215",
+            "section": "001",
+            "courseTitle": "Yoga for Strength"
+        },
+        {
+            "catalogTitle": "LLDAN 215",
+            "section": "002",
+            "courseTitle": "Yoga for Strength"
+        },
+        {
+            "catalogTitle": "LLDAN 244",
+            "section": "001",
+            "courseTitle": "Fundamentals of Yoga"
+        },
+        {
+            "catalogTitle": "LLDAN 252",
+            "section": "001",
+            "courseTitle": "Aerial Dance: Silks"
+        },
+        {
+            "catalogTitle": "LLDAN 254",
+            "section": "001",
+            "courseTitle": "Feldenkrais"
+        }
+    ]
+}

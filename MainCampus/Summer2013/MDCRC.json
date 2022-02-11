@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MDCRC 600",
+            "section": "001",
+            "courseTitle": "Intro Biostatistics"
+        },
+        {
+            "catalogTitle": "MDCRC 601",
+            "section": "001",
+            "courseTitle": "Intro Epidemiology"
+        },
+        {
+            "catalogTitle": "MDCRC 602",
+            "section": "001",
+            "courseTitle": "Data Management"
+        },
+        {
+            "catalogTitle": "MDCRC 603",
+            "section": "001",
+            "courseTitle": "Computer Practicum"
+        },
+        {
+            "catalogTitle": "MDCRC 643",
+            "section": "001",
+            "courseTitle": "Clinical Research Ethics"
+        },
+        {
+            "catalogTitle": "MDCRC 644",
+            "section": "001",
+            "courseTitle": "Medical Genetics"
+        },
+        {
+            "catalogTitle": "MDCRC 6000",
+            "section": "001",
+            "courseTitle": "Intro Biostatistics"
+        },
+        {
+            "catalogTitle": "MDCRC 6010",
+            "section": "001",
+            "courseTitle": "Intro Epidemiology"
+        },
+        {
+            "catalogTitle": "MDCRC 6020",
+            "section": "001",
+            "courseTitle": "Data Management"
+        },
+        {
+            "catalogTitle": "MDCRC 6030",
+            "section": "001",
+            "courseTitle": "Computer Practicum"
+        },
+        {
+            "catalogTitle": "MDCRC 6430",
+            "section": "001",
+            "courseTitle": "Clinical Research Ethics"
+        },
+        {
+            "catalogTitle": "MDCRC 6440",
+            "section": "001",
+            "courseTitle": "Medical Genetics"
+        },
+        {
+            "catalogTitle": "MDCRC 6950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MDCRC 6960",
+            "section": "001",
+            "courseTitle": "Research Project"
+        }
+    ]
+}

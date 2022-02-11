@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ONCSC 5200",
+            "section": "001",
+            "courseTitle": "Research for Undergrads"
+        },
+        {
+            "catalogTitle": "ONCSC 6960",
+            "section": "001",
+            "courseTitle": "Graduate Research"
+        },
+        {
+            "catalogTitle": "ONCSC 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ONCSC 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

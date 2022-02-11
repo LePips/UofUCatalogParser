@@ -1,0 +1,249 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIOL 242",
+            "section": "070",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 396",
+            "section": "001",
+            "courseTitle": "Organic Gardening"
+        },
+        {
+            "catalogTitle": "BIOL 400",
+            "section": "001",
+            "courseTitle": "Intro Envronmntl Science"
+        },
+        {
+            "catalogTitle": "BIOL 1210",
+            "section": "001",
+            "courseTitle": "Principles of Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1210",
+            "section": "002",
+            "courseTitle": "Principles of Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1210",
+            "section": "003",
+            "courseTitle": "Principles of Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1210",
+            "section": "070",
+            "courseTitle": "Principles of Biology"
+        },
+        {
+            "catalogTitle": "BIOL 1400",
+            "section": "001",
+            "courseTitle": "Intr Envirnmntl Science"
+        },
+        {
+            "catalogTitle": "BIOL 2115",
+            "section": "001",
+            "courseTitle": "Basic Lab Technique"
+        },
+        {
+            "catalogTitle": "BIOL 2355",
+            "section": "001",
+            "courseTitle": "Field Botany"
+        },
+        {
+            "catalogTitle": "BIOL 2355",
+            "section": "002",
+            "courseTitle": "Field Botany"
+        },
+        {
+            "catalogTitle": "BIOL 2420",
+            "section": "001",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 2420",
+            "section": "002",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 2420",
+            "section": "003",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 2420",
+            "section": "004",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 2420",
+            "section": "070",
+            "courseTitle": "Human Physiology"
+        },
+        {
+            "catalogTitle": "BIOL 3960",
+            "section": "001",
+            "courseTitle": "Organic Gardening"
+        },
+        {
+            "catalogTitle": "BIOL 4080",
+            "section": "001",
+            "courseTitle": "Dental Observation"
+        },
+        {
+            "catalogTitle": "BIOL 4950",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "062",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "063",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "064",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "066",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "067",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4955",
+            "section": "068",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "BIOL 4995",
+            "section": "001",
+            "courseTitle": "Biology Honors Research"
+        },
+        {
+            "catalogTitle": "BIOL 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "BIOL 5312",
+            "section": "001",
+            "courseTitle": "Human Dissection"
+        },
+        {
+            "catalogTitle": "BIOL 5455",
+            "section": "001",
+            "courseTitle": "Desert Ecology Fld Crse"
+        },
+        {
+            "catalogTitle": "BIOL 5485",
+            "section": "001",
+            "courseTitle": "Field Mammalogy"
+        },
+        {
+            "catalogTitle": "BIOL 5900",
+            "section": "001",
+            "courseTitle": "Tchg Experience"
+        },
+        {
+            "catalogTitle": "BIOL 5900",
+            "section": "002",
+            "courseTitle": "Tchg Experience"
+        },
+        {
+            "catalogTitle": "BIOL 5900",
+            "section": "003",
+            "courseTitle": "Tchg Experience"
+        },
+        {
+            "catalogTitle": "BIOL 5955",
+            "section": "001",
+            "courseTitle": "Scientific Immersion"
+        },
+        {
+            "catalogTitle": "BIOL 6900",
+            "section": "001",
+            "courseTitle": "Tchg Experience"
+        },
+        {
+            "catalogTitle": "BIOL 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIOL 6975",
+            "section": "001",
+            "courseTitle": "Biology Masters Project"
+        },
+        {
+            "catalogTitle": "BIOL 7106",
+            "section": "001",
+            "courseTitle": "Sem Biochem/Molec"
+        },
+        {
+            "catalogTitle": "BIOL 7950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BIOL 7961",
+            "section": "001",
+            "courseTitle": "Adv Tpcs: Biochem/Molec"
+        },
+        {
+            "catalogTitle": "BIOL 7962",
+            "section": "001",
+            "courseTitle": "Adv Tpcs:Cell/Devel/Gen"
+        },
+        {
+            "catalogTitle": "BIOL 7963",
+            "section": "001",
+            "courseTitle": "Adv Tpcs:Phys/Organisml"
+        },
+        {
+            "catalogTitle": "BIOL 7964",
+            "section": "001",
+            "courseTitle": "Adv Tpcs: Ecol/Evol"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "050",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7970",
+            "section": "051",
+            "courseTitle": "Thesis Research - Phd"
+        },
+        {
+            "catalogTitle": "BIOL 7971",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

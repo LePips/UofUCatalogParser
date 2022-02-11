@@ -1,0 +1,309 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "COMM 127",
+            "section": "060",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "001",
+            "courseTitle": "Communication Matters"
+        },
+        {
+            "catalogTitle": "COMM 1010",
+            "section": "002",
+            "courseTitle": "Communication Matters"
+        },
+        {
+            "catalogTitle": "COMM 1020",
+            "section": "001",
+            "courseTitle": "Princ Public Speaking"
+        },
+        {
+            "catalogTitle": "COMM 1020",
+            "section": "002",
+            "courseTitle": "Princ Public Speaking"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "001",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "002",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "060",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1270",
+            "section": "090",
+            "courseTitle": "Analysis Of Argument"
+        },
+        {
+            "catalogTitle": "COMM 1535",
+            "section": "090",
+            "courseTitle": "Basic Digital Photo"
+        },
+        {
+            "catalogTitle": "COMM 1535",
+            "section": "091",
+            "courseTitle": "Basic Digital Photo"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "001",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "002",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 1610",
+            "section": "090",
+            "courseTitle": "Intro to News Writing"
+        },
+        {
+            "catalogTitle": "COMM 2110",
+            "section": "001",
+            "courseTitle": "Intro Interpersonal"
+        },
+        {
+            "catalogTitle": "COMM 3010",
+            "section": "001",
+            "courseTitle": "Peer Advising"
+        },
+        {
+            "catalogTitle": "COMM 3030",
+            "section": "001",
+            "courseTitle": "Comm & Social Respon"
+        },
+        {
+            "catalogTitle": "COMM 3070",
+            "section": "001",
+            "courseTitle": "Comm And Gender"
+        },
+        {
+            "catalogTitle": "COMM 3070",
+            "section": "090",
+            "courseTitle": "Comm And Gender"
+        },
+        {
+            "catalogTitle": "COMM 3070",
+            "section": "091",
+            "courseTitle": "Comm And Gender"
+        },
+        {
+            "catalogTitle": "COMM 3170",
+            "section": "001",
+            "courseTitle": "Intro to Org Communication"
+        },
+        {
+            "catalogTitle": "COMM 3190",
+            "section": "001",
+            "courseTitle": "Intercultural Comm"
+        },
+        {
+            "catalogTitle": "COMM 3460",
+            "section": "090",
+            "courseTitle": "Communication Criticism"
+        },
+        {
+            "catalogTitle": "COMM 3460",
+            "section": "091",
+            "courseTitle": "Communication Criticism"
+        },
+        {
+            "catalogTitle": "COMM 3505",
+            "section": "001",
+            "courseTitle": "Living in a Media World"
+        },
+        {
+            "catalogTitle": "COMM 3505",
+            "section": "090",
+            "courseTitle": "Living in a Media World"
+        },
+        {
+            "catalogTitle": "COMM 3510",
+            "section": "001",
+            "courseTitle": "Intro to Web Design"
+        },
+        {
+            "catalogTitle": "COMM 3510",
+            "section": "002",
+            "courseTitle": "Intro to Web Design"
+        },
+        {
+            "catalogTitle": "COMM 3550",
+            "section": "002",
+            "courseTitle": "Principles of Visual Comm"
+        },
+        {
+            "catalogTitle": "COMM 3550",
+            "section": "090",
+            "courseTitle": "Principles of Visual Comm"
+        },
+        {
+            "catalogTitle": "COMM 3555",
+            "section": "001",
+            "courseTitle": "Convergence Journalism"
+        },
+        {
+            "catalogTitle": "COMM 3560",
+            "section": "001",
+            "courseTitle": "Video Production I"
+        },
+        {
+            "catalogTitle": "COMM 3580",
+            "section": "001",
+            "courseTitle": "Strat Campaign Design"
+        },
+        {
+            "catalogTitle": "COMM 3600",
+            "section": "001",
+            "courseTitle": "Editing Process"
+        },
+        {
+            "catalogTitle": "COMM 3610",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "COMM 3610",
+            "section": "002",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "COMM 3640",
+            "section": "090",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "COMM 3710",
+            "section": "001",
+            "courseTitle": "Intro Quant Comm Rsrch"
+        },
+        {
+            "catalogTitle": "COMM 3770",
+            "section": "001",
+            "courseTitle": "Cross Cultural Doc"
+        },
+        {
+            "catalogTitle": "COMM 3910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "COMM 3910",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "COMM 4580",
+            "section": "001",
+            "courseTitle": "Strat Comm Theory & Pra"
+        },
+        {
+            "catalogTitle": "COMM 4590",
+            "section": "001",
+            "courseTitle": "Writ Strategic Comm"
+        },
+        {
+            "catalogTitle": "COMM 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "COMM 5300",
+            "section": "001",
+            "courseTitle": "Mass Communication Law"
+        },
+        {
+            "catalogTitle": "COMM 5300",
+            "section": "002",
+            "courseTitle": "Mass Communication Law"
+        },
+        {
+            "catalogTitle": "COMM 5510",
+            "section": "001",
+            "courseTitle": "Adv. Web Design"
+        },
+        {
+            "catalogTitle": "COMM 5580",
+            "section": "001",
+            "courseTitle": "PR Cases & Campaigns"
+        },
+        {
+            "catalogTitle": "COMM 5580",
+            "section": "002",
+            "courseTitle": "PR Cases & Campaigns"
+        },
+        {
+            "catalogTitle": "COMM 5800",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "COMM 5800",
+            "section": "003",
+            "courseTitle": "Peace & Conflict-Israel"
+        },
+        {
+            "catalogTitle": "COMM 5800",
+            "section": "004",
+            "courseTitle": "Absolute Communication"
+        },
+        {
+            "catalogTitle": "COMM 5800",
+            "section": "005",
+            "courseTitle": "Documentary Production"
+        },
+        {
+            "catalogTitle": "COMM 5800",
+            "section": "006",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "COMM 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "COMM 6930",
+            "section": "001",
+            "courseTitle": "Masters Project"
+        },
+        {
+            "catalogTitle": "COMM 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "COMM 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "COMM 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "COMM 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "COMM 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

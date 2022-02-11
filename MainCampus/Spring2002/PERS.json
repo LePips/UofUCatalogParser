@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PERS 1020",
+            "section": "001",
+            "courseTitle": "Beginning Persian II"
+        },
+        {
+            "catalogTitle": "PERS 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Persian II"
+        },
+        {
+            "catalogTitle": "PERS 3020",
+            "section": "001",
+            "courseTitle": "Third Year Persian II"
+        },
+        {
+            "catalogTitle": "PERS 4280",
+            "section": "001",
+            "courseTitle": "Trends Mod Persian Lit"
+        },
+        {
+            "catalogTitle": "PERS 4910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "PERS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "PERS 6280",
+            "section": "001",
+            "courseTitle": "Trends Mod Persian Lit"
+        },
+        {
+            "catalogTitle": "PERS 6910",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "PERS 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MA"
+        },
+        {
+            "catalogTitle": "PERS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-MA"
+        },
+        {
+            "catalogTitle": "PERS 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-MA"
+        },
+        {
+            "catalogTitle": "PERS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "PERS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "PERS 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis-PhD"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PATH 6520",
+            "section": "001",
+            "courseTitle": "ST-Medical Lab Science"
+        },
+        {
+            "catalogTitle": "PATH 6690",
+            "section": "001",
+            "courseTitle": "Med Lab Sci Admin"
+        },
+        {
+            "catalogTitle": "PATH 6700",
+            "section": "001",
+            "courseTitle": "Med Lab Sci Education"
+        },
+        {
+            "catalogTitle": "PATH 6930",
+            "section": "001",
+            "courseTitle": "Directed Readings"
+        },
+        {
+            "catalogTitle": "PATH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: M.S."
+        },
+        {
+            "catalogTitle": "PATH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation:MS"
+        },
+        {
+            "catalogTitle": "PATH 7200",
+            "section": "001",
+            "courseTitle": "Interim Med Stu Rsrch"
+        },
+        {
+            "catalogTitle": "PATH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PATH 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

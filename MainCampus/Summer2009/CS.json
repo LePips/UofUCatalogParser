@@ -1,0 +1,179 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CS 1010",
+            "section": "001",
+            "courseTitle": "Introduction To Unix"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "001",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "002",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "003",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "004",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "006",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2960",
+            "section": "001",
+            "courseTitle": "Apple Certification"
+        },
+        {
+            "catalogTitle": "CS 2963",
+            "section": "001",
+            "courseTitle": "LPI Level 1"
+        },
+        {
+            "catalogTitle": "CS 2963",
+            "section": "002",
+            "courseTitle": "LPI Level 1"
+        },
+        {
+            "catalogTitle": "CS 2964",
+            "section": "001",
+            "courseTitle": "LPI Level 2"
+        },
+        {
+            "catalogTitle": "CS 4950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 4970",
+            "section": "001",
+            "courseTitle": "CS Bachelor's Thesis"
+        },
+        {
+            "catalogTitle": "CS 4970",
+            "section": "003",
+            "courseTitle": "CS Bachelor's Thesis"
+        },
+        {
+            "catalogTitle": "CS 5960",
+            "section": "001",
+            "courseTitle": "SROP"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "042",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "043",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "044",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "045",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "046",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "047",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "001",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "042",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "043",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "044",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "045",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "046",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "047",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "042",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "043",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "044",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "045",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "046",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "047",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

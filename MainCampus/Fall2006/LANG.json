@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LANG 290",
+            "section": "001",
+            "courseTitle": "Interm Hindi"
+        },
+        {
+            "catalogTitle": "LANG 290",
+            "section": "002",
+            "courseTitle": "Persian Culture & Civilization"
+        },
+        {
+            "catalogTitle": "LANG 1010",
+            "section": "001",
+            "courseTitle": "Beginning Hindi I"
+        },
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "001",
+            "courseTitle": "Intermediate Hindi"
+        },
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "002",
+            "courseTitle": "Persian Culture & Civilization"
+        },
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "003",
+            "courseTitle": "Navajo Culture & Tradition"
+        },
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "004",
+            "courseTitle": "Hindi for Business"
+        },
+        {
+            "catalogTitle": "LANG 5410",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LANG 6410",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LANG 6430",
+            "section": "001",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

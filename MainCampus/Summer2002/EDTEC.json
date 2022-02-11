@@ -1,0 +1,209 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 101",
+            "section": "005",
+            "courseTitle": "Comm Tech Resource Mgmt"
+        },
+        {
+            "catalogTitle": "EDTEC 101",
+            "section": "006",
+            "courseTitle": "Comm Tech Resource Mgmt"
+        },
+        {
+            "catalogTitle": "EDTEC 101",
+            "section": "007",
+            "courseTitle": "Comm Tech Resource Mgmt"
+        },
+        {
+            "catalogTitle": "EDTEC 101",
+            "section": "008",
+            "courseTitle": "Comm Tech Resource Mgmt"
+        },
+        {
+            "catalogTitle": "EDTEC 201",
+            "section": "001",
+            "courseTitle": "XML"
+        },
+        {
+            "catalogTitle": "EDTEC 202",
+            "section": "001",
+            "courseTitle": "DB Design And The Web"
+        },
+        {
+            "catalogTitle": "EDTEC 301",
+            "section": "002",
+            "courseTitle": "e-Learning Subscription"
+        },
+        {
+            "catalogTitle": "EDTEC 501",
+            "section": "001",
+            "courseTitle": "Cisco Academy: CCNA-1"
+        },
+        {
+            "catalogTitle": "EDTEC 502",
+            "section": "001",
+            "courseTitle": "Cisco Academy: CCNA-2"
+        },
+        {
+            "catalogTitle": "EDTEC 503",
+            "section": "001",
+            "courseTitle": "Cisco Academy: CCNA-3"
+        },
+        {
+            "catalogTitle": "EDTEC 504",
+            "section": "001",
+            "courseTitle": "Cisco Academy: CCNA-4"
+        },
+        {
+            "catalogTitle": "EDTEC 505",
+            "section": "001",
+            "courseTitle": "Java for NON-Programmer"
+        },
+        {
+            "catalogTitle": "EDTEC 506",
+            "section": "001",
+            "courseTitle": "Migrating to OO w/ Java"
+        },
+        {
+            "catalogTitle": "EDTEC 507",
+            "section": "001",
+            "courseTitle": "Java Program Language"
+        },
+        {
+            "catalogTitle": "EDTEC 508",
+            "section": "001",
+            "courseTitle": "Cisco CCNA Boot Camp"
+        },
+        {
+            "catalogTitle": "EDTEC 508",
+            "section": "003",
+            "courseTitle": "Cisco CCNA Boot Camp"
+        },
+        {
+            "catalogTitle": "EDTEC 606",
+            "section": "001",
+            "courseTitle": "Word 2000 Inroduction"
+        },
+        {
+            "catalogTitle": "EDTEC 607",
+            "section": "001",
+            "courseTitle": "Word 2000 Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 621",
+            "section": "001",
+            "courseTitle": "Excel 2000 Introduction"
+        },
+        {
+            "catalogTitle": "EDTEC 622",
+            "section": "001",
+            "courseTitle": "Excel 2000 Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 623",
+            "section": "001",
+            "courseTitle": "Excel 2000 Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 633",
+            "section": "001",
+            "courseTitle": "Access 2000 Introducton"
+        },
+        {
+            "catalogTitle": "EDTEC 634",
+            "section": "002",
+            "courseTitle": "Access 2000 Intermedate"
+        },
+        {
+            "catalogTitle": "EDTEC 635",
+            "section": "001",
+            "courseTitle": "Access 2000 Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 652",
+            "section": "001",
+            "courseTitle": "PowerPoint 2000 Intro"
+        },
+        {
+            "catalogTitle": "EDTEC 653",
+            "section": "001",
+            "courseTitle": "PowerPoint 2000 Interm"
+        },
+        {
+            "catalogTitle": "EDTEC 670",
+            "section": "001",
+            "courseTitle": "Outlook 2000 Intro"
+        },
+        {
+            "catalogTitle": "EDTEC 671",
+            "section": "001",
+            "courseTitle": "Outlook 2000 Interm"
+        },
+        {
+            "catalogTitle": "EDTEC 677",
+            "section": "001",
+            "courseTitle": "FrontPage 2000 Adv"
+        },
+        {
+            "catalogTitle": "EDTEC 698",
+            "section": "001",
+            "courseTitle": "2154: Win 2000 Dir"
+        },
+        {
+            "catalogTitle": "EDTEC 719",
+            "section": "001",
+            "courseTitle": "1016: Entrprse Dev VB 6"
+        },
+        {
+            "catalogTitle": "EDTEC 782",
+            "section": "001",
+            "courseTitle": "Crystal Reports Intro"
+        },
+        {
+            "catalogTitle": "EDTEC 788",
+            "section": "001",
+            "courseTitle": "Network + Certification"
+        },
+        {
+            "catalogTitle": "EDTEC 796",
+            "section": "004",
+            "courseTitle": "MCSE: MS Certif Sys Eng"
+        },
+        {
+            "catalogTitle": "EDTEC 798",
+            "section": "001",
+            "courseTitle": "MCSD: MS Cert Solutn Dev"
+        },
+        {
+            "catalogTitle": "EDTEC 799",
+            "section": "001",
+            "courseTitle": "MCDBA: MS Certified DB"
+        },
+        {
+            "catalogTitle": "EDTEC 803",
+            "section": "001",
+            "courseTitle": "CNA: Cert Novell Admin"
+        },
+        {
+            "catalogTitle": "EDTEC 804",
+            "section": "001",
+            "courseTitle": "CNE:Cert Novell Enginer"
+        },
+        {
+            "catalogTitle": "EDTEC 804",
+            "section": "002",
+            "courseTitle": "CNE:Cert Novell Enginer"
+        },
+        {
+            "catalogTitle": "EDTEC 806",
+            "section": "001",
+            "courseTitle": "MCSE: MS Cert Eng Win 2K"
+        },
+        {
+            "catalogTitle": "EDTEC 811",
+            "section": "001",
+            "courseTitle": "Cisco: CIT"
+        }
+    ]
+}

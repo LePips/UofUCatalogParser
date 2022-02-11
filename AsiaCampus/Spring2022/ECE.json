@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "301",
+            "courseTitle": "Matlab for ECE Design"
+        },
+        {
+            "catalogTitle": "ECE 1240",
+            "section": "302",
+            "courseTitle": "Intro to Circuit Design"
+        },
+        {
+            "catalogTitle": "ECE 1245",
+            "section": "301",
+            "courseTitle": "Intro to Circ Des Lab"
+        },
+        {
+            "catalogTitle": "ECE 1900",
+            "section": "301",
+            "courseTitle": "Intro to ECE"
+        },
+        {
+            "catalogTitle": "ECE 2240",
+            "section": "302",
+            "courseTitle": "Intro Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2245",
+            "section": "301",
+            "courseTitle": "Intro Elec Circs Lab"
+        }
+    ]
+}

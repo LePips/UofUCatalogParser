@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 1900",
+            "section": "002",
+            "courseTitle": "Introduction to Middle East"
+        },
+        {
+            "catalogTitle": "HUM 6102",
+            "section": "001",
+            "courseTitle": "Field Methods in EH"
+        },
+        {
+            "catalogTitle": "HUM 6105",
+            "section": "001",
+            "courseTitle": "EH Writing Seminar"
+        },
+        {
+            "catalogTitle": "HUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "HUM 6804",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "001",
+            "courseTitle": "St. Environmental Lit."
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "HUM 6970",
+            "section": "001",
+            "courseTitle": "Thesis/Proj Rsrch: M.A."
+        }
+    ]
+}

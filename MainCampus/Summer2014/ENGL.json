@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGL 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "ENGL 2600",
+            "section": "001",
+            "courseTitle": "Crit Intro To Lit Forms"
+        },
+        {
+            "catalogTitle": "ENGL 3310",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "ENGL 3600",
+            "section": "001",
+            "courseTitle": "Intr Critical Theory"
+        },
+        {
+            "catalogTitle": "ENGL 3701",
+            "section": "001",
+            "courseTitle": "Intro Lit Hist 1"
+        },
+        {
+            "catalogTitle": "ENGL 4990",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ENGL 4991",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENGL 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ENGL 5050",
+            "section": "001",
+            "courseTitle": "Studies In Genre"
+        },
+        {
+            "catalogTitle": "ENGL 5630",
+            "section": "001",
+            "courseTitle": "Adv Sem British Studies"
+        },
+        {
+            "catalogTitle": "ENGL 5711",
+            "section": "001",
+            "courseTitle": "Shakespeare"
+        },
+        {
+            "catalogTitle": "ENGL 5960",
+            "section": "001",
+            "courseTitle": "Theories Pop Culture"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improv Comedy Acting"
+        },
+        {
+            "catalogTitle": "LLMT 406",
+            "section": "001",
+            "courseTitle": "Beginning Harmonica"
+        },
+        {
+            "catalogTitle": "LLMT 433",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "LLMT 456",
+            "section": "001",
+            "courseTitle": "Sundance 101"
+        }
+    ]
+}

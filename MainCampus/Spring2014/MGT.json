@@ -1,0 +1,404 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MGT 456",
+            "section": "001",
+            "courseTitle": "Small Business Mgt"
+        },
+        {
+            "catalogTitle": "MGT 1010",
+            "section": "001",
+            "courseTitle": "Entp and Society"
+        },
+        {
+            "catalogTitle": "MGT 1020",
+            "section": "001",
+            "courseTitle": "ENTP & Sci Method"
+        },
+        {
+            "catalogTitle": "MGT 3000",
+            "section": "001",
+            "courseTitle": "Princpl of Management"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "001",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "002",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3410",
+            "section": "003",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "001",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "002",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "003",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "004",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3800",
+            "section": "001",
+            "courseTitle": "Business Ethics"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "001",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "002",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "003",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "004",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "005",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "006",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "007",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "008",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "009",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "010",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "011",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 4560",
+            "section": "001",
+            "courseTitle": "Small Business Mgt"
+        },
+        {
+            "catalogTitle": "MGT 4900",
+            "section": "001",
+            "courseTitle": "Intntl Management"
+        },
+        {
+            "catalogTitle": "MGT 5000",
+            "section": "001",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 5000",
+            "section": "002",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 5000",
+            "section": "003",
+            "courseTitle": "Entrepreneurship"
+        },
+        {
+            "catalogTitle": "MGT 5510",
+            "section": "001",
+            "courseTitle": "Principles of HR"
+        },
+        {
+            "catalogTitle": "MGT 5520",
+            "section": "001",
+            "courseTitle": "HR 2: HR Development"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "001",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "002",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "003",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 5700",
+            "section": "070",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "MGT 5750",
+            "section": "001",
+            "courseTitle": "Profiles of Leadership"
+        },
+        {
+            "catalogTitle": "MGT 5770",
+            "section": "001",
+            "courseTitle": "Business Discovery"
+        },
+        {
+            "catalogTitle": "MGT 5810",
+            "section": "001",
+            "courseTitle": "Mang Div in Org"
+        },
+        {
+            "catalogTitle": "MGT 5850",
+            "section": "004",
+            "courseTitle": "Entrepreneurship and Poverty"
+        },
+        {
+            "catalogTitle": "MGT 5850",
+            "section": "005",
+            "courseTitle": "Bridges to Cntmp. Cog. Science"
+        },
+        {
+            "catalogTitle": "MGT 5860",
+            "section": "001",
+            "courseTitle": "Entrepreneur Studies"
+        },
+        {
+            "catalogTitle": "MGT 5880",
+            "section": "001",
+            "courseTitle": "Management Internship"
+        },
+        {
+            "catalogTitle": "MGT 5880",
+            "section": "002",
+            "courseTitle": "Management Internship"
+        },
+        {
+            "catalogTitle": "MGT 5880",
+            "section": "003",
+            "courseTitle": "Management Internship"
+        },
+        {
+            "catalogTitle": "MGT 5910",
+            "section": "001",
+            "courseTitle": "Special Study"
+        },
+        {
+            "catalogTitle": "MGT 5910",
+            "section": "002",
+            "courseTitle": "Orgztnl Behavior/Research Exp"
+        },
+        {
+            "catalogTitle": "MGT 5910",
+            "section": "003",
+            "courseTitle": "Special Study"
+        },
+        {
+            "catalogTitle": "MGT 6053",
+            "section": "001",
+            "courseTitle": "Adv Wrtg for Bus"
+        },
+        {
+            "catalogTitle": "MGT 6054",
+            "section": "001",
+            "courseTitle": "Adv Pub Spkg for Bus"
+        },
+        {
+            "catalogTitle": "MGT 6310",
+            "section": "001",
+            "courseTitle": "Business Law"
+        },
+        {
+            "catalogTitle": "MGT 6500",
+            "section": "001",
+            "courseTitle": "Managerial Negotiation"
+        },
+        {
+            "catalogTitle": "MGT 6500",
+            "section": "002",
+            "courseTitle": "Managerial Negotiation"
+        },
+        {
+            "catalogTitle": "MGT 6540",
+            "section": "001",
+            "courseTitle": "Business Ethics"
+        },
+        {
+            "catalogTitle": "MGT 6570",
+            "section": "001",
+            "courseTitle": "Power & Politics in Org"
+        },
+        {
+            "catalogTitle": "MGT 6710",
+            "section": "001",
+            "courseTitle": "Strategy & Technology"
+        },
+        {
+            "catalogTitle": "MGT 6790",
+            "section": "001",
+            "courseTitle": "International Mgt"
+        },
+        {
+            "catalogTitle": "MGT 6820",
+            "section": "001",
+            "courseTitle": "Venture Trends"
+        },
+        {
+            "catalogTitle": "MGT 6840",
+            "section": "001",
+            "courseTitle": "Venture Planning"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "002",
+            "courseTitle": "Profiles of Leadership"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "004",
+            "courseTitle": "Mng Diversity in Orgs"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "005",
+            "courseTitle": "Bridges to Cntmp. Cog. Science"
+        },
+        {
+            "catalogTitle": "MGT 6850",
+            "section": "084",
+            "courseTitle": "Entrepreneurship and Poverty"
+        },
+        {
+            "catalogTitle": "MGT 6860",
+            "section": "001",
+            "courseTitle": "Lassonde Venture"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "001",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "002",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "003",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "005",
+            "courseTitle": "Franchise Industry Models"
+        },
+        {
+            "catalogTitle": "MGT 6910",
+            "section": "007",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MGT 7620",
+            "section": "002",
+            "courseTitle": "Seminar in Strategy"
+        },
+        {
+            "catalogTitle": "MGT 7810",
+            "section": "001",
+            "courseTitle": "Organizational Behavior"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "001",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "002",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "003",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "004",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MGT 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

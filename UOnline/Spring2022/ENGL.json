@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGL 1200",
+            "section": "290",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "ENGL 2040",
+            "section": "290",
+            "courseTitle": "Contemporary Lit"
+        },
+        {
+            "catalogTitle": "ENGL 2085",
+            "section": "290",
+            "courseTitle": "Digital Culture"
+        },
+        {
+            "catalogTitle": "ENGL 2090",
+            "section": "290",
+            "courseTitle": "Video Game Storytelling"
+        },
+        {
+            "catalogTitle": "ENGL 2220",
+            "section": "290",
+            "courseTitle": "Novels And Films"
+        },
+        {
+            "catalogTitle": "ENGL 2235",
+            "section": "290",
+            "courseTitle": "Fantasy"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "290",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 3780",
+            "section": "290",
+            "courseTitle": "Global/Transnatnl Lit"
+        }
+    ]
+}

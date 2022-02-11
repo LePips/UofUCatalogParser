@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 3200",
+            "section": "001",
+            "courseTitle": "Exp Anim, Vid., and Web"
+        },
+        {
+            "catalogTitle": "FA 3700",
+            "section": "001",
+            "courseTitle": "Digtl Imag I-Photoshop"
+        },
+        {
+            "catalogTitle": "FA 3710",
+            "section": "001",
+            "courseTitle": "Beg. Film Making"
+        },
+        {
+            "catalogTitle": "FA 5900",
+            "section": "001",
+            "courseTitle": "Indep. Research Proj."
+        }
+    ]
+}

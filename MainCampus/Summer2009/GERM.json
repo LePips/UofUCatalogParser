@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GERM 101",
+            "section": "001",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 102",
+            "section": "001",
+            "courseTitle": "Beg German II"
+        },
+        {
+            "catalogTitle": "GERM 1010",
+            "section": "001",
+            "courseTitle": "Beg German I"
+        },
+        {
+            "catalogTitle": "GERM 1020",
+            "section": "001",
+            "courseTitle": "Beg German II"
+        }
+    ]
+}

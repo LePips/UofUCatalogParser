@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MDCRC 6000",
+            "section": "001",
+            "courseTitle": "Intro Biostatistics"
+        },
+        {
+            "catalogTitle": "MDCRC 6010",
+            "section": "001",
+            "courseTitle": "Intro Epidemiology"
+        },
+        {
+            "catalogTitle": "MDCRC 6020",
+            "section": "001",
+            "courseTitle": "Data Management"
+        },
+        {
+            "catalogTitle": "MDCRC 6030",
+            "section": "001",
+            "courseTitle": "Computer Practicum"
+        },
+        {
+            "catalogTitle": "MDCRC 6430",
+            "section": "001",
+            "courseTitle": "Clinical Research Ethics"
+        },
+        {
+            "catalogTitle": "MDCRC 6440",
+            "section": "001",
+            "courseTitle": "Medical Genetics"
+        }
+    ]
+}

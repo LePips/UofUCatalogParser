@@ -1,0 +1,289 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CVEEN 1000",
+            "section": "001",
+            "courseTitle": "Intr Civil Envirnm Engg"
+        },
+        {
+            "catalogTitle": "CVEEN 2010",
+            "section": "001",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "CVEEN 2140",
+            "section": "001",
+            "courseTitle": "Strength Of Materials"
+        },
+        {
+            "catalogTitle": "CVEEN 2300",
+            "section": "001",
+            "courseTitle": "Engineering Economics"
+        },
+        {
+            "catalogTitle": "CVEEN 2310",
+            "section": "001",
+            "courseTitle": "Probability/Statistics"
+        },
+        {
+            "catalogTitle": "CVEEN 3000",
+            "section": "001",
+            "courseTitle": "Junior Seminar"
+        },
+        {
+            "catalogTitle": "CVEEN 3100",
+            "section": "001",
+            "courseTitle": "Tech Comm for Engrs"
+        },
+        {
+            "catalogTitle": "CVEEN 3210",
+            "section": "001",
+            "courseTitle": "Struct Loads & Anal"
+        },
+        {
+            "catalogTitle": "CVEEN 3310",
+            "section": "001",
+            "courseTitle": "Geotechnical Engg I"
+        },
+        {
+            "catalogTitle": "CVEEN 3315",
+            "section": "002",
+            "courseTitle": "Geotechnical I Lab"
+        },
+        {
+            "catalogTitle": "CVEEN 3315",
+            "section": "003",
+            "courseTitle": "Geotechnical I Lab"
+        },
+        {
+            "catalogTitle": "CVEEN 3410",
+            "section": "001",
+            "courseTitle": "Hydraulics"
+        },
+        {
+            "catalogTitle": "CVEEN 3415",
+            "section": "001",
+            "courseTitle": "Hydraulics Lab"
+        },
+        {
+            "catalogTitle": "CVEEN 3415",
+            "section": "002",
+            "courseTitle": "Hydraulics Lab"
+        },
+        {
+            "catalogTitle": "CVEEN 3415",
+            "section": "003",
+            "courseTitle": "Hydraulics Lab"
+        },
+        {
+            "catalogTitle": "CVEEN 3510",
+            "section": "001",
+            "courseTitle": "Civil Engrg Matls"
+        },
+        {
+            "catalogTitle": "CVEEN 3510",
+            "section": "002",
+            "courseTitle": "Civil Engrg Matls"
+        },
+        {
+            "catalogTitle": "CVEEN 3510",
+            "section": "003",
+            "courseTitle": "Civil Engrg Matls"
+        },
+        {
+            "catalogTitle": "CVEEN 3520",
+            "section": "001",
+            "courseTitle": "Transportation Engrg"
+        },
+        {
+            "catalogTitle": "CVEEN 3610",
+            "section": "001",
+            "courseTitle": "Environmental Engg I"
+        },
+        {
+            "catalogTitle": "CVEEN 4000",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        },
+        {
+            "catalogTitle": "CVEEN 4221",
+            "section": "001",
+            "courseTitle": "Concrete Design I"
+        },
+        {
+            "catalogTitle": "CVEEN 4410",
+            "section": "001",
+            "courseTitle": "Hydrology"
+        },
+        {
+            "catalogTitle": "CVEEN 4910",
+            "section": "001",
+            "courseTitle": "Pro Pract. & Design"
+        },
+        {
+            "catalogTitle": "CVEEN 5110",
+            "section": "090",
+            "courseTitle": "GIS in Civil Engr."
+        },
+        {
+            "catalogTitle": "CVEEN 5230",
+            "section": "001",
+            "courseTitle": "Steel Design II"
+        },
+        {
+            "catalogTitle": "CVEEN 5240",
+            "section": "001",
+            "courseTitle": "Masonry/Timber Design"
+        },
+        {
+            "catalogTitle": "CVEEN 5305",
+            "section": "001",
+            "courseTitle": "Intro to Foundations"
+        },
+        {
+            "catalogTitle": "CVEEN 5570",
+            "section": "001",
+            "courseTitle": "Pavement Design"
+        },
+        {
+            "catalogTitle": "CVEEN 5605",
+            "section": "001",
+            "courseTitle": "Treatment Design"
+        },
+        {
+            "catalogTitle": "CVEEN 5610",
+            "section": "001",
+            "courseTitle": "Water Chem & Lab Anal"
+        },
+        {
+            "catalogTitle": "CVEEN 5610",
+            "section": "002",
+            "courseTitle": "Water Chem & Lab Anal"
+        },
+        {
+            "catalogTitle": "CVEEN 5810",
+            "section": "001",
+            "courseTitle": "Cost Est/Proposal Wrtg"
+        },
+        {
+            "catalogTitle": "CVEEN 5920",
+            "section": "001",
+            "courseTitle": "Env Sustainability Grad Sem"
+        },
+        {
+            "catalogTitle": "CVEEN 6110",
+            "section": "090",
+            "courseTitle": "GIS in Civil Engr"
+        },
+        {
+            "catalogTitle": "CVEEN 6230",
+            "section": "001",
+            "courseTitle": "Steel Design II"
+        },
+        {
+            "catalogTitle": "CVEEN 6240",
+            "section": "001",
+            "courseTitle": "Masonry/Timber Design"
+        },
+        {
+            "catalogTitle": "CVEEN 6250",
+            "section": "001",
+            "courseTitle": "Structural Dynamics"
+        },
+        {
+            "catalogTitle": "CVEEN 6410",
+            "section": "001",
+            "courseTitle": "Watershed Modeling"
+        },
+        {
+            "catalogTitle": "CVEEN 6570",
+            "section": "001",
+            "courseTitle": "Pavement Design"
+        },
+        {
+            "catalogTitle": "CVEEN 6605",
+            "section": "001",
+            "courseTitle": "Treatment Design"
+        },
+        {
+            "catalogTitle": "CVEEN 6610",
+            "section": "001",
+            "courseTitle": "Water Chem & Lab Anal"
+        },
+        {
+            "catalogTitle": "CVEEN 6610",
+            "section": "002",
+            "courseTitle": "Water Chem & Lab Anal"
+        },
+        {
+            "catalogTitle": "CVEEN 6810",
+            "section": "001",
+            "courseTitle": "Cost Est/Proposal Wrtg"
+        },
+        {
+            "catalogTitle": "CVEEN 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CVEEN 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CVEEN 7230",
+            "section": "001",
+            "courseTitle": "Adv Topic Steel Dsgn"
+        },
+        {
+            "catalogTitle": "CVEEN 7235",
+            "section": "001",
+            "courseTitle": "Bridge Design"
+        },
+        {
+            "catalogTitle": "CVEEN 7310",
+            "section": "001",
+            "courseTitle": "Adv Foundation Engg"
+        },
+        {
+            "catalogTitle": "CVEEN 7545",
+            "section": "001",
+            "courseTitle": "Transportation Modeling"
+        },
+        {
+            "catalogTitle": "CVEEN 7920",
+            "section": "001",
+            "courseTitle": "Hydroinformatics"
+        },
+        {
+            "catalogTitle": "CVEEN 7920",
+            "section": "002",
+            "courseTitle": "Statistics and Econometrics"
+        },
+        {
+            "catalogTitle": "CVEEN 7920",
+            "section": "003",
+            "courseTitle": "Environmental Processes"
+        },
+        {
+            "catalogTitle": "CVEEN 7920",
+            "section": "004",
+            "courseTitle": "Appld Cntnuum Mchncs Geosystms"
+        },
+        {
+            "catalogTitle": "CVEEN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph D"
+        },
+        {
+            "catalogTitle": "CVEEN 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CVEEN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

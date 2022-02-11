@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RDLGY 7060",
+            "section": "001",
+            "courseTitle": "Diagnostic Radiology"
+        },
+        {
+            "catalogTitle": "RDLGY 7061",
+            "section": "001",
+            "courseTitle": "Body Imaging Elective"
+        },
+        {
+            "catalogTitle": "RDLGY 7063",
+            "section": "001",
+            "courseTitle": "Musculoskeletal Radiology"
+        },
+        {
+            "catalogTitle": "RDLGY 7070",
+            "section": "001",
+            "courseTitle": "Radiology Research"
+        },
+        {
+            "catalogTitle": "RDLGY 7320",
+            "section": "001",
+            "courseTitle": "3 D Reconstruction Tech"
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YECU 30",
+            "section": "001",
+            "courseTitle": "Leaders In Training (L.I.T.)"
+        },
+        {
+            "catalogTitle": "YECU 701",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 1"
+        },
+        {
+            "catalogTitle": "YECU 701",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 1"
+        },
+        {
+            "catalogTitle": "YECU 701",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 1"
+        },
+        {
+            "catalogTitle": "YECU 702",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 2"
+        },
+        {
+            "catalogTitle": "YECU 702",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 2"
+        },
+        {
+            "catalogTitle": "YECU 702",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 2"
+        },
+        {
+            "catalogTitle": "YECU 703",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 3"
+        },
+        {
+            "catalogTitle": "YECU 703",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 3"
+        },
+        {
+            "catalogTitle": "YECU 703",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 3"
+        },
+        {
+            "catalogTitle": "YECU 704",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 4"
+        },
+        {
+            "catalogTitle": "YECU 704",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 4"
+        },
+        {
+            "catalogTitle": "YECU 704",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 4"
+        },
+        {
+            "catalogTitle": "YECU 705",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 5"
+        },
+        {
+            "catalogTitle": "YECU 705",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 5"
+        },
+        {
+            "catalogTitle": "YECU 705",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 5"
+        },
+        {
+            "catalogTitle": "YECU 706",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 6"
+        },
+        {
+            "catalogTitle": "YECU 706",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 6"
+        },
+        {
+            "catalogTitle": "YECU 706",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 6"
+        },
+        {
+            "catalogTitle": "YECU 707",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 7"
+        },
+        {
+            "catalogTitle": "YECU 707",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 7"
+        },
+        {
+            "catalogTitle": "YECU 707",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 7"
+        },
+        {
+            "catalogTitle": "YECU 708",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 8"
+        },
+        {
+            "catalogTitle": "YECU 708",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 8"
+        },
+        {
+            "catalogTitle": "YECU 708",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 8"
+        },
+        {
+            "catalogTitle": "YECU 709",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 9"
+        },
+        {
+            "catalogTitle": "YECU 709",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 9"
+        },
+        {
+            "catalogTitle": "YECU 709",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 9"
+        },
+        {
+            "catalogTitle": "YECU 710",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 10"
+        },
+        {
+            "catalogTitle": "YECU 710",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 10"
+        },
+        {
+            "catalogTitle": "YECU 710",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 10"
+        },
+        {
+            "catalogTitle": "YECU 711",
+            "section": "001",
+            "courseTitle": "Club U 2017 Week 11"
+        },
+        {
+            "catalogTitle": "YECU 711",
+            "section": "002",
+            "courseTitle": "Club U 2017 Week 11"
+        },
+        {
+            "catalogTitle": "YECU 711",
+            "section": "003",
+            "courseTitle": "Club U 2017 Week 11"
+        },
+        {
+            "catalogTitle": "YECU 721",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 1"
+        },
+        {
+            "catalogTitle": "YECU 722",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 2"
+        },
+        {
+            "catalogTitle": "YECU 723",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 3"
+        },
+        {
+            "catalogTitle": "YECU 724",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 4"
+        },
+        {
+            "catalogTitle": "YECU 725",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 5"
+        },
+        {
+            "catalogTitle": "YECU 726",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 6"
+        },
+        {
+            "catalogTitle": "YECU 727",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 7"
+        },
+        {
+            "catalogTitle": "YECU 728",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 8"
+        },
+        {
+            "catalogTitle": "YECU 729",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 9"
+        },
+        {
+            "catalogTitle": "YECU 730",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 10"
+        },
+        {
+            "catalogTitle": "YECU 731",
+            "section": "001",
+            "courseTitle": "Varsity 2017 Week 11"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "001",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "002",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "003",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "004",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "005",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "006",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "007",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "008",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "009",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "010",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 900",
+            "section": "011",
+            "courseTitle": "Two Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "001",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "002",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "003",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "004",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "005",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "006",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "007",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "008",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "009",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "010",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        },
+        {
+            "catalogTitle": "YECU 901",
+            "section": "011",
+            "courseTitle": "Five Day Lounge (Age 5-14)"
+        }
+    ]
+}

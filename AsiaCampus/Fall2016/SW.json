@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 1010",
+            "section": "301",
+            "courseTitle": "Soc Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 2300",
+            "section": "301",
+            "courseTitle": "Soc. Welfare Institution"
+        },
+        {
+            "catalogTitle": "SW 3000",
+            "section": "301",
+            "courseTitle": "Applied SW Statistics"
+        },
+        {
+            "catalogTitle": "SW 3200",
+            "section": "301",
+            "courseTitle": "HBSE II"
+        },
+        {
+            "catalogTitle": "SW 3601",
+            "section": "301",
+            "courseTitle": "SW Global Ethics"
+        },
+        {
+            "catalogTitle": "SW 3715",
+            "section": "301",
+            "courseTitle": "A&D Dyn of Addic I"
+        }
+    ]
+}

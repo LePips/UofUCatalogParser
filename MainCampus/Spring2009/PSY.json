@@ -1,0 +1,674 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSY 346",
+            "section": "020",
+            "courseTitle": "Health Psychology"
+        },
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "001",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "002",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "090",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 1220",
+            "section": "001",
+            "courseTitle": "Psy Infancy-Childhd NM"
+        },
+        {
+            "catalogTitle": "PSY 1220",
+            "section": "095",
+            "courseTitle": "Psy Infancy-Childhd NM"
+        },
+        {
+            "catalogTitle": "PSY 1220",
+            "section": "096",
+            "courseTitle": "Psy Infancy-Childhd NM"
+        },
+        {
+            "catalogTitle": "PSY 1220",
+            "section": "097",
+            "courseTitle": "Psy Infancy-Childhd NM"
+        },
+        {
+            "catalogTitle": "PSY 1220",
+            "section": "098",
+            "courseTitle": "Psy Infancy-Childhd NM"
+        },
+        {
+            "catalogTitle": "PSY 1220",
+            "section": "099",
+            "courseTitle": "Psy Infancy-Childhd NM"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "001",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "002",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "003",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "004",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "005",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "060",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "090",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "001",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "002",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "003",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "004",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "005",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "006",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "008",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "090",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "091",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3040",
+            "section": "001",
+            "courseTitle": "Psych Of Gender"
+        },
+        {
+            "catalogTitle": "PSY 3040",
+            "section": "002",
+            "courseTitle": "Psych Of Gender"
+        },
+        {
+            "catalogTitle": "PSY 3120",
+            "section": "090",
+            "courseTitle": "Cognitive Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3140",
+            "section": "001",
+            "courseTitle": "Cognitive Neuropsych"
+        },
+        {
+            "catalogTitle": "PSY 3140",
+            "section": "002",
+            "courseTitle": "Cognitive Neuropsych"
+        },
+        {
+            "catalogTitle": "PSY 3150",
+            "section": "001",
+            "courseTitle": "Sensation & Perception"
+        },
+        {
+            "catalogTitle": "PSY 3171",
+            "section": "001",
+            "courseTitle": "Human Factors & Ergon"
+        },
+        {
+            "catalogTitle": "PSY 3215",
+            "section": "001",
+            "courseTitle": "Infancy & Early Chldhd"
+        },
+        {
+            "catalogTitle": "PSY 3215",
+            "section": "090",
+            "courseTitle": "Infancy & Early Chldhd"
+        },
+        {
+            "catalogTitle": "PSY 3220",
+            "section": "001",
+            "courseTitle": "Chldhd/Adlscnt Develop"
+        },
+        {
+            "catalogTitle": "PSY 3220",
+            "section": "002",
+            "courseTitle": "Chldhd/Adlscnt Develop"
+        },
+        {
+            "catalogTitle": "PSY 3220",
+            "section": "020",
+            "courseTitle": "Chldhd/Adlscnt Develop"
+        },
+        {
+            "catalogTitle": "PSY 3250",
+            "section": "001",
+            "courseTitle": "Abnormal Child Psych"
+        },
+        {
+            "catalogTitle": "PSY 3250",
+            "section": "002",
+            "courseTitle": "Abnormal Child Psych"
+        },
+        {
+            "catalogTitle": "PSY 3260",
+            "section": "001",
+            "courseTitle": "Soc & Person Devel"
+        },
+        {
+            "catalogTitle": "PSY 3320",
+            "section": "001",
+            "courseTitle": "Surv Of Clinical Psych"
+        },
+        {
+            "catalogTitle": "PSY 3400",
+            "section": "001",
+            "courseTitle": "Abnormal Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3400",
+            "section": "060",
+            "courseTitle": "Abnormal Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3400",
+            "section": "095",
+            "courseTitle": "Abnormal Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3400",
+            "section": "096",
+            "courseTitle": "Abnormal Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3400",
+            "section": "097",
+            "courseTitle": "Abnormal Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3400",
+            "section": "098",
+            "courseTitle": "Abnormal Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3400",
+            "section": "099",
+            "courseTitle": "Abnormal Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3410",
+            "section": "001",
+            "courseTitle": "Social Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3410",
+            "section": "002",
+            "courseTitle": "Social Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3440",
+            "section": "001",
+            "courseTitle": "Personality Theory"
+        },
+        {
+            "catalogTitle": "PSY 3440",
+            "section": "002",
+            "courseTitle": "Personality Theory"
+        },
+        {
+            "catalogTitle": "PSY 3450",
+            "section": "090",
+            "courseTitle": "Cross Cultural Psych"
+        },
+        {
+            "catalogTitle": "PSY 3460",
+            "section": "001",
+            "courseTitle": "Health Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3460",
+            "section": "002",
+            "courseTitle": "Health Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3460",
+            "section": "020",
+            "courseTitle": "Health Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3620",
+            "section": "001",
+            "courseTitle": "Environment and Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3711",
+            "section": "001",
+            "courseTitle": "Brain And Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3711",
+            "section": "002",
+            "courseTitle": "Brain And Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3711",
+            "section": "060",
+            "courseTitle": "Brain And Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3900",
+            "section": "001",
+            "courseTitle": "Modes: Research"
+        },
+        {
+            "catalogTitle": "PSY 3901",
+            "section": "001",
+            "courseTitle": "Modes: Technology"
+        },
+        {
+            "catalogTitle": "PSY 3902",
+            "section": "001",
+            "courseTitle": "Modes: Everyday Psych"
+        },
+        {
+            "catalogTitle": "PSY 3902",
+            "section": "002",
+            "courseTitle": "Modes: Everyday Psych"
+        },
+        {
+            "catalogTitle": "PSY 3903",
+            "section": "001",
+            "courseTitle": "Modes: Collab Learning"
+        },
+        {
+            "catalogTitle": "PSY 3903",
+            "section": "002",
+            "courseTitle": "Modes: Collab Learning"
+        },
+        {
+            "catalogTitle": "PSY 3903",
+            "section": "003",
+            "courseTitle": "Modes: Collab Learning"
+        },
+        {
+            "catalogTitle": "PSY 3904",
+            "section": "001",
+            "courseTitle": "Modes: Service Learning"
+        },
+        {
+            "catalogTitle": "PSY 3904",
+            "section": "002",
+            "courseTitle": "Modes: Service Learning"
+        },
+        {
+            "catalogTitle": "PSY 3905",
+            "section": "001",
+            "courseTitle": "Modes: Writing/Comm"
+        },
+        {
+            "catalogTitle": "PSY 3905",
+            "section": "002",
+            "courseTitle": "Modes: Writing/Comm"
+        },
+        {
+            "catalogTitle": "PSY 3905",
+            "section": "003",
+            "courseTitle": "Modes: Writing/Comm"
+        },
+        {
+            "catalogTitle": "PSY 3960",
+            "section": "001",
+            "courseTitle": "Coping Chrnc Illness & Disabil"
+        },
+        {
+            "catalogTitle": "PSY 3960",
+            "section": "002",
+            "courseTitle": "Turning Pnts in People's Lives"
+        },
+        {
+            "catalogTitle": "PSY 4130",
+            "section": "001",
+            "courseTitle": "Cognition in the Wild"
+        },
+        {
+            "catalogTitle": "PSY 4230",
+            "section": "001",
+            "courseTitle": "Conflict  & Reconcillation"
+        },
+        {
+            "catalogTitle": "PSY 4410",
+            "section": "001",
+            "courseTitle": "Adv Pers & Social Psych"
+        },
+        {
+            "catalogTitle": "PSY 4800",
+            "section": "001",
+            "courseTitle": "Res Experience/General"
+        },
+        {
+            "catalogTitle": "PSY 4802",
+            "section": "001",
+            "courseTitle": "Res Experience/Cognitiv"
+        },
+        {
+            "catalogTitle": "PSY 4802",
+            "section": "006",
+            "courseTitle": "Res Experience/Cognitiv"
+        },
+        {
+            "catalogTitle": "PSY 4803",
+            "section": "001",
+            "courseTitle": "Res Experience/Neurosci"
+        },
+        {
+            "catalogTitle": "PSY 4804",
+            "section": "001",
+            "courseTitle": "Res Experience/Clinical"
+        },
+        {
+            "catalogTitle": "PSY 4804",
+            "section": "013",
+            "courseTitle": "Res Experience/Clinical"
+        },
+        {
+            "catalogTitle": "PSY 4805",
+            "section": "001",
+            "courseTitle": "Res Experience/Devlmntl"
+        },
+        {
+            "catalogTitle": "PSY 4810",
+            "section": "079",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "PSY 4900",
+            "section": "001",
+            "courseTitle": "Presenior Thesis"
+        },
+        {
+            "catalogTitle": "PSY 4902",
+            "section": "001",
+            "courseTitle": "Senior Thesis Presntatn"
+        },
+        {
+            "catalogTitle": "PSY 4910",
+            "section": "004",
+            "courseTitle": "Tchg Experience"
+        },
+        {
+            "catalogTitle": "PSY 4950",
+            "section": "001",
+            "courseTitle": "Indep Research"
+        },
+        {
+            "catalogTitle": "PSY 4951",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "PSY 4951",
+            "section": "006",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "PSY 4960",
+            "section": "001",
+            "courseTitle": "Apprch 2 Fighting HIV/AIDS Epd"
+        },
+        {
+            "catalogTitle": "PSY 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "PSY 5220",
+            "section": "001",
+            "courseTitle": "Cognitive Development"
+        },
+        {
+            "catalogTitle": "PSY 5330",
+            "section": "001",
+            "courseTitle": "Psychopathology I"
+        },
+        {
+            "catalogTitle": "PSY 5392",
+            "section": "001",
+            "courseTitle": "Therapy  Survey"
+        },
+        {
+            "catalogTitle": "PSY 5510",
+            "section": "001",
+            "courseTitle": "Quantitative Methds II"
+        },
+        {
+            "catalogTitle": "PSY 5950",
+            "section": "002",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "PSY 5951",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "PSY 6100",
+            "section": "001",
+            "courseTitle": "Teaching Practicum"
+        },
+        {
+            "catalogTitle": "PSY 6130",
+            "section": "001",
+            "courseTitle": "Cns Research Group"
+        },
+        {
+            "catalogTitle": "PSY 6220",
+            "section": "001",
+            "courseTitle": "Cognitive Development"
+        },
+        {
+            "catalogTitle": "PSY 6290",
+            "section": "001",
+            "courseTitle": "Dev/CCF Brown Bag"
+        },
+        {
+            "catalogTitle": "PSY 6330",
+            "section": "001",
+            "courseTitle": "Psychopathology I"
+        },
+        {
+            "catalogTitle": "PSY 6392",
+            "section": "001",
+            "courseTitle": "Therapy  Survey"
+        },
+        {
+            "catalogTitle": "PSY 6420",
+            "section": "001",
+            "courseTitle": "Meth-Social Psychology"
+        },
+        {
+            "catalogTitle": "PSY 6510",
+            "section": "001",
+            "courseTitle": "Quantitative Methds II"
+        },
+        {
+            "catalogTitle": "PSY 6510",
+            "section": "002",
+            "courseTitle": "Quantitative Methds II"
+        },
+        {
+            "catalogTitle": "PSY 6612",
+            "section": "001",
+            "courseTitle": "Clinical Assessment II"
+        },
+        {
+            "catalogTitle": "PSY 6614",
+            "section": "001",
+            "courseTitle": "Assessment IV"
+        },
+        {
+            "catalogTitle": "PSY 6614",
+            "section": "002",
+            "courseTitle": "Assessment IV"
+        },
+        {
+            "catalogTitle": "PSY 6890",
+            "section": "001",
+            "courseTitle": "Soc Psy Res Group"
+        },
+        {
+            "catalogTitle": "PSY 6891",
+            "section": "001",
+            "courseTitle": "Clin Psy Res Group"
+        },
+        {
+            "catalogTitle": "PSY 6910",
+            "section": "001",
+            "courseTitle": "Clin Psych Clerkship"
+        },
+        {
+            "catalogTitle": "PSY 6950",
+            "section": "001",
+            "courseTitle": "Indiv Research Projects"
+        },
+        {
+            "catalogTitle": "PSY 6950",
+            "section": "003",
+            "courseTitle": "Indiv Research Projects"
+        },
+        {
+            "catalogTitle": "PSY 6951",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "PSY 6951",
+            "section": "008",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "PSY 6961",
+            "section": "004",
+            "courseTitle": "Pract/Clin Psych (P)"
+        },
+        {
+            "catalogTitle": "PSY 6961",
+            "section": "011",
+            "courseTitle": "Pract/Clin Psych (P)"
+        },
+        {
+            "catalogTitle": "PSY 6961",
+            "section": "012",
+            "courseTitle": "Pract/Clin Psych (P)"
+        },
+        {
+            "catalogTitle": "PSY 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "PSY 7350",
+            "section": "001",
+            "courseTitle": "Prac of Clinical Psych"
+        },
+        {
+            "catalogTitle": "PSY 7508",
+            "section": "001",
+            "courseTitle": "Hist-Systems/Psychology"
+        },
+        {
+            "catalogTitle": "PSY 7850",
+            "section": "001",
+            "courseTitle": "Consultation and Supervision"
+        },
+        {
+            "catalogTitle": "PSY 7850",
+            "section": "002",
+            "courseTitle": "Consultation and Supervision"
+        },
+        {
+            "catalogTitle": "PSY 7930",
+            "section": "001",
+            "courseTitle": "Internship-Clinical"
+        },
+        {
+            "catalogTitle": "PSY 7966",
+            "section": "001",
+            "courseTitle": "Philosophical, Conceptual, Eth"
+        },
+        {
+            "catalogTitle": "PSY 7966",
+            "section": "002",
+            "courseTitle": "fMRI of Cognition"
+        },
+        {
+            "catalogTitle": "PSY 7968",
+            "section": "002",
+            "courseTitle": "SASB Coding"
+        },
+        {
+            "catalogTitle": "PSY 7968",
+            "section": "101",
+            "courseTitle": "Minority Mental Health"
+        },
+        {
+            "catalogTitle": "PSY 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PSY 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

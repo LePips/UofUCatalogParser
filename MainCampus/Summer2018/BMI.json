@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "BMI 6950",
+            "section": "003",
+            "courseTitle": "Clinical Database Design"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 6975",
+            "section": "001",
+            "courseTitle": "Non-Thesis Caps Proj MS"
+        },
+        {
+            "catalogTitle": "BMI 7051",
+            "section": "001",
+            "courseTitle": "Data Science I"
+        },
+        {
+            "catalogTitle": "BMI 7051",
+            "section": "002",
+            "courseTitle": "Data Science I"
+        },
+        {
+            "catalogTitle": "BMI 7052",
+            "section": "001",
+            "courseTitle": "Data Science II"
+        },
+        {
+            "catalogTitle": "BMI 7052",
+            "section": "002",
+            "courseTitle": "Data Science II"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "001",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7902",
+            "section": "002",
+            "courseTitle": "BMI Practicum"
+        },
+        {
+            "catalogTitle": "BMI 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research - Ph.D."
+        },
+        {
+            "catalogTitle": "BMI 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration - PhD"
+        }
+    ]
+}

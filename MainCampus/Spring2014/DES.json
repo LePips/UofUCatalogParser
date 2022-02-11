@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DES 1630",
+            "section": "001",
+            "courseTitle": "ComMod 1"
+        },
+        {
+            "catalogTitle": "DES 1631",
+            "section": "001",
+            "courseTitle": "ComMod 2"
+        },
+        {
+            "catalogTitle": "DES 2615",
+            "section": "001",
+            "courseTitle": "Intro Design Thinking"
+        },
+        {
+            "catalogTitle": "DES 3000",
+            "section": "001",
+            "courseTitle": "Comm III"
+        },
+        {
+            "catalogTitle": "DES 3010",
+            "section": "001",
+            "courseTitle": "Comm IV"
+        },
+        {
+            "catalogTitle": "DES 3600",
+            "section": "001",
+            "courseTitle": "Design Studio"
+        },
+        {
+            "catalogTitle": "DES 3611",
+            "section": "001",
+            "courseTitle": "Design Studio II"
+        },
+        {
+            "catalogTitle": "DES 3710",
+            "section": "001",
+            "courseTitle": "Product Design & Deve"
+        },
+        {
+            "catalogTitle": "DES 4010",
+            "section": "001",
+            "courseTitle": "Capstone Studio Minor"
+        },
+        {
+            "catalogTitle": "DES 4955",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "DES 4956",
+            "section": "001",
+            "courseTitle": "Indep Capstone Pro"
+        },
+        {
+            "catalogTitle": "DES 5710",
+            "section": "001",
+            "courseTitle": "Product Design & Deve"
+        }
+    ]
+}

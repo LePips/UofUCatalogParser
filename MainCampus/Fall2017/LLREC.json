@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "001",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "002",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 902",
+            "section": "001",
+            "courseTitle": "Tenkara"
+        },
+        {
+            "catalogTitle": "LLREC 903",
+            "section": "001",
+            "courseTitle": "Bikepacking"
+        },
+        {
+            "catalogTitle": "LLREC 905",
+            "section": "001",
+            "courseTitle": "Beginning/Intermediate Squash"
+        }
+    ]
+}

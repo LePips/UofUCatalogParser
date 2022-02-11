@@ -1,0 +1,289 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "001",
+            "courseTitle": "Intro Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "002",
+            "courseTitle": "Intro Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2600",
+            "section": "003",
+            "courseTitle": "Intro Financial Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "001",
+            "courseTitle": "Intro to Managerial Acct"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "002",
+            "courseTitle": "Intro to Managerial Acct"
+        },
+        {
+            "catalogTitle": "ACCTG 2610",
+            "section": "003",
+            "courseTitle": "Intro to Managerial Acct"
+        },
+        {
+            "catalogTitle": "ACCTG 3000",
+            "section": "001",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 3000",
+            "section": "002",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 3000",
+            "section": "003",
+            "courseTitle": "Accounting Fundamentals"
+        },
+        {
+            "catalogTitle": "ACCTG 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "001",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5110",
+            "section": "002",
+            "courseTitle": "Fin Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "001",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5120",
+            "section": "002",
+            "courseTitle": "Fin Accounting II"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "001",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5130",
+            "section": "002",
+            "courseTitle": "Fin Accounting III"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "001",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5210",
+            "section": "002",
+            "courseTitle": "Management Accounting I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "001",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5310",
+            "section": "002",
+            "courseTitle": "Taxation I"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "001",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5410",
+            "section": "002",
+            "courseTitle": "Accounting Information System"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "001",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 5510",
+            "section": "002",
+            "courseTitle": "Accounting Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 5620",
+            "section": "001",
+            "courseTitle": "FS Analysis"
+        },
+        {
+            "catalogTitle": "ACCTG 6102",
+            "section": "011",
+            "courseTitle": "Financial Reporting"
+        },
+        {
+            "catalogTitle": "ACCTG 6320",
+            "section": "001",
+            "courseTitle": "Adv Corporate Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6330",
+            "section": "001",
+            "courseTitle": "Corporate Reorg Taxatn"
+        },
+        {
+            "catalogTitle": "ACCTG 6340",
+            "section": "001",
+            "courseTitle": "Estate/Gift Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6520",
+            "section": "001",
+            "courseTitle": "Computer Security"
+        },
+        {
+            "catalogTitle": "ACCTG 6620",
+            "section": "001",
+            "courseTitle": "FS Analysis"
+        },
+        {
+            "catalogTitle": "ACCTG 6620",
+            "section": "002",
+            "courseTitle": "FS Analysis"
+        },
+        {
+            "catalogTitle": "ACCTG 6810",
+            "section": "001",
+            "courseTitle": "Accounting Integration"
+        },
+        {
+            "catalogTitle": "ACCTG 6810",
+            "section": "002",
+            "courseTitle": "Accounting Integration"
+        },
+        {
+            "catalogTitle": "ACCTG 6820",
+            "section": "001",
+            "courseTitle": "Business/Tax Strategies"
+        },
+        {
+            "catalogTitle": "ACCTG 6820",
+            "section": "002",
+            "courseTitle": "Business/Tax Strategies"
+        },
+        {
+            "catalogTitle": "ACCTG 6830",
+            "section": "001",
+            "courseTitle": "Interntl Accounting"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "001",
+            "courseTitle": "Financial Acctg I"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "002",
+            "courseTitle": "Financial Acctg I"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "003",
+            "courseTitle": "Financial Acctg II"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "004",
+            "courseTitle": "Financial Acctg II"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "005",
+            "courseTitle": "Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "006",
+            "courseTitle": "Taxation"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "007",
+            "courseTitle": "Acctg Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "008",
+            "courseTitle": "Acctg Auditing"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "009",
+            "courseTitle": "Financial Acctg III"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "010",
+            "courseTitle": "Field Study"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "011",
+            "courseTitle": "Ss-Masters"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "013",
+            "courseTitle": "Ss-Masters"
+        },
+        {
+            "catalogTitle": "ACCTG 6910",
+            "section": "014",
+            "courseTitle": "Ss-Masters"
+        },
+        {
+            "catalogTitle": "ACCTG 7000",
+            "section": "001",
+            "courseTitle": "AIS Seminar"
+        },
+        {
+            "catalogTitle": "ACCTG 7110",
+            "section": "001",
+            "courseTitle": "Fin Acctg Research I"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "001",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7910",
+            "section": "004",
+            "courseTitle": "Special Studies-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "ACCTG 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

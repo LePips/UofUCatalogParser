@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "001",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "002",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5201",
+            "section": "090",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 5375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 5940",
+            "section": "001",
+            "courseTitle": "ESL Field Practicum"
+        },
+        {
+            "catalogTitle": "EDU 5950",
+            "section": "001",
+            "courseTitle": "Ind Reading/Resrch R&L"
+        },
+        {
+            "catalogTitle": "EDU 5950",
+            "section": "002",
+            "courseTitle": "Ind Reading/Resrch R&L"
+        },
+        {
+            "catalogTitle": "EDU 6375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 6950",
+            "section": "001",
+            "courseTitle": "Multicultural Science Ed"
+        },
+        {
+            "catalogTitle": "EDU 6950",
+            "section": "002",
+            "courseTitle": "ESL Field Practicum"
+        }
+    ]
+}

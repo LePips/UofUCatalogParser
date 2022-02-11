@@ -1,3 +1,34 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MID E 1000",
+            "section": "090",
+            "courseTitle": "Intro to Middle East"
+        },
+        {
+            "catalogTitle": "MID E 2910",
+            "section": "001",
+            "courseTitle": "Ed and Rel Late Antq M.E."
+        },
+        {
+            "catalogTitle": "MID E 3540",
+            "section": "001",
+            "courseTitle": "Middle East Since 1914"
+        },
+        {
+            "catalogTitle": "MID E 3880",
+            "section": "090",
+            "courseTitle": "Religion & Fashion in Mid East"
+        },
+        {
+            "catalogTitle": "MID E 4880",
+            "section": "090",
+            "courseTitle": "Enviro Issues in Africa & Asia"
+        },
+        {
+            "catalogTitle": "MID E 6880",
+            "section": "090",
+            "courseTitle": "Enviro Issues in Africa & Asia"
+        }
+    ]
 }

@@ -1,3 +1,244 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "OC TH 3000",
+            "section": "001",
+            "courseTitle": "Intro to Occup Therapy"
+        },
+        {
+            "catalogTitle": "OC TH 5030",
+            "section": "001",
+            "courseTitle": "The Body"
+        },
+        {
+            "catalogTitle": "OC TH 5030",
+            "section": "002",
+            "courseTitle": "The Body"
+        },
+        {
+            "catalogTitle": "OC TH 5060",
+            "section": "001",
+            "courseTitle": "Conditions"
+        },
+        {
+            "catalogTitle": "OC TH 6010",
+            "section": "001",
+            "courseTitle": "Hx & Found of Occ Prac"
+        },
+        {
+            "catalogTitle": "OC TH 6040",
+            "section": "001",
+            "courseTitle": "Creative Occupations"
+        },
+        {
+            "catalogTitle": "OC TH 6120",
+            "section": "001",
+            "courseTitle": "OT Pediatrics"
+        },
+        {
+            "catalogTitle": "OC TH 6140",
+            "section": "001",
+            "courseTitle": "Occup & Prac-Skills I"
+        },
+        {
+            "catalogTitle": "OC TH 6160",
+            "section": "001",
+            "courseTitle": "Occup & Pract-Eval I"
+        },
+        {
+            "catalogTitle": "OC TH 6400",
+            "section": "001",
+            "courseTitle": "Clinical Intern Sem-I"
+        },
+        {
+            "catalogTitle": "OC TH 6440",
+            "section": "001",
+            "courseTitle": "Clinical Internship-II"
+        },
+        {
+            "catalogTitle": "OC TH 6460",
+            "section": "001",
+            "courseTitle": "Clinical Internship-III"
+        },
+        {
+            "catalogTitle": "OC TH 6820",
+            "section": "001",
+            "courseTitle": "Professional Seminar II"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "008",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "010",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "001",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "002",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "003",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "005",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "006",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "007",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "008",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "009",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6980",
+            "section": "010",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 7132",
+            "section": "090",
+            "courseTitle": "Teaching in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7152",
+            "section": "090",
+            "courseTitle": "Culture and Occupation"
+        },
+        {
+            "catalogTitle": "OC TH 7352",
+            "section": "090",
+            "courseTitle": "Pract & Research II"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "091",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "092",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "093",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "095",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "097",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7902",
+            "section": "099",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "090",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "091",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "093",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "094",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "095",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "096",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "097",
+            "courseTitle": "Capstone in OT"
+        },
+        {
+            "catalogTitle": "OC TH 7972",
+            "section": "098",
+            "courseTitle": "Capstone in OT"
+        }
+    ]
 }

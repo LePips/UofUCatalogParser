@@ -1,0 +1,344 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EAE 1400",
+            "section": "001",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "EAE 1400",
+            "section": "002",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "EAE 1400",
+            "section": "003",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "EAE 1400",
+            "section": "004",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "EAE 1400",
+            "section": "005",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "EAE 1400",
+            "section": "006",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "EAE 1400",
+            "section": "007",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "EAE 1400",
+            "section": "008",
+            "courseTitle": "Introduction to CS"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "001",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "002",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "004",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "005",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "006",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 1410",
+            "section": "007",
+            "courseTitle": "Int Objct-Oriented Prog"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "001",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "002",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "004",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "005",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "006",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 2420",
+            "section": "007",
+            "courseTitle": "Intro Algorithms & Data"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "001",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "002",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "003",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3605",
+            "section": "001",
+            "courseTitle": "Adv. 3D Character Prod."
+        },
+        {
+            "catalogTitle": "EAE 3640",
+            "section": "001",
+            "courseTitle": "Digital Fig. Sculpting"
+        },
+        {
+            "catalogTitle": "EAE 3660",
+            "section": "001",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "EAE 3660",
+            "section": "002",
+            "courseTitle": "Interactive Machinima"
+        },
+        {
+            "catalogTitle": "EAE 4510",
+            "section": "001",
+            "courseTitle": "Senior Project II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "001",
+            "courseTitle": "Texturing for 3D"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "004",
+            "courseTitle": "Concept Art for Games"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "005",
+            "courseTitle": "Programming Sound Eff & Music"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "011",
+            "courseTitle": "Texturing for 3D II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "012",
+            "courseTitle": "Adv. 3D Character Prod. II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "013",
+            "courseTitle": "Digital Fig Sculpting II"
+        },
+        {
+            "catalogTitle": "EAE 4900",
+            "section": "014",
+            "courseTitle": "Concept Art for Games II"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 4950",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6010",
+            "section": "001",
+            "courseTitle": "Game Design II"
+        },
+        {
+            "catalogTitle": "EAE 6110",
+            "section": "001",
+            "courseTitle": "Game Projects I"
+        },
+        {
+            "catalogTitle": "EAE 6130",
+            "section": "001",
+            "courseTitle": "Game Projects III"
+        },
+        {
+            "catalogTitle": "EAE 6210",
+            "section": "001",
+            "courseTitle": "Game Arts II"
+        },
+        {
+            "catalogTitle": "EAE 6230",
+            "section": "001",
+            "courseTitle": "Game Arts IV"
+        },
+        {
+            "catalogTitle": "EAE 6310",
+            "section": "001",
+            "courseTitle": "Game Engineering I"
+        },
+        {
+            "catalogTitle": "EAE 6330",
+            "section": "001",
+            "courseTitle": "Game Engineering III"
+        },
+        {
+            "catalogTitle": "EAE 6410",
+            "section": "001",
+            "courseTitle": "Game Production II"
+        },
+        {
+            "catalogTitle": "EAE 6500",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "EAE 6600",
+            "section": "001",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 6605",
+            "section": "001",
+            "courseTitle": "Adv. 3D Character Prod."
+        },
+        {
+            "catalogTitle": "EAE 6640",
+            "section": "001",
+            "courseTitle": "Digital Fig. Sculpting"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "001",
+            "courseTitle": "Texturing for 3D"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "003",
+            "courseTitle": "Scripting for Artists"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "005",
+            "courseTitle": "Paper Prototyping"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "006",
+            "courseTitle": "Narrative in Game Design"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "007",
+            "courseTitle": "Technical Art II"
+        },
+        {
+            "catalogTitle": "EAE 6900",
+            "section": "008",
+            "courseTitle": "Ethics in Games"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "006",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6950",
+            "section": "007",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EAE 6970",
+            "section": "001",
+            "courseTitle": "Master's Thesis Researc"
+        }
+    ]
+}

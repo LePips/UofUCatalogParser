@@ -1,0 +1,394 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "002",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 3200",
+            "section": "001",
+            "courseTitle": "Ling And Education"
+        },
+        {
+            "catalogTitle": "LING 3470",
+            "section": "001",
+            "courseTitle": "Language & Culture"
+        },
+        {
+            "catalogTitle": "LING 3510",
+            "section": "001",
+            "courseTitle": "Grammar and Stylistics"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "001",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 3700",
+            "section": "001",
+            "courseTitle": "Writing In Disciplines"
+        },
+        {
+            "catalogTitle": "LING 3900",
+            "section": "001",
+            "courseTitle": "Senior Capstone"
+        },
+        {
+            "catalogTitle": "LING 3950",
+            "section": "001",
+            "courseTitle": "Service Learning"
+        },
+        {
+            "catalogTitle": "LING 4011",
+            "section": "001",
+            "courseTitle": "Intermediate Phonology"
+        },
+        {
+            "catalogTitle": "LING 4021",
+            "section": "001",
+            "courseTitle": "Intermediate Syntax"
+        },
+        {
+            "catalogTitle": "LING 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "LING 5042",
+            "section": "001",
+            "courseTitle": "Minority Lang Issues Ed"
+        },
+        {
+            "catalogTitle": "LING 5170",
+            "section": "001",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LING 5210",
+            "section": "001",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "LING 5233",
+            "section": "001",
+            "courseTitle": "Pedagogical Struct Engl"
+        },
+        {
+            "catalogTitle": "LING 5251",
+            "section": "001",
+            "courseTitle": "History of French"
+        },
+        {
+            "catalogTitle": "LING 5812",
+            "section": "001",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 5813",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "008",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "009",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "010",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "011",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "012",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "013",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "014",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "015",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "016",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "017",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "018",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "019",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "030",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "034",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5943",
+            "section": "036",
+            "courseTitle": "Wrkshp in Content-Based"
+        },
+        {
+            "catalogTitle": "LING 5944",
+            "section": "008",
+            "courseTitle": "Wrkshp Practicum"
+        },
+        {
+            "catalogTitle": "LING 5944",
+            "section": "009",
+            "courseTitle": "Wrkshp Practicum"
+        },
+        {
+            "catalogTitle": "LING 5944",
+            "section": "010",
+            "courseTitle": "Wrkshp Practicum"
+        },
+        {
+            "catalogTitle": "LING 5944",
+            "section": "013",
+            "courseTitle": "Wrkshp Practicum"
+        },
+        {
+            "catalogTitle": "LING 5944",
+            "section": "014",
+            "courseTitle": "Wrkshp Practicum"
+        },
+        {
+            "catalogTitle": "LING 5944",
+            "section": "034",
+            "courseTitle": "Wrkshp Practicum"
+        },
+        {
+            "catalogTitle": "LING 5981",
+            "section": "001",
+            "courseTitle": "Language and the Brain"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "001",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 6011",
+            "section": "001",
+            "courseTitle": "Intermediate Phonology"
+        },
+        {
+            "catalogTitle": "LING 6021",
+            "section": "001",
+            "courseTitle": "Intermediate Syntax"
+        },
+        {
+            "catalogTitle": "LING 6042",
+            "section": "001",
+            "courseTitle": "Minority Lang Issues Ed"
+        },
+        {
+            "catalogTitle": "LING 6077",
+            "section": "001",
+            "courseTitle": "Discourse Analysis"
+        },
+        {
+            "catalogTitle": "LING 6080",
+            "section": "001",
+            "courseTitle": "Language and the Brain"
+        },
+        {
+            "catalogTitle": "LING 6170",
+            "section": "001",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LING 6233",
+            "section": "001",
+            "courseTitle": "Pedag Structure of Engl"
+        },
+        {
+            "catalogTitle": "LING 6251",
+            "section": "001",
+            "courseTitle": "History of French"
+        },
+        {
+            "catalogTitle": "LING 6800",
+            "section": "001",
+            "courseTitle": "Ling Teach Practicum"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "001",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "008",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "009",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "010",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "011",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "012",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "014",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "015",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "016",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "017",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "018",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "019",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "032",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "034",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "036",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6813",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6813",
+            "section": "008",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6813",
+            "section": "009",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6813",
+            "section": "014",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6813",
+            "section": "016",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6813",
+            "section": "017",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6816",
+            "section": "001",
+            "courseTitle": "Instruc Design & MatDev"
+        },
+        {
+            "catalogTitle": "LING 6819",
+            "section": "001",
+            "courseTitle": "ESL TA Colloquium"
+        },
+        {
+            "catalogTitle": "LING 6819",
+            "section": "002",
+            "courseTitle": "Topics In L2 Pedagogy"
+        },
+        {
+            "catalogTitle": "LING 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

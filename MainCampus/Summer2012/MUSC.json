@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MUSC 110",
+            "section": "090",
+            "courseTitle": "Elements in Music"
+        },
+        {
+            "catalogTitle": "MUSC 146",
+            "section": "090",
+            "courseTitle": "Intro to Music Theory"
+        },
+        {
+            "catalogTitle": "MUSC 210",
+            "section": "001",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 303",
+            "section": "001",
+            "courseTitle": "Beg Classical Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 360",
+            "section": "001",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "090",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "001",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1460",
+            "section": "090",
+            "courseTitle": "Intro to Music Theory"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "001",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 3003",
+            "section": "001",
+            "courseTitle": "Begin Classic Guitar"
+        },
+        {
+            "catalogTitle": "MUSC 3600",
+            "section": "001",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 4640",
+            "section": "001",
+            "courseTitle": "Music Lit: Romantic"
+        },
+        {
+            "catalogTitle": "MUSC 6640",
+            "section": "001",
+            "courseTitle": "Mus Lit Romantic Master"
+        },
+        {
+            "catalogTitle": "MUSC 6790",
+            "section": "001",
+            "courseTitle": "Educating the Imagination"
+        },
+        {
+            "catalogTitle": "MUSC 6790",
+            "section": "002",
+            "courseTitle": "Music & Early Childhood"
+        },
+        {
+            "catalogTitle": "MUSC 6790",
+            "section": "003",
+            "courseTitle": "Music Education Seminar"
+        },
+        {
+            "catalogTitle": "MUSC 7710",
+            "section": "001",
+            "courseTitle": "Doc Sem Music Education"
+        },
+        {
+            "catalogTitle": "MUSC 7710",
+            "section": "002",
+            "courseTitle": "Doc Sem Music Education"
+        },
+        {
+            "catalogTitle": "MUSC 7910",
+            "section": "004",
+            "courseTitle": "Individual Research"
+        }
+    ]
+}

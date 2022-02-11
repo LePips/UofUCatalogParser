@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLLAN 350",
+            "section": "001",
+            "courseTitle": "Conversational French I"
+        },
+        {
+            "catalogTitle": "LLLAN 353",
+            "section": "001",
+            "courseTitle": "French for Travelers"
+        },
+        {
+            "catalogTitle": "LLLAN 354",
+            "section": "001",
+            "courseTitle": "Conversational Spanish I"
+        },
+        {
+            "catalogTitle": "LLLAN 362",
+            "section": "001",
+            "courseTitle": "Conv Italian I"
+        },
+        {
+            "catalogTitle": "LLLAN 424",
+            "section": "001",
+            "courseTitle": "Condensed Spanish I"
+        }
+    ]
+}

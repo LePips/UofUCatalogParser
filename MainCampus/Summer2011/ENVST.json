@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENVST 1000",
+            "section": "001",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "ENVST 1000",
+            "section": "090",
+            "courseTitle": "Earth Environments"
+        },
+        {
+            "catalogTitle": "ENVST 3350",
+            "section": "001",
+            "courseTitle": "Resource Consrv/Env Mgt"
+        },
+        {
+            "catalogTitle": "ENVST 3360",
+            "section": "001",
+            "courseTitle": "Ocean Environments"
+        },
+        {
+            "catalogTitle": "ENVST 3380",
+            "section": "001",
+            "courseTitle": "Wilderness Issues & Mgt"
+        },
+        {
+            "catalogTitle": "ENVST 3480",
+            "section": "090",
+            "courseTitle": "Environmental Sociology"
+        },
+        {
+            "catalogTitle": "ENVST 3960",
+            "section": "001",
+            "courseTitle": "Organic Gardening"
+        },
+        {
+            "catalogTitle": "ENVST 3960",
+            "section": "002",
+            "courseTitle": "Organic Gardening"
+        },
+        {
+            "catalogTitle": "ENVST 4800",
+            "section": "001",
+            "courseTitle": "Internship: Env & Sust"
+        },
+        {
+            "catalogTitle": "ENVST 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ENVST 5000",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "POLS 110",
+            "section": "002",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 110",
+            "section": "070",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 220",
+            "section": "070",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 368",
+            "section": "060",
+            "courseTitle": "Globaliz & World Pol"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "002",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "003",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "060",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "070",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "090",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "001",
+            "courseTitle": "Intro Intntl Relation"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "090",
+            "courseTitle": "Intro Intntl Relation"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "001",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "070",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 2300",
+            "section": "001",
+            "courseTitle": "Intro to Political Theory"
+        },
+        {
+            "catalogTitle": "POLS 3000",
+            "section": "001",
+            "courseTitle": "Liberalism & Critics"
+        },
+        {
+            "catalogTitle": "POLS 3001",
+            "section": "001",
+            "courseTitle": "Political Analysis"
+        },
+        {
+            "catalogTitle": "POLS 3001",
+            "section": "090",
+            "courseTitle": "Political Analysis"
+        },
+        {
+            "catalogTitle": "POLS 3010",
+            "section": "001",
+            "courseTitle": "Democratic Theory"
+        },
+        {
+            "catalogTitle": "POLS 3120",
+            "section": "001",
+            "courseTitle": "Political Parties"
+        },
+        {
+            "catalogTitle": "POLS 3190",
+            "section": "001",
+            "courseTitle": "Racial/Ethnic Politics"
+        },
+        {
+            "catalogTitle": "POLS 3200",
+            "section": "001",
+            "courseTitle": "Intro Law And Politics"
+        },
+        {
+            "catalogTitle": "POLS 3220",
+            "section": "001",
+            "courseTitle": "Juris of Criminal Law"
+        },
+        {
+            "catalogTitle": "POLS 3300",
+            "section": "090",
+            "courseTitle": "Intro To Public Admin"
+        },
+        {
+            "catalogTitle": "POLS 3410",
+            "section": "001",
+            "courseTitle": "European Politics"
+        },
+        {
+            "catalogTitle": "POLS 3440",
+            "section": "001",
+            "courseTitle": "Comparative Pol-Mid East"
+        },
+        {
+            "catalogTitle": "POLS 3520",
+            "section": "001",
+            "courseTitle": "Gov. and Politics of Mexico"
+        },
+        {
+            "catalogTitle": "POLS 3680",
+            "section": "001",
+            "courseTitle": "Globaliz & World Pol"
+        },
+        {
+            "catalogTitle": "POLS 3680",
+            "section": "060",
+            "courseTitle": "Globaliz & World Pol"
+        },
+        {
+            "catalogTitle": "POLS 3777",
+            "section": "001",
+            "courseTitle": "Politics and Film"
+        },
+        {
+            "catalogTitle": "POLS 3910",
+            "section": "001",
+            "courseTitle": "Political Forum Series"
+        },
+        {
+            "catalogTitle": "POLS 3960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "POLS 3960",
+            "section": "002",
+            "courseTitle": "Honors Seminar"
+        },
+        {
+            "catalogTitle": "POLS 3960",
+            "section": "003",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "POLS 3960",
+            "section": "004",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "POLS 3960",
+            "section": "005",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "POLS 4400",
+            "section": "001",
+            "courseTitle": "Introduction to Islam"
+        },
+        {
+            "catalogTitle": "POLS 4801",
+            "section": "001",
+            "courseTitle": "Legislative Intern Sem"
+        },
+        {
+            "catalogTitle": "POLS 4900",
+            "section": "001",
+            "courseTitle": "Internship: Local"
+        },
+        {
+            "catalogTitle": "POLS 4901",
+            "section": "001",
+            "courseTitle": "Intern: Legislature"
+        },
+        {
+            "catalogTitle": "POLS 4902",
+            "section": "001",
+            "courseTitle": "Internship: National"
+        },
+        {
+            "catalogTitle": "POLS 4903",
+            "section": "001",
+            "courseTitle": "Internship: Int'l"
+        },
+        {
+            "catalogTitle": "POLS 4905",
+            "section": "001",
+            "courseTitle": "John Price Think Tank"
+        },
+        {
+            "catalogTitle": "POLS 4909",
+            "section": "001",
+            "courseTitle": "Internship: CEL"
+        },
+        {
+            "catalogTitle": "POLS 4914",
+            "section": "001",
+            "courseTitle": "Wash D.C. Encounter"
+        },
+        {
+            "catalogTitle": "POLS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "POLS 5140",
+            "section": "001",
+            "courseTitle": "Feminist Pol Theory"
+        },
+        {
+            "catalogTitle": "POLS 5212",
+            "section": "001",
+            "courseTitle": "Civil Rights&Liberties"
+        },
+        {
+            "catalogTitle": "POLS 5323",
+            "section": "090",
+            "courseTitle": "Policy Analysis"
+        },
+        {
+            "catalogTitle": "POLS 5440",
+            "section": "090",
+            "courseTitle": "Nation/Ethnc Conflict"
+        },
+        {
+            "catalogTitle": "POLS 5450",
+            "section": "001",
+            "courseTitle": "Polit Violnce Terrorism"
+        },
+        {
+            "catalogTitle": "POLS 5460",
+            "section": "001",
+            "courseTitle": "Intntl Rel Africa"
+        },
+        {
+            "catalogTitle": "POLS 5480",
+            "section": "001",
+            "courseTitle": "Interntl Rel East Asia"
+        },
+        {
+            "catalogTitle": "POLS 5540",
+            "section": "001",
+            "courseTitle": "Nonprofit Advocacy"
+        },
+        {
+            "catalogTitle": "POLS 5680",
+            "section": "001",
+            "courseTitle": "Chinese Foreign Policy"
+        },
+        {
+            "catalogTitle": "POLS 5800",
+            "section": "001",
+            "courseTitle": "Theory Intntl Relatns"
+        },
+        {
+            "catalogTitle": "POLS 5810",
+            "section": "001",
+            "courseTitle": "Rise & Fall/Great Powers"
+        },
+        {
+            "catalogTitle": "POLS 5810",
+            "section": "002",
+            "courseTitle": "Demo Activism & Social Change"
+        },
+        {
+            "catalogTitle": "POLS 5810",
+            "section": "003",
+            "courseTitle": "Power & Resistance"
+        },
+        {
+            "catalogTitle": "POLS 5965",
+            "section": "001",
+            "courseTitle": "Criminal Justice Policies"
+        },
+        {
+            "catalogTitle": "POLS 5965",
+            "section": "003",
+            "courseTitle": "Social Justice Leadership"
+        },
+        {
+            "catalogTitle": "POLS 6004",
+            "section": "001",
+            "courseTitle": "Qual-Inter Res Methods"
+        },
+        {
+            "catalogTitle": "POLS 6140",
+            "section": "001",
+            "courseTitle": "Feminist Pol Theory"
+        },
+        {
+            "catalogTitle": "POLS 6281",
+            "section": "001",
+            "courseTitle": "Amer Polit Instit"
+        },
+        {
+            "catalogTitle": "POLS 6450",
+            "section": "001",
+            "courseTitle": "Polit Violnce/Terrorism"
+        },
+        {
+            "catalogTitle": "POLS 6680",
+            "section": "001",
+            "courseTitle": "Chinese Foreign Policy"
+        },
+        {
+            "catalogTitle": "POLS 6690",
+            "section": "001",
+            "courseTitle": "Found Intntl Security"
+        },
+        {
+            "catalogTitle": "POLS 6710",
+            "section": "001",
+            "courseTitle": "Intro to IPE"
+        },
+        {
+            "catalogTitle": "POLS 6740",
+            "section": "001",
+            "courseTitle": "Political Change"
+        },
+        {
+            "catalogTitle": "POLS 6920",
+            "section": "001",
+            "courseTitle": "Internship: Grad Local"
+        },
+        {
+            "catalogTitle": "POLS 6922",
+            "section": "001",
+            "courseTitle": "Internship: Grad Nation"
+        },
+        {
+            "catalogTitle": "POLS 6923",
+            "section": "001",
+            "courseTitle": "Internship: Grad Global"
+        },
+        {
+            "catalogTitle": "POLS 6960",
+            "section": "001",
+            "courseTitle": "CLAC"
+        },
+        {
+            "catalogTitle": "POLS 6975",
+            "section": "009",
+            "courseTitle": "Indep Resrch-Masters"
+        },
+        {
+            "catalogTitle": "POLS 6975",
+            "section": "011",
+            "courseTitle": "Indep Resrch-Masters"
+        },
+        {
+            "catalogTitle": "POLS 6975",
+            "section": "012",
+            "courseTitle": "Indep Resrch-Masters"
+        },
+        {
+            "catalogTitle": "POLS 6975",
+            "section": "013",
+            "courseTitle": "Indep Resrch-Masters"
+        },
+        {
+            "catalogTitle": "POLS 7004",
+            "section": "001",
+            "courseTitle": "Research Design"
+        }
+    ]
+}

@@ -1,0 +1,499 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HIST 105",
+            "section": "060",
+            "courseTitle": "World History since 1500"
+        },
+        {
+            "catalogTitle": "HIST 170",
+            "section": "020",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 170",
+            "section": "070",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 449",
+            "section": "001",
+            "courseTitle": "Sunni Islam"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "001",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "095",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "096",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "097",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "098",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "099",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1210",
+            "section": "001",
+            "courseTitle": "Asian Civ: Traditions"
+        },
+        {
+            "catalogTitle": "HIST 1300",
+            "section": "001",
+            "courseTitle": "Latin Amer Civ To 1820s"
+        },
+        {
+            "catalogTitle": "HIST 1450",
+            "section": "001",
+            "courseTitle": "Mid-East Civ: Classical"
+        },
+        {
+            "catalogTitle": "HIST 1500",
+            "section": "001",
+            "courseTitle": "World Hist to 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "001",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "002",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "003",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "004",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "005",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "060",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "001",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "010",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "019",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "020",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "021",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "022",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "023",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "024",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "025",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "029",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "070",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 2100",
+            "section": "001",
+            "courseTitle": "Nazi Germany: Holocaust"
+        },
+        {
+            "catalogTitle": "HIST 2700",
+            "section": "001",
+            "courseTitle": "US History To 1877"
+        },
+        {
+            "catalogTitle": "HIST 3140",
+            "section": "001",
+            "courseTitle": "Victorian Britain"
+        },
+        {
+            "catalogTitle": "HIST 3180",
+            "section": "001",
+            "courseTitle": "Republican France"
+        },
+        {
+            "catalogTitle": "HIST 3200",
+            "section": "001",
+            "courseTitle": "Age Of Imperialism"
+        },
+        {
+            "catalogTitle": "HIST 3410",
+            "section": "001",
+            "courseTitle": "Mid East Hist: 1914-48"
+        },
+        {
+            "catalogTitle": "HIST 3500",
+            "section": "001",
+            "courseTitle": "Pre-Modern China"
+        },
+        {
+            "catalogTitle": "HIST 3520",
+            "section": "001",
+            "courseTitle": "Pre-Modern Japan"
+        },
+        {
+            "catalogTitle": "HIST 3550",
+            "section": "001",
+            "courseTitle": "Premodern India"
+        },
+        {
+            "catalogTitle": "HIST 3740",
+            "section": "001",
+            "courseTitle": "Emergence Modern Amer"
+        },
+        {
+            "catalogTitle": "HIST 4010",
+            "section": "001",
+            "courseTitle": "Roman Republic"
+        },
+        {
+            "catalogTitle": "HIST 4040",
+            "section": "001",
+            "courseTitle": "Christianity In Anc Wor"
+        },
+        {
+            "catalogTitle": "HIST 4090",
+            "section": "001",
+            "courseTitle": "Perspectives World Hlth"
+        },
+        {
+            "catalogTitle": "HIST 4320",
+            "section": "001",
+            "courseTitle": "America At War 1620-1898"
+        },
+        {
+            "catalogTitle": "HIST 4430",
+            "section": "001",
+            "courseTitle": "Iran"
+        },
+        {
+            "catalogTitle": "HIST 4440",
+            "section": "001",
+            "courseTitle": "Brit/French Colon in ME"
+        },
+        {
+            "catalogTitle": "HIST 4490",
+            "section": "001",
+            "courseTitle": "Sunni Islam"
+        },
+        {
+            "catalogTitle": "HIST 4510",
+            "section": "001",
+            "courseTitle": "Islamic Fundamentalism"
+        },
+        {
+            "catalogTitle": "HIST 4540",
+            "section": "001",
+            "courseTitle": "Chicana/o Hist Sn 1849"
+        },
+        {
+            "catalogTitle": "HIST 4610",
+            "section": "001",
+            "courseTitle": "US Women Sn 1870"
+        },
+        {
+            "catalogTitle": "HIST 4690",
+            "section": "001",
+            "courseTitle": "Africn Am Hst 1619-1890"
+        },
+        {
+            "catalogTitle": "HIST 4750",
+            "section": "001",
+            "courseTitle": "US For Rel to 1898"
+        },
+        {
+            "catalogTitle": "HIST 4765",
+            "section": "001",
+            "courseTitle": "The Vietnam War"
+        },
+        {
+            "catalogTitle": "HIST 4920",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HIST 4920",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "001",
+            "courseTitle": "Modern Comparative History"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "002",
+            "courseTitle": "US Civil War & Reconstruction"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "003",
+            "courseTitle": "Scandals in History"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "004",
+            "courseTitle": "Democrcy/Pol Culture in Europe"
+        },
+        {
+            "catalogTitle": "HIST 5340",
+            "section": "001",
+            "courseTitle": "Teaching History"
+        },
+        {
+            "catalogTitle": "HIST 5410",
+            "section": "001",
+            "courseTitle": "Middle East: 1914-48"
+        },
+        {
+            "catalogTitle": "HIST 5910",
+            "section": "001",
+            "courseTitle": "Special Studies"
+        },
+        {
+            "catalogTitle": "HIST 6010",
+            "section": "001",
+            "courseTitle": "Sp St-Roman History"
+        },
+        {
+            "catalogTitle": "HIST 6040",
+            "section": "001",
+            "courseTitle": "Christian in Ancient World"
+        },
+        {
+            "catalogTitle": "HIST 6200",
+            "section": "001",
+            "courseTitle": "Age of Imperialism"
+        },
+        {
+            "catalogTitle": "HIST 6320",
+            "section": "001",
+            "courseTitle": "America at War 1620-1898"
+        },
+        {
+            "catalogTitle": "HIST 6430",
+            "section": "001",
+            "courseTitle": "Iran"
+        },
+        {
+            "catalogTitle": "HIST 6440",
+            "section": "001",
+            "courseTitle": "Brit/French Colon in ME"
+        },
+        {
+            "catalogTitle": "HIST 6490",
+            "section": "001",
+            "courseTitle": "Sunni Islam"
+        },
+        {
+            "catalogTitle": "HIST 6765",
+            "section": "001",
+            "courseTitle": "The Vietnam War"
+        },
+        {
+            "catalogTitle": "HIST 6880",
+            "section": "001",
+            "courseTitle": "Sp St-Latin America"
+        },
+        {
+            "catalogTitle": "HIST 6910",
+            "section": "001",
+            "courseTitle": "Sp St-American History"
+        },
+        {
+            "catalogTitle": "HIST 6930",
+            "section": "001",
+            "courseTitle": "Sp St-Asian History"
+        },
+        {
+            "catalogTitle": "HIST 6940",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HIST 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "HIST 6970",
+            "section": "012",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "HIST 6970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "HIST 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "HIST 7010",
+            "section": "001",
+            "courseTitle": "Oral History"
+        },
+        {
+            "catalogTitle": "HIST 7240",
+            "section": "001",
+            "courseTitle": "Comp Hist Women & Gend"
+        },
+        {
+            "catalogTitle": "HIST 7500",
+            "section": "001",
+            "courseTitle": "Prosem: US Hist To 1877"
+        },
+        {
+            "catalogTitle": "HIST 7620",
+            "section": "001",
+            "courseTitle": "Colloq American West"
+        },
+        {
+            "catalogTitle": "HIST 7640",
+            "section": "001",
+            "courseTitle": "Colloq Early America"
+        },
+        {
+            "catalogTitle": "HIST 7670",
+            "section": "001",
+            "courseTitle": "Colloq Envirnmentl Hist"
+        },
+        {
+            "catalogTitle": "HIST 7700",
+            "section": "001",
+            "courseTitle": "Colloq European History"
+        },
+        {
+            "catalogTitle": "HIST 7720",
+            "section": "001",
+            "courseTitle": "Colloq Early Med Europe"
+        },
+        {
+            "catalogTitle": "HIST 7800",
+            "section": "001",
+            "courseTitle": "Historical Methods"
+        },
+        {
+            "catalogTitle": "HIST 7810",
+            "section": "001",
+            "courseTitle": "Sem-Asian History"
+        },
+        {
+            "catalogTitle": "HIST 7900",
+            "section": "001",
+            "courseTitle": "Sem-Ancient History"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "015",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "HIST 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "HIST 7980",
+            "section": "005",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "HIST 7980",
+            "section": "006",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "HIST 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regist-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CERM 3210",
+            "section": "001",
+            "courseTitle": "Handbuilding Ceramics I"
+        },
+        {
+            "catalogTitle": "CERM 3210",
+            "section": "002",
+            "courseTitle": "Handbuilding Ceramics I"
+        },
+        {
+            "catalogTitle": "CERM 3211",
+            "section": "001",
+            "courseTitle": "Handbldg Ceramics II"
+        },
+        {
+            "catalogTitle": "CERM 3211",
+            "section": "002",
+            "courseTitle": "Handbldg Ceramics II"
+        },
+        {
+            "catalogTitle": "CERM 3220",
+            "section": "001",
+            "courseTitle": "Wheelthrown Pottery I"
+        },
+        {
+            "catalogTitle": "CERM 3220",
+            "section": "002",
+            "courseTitle": "Wheelthrown Pottery I"
+        },
+        {
+            "catalogTitle": "CERM 3220",
+            "section": "003",
+            "courseTitle": "Wheelthrown Pottery I"
+        },
+        {
+            "catalogTitle": "CERM 3221",
+            "section": "001",
+            "courseTitle": "Wheelthrown Pottery II"
+        },
+        {
+            "catalogTitle": "CERM 3221",
+            "section": "002",
+            "courseTitle": "Wheelthrown Pottery II"
+        },
+        {
+            "catalogTitle": "CERM 3221",
+            "section": "003",
+            "courseTitle": "Wheelthrown Pottery II"
+        },
+        {
+            "catalogTitle": "CERM 3230",
+            "section": "001",
+            "courseTitle": "Low-Fire Ceramics"
+        },
+        {
+            "catalogTitle": "CERM 3250",
+            "section": "001",
+            "courseTitle": "Intermediate Ceramics"
+        }
+    ]
+}

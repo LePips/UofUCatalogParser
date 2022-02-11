@@ -1,0 +1,469 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SP ED 3010",
+            "section": "001",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 3010",
+            "section": "090",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 3011",
+            "section": "002",
+            "courseTitle": "Inclusive EC & EL"
+        },
+        {
+            "catalogTitle": "SP ED 3011",
+            "section": "003",
+            "courseTitle": "Inclusive EC & EL"
+        },
+        {
+            "catalogTitle": "SP ED 3020",
+            "section": "090",
+            "courseTitle": "Ed Global Perspectives"
+        },
+        {
+            "catalogTitle": "SP ED 3020",
+            "section": "091",
+            "courseTitle": "Ed Global Perspectives"
+        },
+        {
+            "catalogTitle": "SP ED 3508",
+            "section": "001",
+            "courseTitle": "Grammar Workshop"
+        },
+        {
+            "catalogTitle": "SP ED 5010",
+            "section": "001",
+            "courseTitle": "Human Exceptionality"
+        },
+        {
+            "catalogTitle": "SP ED 5011",
+            "section": "002",
+            "courseTitle": "Inclusive EC & EL"
+        },
+        {
+            "catalogTitle": "SP ED 5011",
+            "section": "003",
+            "courseTitle": "Inclusive EC & EL"
+        },
+        {
+            "catalogTitle": "SP ED 5012",
+            "section": "001",
+            "courseTitle": "Inclusive Sec Ed"
+        },
+        {
+            "catalogTitle": "SP ED 5021",
+            "section": "001",
+            "courseTitle": "Assess & Data Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 5021",
+            "section": "002",
+            "courseTitle": "Assess & Data Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 5022",
+            "section": "001",
+            "courseTitle": "Instruction/Behavior"
+        },
+        {
+            "catalogTitle": "SP ED 5030",
+            "section": "001",
+            "courseTitle": "Func Communication"
+        },
+        {
+            "catalogTitle": "SP ED 5040",
+            "section": "001",
+            "courseTitle": "Legal & Policy Fds"
+        },
+        {
+            "catalogTitle": "SP ED 5053",
+            "section": "090",
+            "courseTitle": "Prof Skills"
+        },
+        {
+            "catalogTitle": "SP ED 5382",
+            "section": "001",
+            "courseTitle": "Soc Emot Strategies"
+        },
+        {
+            "catalogTitle": "SP ED 5390",
+            "section": "001",
+            "courseTitle": "St Teach: Early Int"
+        },
+        {
+            "catalogTitle": "SP ED 5420",
+            "section": "001",
+            "courseTitle": "Soc & Psych Imp of VI"
+        },
+        {
+            "catalogTitle": "SP ED 5444",
+            "section": "001",
+            "courseTitle": "Field Studies Vis Imp II"
+        },
+        {
+            "catalogTitle": "SP ED 5450",
+            "section": "001",
+            "courseTitle": "Tchg Child Deafblind"
+        },
+        {
+            "catalogTitle": "SP ED 5460",
+            "section": "001",
+            "courseTitle": "Int Orien. & Mobility"
+        },
+        {
+            "catalogTitle": "SP ED 5500",
+            "section": "001",
+            "courseTitle": "Student Tch Vision 5-21"
+        },
+        {
+            "catalogTitle": "SP ED 5510",
+            "section": "001",
+            "courseTitle": "Orientation to Teaching"
+        },
+        {
+            "catalogTitle": "SP ED 5520",
+            "section": "001",
+            "courseTitle": "Aud. for stuents w/HI"
+        },
+        {
+            "catalogTitle": "SP ED 5521",
+            "section": "001",
+            "courseTitle": "Speech Acoustics"
+        },
+        {
+            "catalogTitle": "SP ED 5600",
+            "section": "001",
+            "courseTitle": "Stu Tchg: Stu w/HI (5-21)"
+        },
+        {
+            "catalogTitle": "SP ED 5700",
+            "section": "001",
+            "courseTitle": "Stu Tch Vis Imp (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 5800",
+            "section": "001",
+            "courseTitle": "Stu Tch HI (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 5950",
+            "section": "002",
+            "courseTitle": "Independent Reading"
+        },
+        {
+            "catalogTitle": "SP ED 5950",
+            "section": "003",
+            "courseTitle": "Independent Reading"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "002",
+            "courseTitle": "Summer Reading Course"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "006",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "007",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "010",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 5960",
+            "section": "019",
+            "courseTitle": "Response to RTI"
+        },
+        {
+            "catalogTitle": "SP ED 6011",
+            "section": "002",
+            "courseTitle": "Inclusive EC & EL"
+        },
+        {
+            "catalogTitle": "SP ED 6011",
+            "section": "003",
+            "courseTitle": "Inclusive EC & EL"
+        },
+        {
+            "catalogTitle": "SP ED 6012",
+            "section": "001",
+            "courseTitle": "Inclusive Sec Ed"
+        },
+        {
+            "catalogTitle": "SP ED 6021",
+            "section": "001",
+            "courseTitle": "Assess & Data-Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 6021",
+            "section": "002",
+            "courseTitle": "Assess & Data-Based Dec"
+        },
+        {
+            "catalogTitle": "SP ED 6022",
+            "section": "001",
+            "courseTitle": "Instruction & Behavior"
+        },
+        {
+            "catalogTitle": "SP ED 6030",
+            "section": "001",
+            "courseTitle": "Func Communication"
+        },
+        {
+            "catalogTitle": "SP ED 6040",
+            "section": "001",
+            "courseTitle": "Legal/Policy Foundation"
+        },
+        {
+            "catalogTitle": "SP ED 6053",
+            "section": "090",
+            "courseTitle": "Prof Skills"
+        },
+        {
+            "catalogTitle": "SP ED 6382",
+            "section": "001",
+            "courseTitle": "Soc Emot Strategies"
+        },
+        {
+            "catalogTitle": "SP ED 6390",
+            "section": "001",
+            "courseTitle": "St Teach: Early Int"
+        },
+        {
+            "catalogTitle": "SP ED 6420",
+            "section": "001",
+            "courseTitle": "Soc & Psych Imp Of VI"
+        },
+        {
+            "catalogTitle": "SP ED 6444",
+            "section": "001",
+            "courseTitle": "Field Studies Vis Imp II"
+        },
+        {
+            "catalogTitle": "SP ED 6450",
+            "section": "001",
+            "courseTitle": "Tchg Child Deafblind"
+        },
+        {
+            "catalogTitle": "SP ED 6460",
+            "section": "001",
+            "courseTitle": "Intro Orient/Mobility"
+        },
+        {
+            "catalogTitle": "SP ED 6500",
+            "section": "001",
+            "courseTitle": "Student Teaching/VI (5-21)"
+        },
+        {
+            "catalogTitle": "SP ED 6510",
+            "section": "001",
+            "courseTitle": "Orientation to Teaching"
+        },
+        {
+            "catalogTitle": "SP ED 6520",
+            "section": "001",
+            "courseTitle": "Audiol Tchr Of Stu W/HI"
+        },
+        {
+            "catalogTitle": "SP ED 6521",
+            "section": "001",
+            "courseTitle": "Speech Acoustics"
+        },
+        {
+            "catalogTitle": "SP ED 6600",
+            "section": "001",
+            "courseTitle": "Student Teaching/HI (5-21)"
+        },
+        {
+            "catalogTitle": "SP ED 6610",
+            "section": "001",
+            "courseTitle": "Intro Research Design"
+        },
+        {
+            "catalogTitle": "SP ED 6612",
+            "section": "001",
+            "courseTitle": "Electronic Comm Aids"
+        },
+        {
+            "catalogTitle": "SP ED 6613",
+            "section": "001",
+            "courseTitle": "AAC Instructional Strategies"
+        },
+        {
+            "catalogTitle": "SP ED 6620",
+            "section": "001",
+            "courseTitle": "Parent Professional Col"
+        },
+        {
+            "catalogTitle": "SP ED 6630",
+            "section": "001",
+            "courseTitle": "Collab Ed Decsn Mak"
+        },
+        {
+            "catalogTitle": "SP ED 6632",
+            "section": "001",
+            "courseTitle": "Intro Basic Intervention"
+        },
+        {
+            "catalogTitle": "SP ED 6632",
+            "section": "002",
+            "courseTitle": "Intro Basic Intervention"
+        },
+        {
+            "catalogTitle": "SP ED 6643",
+            "section": "001",
+            "courseTitle": "Intro to Intervention"
+        },
+        {
+            "catalogTitle": "SP ED 6644",
+            "section": "001",
+            "courseTitle": "Intro Adv Intervention"
+        },
+        {
+            "catalogTitle": "SP ED 6700",
+            "section": "001",
+            "courseTitle": "Stu Tch Vis Imp (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 6800",
+            "section": "001",
+            "courseTitle": "Stu Tch Hear Imp (0-5)"
+        },
+        {
+            "catalogTitle": "SP ED 6950",
+            "section": "001",
+            "courseTitle": "Indep Reading"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "018",
+            "courseTitle": "Stud Teach: Early Intervention"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "019",
+            "courseTitle": "Response to Intervention"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "021",
+            "courseTitle": "Summer Reading Course"
+        },
+        {
+            "catalogTitle": "SP ED 6960",
+            "section": "032",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "SP ED 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research:MS"
+        },
+        {
+            "catalogTitle": "SP ED 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "SP ED 7121",
+            "section": "001",
+            "courseTitle": "Univ Teaching Intern"
+        },
+        {
+            "catalogTitle": "SP ED 7125",
+            "section": "001",
+            "courseTitle": "Extramur Funding"
+        },
+        {
+            "catalogTitle": "SP ED 7910",
+            "section": "001",
+            "courseTitle": "Early Research I"
+        },
+        {
+            "catalogTitle": "SP ED 7910",
+            "section": "002",
+            "courseTitle": "Early Research I"
+        },
+        {
+            "catalogTitle": "SP ED 7915",
+            "section": "001",
+            "courseTitle": "Early Research II"
+        },
+        {
+            "catalogTitle": "SP ED 7915",
+            "section": "002",
+            "courseTitle": "Early Research II"
+        },
+        {
+            "catalogTitle": "SP ED 7920",
+            "section": "001",
+            "courseTitle": "Research Internship I"
+        },
+        {
+            "catalogTitle": "SP ED 7925",
+            "section": "001",
+            "courseTitle": "Research Internship II"
+        },
+        {
+            "catalogTitle": "SP ED 7930",
+            "section": "001",
+            "courseTitle": "Tchr Edu Field Supervsn"
+        },
+        {
+            "catalogTitle": "SP ED 7935",
+            "section": "001",
+            "courseTitle": "Prof Serv & Outreach I"
+        },
+        {
+            "catalogTitle": "SP ED 7940",
+            "section": "001",
+            "courseTitle": "Prof Serv & Outreach II"
+        },
+        {
+            "catalogTitle": "SP ED 7950",
+            "section": "001",
+            "courseTitle": "Ph.D: Indep Reading"
+        },
+        {
+            "catalogTitle": "SP ED 7970",
+            "section": "001",
+            "courseTitle": "Prep Doc Proposal"
+        },
+        {
+            "catalogTitle": "SP ED 7970",
+            "section": "003",
+            "courseTitle": "Prep Doc Proposal"
+        },
+        {
+            "catalogTitle": "SP ED 7971",
+            "section": "001",
+            "courseTitle": "Dissertation Research"
+        },
+        {
+            "catalogTitle": "SP ED 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "SP ED 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

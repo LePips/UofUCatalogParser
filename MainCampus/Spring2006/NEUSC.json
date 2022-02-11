@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NEUSC 6050",
+            "section": "001",
+            "courseTitle": "Systems Neuroscience"
+        },
+        {
+            "catalogTitle": "NEUSC 6100",
+            "section": "001",
+            "courseTitle": "Visual Neuroscience I"
+        },
+        {
+            "catalogTitle": "NEUSC 6250",
+            "section": "001",
+            "courseTitle": "Molecular Biology Lab"
+        },
+        {
+            "catalogTitle": "NEUSC 6900",
+            "section": "001",
+            "courseTitle": "Neuroscience Rotations"
+        },
+        {
+            "catalogTitle": "NEUSC 6900",
+            "section": "002",
+            "courseTitle": "Neuroscience Rotations"
+        },
+        {
+            "catalogTitle": "NEUSC 7750",
+            "section": "001",
+            "courseTitle": "Developmental Neurobiol"
+        },
+        {
+            "catalogTitle": "NEUSC 7790",
+            "section": "001",
+            "courseTitle": "Spec Techniq/Microscopy"
+        },
+        {
+            "catalogTitle": "NEUSC 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NEUSC 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

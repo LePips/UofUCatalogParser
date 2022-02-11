@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 3100",
+            "section": "001",
+            "courseTitle": "Neutron-Engineering"
+        },
+        {
+            "catalogTitle": "NUCL 3200",
+            "section": "001",
+            "courseTitle": "Radiochemistry I"
+        },
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5031",
+            "section": "001",
+            "courseTitle": "Neutron-Based Eng"
+        },
+        {
+            "catalogTitle": "NUCL 5300",
+            "section": "001",
+            "courseTitle": "Nuclear Safeguards"
+        },
+        {
+            "catalogTitle": "NUCL 5900",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        },
+        {
+            "catalogTitle": "NUCL 6061",
+            "section": "001",
+            "courseTitle": "Reactor & Policy II"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 6999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        },
+        {
+            "catalogTitle": "NUCL 7100",
+            "section": "001",
+            "courseTitle": "Nuclear Instrumentation"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7999",
+            "section": "001",
+            "courseTitle": "UNEP Seminar Series"
+        }
+    ]
+}

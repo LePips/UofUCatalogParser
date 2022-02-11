@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLCFT 160",
+            "section": "001",
+            "courseTitle": "Intro Glass Bead Making"
+        },
+        {
+            "catalogTitle": "LLCFT 164",
+            "section": "001",
+            "courseTitle": "Beginning Fused Glass"
+        },
+        {
+            "catalogTitle": "LLCFT 186",
+            "section": "001",
+            "courseTitle": "Beg Stained Glass"
+        },
+        {
+            "catalogTitle": "LLCFT 189",
+            "section": "001",
+            "courseTitle": "Create Beaded Jewelry"
+        },
+        {
+            "catalogTitle": "LLCFT 189",
+            "section": "002",
+            "courseTitle": "Create Beaded Jewelry"
+        }
+    ]
+}

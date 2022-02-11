@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 652",
+            "section": "001",
+            "courseTitle": "Full Moon Snowshoe Hike"
+        },
+        {
+            "catalogTitle": "LLREC 661",
+            "section": "001",
+            "courseTitle": "Beg/Interm Fencing"
+        },
+        {
+            "catalogTitle": "LLREC 668",
+            "section": "001",
+            "courseTitle": "Explore Antelope Island"
+        },
+        {
+            "catalogTitle": "LLREC 672",
+            "section": "001",
+            "courseTitle": "Introduction to Golf"
+        },
+        {
+            "catalogTitle": "LLREC 673",
+            "section": "001",
+            "courseTitle": "Continuing Golf"
+        },
+        {
+            "catalogTitle": "LLREC 693",
+            "section": "001",
+            "courseTitle": "Hike Uintas: Musical"
+        },
+        {
+            "catalogTitle": "LLREC 729",
+            "section": "001",
+            "courseTitle": "Bicycle Repair II"
+        }
+    ]
+}

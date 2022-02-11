@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 226",
+            "section": "001",
+            "courseTitle": "Cooking With Herbs"
+        },
+        {
+            "catalogTitle": "LLFW 266",
+            "section": "001",
+            "courseTitle": "Great Grilling"
+        },
+        {
+            "catalogTitle": "LLFW 269",
+            "section": "001",
+            "courseTitle": "Wine and Cheese"
+        },
+        {
+            "catalogTitle": "LLFW 269",
+            "section": "002",
+            "courseTitle": "Wine and Cheese"
+        },
+        {
+            "catalogTitle": "LLFW 282",
+            "section": "001",
+            "courseTitle": "Cooking 101"
+        },
+        {
+            "catalogTitle": "LLFW 294",
+            "section": "001",
+            "courseTitle": "Value Wines"
+        },
+        {
+            "catalogTitle": "LLFW 294",
+            "section": "002",
+            "courseTitle": "Value Wines"
+        }
+    ]
+}

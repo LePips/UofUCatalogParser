@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "080",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "080",
+            "courseTitle": "Beg Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "080",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2020",
+            "section": "080",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 3040",
+            "section": "080",
+            "courseTitle": "Extensive Read & Comp"
+        },
+        {
+            "catalogTitle": "ITAL 3060",
+            "section": "080",
+            "courseTitle": "Adv Grammar Review"
+        },
+        {
+            "catalogTitle": "ITAL 3330",
+            "section": "080",
+            "courseTitle": "Third Yr Conversation"
+        },
+        {
+            "catalogTitle": "ITAL 4880",
+            "section": "080",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ITAL 4900",
+            "section": "080",
+            "courseTitle": "Special Topics"
+        }
+    ]
+}

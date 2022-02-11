@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EHUM 6102",
+            "section": "001",
+            "courseTitle": "Field Methods in EH"
+        },
+        {
+            "catalogTitle": "EHUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "EHUM 6804",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        },
+        {
+            "catalogTitle": "EHUM 6900",
+            "section": "001",
+            "courseTitle": "Field Study"
+        },
+        {
+            "catalogTitle": "EHUM 6900",
+            "section": "003",
+            "courseTitle": "Creative Non-Fiction Workshop"
+        },
+        {
+            "catalogTitle": "EHUM 6900",
+            "section": "004",
+            "courseTitle": "St Environmental Lit"
+        },
+        {
+            "catalogTitle": "EHUM 6910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "EHUM 6970",
+            "section": "001",
+            "courseTitle": "Thesis/Proj Rsrch: M.A."
+        }
+    ]
+}

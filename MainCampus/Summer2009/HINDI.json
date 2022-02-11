@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HINDI 101",
+            "section": "001",
+            "courseTitle": "Beg. Hindi-Urdu I"
+        },
+        {
+            "catalogTitle": "HINDI 102",
+            "section": "001",
+            "courseTitle": "Beginning Hindi-Urdu II"
+        },
+        {
+            "catalogTitle": "HINDI 1010",
+            "section": "001",
+            "courseTitle": "Beg. Hindi-Urdu I"
+        },
+        {
+            "catalogTitle": "HINDI 1020",
+            "section": "001",
+            "courseTitle": "Beginning Hindi-Urdu II"
+        }
+    ]
+}

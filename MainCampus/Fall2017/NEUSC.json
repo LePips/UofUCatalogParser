@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NEUSC 6010",
+            "section": "001",
+            "courseTitle": "Frontiers Neuroscience"
+        },
+        {
+            "catalogTitle": "NEUSC 6040",
+            "section": "001",
+            "courseTitle": "Cellular Neurosci"
+        },
+        {
+            "catalogTitle": "NEUSC 6060",
+            "section": "001",
+            "courseTitle": "Neuroanatomy"
+        },
+        {
+            "catalogTitle": "NEUSC 6245",
+            "section": "001",
+            "courseTitle": "Neurophysiology Lab"
+        },
+        {
+            "catalogTitle": "NEUSC 6900",
+            "section": "002",
+            "courseTitle": "Neuroscience Rotations"
+        },
+        {
+            "catalogTitle": "NEUSC 6900",
+            "section": "003",
+            "courseTitle": "Neuroscience Rotations"
+        },
+        {
+            "catalogTitle": "NEUSC 7750",
+            "section": "001",
+            "courseTitle": "Developmental Neurobiol"
+        },
+        {
+            "catalogTitle": "NEUSC 7950",
+            "section": "001",
+            "courseTitle": "Prof Skill/Grant Wrtg"
+        },
+        {
+            "catalogTitle": "NEUSC 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "NEUSC 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

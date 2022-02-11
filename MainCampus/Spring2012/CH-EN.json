@@ -1,0 +1,284 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CH EN 280",
+            "section": "001",
+            "courseTitle": "Fund Of Process Engg"
+        },
+        {
+            "catalogTitle": "CH EN 525",
+            "section": "001",
+            "courseTitle": "Process Design II"
+        },
+        {
+            "catalogTitle": "CH EN 775",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "CH EN 2300",
+            "section": "001",
+            "courseTitle": "Thermodynamics I"
+        },
+        {
+            "catalogTitle": "CH EN 2800",
+            "section": "001",
+            "courseTitle": "Fund Of Process Engg"
+        },
+        {
+            "catalogTitle": "CH EN 3061",
+            "section": "001",
+            "courseTitle": "Transport Phenomena"
+        },
+        {
+            "catalogTitle": "CH EN 3453",
+            "section": "001",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "CH EN 3553",
+            "section": "001",
+            "courseTitle": "Chemical Reaction Engg"
+        },
+        {
+            "catalogTitle": "CH EN 3603",
+            "section": "001",
+            "courseTitle": "Mass Trans./Separ."
+        },
+        {
+            "catalogTitle": "CH EN 4755",
+            "section": "001",
+            "courseTitle": "Undergraduate Seminar"
+        },
+        {
+            "catalogTitle": "CH EN 4905",
+            "section": "001",
+            "courseTitle": "Projects Lab II"
+        },
+        {
+            "catalogTitle": "CH EN 4905",
+            "section": "002",
+            "courseTitle": "Projects Lab II"
+        },
+        {
+            "catalogTitle": "CH EN 4973",
+            "section": "001",
+            "courseTitle": "Thesis Res: Undergrad"
+        },
+        {
+            "catalogTitle": "CH EN 4973",
+            "section": "003",
+            "courseTitle": "Thesis Res: Undergrad"
+        },
+        {
+            "catalogTitle": "CH EN 4973",
+            "section": "004",
+            "courseTitle": "Thesis Res: Undergrad"
+        },
+        {
+            "catalogTitle": "CH EN 4975",
+            "section": "001",
+            "courseTitle": "Chem Engr Clinic"
+        },
+        {
+            "catalogTitle": "CH EN 4975",
+            "section": "002",
+            "courseTitle": "Chem Engr Clinic"
+        },
+        {
+            "catalogTitle": "CH EN 4977",
+            "section": "001",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "CH EN 4978",
+            "section": "001",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "CH EN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "CH EN 5103",
+            "section": "001",
+            "courseTitle": "Biochemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 5155",
+            "section": "001",
+            "courseTitle": "Reservoir Engineering"
+        },
+        {
+            "catalogTitle": "CH EN 5157",
+            "section": "001",
+            "courseTitle": "Production Eng I"
+        },
+        {
+            "catalogTitle": "CH EN 5159",
+            "section": "001",
+            "courseTitle": "Production Eng II"
+        },
+        {
+            "catalogTitle": "CH EN 5203",
+            "section": "001",
+            "courseTitle": "State Space Control"
+        },
+        {
+            "catalogTitle": "CH EN 5253",
+            "section": "001",
+            "courseTitle": "Process Design II"
+        },
+        {
+            "catalogTitle": "CH EN 5305",
+            "section": "001",
+            "courseTitle": "Air Pollution Control"
+        },
+        {
+            "catalogTitle": "CH EN 5810",
+            "section": "001",
+            "courseTitle": "Nanoscience"
+        },
+        {
+            "catalogTitle": "CH EN 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CH EN 5950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CH EN 5950",
+            "section": "003",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CH EN 5950",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CH EN 5960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "CH EN 6103",
+            "section": "001",
+            "courseTitle": "Biochemical Eng"
+        },
+        {
+            "catalogTitle": "CH EN 6155",
+            "section": "001",
+            "courseTitle": "Reservoir Engineering"
+        },
+        {
+            "catalogTitle": "CH EN 6157",
+            "section": "001",
+            "courseTitle": "Production Eng I"
+        },
+        {
+            "catalogTitle": "CH EN 6159",
+            "section": "001",
+            "courseTitle": "Production Eng II"
+        },
+        {
+            "catalogTitle": "CH EN 6203",
+            "section": "001",
+            "courseTitle": "State Space Control"
+        },
+        {
+            "catalogTitle": "CH EN 6253",
+            "section": "001",
+            "courseTitle": "Advanced Design"
+        },
+        {
+            "catalogTitle": "CH EN 6305",
+            "section": "001",
+            "courseTitle": "Air Pollution Control"
+        },
+        {
+            "catalogTitle": "CH EN 6355",
+            "section": "001",
+            "courseTitle": "Comp Fluid Dynamics"
+        },
+        {
+            "catalogTitle": "CH EN 6553",
+            "section": "001",
+            "courseTitle": "Chemical Reaction Eng"
+        },
+        {
+            "catalogTitle": "CH EN 6603",
+            "section": "001",
+            "courseTitle": "Multicomp Mass Transfer"
+        },
+        {
+            "catalogTitle": "CH EN 6810",
+            "section": "001",
+            "courseTitle": "Nanoscience"
+        },
+        {
+            "catalogTitle": "CH EN 6973",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CH EN 6973",
+            "section": "009",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CH EN 6973",
+            "section": "014",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CH EN 6983",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CH EN 7755",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "CH EN 7973",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "CH EN 7973",
+            "section": "019",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "CH EN 7973",
+            "section": "024",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "CH EN 7973",
+            "section": "029",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "CH EN 7983",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "CH EN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Phd"
+        },
+        {
+            "catalogTitle": "CH EN 7990",
+            "section": "002",
+            "courseTitle": "Cont Reg-Phd"
+        }
+    ]
+}

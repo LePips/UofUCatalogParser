@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 191",
+            "section": "001",
+            "courseTitle": "Linked In"
+        },
+        {
+            "catalogTitle": "LLBUS 208",
+            "section": "001",
+            "courseTitle": "Trading and Investing"
+        },
+        {
+            "catalogTitle": "LLBUS 219",
+            "section": "001",
+            "courseTitle": "Crowdfunding"
+        },
+        {
+            "catalogTitle": "LLBUS 220",
+            "section": "001",
+            "courseTitle": "Mastering Evernote"
+        },
+        {
+            "catalogTitle": "LLBUS 221",
+            "section": "001",
+            "courseTitle": "Coding for Rookies"
+        }
+    ]
+}

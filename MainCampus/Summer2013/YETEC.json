@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YETEC 50",
+            "section": "001",
+            "courseTitle": "Graphic Art (Age 10-12)"
+        },
+        {
+            "catalogTitle": "YETEC 55",
+            "section": "001",
+            "courseTitle": "Illustrator & InDesign (11-13)"
+        },
+        {
+            "catalogTitle": "YETEC 56",
+            "section": "001",
+            "courseTitle": "Photoshop & Fireworks (11-13)"
+        },
+        {
+            "catalogTitle": "YETEC 64",
+            "section": "001",
+            "courseTitle": "Photo Frenzy! (Age 12-18)"
+        },
+        {
+            "catalogTitle": "YETEC 100",
+            "section": "001",
+            "courseTitle": "Dreamweaver (Age 12-14)"
+        },
+        {
+            "catalogTitle": "YETEC 110",
+            "section": "001",
+            "courseTitle": "Flash Animation (Age 12-14)"
+        },
+        {
+            "catalogTitle": "YETEC 117",
+            "section": "001",
+            "courseTitle": "World of Webpages (Age 11-13)"
+        },
+        {
+            "catalogTitle": "YETEC 119",
+            "section": "001",
+            "courseTitle": "Mobile Game Studio (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 119",
+            "section": "002",
+            "courseTitle": "Mobile Game Studio (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 149",
+            "section": "001",
+            "courseTitle": "Computer Comics (Age 9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 150",
+            "section": "001",
+            "courseTitle": "Build Adventure (Age 9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 151",
+            "section": "001",
+            "courseTitle": "Beginning Arcade Prog (9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 151",
+            "section": "002",
+            "courseTitle": "Beginning Arcade Prog (9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 152",
+            "section": "001",
+            "courseTitle": "Arcade Programming (12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 200",
+            "section": "001",
+            "courseTitle": "Junior High (Age 9-11)"
+        },
+        {
+            "catalogTitle": "YETEC 200",
+            "section": "003",
+            "courseTitle": "Junior High (Age 9-11)"
+        },
+        {
+            "catalogTitle": "YETEC 305",
+            "section": "001",
+            "courseTitle": "Java Programming (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 305",
+            "section": "002",
+            "courseTitle": "Java Programming (Age 12-16)"
+        }
+    ]
+}

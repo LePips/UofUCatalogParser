@@ -1,0 +1,239 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 125",
+            "section": "001",
+            "courseTitle": "Reasning/Rational Decision Mkg"
+        },
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "001",
+            "courseTitle": "Intro Survey Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "002",
+            "courseTitle": "Intro Survey Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "090",
+            "courseTitle": "Intro Survey Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1002",
+            "section": "001",
+            "courseTitle": "Intr God Faith & Reason"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "001",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 3011",
+            "section": "001",
+            "courseTitle": "The Social Contract"
+        },
+        {
+            "catalogTitle": "PHIL 3013",
+            "section": "001",
+            "courseTitle": "Intro 20th Cent Analytic Philo"
+        },
+        {
+            "catalogTitle": "PHIL 3080",
+            "section": "001",
+            "courseTitle": "Phil Issues Feminism"
+        },
+        {
+            "catalogTitle": "PHIL 3200",
+            "section": "001",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 3300",
+            "section": "001",
+            "courseTitle": "Theory Of Knowledge"
+        },
+        {
+            "catalogTitle": "PHIL 3350",
+            "section": "001",
+            "courseTitle": "Hist & Phil Science"
+        },
+        {
+            "catalogTitle": "PHIL 3370",
+            "section": "001",
+            "courseTitle": "Philosophy of Biology"
+        },
+        {
+            "catalogTitle": "PHIL 3440",
+            "section": "001",
+            "courseTitle": "Cognitive Science"
+        },
+        {
+            "catalogTitle": "PHIL 3500",
+            "section": "001",
+            "courseTitle": "Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "001",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "002",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "001",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "090",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3600",
+            "section": "001",
+            "courseTitle": "Phil Of Religion"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "002",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "090",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3700",
+            "section": "001",
+            "courseTitle": "Political Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 3710",
+            "section": "001",
+            "courseTitle": "Phil Of Law"
+        },
+        {
+            "catalogTitle": "PHIL 3730",
+            "section": "001",
+            "courseTitle": "Justice & Int Affairs"
+        },
+        {
+            "catalogTitle": "PHIL 4010",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        },
+        {
+            "catalogTitle": "PHIL 4110",
+            "section": "001",
+            "courseTitle": "Ancient Greek Philosoph"
+        },
+        {
+            "catalogTitle": "PHIL 4450",
+            "section": "001",
+            "courseTitle": "Philosophy of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 4480",
+            "section": "001",
+            "courseTitle": "Philosophy of Language"
+        },
+        {
+            "catalogTitle": "PHIL 5193",
+            "section": "001",
+            "courseTitle": "Philosophy of Nietzsche"
+        },
+        {
+            "catalogTitle": "PHIL 5220",
+            "section": "001",
+            "courseTitle": "Rational Choice Theory"
+        },
+        {
+            "catalogTitle": "PHIL 5400",
+            "section": "001",
+            "courseTitle": "Metaphysics"
+        },
+        {
+            "catalogTitle": "PHIL 5700",
+            "section": "001",
+            "courseTitle": "Adv Politcl Phil"
+        },
+        {
+            "catalogTitle": "PHIL 6193",
+            "section": "001",
+            "courseTitle": "Philosophy of Nietzsche"
+        },
+        {
+            "catalogTitle": "PHIL 6220",
+            "section": "001",
+            "courseTitle": "Rational Choice Theory"
+        },
+        {
+            "catalogTitle": "PHIL 6400",
+            "section": "001",
+            "courseTitle": "Metaphysics"
+        },
+        {
+            "catalogTitle": "PHIL 6700",
+            "section": "001",
+            "courseTitle": "Adv Politcl Phil"
+        },
+        {
+            "catalogTitle": "PHIL 6920",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "PHIL 6970",
+            "section": "004",
+            "courseTitle": "MA/MS Thesis Research"
+        },
+        {
+            "catalogTitle": "PHIL 7010",
+            "section": "001",
+            "courseTitle": "Proseminar"
+        },
+        {
+            "catalogTitle": "PHIL 7020",
+            "section": "001",
+            "courseTitle": "Sem Phil Traditions"
+        },
+        {
+            "catalogTitle": "PHIL 7570",
+            "section": "001",
+            "courseTitle": "Research Ethics"
+        }
+    ]
+}

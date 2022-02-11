@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LANG 1020",
+            "section": "001",
+            "courseTitle": "Beginning Hindi II"
+        },
+        {
+            "catalogTitle": "LANG 2900",
+            "section": "001",
+            "courseTitle": "Intermediate Hindi II"
+        },
+        {
+            "catalogTitle": "LANG 4900",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "LANG 5410",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LANG 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

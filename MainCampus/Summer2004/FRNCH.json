@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FRNCH 101",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 102",
+            "section": "001",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 260",
+            "section": "001",
+            "courseTitle": "Int. Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 1010",
+            "section": "001",
+            "courseTitle": "Beg French I"
+        },
+        {
+            "catalogTitle": "FRNCH 1020",
+            "section": "001",
+            "courseTitle": "Beg French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2010",
+            "section": "001",
+            "courseTitle": "Intrm French I"
+        },
+        {
+            "catalogTitle": "FRNCH 2020",
+            "section": "001",
+            "courseTitle": "Intrm French II"
+        },
+        {
+            "catalogTitle": "FRNCH 2600",
+            "section": "001",
+            "courseTitle": "Int. Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 2600",
+            "section": "002",
+            "courseTitle": "Int. Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3600",
+            "section": "001",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3600",
+            "section": "002",
+            "courseTitle": "French Conversation"
+        },
+        {
+            "catalogTitle": "FRNCH 3800",
+            "section": "001",
+            "courseTitle": "Fr. Lit/Translation"
+        },
+        {
+            "catalogTitle": "FRNCH 4880",
+            "section": "003",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "FRNCH 7900",
+            "section": "001",
+            "courseTitle": "French for Reading Comprehensi"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 364",
+            "section": "090",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1000",
+            "section": "090",
+            "courseTitle": "Intro Survey Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3530",
+            "section": "090",
+            "courseTitle": "Environmental Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "070",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 3640",
+            "section": "090",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 5192",
+            "section": "001",
+            "courseTitle": "Phil of Biology at the Mount"
+        },
+        {
+            "catalogTitle": "PHIL 5192",
+            "section": "002",
+            "courseTitle": "Rsch Reproducibility in Scienc"
+        },
+        {
+            "catalogTitle": "PHIL 6192",
+            "section": "001",
+            "courseTitle": "Phil of Biology at the Mount"
+        },
+        {
+            "catalogTitle": "PHIL 6192",
+            "section": "002",
+            "courseTitle": "Research Reproducib in Science"
+        }
+    ]
+}

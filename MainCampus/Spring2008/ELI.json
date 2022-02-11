@@ -1,0 +1,474 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELI 2",
+            "section": "004",
+            "courseTitle": "Basic Listening and Speaking"
+        },
+        {
+            "catalogTitle": "ELI 20",
+            "section": "001",
+            "courseTitle": "Writing & Grammar"
+        },
+        {
+            "catalogTitle": "ELI 20",
+            "section": "003",
+            "courseTitle": "Writing & Grammar"
+        },
+        {
+            "catalogTitle": "ELI 21",
+            "section": "001",
+            "courseTitle": "Listen/Speak/Read/Pronounce"
+        },
+        {
+            "catalogTitle": "ELI 21",
+            "section": "003",
+            "courseTitle": "Listen/Speak/Read/Pronounce"
+        },
+        {
+            "catalogTitle": "ELI 25",
+            "section": "002",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 25",
+            "section": "003",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 25",
+            "section": "004",
+            "courseTitle": "TOEFL Preparation"
+        },
+        {
+            "catalogTitle": "ELI 26",
+            "section": "001",
+            "courseTitle": "TOEIC PREP"
+        },
+        {
+            "catalogTitle": "ELI 26",
+            "section": "002",
+            "courseTitle": "TOEIC PREP"
+        },
+        {
+            "catalogTitle": "ELI 26",
+            "section": "003",
+            "courseTitle": "TOEIC PREP"
+        },
+        {
+            "catalogTitle": "ELI 26",
+            "section": "004",
+            "courseTitle": "TOEIC PREP"
+        },
+        {
+            "catalogTitle": "ELI 30",
+            "section": "002",
+            "courseTitle": "Writing & Grammar"
+        },
+        {
+            "catalogTitle": "ELI 31",
+            "section": "001",
+            "courseTitle": "Listen/Speak/Read/Pronounce"
+        },
+        {
+            "catalogTitle": "ELI 31",
+            "section": "002",
+            "courseTitle": "Listen/Speak/Read/Pronounce"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "001",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "002",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "003",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "004",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "005",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "006",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 34",
+            "section": "001",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 34",
+            "section": "002",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 34",
+            "section": "003",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "002",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "003",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 81",
+            "section": "004",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "ELI 460",
+            "section": "001",
+            "courseTitle": "Functional Comm."
+        },
+        {
+            "catalogTitle": "ELI 460",
+            "section": "002",
+            "courseTitle": "Functional Comm."
+        },
+        {
+            "catalogTitle": "ELI 460",
+            "section": "004",
+            "courseTitle": "Functional Comm."
+        },
+        {
+            "catalogTitle": "ELI 465",
+            "section": "002",
+            "courseTitle": "Writing 4"
+        },
+        {
+            "catalogTitle": "ELI 465",
+            "section": "004",
+            "courseTitle": "Writing 4"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "001",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "002",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "003",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 466",
+            "section": "004",
+            "courseTitle": "Grammar 4"
+        },
+        {
+            "catalogTitle": "ELI 468",
+            "section": "002",
+            "courseTitle": "Reading/Vocabulary"
+        },
+        {
+            "catalogTitle": "ELI 468",
+            "section": "004",
+            "courseTitle": "Reading/Vocabulary"
+        },
+        {
+            "catalogTitle": "ELI 575",
+            "section": "001",
+            "courseTitle": "Writing For Acad Purp I"
+        },
+        {
+            "catalogTitle": "ELI 575",
+            "section": "002",
+            "courseTitle": "Writing For Acad Purp I"
+        },
+        {
+            "catalogTitle": "ELI 575",
+            "section": "004",
+            "courseTitle": "Writing For Acad Purp I"
+        },
+        {
+            "catalogTitle": "ELI 579",
+            "section": "002",
+            "courseTitle": "High Int. Grammar A"
+        },
+        {
+            "catalogTitle": "ELI 579",
+            "section": "003",
+            "courseTitle": "High Int. Grammar A"
+        },
+        {
+            "catalogTitle": "ELI 579",
+            "section": "004",
+            "courseTitle": "High Int. Grammar A"
+        },
+        {
+            "catalogTitle": "ELI 586",
+            "section": "002",
+            "courseTitle": "Reading Vocabulary V"
+        },
+        {
+            "catalogTitle": "ELI 586",
+            "section": "004",
+            "courseTitle": "Reading Vocabulary V"
+        },
+        {
+            "catalogTitle": "ELI 587",
+            "section": "002",
+            "courseTitle": "Listen/Speaking V"
+        },
+        {
+            "catalogTitle": "ELI 587",
+            "section": "004",
+            "courseTitle": "Listen/Speaking V"
+        },
+        {
+            "catalogTitle": "ELI 588",
+            "section": "001",
+            "courseTitle": "Listen/Speak in Community"
+        },
+        {
+            "catalogTitle": "ELI 588",
+            "section": "002",
+            "courseTitle": "Listen/Speak in Community"
+        },
+        {
+            "catalogTitle": "ELI 588",
+            "section": "003",
+            "courseTitle": "Listen/Speak in Community"
+        },
+        {
+            "catalogTitle": "ELI 588",
+            "section": "004",
+            "courseTitle": "Listen/Speak in Community"
+        },
+        {
+            "catalogTitle": "ELI 680",
+            "section": "001",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 680",
+            "section": "002",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 680",
+            "section": "003",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 680",
+            "section": "004",
+            "courseTitle": "American Novel"
+        },
+        {
+            "catalogTitle": "ELI 682",
+            "section": "002",
+            "courseTitle": "Speaking Solution"
+        },
+        {
+            "catalogTitle": "ELI 682",
+            "section": "004",
+            "courseTitle": "Speaking Solution"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "001",
+            "courseTitle": "Rd/Wrtg Acad Purps II"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "002",
+            "courseTitle": "Rd/Wrtg Acad Purps II"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "003",
+            "courseTitle": "Rd/Wrtg Acad Purps II"
+        },
+        {
+            "catalogTitle": "ELI 685",
+            "section": "004",
+            "courseTitle": "Rd/Wrtg Acad Purps II"
+        },
+        {
+            "catalogTitle": "ELI 697",
+            "section": "001",
+            "courseTitle": "High Int. Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 697",
+            "section": "002",
+            "courseTitle": "High Int. Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 697",
+            "section": "004",
+            "courseTitle": "High Int. Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 769",
+            "section": "001",
+            "courseTitle": "Pronunciation"
+        },
+        {
+            "catalogTitle": "ELI 769",
+            "section": "002",
+            "courseTitle": "Pronunciation"
+        },
+        {
+            "catalogTitle": "ELI 776",
+            "section": "002",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ELI 776",
+            "section": "003",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ELI 776",
+            "section": "004",
+            "courseTitle": "College Success"
+        },
+        {
+            "catalogTitle": "ELI 785",
+            "section": "002",
+            "courseTitle": "Reading/Writing Acad Purp III"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "001",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "002",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "003",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 792",
+            "section": "004",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 793",
+            "section": "001",
+            "courseTitle": "Advanced Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 793",
+            "section": "002",
+            "courseTitle": "Advanced Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 797",
+            "section": "002",
+            "courseTitle": "Advanced Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 797",
+            "section": "004",
+            "courseTitle": "Advanced Grammar B"
+        },
+        {
+            "catalogTitle": "ELI 876",
+            "section": "001",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 876",
+            "section": "002",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 876",
+            "section": "003",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 876",
+            "section": "004",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 884",
+            "section": "002",
+            "courseTitle": "Intercultural Communication"
+        },
+        {
+            "catalogTitle": "ELI 885",
+            "section": "002",
+            "courseTitle": "Read/Write For Acad Purp IV"
+        },
+        {
+            "catalogTitle": "ELI 885",
+            "section": "004",
+            "courseTitle": "Read/Write For Acad Purp IV"
+        },
+        {
+            "catalogTitle": "ELI 889",
+            "section": "002",
+            "courseTitle": "Business English"
+        },
+        {
+            "catalogTitle": "ELI 892",
+            "section": "003",
+            "courseTitle": "Oral Proficiency II"
+        },
+        {
+            "catalogTitle": "ELI 892",
+            "section": "004",
+            "courseTitle": "Oral Proficiency II"
+        },
+        {
+            "catalogTitle": "ELI 893",
+            "section": "004",
+            "courseTitle": "American History"
+        },
+        {
+            "catalogTitle": "ELI 897",
+            "section": "002",
+            "courseTitle": "Advanced Grammar"
+        },
+        {
+            "catalogTitle": "ELI 999",
+            "section": "001",
+            "courseTitle": "Graduate School Preparation"
+        },
+        {
+            "catalogTitle": "ELI 999",
+            "section": "002",
+            "courseTitle": "Graduate School Preparation"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MGT 3000",
+            "section": "001",
+            "courseTitle": "Princpl of Management"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "001",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "002",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "003",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "004",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3680",
+            "section": "005",
+            "courseTitle": "Human Behavior-Orgn"
+        },
+        {
+            "catalogTitle": "MGT 3681",
+            "section": "001",
+            "courseTitle": "Honors Human Behavior"
+        },
+        {
+            "catalogTitle": "MGT 3710",
+            "section": "001",
+            "courseTitle": "Sustainability Leaders"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "001",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "002",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "003",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "004",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "005",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "006",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "007",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "008",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "009",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "010",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "090",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3810",
+            "section": "091",
+            "courseTitle": "Bus & Prof Comm"
+        },
+        {
+            "catalogTitle": "MGT 3815",
+            "section": "001",
+            "courseTitle": "Bus. Schol. Prof. Comm"
+        },
+        {
+            "catalogTitle": "MGT 3815",
+            "section": "003",
+            "courseTitle": "Bus. Schol. Prof. Comm"
+        },
+        {
+            "catalogTitle": "MGT 3815",
+            "section": "004",
+            "courseTitle": "Bus. Schol. Prof. Comm"
+        },
+        {
+            "catalogTitle": "MGT 4900",
+            "section": "001",
+            "courseTitle": "Intntl Management"
+        },
+        {
+            "catalogTitle": "MGT 4999",
+            "section": "001",
+            "courseTitle": "Mgt Hon Thesis"
+        },
+        {
+            "catalogTitle": "MGT 4999",
+            "section": "002",
+            "courseTitle": "Mgt Hon Thesis"
+        },
+        {
+            "catalogTitle": "MGT 5500",
+            "section": "001",
+            "courseTitle": "Lead Thru Emotion Intel"
+        },
+        {
+            "catalogTitle": "MGT 5600",
+            "section": "001",
+            "courseTitle": "Business Ethics"
+        },
+        {
+            "catalogTitle": "MGT 5810",
+            "section": "001",
+            "courseTitle": "Mang Div in Org"
+        },
+        {
+            "catalogTitle": "MGT 5880",
+            "section": "001",
+            "courseTitle": "Management Internship"
+        },
+        {
+            "catalogTitle": "MGT 6500",
+            "section": "001",
+            "courseTitle": "Managerial Negotiation"
+        },
+        {
+            "catalogTitle": "MGT 6530",
+            "section": "001",
+            "courseTitle": "Comp Adv Thru People"
+        },
+        {
+            "catalogTitle": "MGT 6780",
+            "section": "001",
+            "courseTitle": "Non-Profit Consulting"
+        },
+        {
+            "catalogTitle": "MGT 6790",
+            "section": "090",
+            "courseTitle": "International Mgt"
+        },
+        {
+            "catalogTitle": "MGT 7810",
+            "section": "002",
+            "courseTitle": "Organizational Behavior"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "001",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "002",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "003",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7910",
+            "section": "004",
+            "courseTitle": "Grad Special Study-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MGT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MGT 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

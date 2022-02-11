@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "001",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2030",
+            "section": "001",
+            "courseTitle": "Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 3400",
+            "section": "001",
+            "courseTitle": "Prof Comm for MEs"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "001",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "002",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "003",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "001",
+            "courseTitle": "Design of Experiments"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "002",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "003",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "001",
+            "courseTitle": "Design of Experiments"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "005",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "006",
+            "courseTitle": "Advanced Machining"
+        }
+    ]
+}

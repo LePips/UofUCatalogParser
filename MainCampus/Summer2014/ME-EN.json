@@ -1,0 +1,159 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ME EN 1300",
+            "section": "001",
+            "courseTitle": "Statics/Strength"
+        },
+        {
+            "catalogTitle": "ME EN 2020",
+            "section": "001",
+            "courseTitle": "Particle Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2080",
+            "section": "001",
+            "courseTitle": "Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2300",
+            "section": "001",
+            "courseTitle": "Thermodynamics I"
+        },
+        {
+            "catalogTitle": "ME EN 2655",
+            "section": "002",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 2655",
+            "section": "003",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 2655",
+            "section": "004",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 2655",
+            "section": "006",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 2655",
+            "section": "007",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 2655",
+            "section": "008",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 2660",
+            "section": "001",
+            "courseTitle": "Machining Laboratory"
+        },
+        {
+            "catalogTitle": "ME EN 2660",
+            "section": "002",
+            "courseTitle": "Machining Laboratory"
+        },
+        {
+            "catalogTitle": "ME EN 5510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "079",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "001",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5930",
+            "section": "001",
+            "courseTitle": "Undergrad Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "001",
+            "courseTitle": "Project Mgt in a Tech Environ"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "002",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "003",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 6510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6955",
+            "section": "001",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "001",
+            "courseTitle": "Manufacturing Practices"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "002",
+            "courseTitle": "Project Mgt in a Tech Environ"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "005",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "006",
+            "courseTitle": "Advanced Machining"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "001",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6980",
+            "section": "001",
+            "courseTitle": "Fac Consult, MS"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "001",
+            "courseTitle": "Fac Consultation, PhD"
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HONOR 2000",
+            "section": "001",
+            "courseTitle": "City as Text: SLC"
+        },
+        {
+            "catalogTitle": "HONOR 2020",
+            "section": "001",
+            "courseTitle": "First Year Colloquium"
+        },
+        {
+            "catalogTitle": "HONOR 2050",
+            "section": "001",
+            "courseTitle": "Engaging a Great Univ"
+        },
+        {
+            "catalogTitle": "HONOR 2101",
+            "section": "001",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2101",
+            "section": "003",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2101",
+            "section": "004",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2101",
+            "section": "005",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2102",
+            "section": "001",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2102",
+            "section": "002",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2102",
+            "section": "003",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2102",
+            "section": "004",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2103",
+            "section": "001",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2103",
+            "section": "002",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2103",
+            "section": "003",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2103",
+            "section": "004",
+            "courseTitle": "Honors Core in Int Trad"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "002",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "003",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "004",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "005",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "006",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "007",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "008",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2211",
+            "section": "009",
+            "courseTitle": "Writing In Honors"
+        },
+        {
+            "catalogTitle": "HONOR 2212",
+            "section": "001",
+            "courseTitle": "American Institutions"
+        },
+        {
+            "catalogTitle": "HONOR 2212",
+            "section": "002",
+            "courseTitle": "American Institutions"
+        },
+        {
+            "catalogTitle": "HONOR 2300",
+            "section": "001",
+            "courseTitle": "Outdoor Rec & Ldrshp"
+        },
+        {
+            "catalogTitle": "HONOR 2600",
+            "section": "001",
+            "courseTitle": "Science & Storytelling"
+        },
+        {
+            "catalogTitle": "HONOR 2800",
+            "section": "001",
+            "courseTitle": "Exploring Science"
+        },
+        {
+            "catalogTitle": "HONOR 2900",
+            "section": "001",
+            "courseTitle": "Professional Negotiation"
+        },
+        {
+            "catalogTitle": "HONOR 2900",
+            "section": "002",
+            "courseTitle": "Dispute Resolution"
+        },
+        {
+            "catalogTitle": "HONOR 2900",
+            "section": "003",
+            "courseTitle": "Interpersonal Negotiation"
+        },
+        {
+            "catalogTitle": "HONOR 3050",
+            "section": "001",
+            "courseTitle": "Innovation Roadmap"
+        },
+        {
+            "catalogTitle": "HONOR 3051",
+            "section": "001",
+            "courseTitle": "Innovation Scholar Port"
+        },
+        {
+            "catalogTitle": "HONOR 3100",
+            "section": "001",
+            "courseTitle": "Life through the Lens"
+        },
+        {
+            "catalogTitle": "HONOR 3101",
+            "section": "001",
+            "courseTitle": "Honors People Place I"
+        },
+        {
+            "catalogTitle": "HONOR 3200",
+            "section": "001",
+            "courseTitle": "Research University"
+        },
+        {
+            "catalogTitle": "HONOR 3200",
+            "section": "002",
+            "courseTitle": "Research University"
+        },
+        {
+            "catalogTitle": "HONOR 3200",
+            "section": "003",
+            "courseTitle": "Research University"
+        },
+        {
+            "catalogTitle": "HONOR 3200",
+            "section": "004",
+            "courseTitle": "Research University"
+        },
+        {
+            "catalogTitle": "HONOR 3210",
+            "section": "001",
+            "courseTitle": "Travel Writing"
+        },
+        {
+            "catalogTitle": "HONOR 3214",
+            "section": "002",
+            "courseTitle": "Civil Rights Law"
+        },
+        {
+            "catalogTitle": "HONOR 3400",
+            "section": "001",
+            "courseTitle": "Planets & Pedagogy"
+        },
+        {
+            "catalogTitle": "HONOR 3530",
+            "section": "001",
+            "courseTitle": "U.S. Latino Diaspora"
+        },
+        {
+            "catalogTitle": "HONOR 3700",
+            "section": "001",
+            "courseTitle": "Local Food & Human Diet"
+        },
+        {
+            "catalogTitle": "HONOR 3700",
+            "section": "002",
+            "courseTitle": "Energy & Environment"
+        },
+        {
+            "catalogTitle": "HONOR 3700",
+            "section": "003",
+            "courseTitle": "Culture & Mental Health"
+        },
+        {
+            "catalogTitle": "HONOR 3910",
+            "section": "001",
+            "courseTitle": "Construct Ideal Human"
+        },
+        {
+            "catalogTitle": "HONOR 3920",
+            "section": "002",
+            "courseTitle": "Cinderella, Inc."
+        },
+        {
+            "catalogTitle": "HONOR 3920",
+            "section": "003",
+            "courseTitle": "From Campus to Laboratory"
+        },
+        {
+            "catalogTitle": "HONOR 3950",
+            "section": "001",
+            "courseTitle": "Muslim Women's Voices"
+        },
+        {
+            "catalogTitle": "HONOR 4473",
+            "section": "001",
+            "courseTitle": "Composing a Community"
+        },
+        {
+            "catalogTitle": "HONOR 4790",
+            "section": "001",
+            "courseTitle": "American Religions"
+        }
+    ]
+}

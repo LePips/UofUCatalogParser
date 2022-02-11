@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "301",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "302",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1040",
+            "section": "301",
+            "courseTitle": "Intro Stat/Probability"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "301",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "302",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1310",
+            "section": "301",
+            "courseTitle": "Engineering Calculus I"
+        }
+    ]
+}

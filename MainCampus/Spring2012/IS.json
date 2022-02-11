@@ -1,0 +1,274 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 2010",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "003",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "004",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "005",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "006",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "007",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "008",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "009",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "090",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 2010",
+            "section": "091",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "003",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "004",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4415",
+            "section": "001",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "002",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4430",
+            "section": "001",
+            "courseTitle": "Process Analysis"
+        },
+        {
+            "catalogTitle": "IS 4440",
+            "section": "001",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 4460",
+            "section": "002",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 4470",
+            "section": "001",
+            "courseTitle": "Telecom & Security"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "001",
+            "courseTitle": "IS Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "002",
+            "courseTitle": "IS Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "003",
+            "courseTitle": "IS Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "004",
+            "courseTitle": "IS Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 6010",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 6465",
+            "section": "001",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 6471",
+            "section": "001",
+            "courseTitle": "Emerging Web Tech & Stg"
+        },
+        {
+            "catalogTitle": "IS 6570",
+            "section": "001",
+            "courseTitle": "IT Security"
+        },
+        {
+            "catalogTitle": "IS 6572",
+            "section": "001",
+            "courseTitle": "Network Defense"
+        },
+        {
+            "catalogTitle": "IS 6596",
+            "section": "001",
+            "courseTitle": "Master's Project I"
+        },
+        {
+            "catalogTitle": "IS 6597",
+            "section": "001",
+            "courseTitle": "Master's Project II"
+        },
+        {
+            "catalogTitle": "IS 6615",
+            "section": "001",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 6640",
+            "section": "001",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "001",
+            "courseTitle": "Mobile Applications"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "002",
+            "courseTitle": "Web Analytics"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "001",
+            "courseTitle": "IS/IT Certification"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "002",
+            "courseTitle": "Ad and Apache"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "003",
+            "courseTitle": "Backtrack 4"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "004",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "005",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "006",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "007",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "008",
+            "courseTitle": "IT Pentest & Protection"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "009",
+            "courseTitle": "Corporate Fraud: Prev & Detect"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "010",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "011",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "012",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "014",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 6910",
+            "section": "015",
+            "courseTitle": "Ss Masters Students"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "001",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration PhD"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGL 2085",
+            "section": "290",
+            "courseTitle": "Digital Culture"
+        },
+        {
+            "catalogTitle": "ENGL 2090",
+            "section": "290",
+            "courseTitle": "Video Game Storytelling"
+        },
+        {
+            "catalogTitle": "ENGL 2095",
+            "section": "290",
+            "courseTitle": "Lit. by the Numbers"
+        },
+        {
+            "catalogTitle": "ENGL 2220",
+            "section": "290",
+            "courseTitle": "Novels And Films"
+        },
+        {
+            "catalogTitle": "ENGL 2235",
+            "section": "290",
+            "courseTitle": "Fantasy"
+        }
+    ]
+}

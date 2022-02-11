@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction I"
+        },
+        {
+            "catalogTitle": "LLWRC 779",
+            "section": "001",
+            "courseTitle": "Read Like a Writer"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "001",
+            "courseTitle": "Creative Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 787",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction II"
+        },
+        {
+            "catalogTitle": "LLWRC 812",
+            "section": "001",
+            "courseTitle": "Grammar & Punctuation"
+        },
+        {
+            "catalogTitle": "LLWRC 826",
+            "section": "001",
+            "courseTitle": "Secrets of Screenwriting"
+        },
+        {
+            "catalogTitle": "LLWRC 842",
+            "section": "001",
+            "courseTitle": "Creative Writing Bootcamp"
+        },
+        {
+            "catalogTitle": "LLWRC 852",
+            "section": "001",
+            "courseTitle": "Historical Fiction"
+        },
+        {
+            "catalogTitle": "LLWRC 853",
+            "section": "001",
+            "courseTitle": "Songwriting 101"
+        }
+    ]
+}

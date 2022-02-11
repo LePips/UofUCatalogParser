@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLHG 460",
+            "section": "001",
+            "courseTitle": "Beginning Upholstery"
+        },
+        {
+            "catalogTitle": "LLHG 465",
+            "section": "001",
+            "courseTitle": "Furniture Refinishing"
+        },
+        {
+            "catalogTitle": "LLHG 469",
+            "section": "001",
+            "courseTitle": "Art of Framing"
+        },
+        {
+            "catalogTitle": "LLHG 500",
+            "section": "001",
+            "courseTitle": "Design W/ Fresh Flowers"
+        },
+        {
+            "catalogTitle": "LLHG 504",
+            "section": "001",
+            "courseTitle": "Herb Gardening"
+        }
+    ]
+}

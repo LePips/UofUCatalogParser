@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "STAT 5969",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "001",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "002",
+            "courseTitle": "Independent Project"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "090",
+            "courseTitle": "Spec Topic in Stat"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "091",
+            "courseTitle": "Spec Topic in Stat"
+        }
+    ]
+}

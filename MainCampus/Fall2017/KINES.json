@@ -1,0 +1,314 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "KINES 320",
+            "section": "090",
+            "courseTitle": "Introduction to Coaching"
+        },
+        {
+            "catalogTitle": "KINES 444",
+            "section": "001",
+            "courseTitle": "Exercise Instructor"
+        },
+        {
+            "catalogTitle": "KINES 2500",
+            "section": "001",
+            "courseTitle": "Explore Movement Sci"
+        },
+        {
+            "catalogTitle": "KINES 2500",
+            "section": "090",
+            "courseTitle": "Explore Movement Sci"
+        },
+        {
+            "catalogTitle": "KINES 2600",
+            "section": "090",
+            "courseTitle": "Sport-Amer Society"
+        },
+        {
+            "catalogTitle": "KINES 3091",
+            "section": "001",
+            "courseTitle": "Exercise Physiology"
+        },
+        {
+            "catalogTitle": "KINES 3091",
+            "section": "002",
+            "courseTitle": "Exercise Physiology"
+        },
+        {
+            "catalogTitle": "KINES 3092",
+            "section": "001",
+            "courseTitle": "Kinesiology"
+        },
+        {
+            "catalogTitle": "KINES 3200",
+            "section": "090",
+            "courseTitle": "Intro to Coaching"
+        },
+        {
+            "catalogTitle": "KINES 3340",
+            "section": "001",
+            "courseTitle": "Sport Psychology"
+        },
+        {
+            "catalogTitle": "KINES 3350",
+            "section": "001",
+            "courseTitle": "Exercise Psychology"
+        },
+        {
+            "catalogTitle": "KINES 3670",
+            "section": "001",
+            "courseTitle": "PA Epidemiology"
+        },
+        {
+            "catalogTitle": "KINES 3710",
+            "section": "001",
+            "courseTitle": "Elementary Methods"
+        },
+        {
+            "catalogTitle": "KINES 3710",
+            "section": "002",
+            "courseTitle": "Elementary Methods"
+        },
+        {
+            "catalogTitle": "KINES 4301",
+            "section": "001",
+            "courseTitle": "Exercise Physl Lab"
+        },
+        {
+            "catalogTitle": "KINES 4301",
+            "section": "002",
+            "courseTitle": "Exercise Physl Lab"
+        },
+        {
+            "catalogTitle": "KINES 4301",
+            "section": "003",
+            "courseTitle": "Exercise Physl Lab"
+        },
+        {
+            "catalogTitle": "KINES 4464",
+            "section": "001",
+            "courseTitle": "Exercise Instructor"
+        },
+        {
+            "catalogTitle": "KINES 4465",
+            "section": "001",
+            "courseTitle": "ExProg:Assess & Deliver"
+        },
+        {
+            "catalogTitle": "KINES 4466",
+            "section": "001",
+            "courseTitle": "Applied Ex Programming"
+        },
+        {
+            "catalogTitle": "KINES 4466",
+            "section": "002",
+            "courseTitle": "Applied Ex Programming"
+        },
+        {
+            "catalogTitle": "KINES 4610",
+            "section": "001",
+            "courseTitle": "Improve Behav. & Skill"
+        },
+        {
+            "catalogTitle": "KINES 4670",
+            "section": "001",
+            "courseTitle": "Aging and Exercise"
+        },
+        {
+            "catalogTitle": "KINES 4690",
+            "section": "001",
+            "courseTitle": "Training Planning"
+        },
+        {
+            "catalogTitle": "KINES 4710",
+            "section": "001",
+            "courseTitle": "Teaching Secondary PE"
+        },
+        {
+            "catalogTitle": "KINES 4800",
+            "section": "001",
+            "courseTitle": "Practicum Fitnss Ldrshp"
+        },
+        {
+            "catalogTitle": "KINES 4800",
+            "section": "051",
+            "courseTitle": "Practicum Fitnss Ldrshp"
+        },
+        {
+            "catalogTitle": "KINES 4810",
+            "section": "001",
+            "courseTitle": "Supervised Internship"
+        },
+        {
+            "catalogTitle": "KINES 4900",
+            "section": "001",
+            "courseTitle": "Promoting PA in Comm"
+        },
+        {
+            "catalogTitle": "KINES 4900",
+            "section": "002",
+            "courseTitle": "Promoting PA in Comm"
+        },
+        {
+            "catalogTitle": "KINES 4910",
+            "section": "001",
+            "courseTitle": "Intern Sp PE"
+        },
+        {
+            "catalogTitle": "KINES 4920",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "KINES 4921",
+            "section": "001",
+            "courseTitle": "Peer Tutoring"
+        },
+        {
+            "catalogTitle": "KINES 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "KINES 5830",
+            "section": "003",
+            "courseTitle": "Journal Readings"
+        },
+        {
+            "catalogTitle": "KINES 6010",
+            "section": "001",
+            "courseTitle": "Tech Behavior"
+        },
+        {
+            "catalogTitle": "KINES 6106",
+            "section": "090",
+            "courseTitle": "Intrdisc Teach in PE"
+        },
+        {
+            "catalogTitle": "KINES 6107",
+            "section": "090",
+            "courseTitle": "Adapted Physical Ed"
+        },
+        {
+            "catalogTitle": "KINES 6220",
+            "section": "001",
+            "courseTitle": "Teach Elem PE"
+        },
+        {
+            "catalogTitle": "KINES 6220",
+            "section": "002",
+            "courseTitle": "Teach Elem PE"
+        },
+        {
+            "catalogTitle": "KINES 6240",
+            "section": "001",
+            "courseTitle": "Teaching High School PE"
+        },
+        {
+            "catalogTitle": "KINES 6300",
+            "section": "001",
+            "courseTitle": "Adv Ex Phys I"
+        },
+        {
+            "catalogTitle": "KINES 6390",
+            "section": "001",
+            "courseTitle": "Biomechanics"
+        },
+        {
+            "catalogTitle": "KINES 6400",
+            "section": "001",
+            "courseTitle": "Strategies In Spec. Pe"
+        },
+        {
+            "catalogTitle": "KINES 6550",
+            "section": "001",
+            "courseTitle": "Interpreting Research"
+        },
+        {
+            "catalogTitle": "KINES 6700",
+            "section": "001",
+            "courseTitle": "Sport & Ex. Psych."
+        },
+        {
+            "catalogTitle": "KINES 6850",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "KINES 6910",
+            "section": "001",
+            "courseTitle": "Masters Internship"
+        },
+        {
+            "catalogTitle": "KINES 6911",
+            "section": "001",
+            "courseTitle": "Practical Exper I"
+        },
+        {
+            "catalogTitle": "KINES 6913",
+            "section": "001",
+            "courseTitle": "Practical Exper III"
+        },
+        {
+            "catalogTitle": "KINES 6951",
+            "section": "011",
+            "courseTitle": "Indp Stdy Resrch MS"
+        },
+        {
+            "catalogTitle": "KINES 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "KINES 7102",
+            "section": "001",
+            "courseTitle": "Intro Research Methods"
+        },
+        {
+            "catalogTitle": "KINES 7104",
+            "section": "001",
+            "courseTitle": "Design & Analysis II"
+        },
+        {
+            "catalogTitle": "KINES 7830",
+            "section": "001",
+            "courseTitle": "Journal Readings"
+        },
+        {
+            "catalogTitle": "KINES 7850",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "KINES 7920",
+            "section": "001",
+            "courseTitle": "Indep Stdy-Research PhD"
+        },
+        {
+            "catalogTitle": "KINES 7930",
+            "section": "001",
+            "courseTitle": "Doctoral Internship"
+        },
+        {
+            "catalogTitle": "KINES 7954",
+            "section": "001",
+            "courseTitle": "Prac. Eff. Tch. Doc."
+        },
+        {
+            "catalogTitle": "KINES 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "KINES 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult: PhD"
+        },
+        {
+            "catalogTitle": "KINES 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

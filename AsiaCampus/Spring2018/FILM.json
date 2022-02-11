@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 2100",
+            "section": "301",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 3411",
+            "section": "301",
+            "courseTitle": "Editing I"
+        },
+        {
+            "catalogTitle": "FILM 3500",
+            "section": "301",
+            "courseTitle": "Film Production I"
+        },
+        {
+            "catalogTitle": "FILM 3905",
+            "section": "301",
+            "courseTitle": "Dance for the Camera"
+        }
+    ]
+}

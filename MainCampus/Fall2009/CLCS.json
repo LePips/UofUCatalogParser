@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CLCS 360",
+            "section": "001",
+            "courseTitle": "What is Literature?"
+        },
+        {
+            "catalogTitle": "CLCS 2010",
+            "section": "001",
+            "courseTitle": "World Lit & Cult"
+        },
+        {
+            "catalogTitle": "CLCS 2010",
+            "section": "002",
+            "courseTitle": "World Lit & Cult"
+        },
+        {
+            "catalogTitle": "CLCS 3600",
+            "section": "001",
+            "courseTitle": "What Is Literature"
+        },
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "001",
+            "courseTitle": "The Hebrew Bible"
+        },
+        {
+            "catalogTitle": "CLCS 3900",
+            "section": "002",
+            "courseTitle": "Engineers of the Human Soul"
+        },
+        {
+            "catalogTitle": "CLCS 3960",
+            "section": "001",
+            "courseTitle": "Cultures in Contact"
+        },
+        {
+            "catalogTitle": "CLCS 4900",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "CLCS 4960",
+            "section": "001",
+            "courseTitle": "New Testament Studies"
+        },
+        {
+            "catalogTitle": "CLCS 4990",
+            "section": "001",
+            "courseTitle": "Lang and Lit Capstone"
+        },
+        {
+            "catalogTitle": "CLCS 4990",
+            "section": "002",
+            "courseTitle": "Lang and Lit Capstone"
+        },
+        {
+            "catalogTitle": "CLCS 4990",
+            "section": "003",
+            "courseTitle": "Lang and Lit Capstone"
+        },
+        {
+            "catalogTitle": "CLCS 6600",
+            "section": "001",
+            "courseTitle": "Intro Research/Biblio"
+        },
+        {
+            "catalogTitle": "CLCS 6680",
+            "section": "001",
+            "courseTitle": "Architecture of the Self"
+        },
+        {
+            "catalogTitle": "CLCS 6750",
+            "section": "001",
+            "courseTitle": "Trends in Comp Lit"
+        },
+        {
+            "catalogTitle": "CLCS 6880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "CLCS 6880",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MD CH 5990",
+            "section": "001",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "MD CH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MD CH 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MD CH 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "MD CH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-MS"
+        },
+        {
+            "catalogTitle": "MD CH 6980",
+            "section": "014",
+            "courseTitle": "Faculty Consult-MS"
+        },
+        {
+            "catalogTitle": "MD CH 7400",
+            "section": "001",
+            "courseTitle": "Secondary Met"
+        },
+        {
+            "catalogTitle": "MD CH 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MD CH 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "MD CH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult PhD"
+        },
+        {
+            "catalogTitle": "MD CH 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg PhD"
+        }
+    ]
+}

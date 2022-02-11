@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 652",
+            "section": "001",
+            "courseTitle": "Full Moon Snowshoe Hike"
+        },
+        {
+            "catalogTitle": "LLREC 663",
+            "section": "001",
+            "courseTitle": "Bike Repair I"
+        },
+        {
+            "catalogTitle": "LLREC 729",
+            "section": "001",
+            "courseTitle": "Bicycle Repair II"
+        },
+        {
+            "catalogTitle": "LLREC 731",
+            "section": "001",
+            "courseTitle": "Skate Skiing"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "002",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 781",
+            "section": "001",
+            "courseTitle": "Intermediate Golf Workshop"
+        },
+        {
+            "catalogTitle": "LLREC 792",
+            "section": "001",
+            "courseTitle": "Pistol Marksmanship"
+        },
+        {
+            "catalogTitle": "LLREC 793",
+            "section": "001",
+            "courseTitle": "Long Distance Backpacking"
+        },
+        {
+            "catalogTitle": "LLREC 798",
+            "section": "001",
+            "courseTitle": "Rifle Marksmanship"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "STRAT 3410",
+            "section": "001",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "STRAT 3410",
+            "section": "002",
+            "courseTitle": "Business Law-Commercial"
+        },
+        {
+            "catalogTitle": "STRAT 5700",
+            "section": "001",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "STRAT 5700",
+            "section": "002",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "STRAT 5700",
+            "section": "003",
+            "courseTitle": "Strategic Management"
+        },
+        {
+            "catalogTitle": "STRAT 6310",
+            "section": "090",
+            "courseTitle": "Business Law"
+        },
+        {
+            "catalogTitle": "STRAT 7910",
+            "section": "001",
+            "courseTitle": "Special Study: Ph.D."
+        },
+        {
+            "catalogTitle": "STRAT 7910",
+            "section": "002",
+            "courseTitle": "Special Study: Ph.D."
+        },
+        {
+            "catalogTitle": "STRAT 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "STRAT 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "STRAT 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "STRAT 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

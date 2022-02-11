@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "TURK 1010",
+            "section": "001",
+            "courseTitle": "Beginning Turkish I"
+        },
+        {
+            "catalogTitle": "TURK 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Turkish II"
+        },
+        {
+            "catalogTitle": "TURK 3020",
+            "section": "001",
+            "courseTitle": "Third Year Turkish II"
+        },
+        {
+            "catalogTitle": "TURK 6920",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "TURK 6920",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "TURK 6920",
+            "section": "003",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

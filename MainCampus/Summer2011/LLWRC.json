@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction I"
+        },
+        {
+            "catalogTitle": "LLWRC 779",
+            "section": "001",
+            "courseTitle": "Read Like a Writer"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "001",
+            "courseTitle": "Toolbox Basics"
+        },
+        {
+            "catalogTitle": "LLWRC 806",
+            "section": "001",
+            "courseTitle": "Publish Your Book"
+        },
+        {
+            "catalogTitle": "LLWRC 820",
+            "section": "001",
+            "courseTitle": "Develop Your Creative Thinking"
+        }
+    ]
+}

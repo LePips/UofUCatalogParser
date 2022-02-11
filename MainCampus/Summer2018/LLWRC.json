@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLWRC 760",
+            "section": "001",
+            "courseTitle": "Creative Nonfiction I"
+        },
+        {
+            "catalogTitle": "LLWRC 780",
+            "section": "001",
+            "courseTitle": "Creative Writing"
+        },
+        {
+            "catalogTitle": "LLWRC 842",
+            "section": "001",
+            "courseTitle": "Creative Writing Bootcamp"
+        },
+        {
+            "catalogTitle": "LLWRC 848",
+            "section": "001",
+            "courseTitle": "Spark Your Creativity"
+        },
+        {
+            "catalogTitle": "LLWRC 852",
+            "section": "001",
+            "courseTitle": "Historical Fiction"
+        },
+        {
+            "catalogTitle": "LLWRC 855",
+            "section": "001",
+            "courseTitle": "Fantastic Fiction"
+        },
+        {
+            "catalogTitle": "LLWRC 858",
+            "section": "001",
+            "courseTitle": "Journaling - Daily Practice"
+        },
+        {
+            "catalogTitle": "LLWRC 859",
+            "section": "001",
+            "courseTitle": "Weird Fiction"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "290",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "290",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 4010",
+            "section": "290",
+            "courseTitle": "Intermed Microecon"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "290",
+            "courseTitle": "Intermed Macroecon"
+        }
+    ]
+}

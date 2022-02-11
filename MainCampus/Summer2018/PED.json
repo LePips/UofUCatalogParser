@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PED 5700",
+            "section": "090",
+            "courseTitle": "Srvy Peds Rsrch-In-Prog"
+        },
+        {
+            "catalogTitle": "PED 5701",
+            "section": "090",
+            "courseTitle": "Survey Pediatric RIP II"
+        },
+        {
+            "catalogTitle": "PED 5900",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch Mthds I"
+        },
+        {
+            "catalogTitle": "PED 5901",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch Mthds II"
+        },
+        {
+            "catalogTitle": "PED 5902",
+            "section": "001",
+            "courseTitle": "Clinical Rsrch&Medicine"
+        },
+        {
+            "catalogTitle": "PED 5950",
+            "section": "001",
+            "courseTitle": "Peds Clinical Research"
+        },
+        {
+            "catalogTitle": "PED 5950",
+            "section": "002",
+            "courseTitle": "Peds Clinical Research"
+        },
+        {
+            "catalogTitle": "PED 5950",
+            "section": "003",
+            "courseTitle": "Peds Clinical Research"
+        },
+        {
+            "catalogTitle": "PED 5999",
+            "section": "001",
+            "courseTitle": "Peds Leadership Exp"
+        }
+    ]
+}

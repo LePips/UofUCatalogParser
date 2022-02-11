@@ -1,0 +1,264 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARTH 101",
+            "section": "001",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 101",
+            "section": "060",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 1010",
+            "section": "001",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 1010",
+            "section": "060",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 1020",
+            "section": "001",
+            "courseTitle": "Art Now"
+        },
+        {
+            "catalogTitle": "ARTH 1020",
+            "section": "002",
+            "courseTitle": "Art Now"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "001",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "002",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "003",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 3070",
+            "section": "001",
+            "courseTitle": "Transpacific Art"
+        },
+        {
+            "catalogTitle": "ARTH 3150",
+            "section": "001",
+            "courseTitle": "Medieval Art & Arch"
+        },
+        {
+            "catalogTitle": "ARTH 4000",
+            "section": "001",
+            "courseTitle": "Good Looking"
+        },
+        {
+            "catalogTitle": "ARTH 4095",
+            "section": "001",
+            "courseTitle": "Seminar: Dunhuang Caves"
+        },
+        {
+            "catalogTitle": "ARTH 4120",
+            "section": "001",
+            "courseTitle": "Roman Art & Architectre"
+        },
+        {
+            "catalogTitle": "ARTH 4260",
+            "section": "001",
+            "courseTitle": "Topics Northern Baroque"
+        },
+        {
+            "catalogTitle": "ARTH 4320",
+            "section": "001",
+            "courseTitle": "American Encounters"
+        },
+        {
+            "catalogTitle": "ARTH 4410",
+            "section": "001",
+            "courseTitle": "Modern Art: 1900-1945"
+        },
+        {
+            "catalogTitle": "ARTH 4500",
+            "section": "001",
+            "courseTitle": "Art and Media"
+        },
+        {
+            "catalogTitle": "ARTH 4500",
+            "section": "002",
+            "courseTitle": "Art and Conflict"
+        },
+        {
+            "catalogTitle": "ARTH 4520",
+            "section": "001",
+            "courseTitle": "Brazilian Art"
+        },
+        {
+            "catalogTitle": "ARTH 4850",
+            "section": "001",
+            "courseTitle": "Art History Internship"
+        },
+        {
+            "catalogTitle": "ARTH 4910",
+            "section": "001",
+            "courseTitle": "Honors Art History I"
+        },
+        {
+            "catalogTitle": "ARTH 4910",
+            "section": "002",
+            "courseTitle": "Honors Art History I"
+        },
+        {
+            "catalogTitle": "ARTH 4920",
+            "section": "001",
+            "courseTitle": "Honors Art History II"
+        },
+        {
+            "catalogTitle": "ARTH 4920",
+            "section": "002",
+            "courseTitle": "Honors Art History II"
+        },
+        {
+            "catalogTitle": "ARTH 4920",
+            "section": "003",
+            "courseTitle": "Honors Art History II"
+        },
+        {
+            "catalogTitle": "ARTH 4920",
+            "section": "004",
+            "courseTitle": "Honors Art History II"
+        },
+        {
+            "catalogTitle": "ARTH 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ARTH 6001",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6002",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6003",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6004",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6005",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6005",
+            "section": "002",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6006",
+            "section": "001",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6006",
+            "section": "002",
+            "courseTitle": "Art History MFA"
+        },
+        {
+            "catalogTitle": "ARTH 6100",
+            "section": "001",
+            "courseTitle": "Adv Ancient Art"
+        },
+        {
+            "catalogTitle": "ARTH 6250",
+            "section": "001",
+            "courseTitle": "Adv Baroque Art"
+        },
+        {
+            "catalogTitle": "ARTH 6400",
+            "section": "001",
+            "courseTitle": "Adv 20th c. Art"
+        },
+        {
+            "catalogTitle": "ARTH 6510",
+            "section": "001",
+            "courseTitle": "Adv Latin American Art"
+        },
+        {
+            "catalogTitle": "ARTH 6800",
+            "section": "001",
+            "courseTitle": "Critical Theory/Methods"
+        },
+        {
+            "catalogTitle": "ARTH 6810",
+            "section": "001",
+            "courseTitle": "Visual Intersect: Art/Archive"
+        },
+        {
+            "catalogTitle": "ARTH 6830",
+            "section": "001",
+            "courseTitle": "Sem-Asian Art"
+        },
+        {
+            "catalogTitle": "ARTH 6910",
+            "section": "001",
+            "courseTitle": "Dir St-Asian Art"
+        },
+        {
+            "catalogTitle": "ARTH 6920",
+            "section": "001",
+            "courseTitle": "Dir St-Anc/Medieval Art"
+        },
+        {
+            "catalogTitle": "ARTH 6930",
+            "section": "001",
+            "courseTitle": "Dir St-Renaissanc/Baroq"
+        },
+        {
+            "catalogTitle": "ARTH 6940",
+            "section": "001",
+            "courseTitle": "Dir. St. 18th-19th c. Art"
+        },
+        {
+            "catalogTitle": "ARTH 6950",
+            "section": "001",
+            "courseTitle": "Dir St 20th c. Art"
+        },
+        {
+            "catalogTitle": "ARTH 6955",
+            "section": "001",
+            "courseTitle": "Dir St Contemp Art"
+        },
+        {
+            "catalogTitle": "ARTH 6960",
+            "section": "001",
+            "courseTitle": "Directed Study Lat Am"
+        },
+        {
+            "catalogTitle": "ARTH 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: MA"
+        },
+        {
+            "catalogTitle": "ARTH 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation MA"
+        }
+    ]
+}

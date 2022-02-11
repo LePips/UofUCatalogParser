@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MKTG 3010",
+            "section": "001",
+            "courseTitle": "Princ Of Marketing"
+        },
+        {
+            "catalogTitle": "MKTG 3010",
+            "section": "002",
+            "courseTitle": "Princ Of Marketing"
+        },
+        {
+            "catalogTitle": "MKTG 3020",
+            "section": "001",
+            "courseTitle": "Marketing Management"
+        },
+        {
+            "catalogTitle": "MKTG 3450",
+            "section": "001",
+            "courseTitle": "Marketing Research"
+        },
+        {
+            "catalogTitle": "MKTG 4500",
+            "section": "001",
+            "courseTitle": "Intro To Advertising"
+        },
+        {
+            "catalogTitle": "MKTG 4770",
+            "section": "001",
+            "courseTitle": "Consumer Behavior"
+        },
+        {
+            "catalogTitle": "MKTG 4840",
+            "section": "001",
+            "courseTitle": "Interntl Marketing"
+        },
+        {
+            "catalogTitle": "MKTG 4850",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MKTG 4850",
+            "section": "002",
+            "courseTitle": "Tpcs-Marketing"
+        },
+        {
+            "catalogTitle": "MKTG 6091",
+            "section": "001",
+            "courseTitle": "Topics in Marketing"
+        },
+        {
+            "catalogTitle": "MKTG 6910",
+            "section": "001",
+            "courseTitle": "SS-Masters"
+        },
+        {
+            "catalogTitle": "MKTG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MKTG 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

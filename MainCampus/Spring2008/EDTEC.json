@@ -1,0 +1,454 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 110",
+            "section": "001",
+            "courseTitle": "Quicken for Home"
+        },
+        {
+            "catalogTitle": "EDTEC 120",
+            "section": "001",
+            "courseTitle": "Photoshop for the Amateur"
+        },
+        {
+            "catalogTitle": "EDTEC 125",
+            "section": "001",
+            "courseTitle": "Scrapbooking with Photoshop"
+        },
+        {
+            "catalogTitle": "EDTEC 252",
+            "section": "001",
+            "courseTitle": "Database Driven Websites 1"
+        },
+        {
+            "catalogTitle": "EDTEC 253",
+            "section": "001",
+            "courseTitle": "Database Driven Websites 2"
+        },
+        {
+            "catalogTitle": "EDTEC 254",
+            "section": "001",
+            "courseTitle": "Database Driven Websites 3"
+        },
+        {
+            "catalogTitle": "EDTEC 311",
+            "section": "001",
+            "courseTitle": "Drmwvr/Flash CS3 New Features"
+        },
+        {
+            "catalogTitle": "EDTEC 312",
+            "section": "001",
+            "courseTitle": "Pshop/Illus CS3 New Features"
+        },
+        {
+            "catalogTitle": "EDTEC 407",
+            "section": "001",
+            "courseTitle": "Excel 2007 New Features"
+        },
+        {
+            "catalogTitle": "EDTEC 408",
+            "section": "001",
+            "courseTitle": "Word 2007 New Features"
+        },
+        {
+            "catalogTitle": "EDTEC 409",
+            "section": "001",
+            "courseTitle": "PowerPoint 2007 New Features"
+        },
+        {
+            "catalogTitle": "EDTEC 410",
+            "section": "001",
+            "courseTitle": "PowerPoint Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 411",
+            "section": "001",
+            "courseTitle": "PowerPoint Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "001",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "002",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "005",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "001",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "001",
+            "courseTitle": "Excel Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 415",
+            "section": "001",
+            "courseTitle": "Word Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 415",
+            "section": "002",
+            "courseTitle": "Word Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 416",
+            "section": "001",
+            "courseTitle": "Word Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 417",
+            "section": "001",
+            "courseTitle": "Word Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 418",
+            "section": "005",
+            "courseTitle": "Access Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 419",
+            "section": "001",
+            "courseTitle": "Access Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 423",
+            "section": "001",
+            "courseTitle": "Access 2007 New Features"
+        },
+        {
+            "catalogTitle": "EDTEC 425",
+            "section": "005",
+            "courseTitle": "QuickBooks Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 425",
+            "section": "007",
+            "courseTitle": "QuickBooks Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 426",
+            "section": "005",
+            "courseTitle": "QuickBooks Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 426",
+            "section": "007",
+            "courseTitle": "QuickBooks Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 450",
+            "section": "001",
+            "courseTitle": "Flash Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 450",
+            "section": "007",
+            "courseTitle": "Flash Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 451",
+            "section": "001",
+            "courseTitle": "Flash  Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 451",
+            "section": "007",
+            "courseTitle": "Flash  Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "001",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "002",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "007",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 453",
+            "section": "001",
+            "courseTitle": "Photoshop Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 453",
+            "section": "002",
+            "courseTitle": "Photoshop Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 454",
+            "section": "001",
+            "courseTitle": "Photoshop Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 455",
+            "section": "001",
+            "courseTitle": "Dreamweaver Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 455",
+            "section": "002",
+            "courseTitle": "Dreamweaver Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 455",
+            "section": "007",
+            "courseTitle": "Dreamweaver Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 456",
+            "section": "001",
+            "courseTitle": "Dreamweaver Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 456",
+            "section": "002",
+            "courseTitle": "Dreamweaver Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 456",
+            "section": "007",
+            "courseTitle": "Dreamweaver Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 457",
+            "section": "001",
+            "courseTitle": "Illustrator Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 457",
+            "section": "007",
+            "courseTitle": "Illustrator Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 458",
+            "section": "001",
+            "courseTitle": "Illustrator Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 458",
+            "section": "007",
+            "courseTitle": "Illustrator Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 459",
+            "section": "001",
+            "courseTitle": "XHTML Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 459",
+            "section": "007",
+            "courseTitle": "XHTML Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 460",
+            "section": "001",
+            "courseTitle": "XHTML Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 460",
+            "section": "007",
+            "courseTitle": "XHTML Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 463",
+            "section": "001",
+            "courseTitle": "Fireworks Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 465",
+            "section": "001",
+            "courseTitle": "FileMaker Pro Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 466",
+            "section": "001",
+            "courseTitle": "FileMaker Pro Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 468",
+            "section": "001",
+            "courseTitle": "Web Design:Integrated Approach"
+        },
+        {
+            "catalogTitle": "EDTEC 469",
+            "section": "001",
+            "courseTitle": "Dreamweaver Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 470",
+            "section": "001",
+            "courseTitle": "InDesign Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 471",
+            "section": "001",
+            "courseTitle": "InDesign Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 473",
+            "section": "001",
+            "courseTitle": "Flash Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 474",
+            "section": "001",
+            "courseTitle": "Search Engine Optimization"
+        },
+        {
+            "catalogTitle": "EDTEC 474",
+            "section": "002",
+            "courseTitle": "Search Engine Optimization"
+        },
+        {
+            "catalogTitle": "EDTEC 475",
+            "section": "001",
+            "courseTitle": "Cascading Style Sheets Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 476",
+            "section": "001",
+            "courseTitle": "Cascading Style Sheets Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 480",
+            "section": "001",
+            "courseTitle": "Acrobat Professional"
+        },
+        {
+            "catalogTitle": "EDTEC 508",
+            "section": "001",
+            "courseTitle": "CCNA Boot Camp"
+        },
+        {
+            "catalogTitle": "EDTEC 511",
+            "section": "001",
+            "courseTitle": "LINUX LPI 101"
+        },
+        {
+            "catalogTitle": "EDTEC 512",
+            "section": "001",
+            "courseTitle": "Linux LPI 102"
+        },
+        {
+            "catalogTitle": "EDTEC 520",
+            "section": "001",
+            "courseTitle": "PHP Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 521",
+            "section": "001",
+            "courseTitle": "PHP Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 522",
+            "section": "001",
+            "courseTitle": "vi Editor"
+        },
+        {
+            "catalogTitle": "EDTEC 523",
+            "section": "001",
+            "courseTitle": "Shell Scripting Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 524",
+            "section": "001",
+            "courseTitle": "Shell Scripting Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 525",
+            "section": "001",
+            "courseTitle": "UNIX Command Line"
+        },
+        {
+            "catalogTitle": "EDTEC 534",
+            "section": "001",
+            "courseTitle": "MySQL Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 535",
+            "section": "001",
+            "courseTitle": "MySQL Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 551",
+            "section": "001",
+            "courseTitle": "CCNA 1-2"
+        },
+        {
+            "catalogTitle": "EDTEC 610",
+            "section": "001",
+            "courseTitle": "Intro. to Mac Computers"
+        },
+        {
+            "catalogTitle": "EDTEC 610",
+            "section": "002",
+            "courseTitle": "Intro. to Mac Computers"
+        },
+        {
+            "catalogTitle": "EDTEC 620",
+            "section": "001",
+            "courseTitle": "Mac 0S X Supprt Essntls v10.4"
+        },
+        {
+            "catalogTitle": "EDTEC 620",
+            "section": "002",
+            "courseTitle": "Mac 0S X Supprt Essntls v10.4"
+        },
+        {
+            "catalogTitle": "EDTEC 620",
+            "section": "003",
+            "courseTitle": "Mac 0S X Supprt Essntls v10.4"
+        },
+        {
+            "catalogTitle": "EDTEC 630",
+            "section": "001",
+            "courseTitle": "Mac OS X Srvr Essntials v10.4"
+        },
+        {
+            "catalogTitle": "EDTEC 630",
+            "section": "002",
+            "courseTitle": "Mac OS X Srvr Essntials v10.4"
+        },
+        {
+            "catalogTitle": "EDTEC 640",
+            "section": "001",
+            "courseTitle": "i Photo"
+        },
+        {
+            "catalogTitle": "EDTEC 645",
+            "section": "001",
+            "courseTitle": "iMovie & iDVD"
+        },
+        {
+            "catalogTitle": "EDTEC 650",
+            "section": "001",
+            "courseTitle": "Final Cut Pro"
+        },
+        {
+            "catalogTitle": "EDTEC 690",
+            "section": "001",
+            "courseTitle": "Video Editing & Cert"
+        },
+        {
+            "catalogTitle": "EDTEC 691",
+            "section": "001",
+            "courseTitle": "Music Tech & Dig Audio Cert"
+        }
+    ]
+}

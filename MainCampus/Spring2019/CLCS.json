@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CLCS 3720",
+            "section": "001",
+            "courseTitle": "Empathy, Med & Human C."
+        },
+        {
+            "catalogTitle": "CLCS 3960",
+            "section": "001",
+            "courseTitle": "Cultures in Contact"
+        },
+        {
+            "catalogTitle": "CLCS 4325",
+            "section": "001",
+            "courseTitle": "Muslim-Americans in US"
+        },
+        {
+            "catalogTitle": "CLCS 4900",
+            "section": "003",
+            "courseTitle": "Quest for Immortality"
+        },
+        {
+            "catalogTitle": "CLCS 6900",
+            "section": "001",
+            "courseTitle": "Quest for Immortality"
+        },
+        {
+            "catalogTitle": "CLCS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "CLCS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

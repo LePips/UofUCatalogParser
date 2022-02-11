@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "001",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "002",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 2900",
+            "section": "001",
+            "courseTitle": "Intro International Bus"
+        },
+        {
+            "catalogTitle": "BUS 3123",
+            "section": "001",
+            "courseTitle": "Sports Economics"
+        },
+        {
+            "catalogTitle": "BUS 3171",
+            "section": "001",
+            "courseTitle": "Class, Race and Dream"
+        },
+        {
+            "catalogTitle": "BUS 3173",
+            "section": "001",
+            "courseTitle": "Socio of Men and Women"
+        },
+        {
+            "catalogTitle": "BUS 3232",
+            "section": "001",
+            "courseTitle": "American 20th Century"
+        }
+    ]
+}

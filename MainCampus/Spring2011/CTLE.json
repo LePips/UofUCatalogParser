@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CTLE 600",
+            "section": "001",
+            "courseTitle": "Teaching in Higher Ed"
+        },
+        {
+            "catalogTitle": "CTLE 651",
+            "section": "090",
+            "courseTitle": "Cyber Pedagogy"
+        },
+        {
+            "catalogTitle": "CTLE 659",
+            "section": "090",
+            "courseTitle": "Dir. Readings Higher Ed"
+        },
+        {
+            "catalogTitle": "CTLE 6000",
+            "section": "001",
+            "courseTitle": "Teaching in Higher Ed"
+        },
+        {
+            "catalogTitle": "CTLE 6510",
+            "section": "090",
+            "courseTitle": "Cyber Pedagogy"
+        },
+        {
+            "catalogTitle": "CTLE 6590",
+            "section": "090",
+            "courseTitle": "Dir. Readings Higher Ed"
+        }
+    ]
+}

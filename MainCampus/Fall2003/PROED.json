@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 100",
+            "section": "001",
+            "courseTitle": "Acct/Budg for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 110",
+            "section": "001",
+            "courseTitle": "Acct/Budg for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 120",
+            "section": "001",
+            "courseTitle": "CPM  1 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 120",
+            "section": "002",
+            "courseTitle": "CPM  1 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 130",
+            "section": "001",
+            "courseTitle": "CPM  2 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 130",
+            "section": "002",
+            "courseTitle": "CPM  2 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 160",
+            "section": "001",
+            "courseTitle": "AWWA Supervisory"
+        },
+        {
+            "catalogTitle": "PROED 170",
+            "section": "001",
+            "courseTitle": "AWWA Mgt"
+        },
+        {
+            "catalogTitle": "PROED 200",
+            "section": "001",
+            "courseTitle": "Business Ethics"
+        },
+        {
+            "catalogTitle": "PROED 230",
+            "section": "001",
+            "courseTitle": "CEBS Course 1"
+        },
+        {
+            "catalogTitle": "PROED 310",
+            "section": "001",
+            "courseTitle": "CEBS Course 9"
+        },
+        {
+            "catalogTitle": "PROED 380",
+            "section": "001",
+            "courseTitle": "Effective Presentations"
+        },
+        {
+            "catalogTitle": "PROED 420",
+            "section": "001",
+            "courseTitle": "HRM Certificate Prog"
+        },
+        {
+            "catalogTitle": "PROED 480",
+            "section": "001",
+            "courseTitle": "Leadership Competency"
+        },
+        {
+            "catalogTitle": "PROED 540",
+            "section": "001",
+            "courseTitle": "Project Mgt"
+        },
+        {
+            "catalogTitle": "PROED 590",
+            "section": "001",
+            "courseTitle": "RE Tax Update"
+        },
+        {
+            "catalogTitle": "PROED 600",
+            "section": "001",
+            "courseTitle": "Successful Supervision"
+        },
+        {
+            "catalogTitle": "PROED 610",
+            "section": "001",
+            "courseTitle": "Supercharge Employees"
+        },
+        {
+            "catalogTitle": "PROED 640",
+            "section": "001",
+            "courseTitle": "Managing Quality & Perf"
+        }
+    ]
+}

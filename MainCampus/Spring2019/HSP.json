@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HSP 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "HSP 5000",
+            "section": "001",
+            "courseTitle": "HSP Capstone"
+        },
+        {
+            "catalogTitle": "HSP 5000",
+            "section": "002",
+            "courseTitle": "HSP Capstone"
+        },
+        {
+            "catalogTitle": "HSP 5000",
+            "section": "003",
+            "courseTitle": "HSP Capstone"
+        },
+        {
+            "catalogTitle": "HSP 5000",
+            "section": "004",
+            "courseTitle": "HSP Capstone"
+        },
+        {
+            "catalogTitle": "HSP 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

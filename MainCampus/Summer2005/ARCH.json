@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARCH 2630",
+            "section": "002",
+            "courseTitle": "Arch'l Design Workshop"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "001",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "002",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "003",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6005",
+            "section": "004",
+            "courseTitle": "Graduate Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6012",
+            "section": "001",
+            "courseTitle": "Intensive Arch'l Studio"
+        },
+        {
+            "catalogTitle": "ARCH 6055",
+            "section": "001",
+            "courseTitle": "Int. Arch. Comm"
+        },
+        {
+            "catalogTitle": "ARCH 6111",
+            "section": "001",
+            "courseTitle": "Intensive Prog Sem"
+        },
+        {
+            "catalogTitle": "ARCH 6535",
+            "section": "001",
+            "courseTitle": "Historic Field Methods"
+        },
+        {
+            "catalogTitle": "ARCH 6770",
+            "section": "001",
+            "courseTitle": "Arch Service Intern"
+        },
+        {
+            "catalogTitle": "ARCH 6850",
+            "section": "001",
+            "courseTitle": "Behavior and Arch."
+        },
+        {
+            "catalogTitle": "ARCH 6965",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ARCH 6985",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 112",
+            "section": "001",
+            "courseTitle": "Investment Stategies"
+        },
+        {
+            "catalogTitle": "LLBUS 149",
+            "section": "001",
+            "courseTitle": "Owning Rental Property"
+        },
+        {
+            "catalogTitle": "LLBUS 175",
+            "section": "001",
+            "courseTitle": "Investing for Women"
+        },
+        {
+            "catalogTitle": "LLBUS 176",
+            "section": "001",
+            "courseTitle": "The Young Investor"
+        },
+        {
+            "catalogTitle": "LLBUS 180",
+            "section": "001",
+            "courseTitle": "Intro to Personal Trading"
+        },
+        {
+            "catalogTitle": "LLBUS 181",
+            "section": "001",
+            "courseTitle": "Your Job Search"
+        },
+        {
+            "catalogTitle": "LLBUS 182",
+            "section": "001",
+            "courseTitle": "Retirement in the 21st Century"
+        }
+    ]
+}

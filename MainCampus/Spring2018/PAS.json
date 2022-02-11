@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PAS 6200",
+            "section": "001",
+            "courseTitle": "UPAP Mission 3"
+        },
+        {
+            "catalogTitle": "PAS 6202",
+            "section": "001",
+            "courseTitle": "Clinical Medicine 2"
+        },
+        {
+            "catalogTitle": "PAS 6203",
+            "section": "001",
+            "courseTitle": "General Medicine 2"
+        },
+        {
+            "catalogTitle": "PAS 6204",
+            "section": "001",
+            "courseTitle": "Topics in Medicine 1"
+        },
+        {
+            "catalogTitle": "PAS 6801",
+            "section": "001",
+            "courseTitle": "Patient Prob Mngmt 2"
+        },
+        {
+            "catalogTitle": "PAS 6970",
+            "section": "001",
+            "courseTitle": "Masters Project 1"
+        }
+    ]
+}

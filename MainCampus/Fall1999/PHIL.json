@@ -1,0 +1,354 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "001",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "002",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "003",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "004",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "005",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "006",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "007",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "008",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "010",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "011",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "012",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "013",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "014",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "015",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "016",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1010",
+            "section": "020",
+            "courseTitle": "Intro To Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "001",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1250",
+            "section": "090",
+            "courseTitle": "Reasoning & Ratl Decisn"
+        },
+        {
+            "catalogTitle": "PHIL 1310",
+            "section": "001",
+            "courseTitle": "Science And Society"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "001",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "002",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "003",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "004",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "005",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 1600",
+            "section": "060",
+            "courseTitle": "World Religions"
+        },
+        {
+            "catalogTitle": "PHIL 2200",
+            "section": "001",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 2200",
+            "section": "002",
+            "courseTitle": "Deductive Logic"
+        },
+        {
+            "catalogTitle": "PHIL 2310",
+            "section": "001",
+            "courseTitle": "History Of Science"
+        },
+        {
+            "catalogTitle": "PHIL 2500",
+            "section": "001",
+            "courseTitle": "Social Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 2500",
+            "section": "002",
+            "courseTitle": "Social Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 2500",
+            "section": "060",
+            "courseTitle": "Social Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3300",
+            "section": "001",
+            "courseTitle": "Theory Of Knowledge"
+        },
+        {
+            "catalogTitle": "PHIL 3400",
+            "section": "001",
+            "courseTitle": "Mind, Lang, Reality"
+        },
+        {
+            "catalogTitle": "PHIL 3500",
+            "section": "001",
+            "courseTitle": "Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3510",
+            "section": "001",
+            "courseTitle": "Business/Prof Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3510",
+            "section": "002",
+            "courseTitle": "Business/Prof Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3510",
+            "section": "020",
+            "courseTitle": "Business/Prof Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3510",
+            "section": "070",
+            "courseTitle": "Business/Prof Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "001",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3520",
+            "section": "090",
+            "courseTitle": "Bioethics"
+        },
+        {
+            "catalogTitle": "PHIL 3600",
+            "section": "001",
+            "courseTitle": "Phil Of Religion"
+        },
+        {
+            "catalogTitle": "PHIL 3810",
+            "section": "001",
+            "courseTitle": "Existentialism"
+        },
+        {
+            "catalogTitle": "PHIL 3910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 4010",
+            "section": "001",
+            "courseTitle": "Senior Seminar"
+        },
+        {
+            "catalogTitle": "PHIL 4120",
+            "section": "001",
+            "courseTitle": "Early Modern Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "PHIL 4999",
+            "section": "005",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "PHIL 5190",
+            "section": "001",
+            "courseTitle": "Nietzsche"
+        },
+        {
+            "catalogTitle": "PHIL 5210",
+            "section": "001",
+            "courseTitle": "Modal Logic"
+        },
+        {
+            "catalogTitle": "PHIL 5400",
+            "section": "001",
+            "courseTitle": "Metaphysics"
+        },
+        {
+            "catalogTitle": "PHIL 5450",
+            "section": "001",
+            "courseTitle": "Philosophy Of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 5500",
+            "section": "001",
+            "courseTitle": "Contemporary Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 5910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 6190",
+            "section": "001",
+            "courseTitle": "Nietzsche"
+        },
+        {
+            "catalogTitle": "PHIL 6210",
+            "section": "001",
+            "courseTitle": "Modal Logic"
+        },
+        {
+            "catalogTitle": "PHIL 6400",
+            "section": "001",
+            "courseTitle": "Metaphysics"
+        },
+        {
+            "catalogTitle": "PHIL 6450",
+            "section": "001",
+            "courseTitle": "Phil Of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 6500",
+            "section": "001",
+            "courseTitle": "Contemporary Ethics"
+        },
+        {
+            "catalogTitle": "PHIL 6910",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "PHIL 6970",
+            "section": "001",
+            "courseTitle": "MA/MS Thesis Research"
+        },
+        {
+            "catalogTitle": "PHIL 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult M.A."
+        },
+        {
+            "catalogTitle": "PHIL 6990",
+            "section": "001",
+            "courseTitle": "Continuing Regis, M.A."
+        },
+        {
+            "catalogTitle": "PHIL 7010",
+            "section": "001",
+            "courseTitle": "Proseminar"
+        },
+        {
+            "catalogTitle": "PHIL 7110",
+            "section": "001",
+            "courseTitle": "Sem-Ancient Philosophy"
+        },
+        {
+            "catalogTitle": "PHIL 7300",
+            "section": "001",
+            "courseTitle": "Sem-Epistemology"
+        },
+        {
+            "catalogTitle": "PHIL 7450",
+            "section": "001",
+            "courseTitle": "Sem- Philosophy Of Mind"
+        },
+        {
+            "catalogTitle": "PHIL 7700",
+            "section": "001",
+            "courseTitle": "Sem-Political Phil"
+        },
+        {
+            "catalogTitle": "PHIL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult, Ph.D"
+        },
+        {
+            "catalogTitle": "PHIL 7990",
+            "section": "001",
+            "courseTitle": "Continuing Regis., Ph.D"
+        }
+    ]
+}

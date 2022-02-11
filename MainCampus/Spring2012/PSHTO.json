@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSHTO 202",
+            "section": "001",
+            "courseTitle": "Intermediate Pashto II"
+        },
+        {
+            "catalogTitle": "PSHTO 1020",
+            "section": "001",
+            "courseTitle": "Beginning Pashto II"
+        },
+        {
+            "catalogTitle": "PSHTO 2020",
+            "section": "001",
+            "courseTitle": "Intermediate Pashto II"
+        },
+        {
+            "catalogTitle": "PSHTO 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PSHTO 7300",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

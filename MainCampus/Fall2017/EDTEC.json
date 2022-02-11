@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "001",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "007",
+            "courseTitle": "Excel Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "001",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "007",
+            "courseTitle": "Excel Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "007",
+            "courseTitle": "Excel Level 3"
+        },
+        {
+            "catalogTitle": "EDTEC 421",
+            "section": "007",
+            "courseTitle": "MS Project"
+        },
+        {
+            "catalogTitle": "EDTEC 425",
+            "section": "001",
+            "courseTitle": "QuickBooks Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 426",
+            "section": "001",
+            "courseTitle": "QuickBooks Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "001",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 453",
+            "section": "004",
+            "courseTitle": "Photoshop Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 455",
+            "section": "001",
+            "courseTitle": "Dreamweaver Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 456",
+            "section": "001",
+            "courseTitle": "Dreamweaver Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 457",
+            "section": "001",
+            "courseTitle": "Illustrator Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 458",
+            "section": "002",
+            "courseTitle": "Illustrator Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 459",
+            "section": "002",
+            "courseTitle": "HTML5/XHTML Coding"
+        },
+        {
+            "catalogTitle": "EDTEC 475",
+            "section": "002",
+            "courseTitle": "Cascading Style Sheets Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 476",
+            "section": "002",
+            "courseTitle": "Cascading Style Sheets Level 2"
+        }
+    ]
+}

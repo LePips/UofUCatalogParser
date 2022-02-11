@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "KOREA 1020",
+            "section": "001",
+            "courseTitle": "Beg Korean II"
+        },
+        {
+            "catalogTitle": "KOREA 2020",
+            "section": "001",
+            "courseTitle": "Intrm Korean II"
+        },
+        {
+            "catalogTitle": "KOREA 3070",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "KOREA 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "KOREA 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "KOREA 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

@@ -1,0 +1,514 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ART 104",
+            "section": "070",
+            "courseTitle": "Basic Design"
+        },
+        {
+            "catalogTitle": "ART 106",
+            "section": "020",
+            "courseTitle": "Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 106",
+            "section": "060",
+            "courseTitle": "Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 107",
+            "section": "020",
+            "courseTitle": "Handbuilding Ceramics"
+        },
+        {
+            "catalogTitle": "ART 107",
+            "section": "021",
+            "courseTitle": "Handbuilding Ceramics"
+        },
+        {
+            "catalogTitle": "ART 200",
+            "section": "001",
+            "courseTitle": "Intro to Color Phtgrphy"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "030",
+            "courseTitle": "Beg Photography"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "031",
+            "courseTitle": "Beg Photography"
+        },
+        {
+            "catalogTitle": "ART 207",
+            "section": "020",
+            "courseTitle": "Wheelthrown Pottery"
+        },
+        {
+            "catalogTitle": "ART 207",
+            "section": "021",
+            "courseTitle": "Wheelthrown Pottery"
+        },
+        {
+            "catalogTitle": "ART 208",
+            "section": "020",
+            "courseTitle": "Beg Painting"
+        },
+        {
+            "catalogTitle": "ART 208",
+            "section": "030",
+            "courseTitle": "Basic Photography"
+        },
+        {
+            "catalogTitle": "ART 208",
+            "section": "070",
+            "courseTitle": "Watercolor Studio"
+        },
+        {
+            "catalogTitle": "ART 302",
+            "section": "070",
+            "courseTitle": "Color Media Drawing"
+        },
+        {
+            "catalogTitle": "ART 307",
+            "section": "020",
+            "courseTitle": "Intm/Adv Wheel Pottery"
+        },
+        {
+            "catalogTitle": "ART 353",
+            "section": "001",
+            "courseTitle": "Photoshop Workshop v.10"
+        },
+        {
+            "catalogTitle": "ART 353",
+            "section": "002",
+            "courseTitle": "Photoshop Workshop v.10"
+        },
+        {
+            "catalogTitle": "ART 1010",
+            "section": "001",
+            "courseTitle": "Intro To Visual Arts"
+        },
+        {
+            "catalogTitle": "ART 1010",
+            "section": "090",
+            "courseTitle": "Intro To Visual Arts"
+        },
+        {
+            "catalogTitle": "ART 1040",
+            "section": "001",
+            "courseTitle": "Basic Design"
+        },
+        {
+            "catalogTitle": "ART 1040",
+            "section": "002",
+            "courseTitle": "Basic Design"
+        },
+        {
+            "catalogTitle": "ART 1040",
+            "section": "070",
+            "courseTitle": "Basic Design"
+        },
+        {
+            "catalogTitle": "ART 1060",
+            "section": "001",
+            "courseTitle": "Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1060",
+            "section": "002",
+            "courseTitle": "Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1060",
+            "section": "003",
+            "courseTitle": "Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1060",
+            "section": "004",
+            "courseTitle": "Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1060",
+            "section": "020",
+            "courseTitle": "Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1060",
+            "section": "060",
+            "courseTitle": "Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1070",
+            "section": "001",
+            "courseTitle": "Handbuilding Ceramics"
+        },
+        {
+            "catalogTitle": "ART 1070",
+            "section": "020",
+            "courseTitle": "Handbuilding Ceramics"
+        },
+        {
+            "catalogTitle": "ART 1070",
+            "section": "021",
+            "courseTitle": "Handbuilding Ceramics"
+        },
+        {
+            "catalogTitle": "ART 2000",
+            "section": "001",
+            "courseTitle": "Intro to Color Phtgrphy"
+        },
+        {
+            "catalogTitle": "ART 2008",
+            "section": "030",
+            "courseTitle": "Basic Photography"
+        },
+        {
+            "catalogTitle": "ART 2008",
+            "section": "031",
+            "courseTitle": "Basic Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "001",
+            "courseTitle": "Beg Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "002",
+            "courseTitle": "Beg Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "003",
+            "courseTitle": "Beg Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "030",
+            "courseTitle": "Beg Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "031",
+            "courseTitle": "Beg Photography"
+        },
+        {
+            "catalogTitle": "ART 2070",
+            "section": "001",
+            "courseTitle": "Wheelthrown Pottery"
+        },
+        {
+            "catalogTitle": "ART 2070",
+            "section": "002",
+            "courseTitle": "Wheelthrown Pottery"
+        },
+        {
+            "catalogTitle": "ART 2070",
+            "section": "020",
+            "courseTitle": "Wheelthrown Pottery"
+        },
+        {
+            "catalogTitle": "ART 2070",
+            "section": "021",
+            "courseTitle": "Wheelthrown Pottery"
+        },
+        {
+            "catalogTitle": "ART 2080",
+            "section": "001",
+            "courseTitle": "Beg Painting"
+        },
+        {
+            "catalogTitle": "ART 2080",
+            "section": "020",
+            "courseTitle": "Beg Painting"
+        },
+        {
+            "catalogTitle": "ART 2080",
+            "section": "070",
+            "courseTitle": "Beg Painting"
+        },
+        {
+            "catalogTitle": "ART 2200",
+            "section": "001",
+            "courseTitle": "First Year Studio 2-D"
+        },
+        {
+            "catalogTitle": "ART 2300",
+            "section": "001",
+            "courseTitle": "First Year Studio 3-D"
+        },
+        {
+            "catalogTitle": "ART 3052",
+            "section": "001",
+            "courseTitle": "NM Drwng the Human Head"
+        },
+        {
+            "catalogTitle": "ART 3052",
+            "section": "070",
+            "courseTitle": "Color Media Drawing"
+        },
+        {
+            "catalogTitle": "ART 3053",
+            "section": "001",
+            "courseTitle": "Photoshop Workshop v.10"
+        },
+        {
+            "catalogTitle": "ART 3053",
+            "section": "002",
+            "courseTitle": "Photoshop Workshop v.10"
+        },
+        {
+            "catalogTitle": "ART 3055",
+            "section": "001",
+            "courseTitle": "Beg Letter Press"
+        },
+        {
+            "catalogTitle": "ART 3060",
+            "section": "001",
+            "courseTitle": "Adv Drawing (NM)"
+        },
+        {
+            "catalogTitle": "ART 3070",
+            "section": "001",
+            "courseTitle": "Intm/Adv Wheel Pottery"
+        },
+        {
+            "catalogTitle": "ART 3070",
+            "section": "002",
+            "courseTitle": "Intm/Adv Wheel Pottery"
+        },
+        {
+            "catalogTitle": "ART 3070",
+            "section": "020",
+            "courseTitle": "Intm/Adv Wheel Pottery"
+        },
+        {
+            "catalogTitle": "ART 3110",
+            "section": "001",
+            "courseTitle": "Painting I"
+        },
+        {
+            "catalogTitle": "ART 3130",
+            "section": "001",
+            "courseTitle": "Life Drawing I"
+        },
+        {
+            "catalogTitle": "ART 3210",
+            "section": "001",
+            "courseTitle": "Handbuilding Ceramics I"
+        },
+        {
+            "catalogTitle": "ART 3220",
+            "section": "001",
+            "courseTitle": "Wheelthrown Pottery I"
+        },
+        {
+            "catalogTitle": "ART 3220",
+            "section": "002",
+            "courseTitle": "Wheelthrown Pottery I"
+        },
+        {
+            "catalogTitle": "ART 3221",
+            "section": "001",
+            "courseTitle": "Wheelthrown Pottery II"
+        },
+        {
+            "catalogTitle": "ART 3221",
+            "section": "002",
+            "courseTitle": "Wheelthrown Pottery II"
+        },
+        {
+            "catalogTitle": "ART 3340",
+            "section": "001",
+            "courseTitle": "Intaglio I"
+        },
+        {
+            "catalogTitle": "ART 3355",
+            "section": "001",
+            "courseTitle": "Beg Letterpress"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "001",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "002",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "003",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "004",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "005",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "006",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "007",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "008",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "009",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 3810",
+            "section": "010",
+            "courseTitle": "Indep Studio Prob"
+        },
+        {
+            "catalogTitle": "ART 4055",
+            "section": "001",
+            "courseTitle": "Intrm Letterpress NM"
+        },
+        {
+            "catalogTitle": "ART 4130",
+            "section": "001",
+            "courseTitle": "Painting II"
+        },
+        {
+            "catalogTitle": "ART 4160",
+            "section": "001",
+            "courseTitle": "Advanced Painting"
+        },
+        {
+            "catalogTitle": "ART 4340",
+            "section": "001",
+            "courseTitle": "Intaglio II"
+        },
+        {
+            "catalogTitle": "ART 4355",
+            "section": "001",
+            "courseTitle": "Intrm Letterpress"
+        },
+        {
+            "catalogTitle": "ART 4710",
+            "section": "001",
+            "courseTitle": "Advanced Photo Studies"
+        },
+        {
+            "catalogTitle": "ART 4810",
+            "section": "001",
+            "courseTitle": "Individual Senior Proj"
+        },
+        {
+            "catalogTitle": "ART 4810",
+            "section": "002",
+            "courseTitle": "Individual Senior Proj"
+        },
+        {
+            "catalogTitle": "ART 4810",
+            "section": "003",
+            "courseTitle": "Individual Senior Proj"
+        },
+        {
+            "catalogTitle": "ART 4810",
+            "section": "004",
+            "courseTitle": "Individual Senior Proj"
+        },
+        {
+            "catalogTitle": "ART 4810",
+            "section": "005",
+            "courseTitle": "Individual Senior Proj"
+        },
+        {
+            "catalogTitle": "ART 4810",
+            "section": "006",
+            "courseTitle": "Individual Senior Proj"
+        },
+        {
+            "catalogTitle": "ART 4810",
+            "section": "008",
+            "courseTitle": "Individual Senior Proj"
+        },
+        {
+            "catalogTitle": "ART 4830",
+            "section": "001",
+            "courseTitle": "Graph Des Internship"
+        },
+        {
+            "catalogTitle": "ART 6010",
+            "section": "001",
+            "courseTitle": "Post-Degree Studio"
+        },
+        {
+            "catalogTitle": "ART 6110",
+            "section": "001",
+            "courseTitle": "Grad Projects-Painting"
+        },
+        {
+            "catalogTitle": "ART 6140",
+            "section": "001",
+            "courseTitle": "Grad Projects-Painting"
+        },
+        {
+            "catalogTitle": "ART 6220",
+            "section": "001",
+            "courseTitle": "Grad Projects-Drawing"
+        },
+        {
+            "catalogTitle": "ART 6310",
+            "section": "001",
+            "courseTitle": "Grad Projects-Prntmakng"
+        },
+        {
+            "catalogTitle": "ART 6330",
+            "section": "001",
+            "courseTitle": "Grad Projects-Prntmakng"
+        },
+        {
+            "catalogTitle": "ART 6430",
+            "section": "001",
+            "courseTitle": "Grad Projects-Sculpt"
+        },
+        {
+            "catalogTitle": "ART 6520",
+            "section": "001",
+            "courseTitle": "Grad Projects-Ceramics"
+        },
+        {
+            "catalogTitle": "ART 6700",
+            "section": "001",
+            "courseTitle": "Grad Projects-Photogr"
+        },
+        {
+            "catalogTitle": "ART 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ART 6975",
+            "section": "001",
+            "courseTitle": "Final Project: MFA"
+        },
+        {
+            "catalogTitle": "ART 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

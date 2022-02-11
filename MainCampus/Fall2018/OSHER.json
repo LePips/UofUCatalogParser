@@ -1,0 +1,419 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OSHER 14",
+            "section": "001",
+            "courseTitle": "Great Decisions"
+        },
+        {
+            "catalogTitle": "OSHER 16",
+            "section": "001",
+            "courseTitle": "Preview Finishing Touches"
+        },
+        {
+            "catalogTitle": "OSHER 16",
+            "section": "002",
+            "courseTitle": "Preview Finishing Touches"
+        },
+        {
+            "catalogTitle": "OSHER 21",
+            "section": "001",
+            "courseTitle": "Sketchbooking"
+        },
+        {
+            "catalogTitle": "OSHER 23",
+            "section": "001",
+            "courseTitle": "French"
+        },
+        {
+            "catalogTitle": "OSHER 24",
+            "section": "001",
+            "courseTitle": "Cultural Geography"
+        },
+        {
+            "catalogTitle": "OSHER 26",
+            "section": "001",
+            "courseTitle": "Hiking in the Wasatch"
+        },
+        {
+            "catalogTitle": "OSHER 41",
+            "section": "001",
+            "courseTitle": "History of Medicine"
+        },
+        {
+            "catalogTitle": "OSHER 51",
+            "section": "001",
+            "courseTitle": "Internet Security"
+        },
+        {
+            "catalogTitle": "OSHER 51",
+            "section": "002",
+            "courseTitle": "Internet Security"
+        },
+        {
+            "catalogTitle": "OSHER 56",
+            "section": "002",
+            "courseTitle": "Bon Voyage 2!"
+        },
+        {
+            "catalogTitle": "OSHER 62",
+            "section": "001",
+            "courseTitle": "Everyday Mindfulness"
+        },
+        {
+            "catalogTitle": "OSHER 65",
+            "section": "001",
+            "courseTitle": "Herbal Medicine"
+        },
+        {
+            "catalogTitle": "OSHER 67",
+            "section": "001",
+            "courseTitle": "Intermediate Photog"
+        },
+        {
+            "catalogTitle": "OSHER 69",
+            "section": "001",
+            "courseTitle": "Mac: Beyond Basics"
+        },
+        {
+            "catalogTitle": "OSHER 93",
+            "section": "001",
+            "courseTitle": "Spiritual Gandhi"
+        },
+        {
+            "catalogTitle": "OSHER 101",
+            "section": "001",
+            "courseTitle": "Live Free of Clutter 1"
+        },
+        {
+            "catalogTitle": "OSHER 102",
+            "section": "001",
+            "courseTitle": "The Simple Joys of Singing"
+        },
+        {
+            "catalogTitle": "OSHER 120",
+            "section": "001",
+            "courseTitle": "Google Tools"
+        },
+        {
+            "catalogTitle": "OSHER 130",
+            "section": "001",
+            "courseTitle": "American Pragmatists"
+        },
+        {
+            "catalogTitle": "OSHER 131",
+            "section": "001",
+            "courseTitle": "Great Portraits"
+        },
+        {
+            "catalogTitle": "OSHER 132",
+            "section": "001",
+            "courseTitle": "Reiki Level 1"
+        },
+        {
+            "catalogTitle": "OSHER 133",
+            "section": "001",
+            "courseTitle": "Reiki Level 2"
+        },
+        {
+            "catalogTitle": "OSHER 143",
+            "section": "001",
+            "courseTitle": "Jewelry"
+        },
+        {
+            "catalogTitle": "OSHER 145",
+            "section": "001",
+            "courseTitle": "Renaissance Art"
+        },
+        {
+            "catalogTitle": "OSHER 151",
+            "section": "001",
+            "courseTitle": "Wines of France"
+        },
+        {
+            "catalogTitle": "OSHER 152",
+            "section": "001",
+            "courseTitle": "Individual Rights"
+        },
+        {
+            "catalogTitle": "OSHER 153",
+            "section": "001",
+            "courseTitle": "Singing for Shy Singers"
+        },
+        {
+            "catalogTitle": "OSHER 154",
+            "section": "001",
+            "courseTitle": "100th Anniversary of the Armis"
+        },
+        {
+            "catalogTitle": "OSHER 160",
+            "section": "001",
+            "courseTitle": "Bhagavad Gita"
+        },
+        {
+            "catalogTitle": "OSHER 165",
+            "section": "001",
+            "courseTitle": "Silent Films"
+        },
+        {
+            "catalogTitle": "OSHER 169",
+            "section": "001",
+            "courseTitle": "Intergenerational Learning"
+        },
+        {
+            "catalogTitle": "OSHER 170",
+            "section": "001",
+            "courseTitle": "Bird Watching"
+        },
+        {
+            "catalogTitle": "OSHER 171",
+            "section": "001",
+            "courseTitle": "The Aeneid"
+        },
+        {
+            "catalogTitle": "OSHER 172",
+            "section": "001",
+            "courseTitle": "Ancient Maya"
+        },
+        {
+            "catalogTitle": "OSHER 175",
+            "section": "001",
+            "courseTitle": "Fall of Roman Republic"
+        },
+        {
+            "catalogTitle": "OSHER 180",
+            "section": "001",
+            "courseTitle": "Write Your Creative Aging"
+        },
+        {
+            "catalogTitle": "OSHER 193",
+            "section": "001",
+            "courseTitle": "Balanced Bodies"
+        },
+        {
+            "catalogTitle": "OSHER 205",
+            "section": "001",
+            "courseTitle": "Common Health Problems1"
+        },
+        {
+            "catalogTitle": "OSHER 235",
+            "section": "001",
+            "courseTitle": "Greek and Roman Art"
+        },
+        {
+            "catalogTitle": "OSHER 240",
+            "section": "001",
+            "courseTitle": "Interpersonal Communication"
+        },
+        {
+            "catalogTitle": "OSHER 245",
+            "section": "001",
+            "courseTitle": "Understanding Watersheds"
+        },
+        {
+            "catalogTitle": "OSHER 250",
+            "section": "001",
+            "courseTitle": "Why Do Buildings"
+        },
+        {
+            "catalogTitle": "OSHER 261",
+            "section": "001",
+            "courseTitle": "Connecting People to Nature"
+        },
+        {
+            "catalogTitle": "OSHER 280",
+            "section": "001",
+            "courseTitle": "William Faulkner"
+        },
+        {
+            "catalogTitle": "OSHER 310",
+            "section": "001",
+            "courseTitle": "Law in Film"
+        },
+        {
+            "catalogTitle": "OSHER 340",
+            "section": "001",
+            "courseTitle": "Democracy: What is it?"
+        },
+        {
+            "catalogTitle": "OSHER 343",
+            "section": "001",
+            "courseTitle": "Opera Preview: Romeo"
+        },
+        {
+            "catalogTitle": "OSHER 350",
+            "section": "001",
+            "courseTitle": "Topaz Museum"
+        },
+        {
+            "catalogTitle": "OSHER 360",
+            "section": "001",
+            "courseTitle": "Overview Topaz Internment"
+        },
+        {
+            "catalogTitle": "OSHER 380",
+            "section": "001",
+            "courseTitle": "Live Free of Clutter 2"
+        },
+        {
+            "catalogTitle": "OSHER 381",
+            "section": "001",
+            "courseTitle": "Wines Northern Spain"
+        },
+        {
+            "catalogTitle": "OSHER 390",
+            "section": "001",
+            "courseTitle": "Plein Air Oil"
+        },
+        {
+            "catalogTitle": "OSHER 400",
+            "section": "001",
+            "courseTitle": "Drawing Landscape"
+        },
+        {
+            "catalogTitle": "OSHER 410",
+            "section": "001",
+            "courseTitle": "Watercolor 2"
+        },
+        {
+            "catalogTitle": "OSHER 469",
+            "section": "001",
+            "courseTitle": "Google Maps"
+        },
+        {
+            "catalogTitle": "OSHER 471",
+            "section": "001",
+            "courseTitle": "Forensic Science"
+        },
+        {
+            "catalogTitle": "OSHER 475",
+            "section": "001",
+            "courseTitle": "Americas Cold War"
+        },
+        {
+            "catalogTitle": "OSHER 514",
+            "section": "001",
+            "courseTitle": "Politics/Civil War ME"
+        },
+        {
+            "catalogTitle": "OSHER 519",
+            "section": "001",
+            "courseTitle": "Genes-Future-Revolution"
+        },
+        {
+            "catalogTitle": "OSHER 530",
+            "section": "001",
+            "courseTitle": "Bassem Youssef"
+        },
+        {
+            "catalogTitle": "OSHER 530",
+            "section": "002",
+            "courseTitle": "Bassem Youssef"
+        },
+        {
+            "catalogTitle": "OSHER 540",
+            "section": "001",
+            "courseTitle": "Utah Presents: Kealoha"
+        },
+        {
+            "catalogTitle": "OSHER 565",
+            "section": "001",
+            "courseTitle": "Wines of Italy"
+        },
+        {
+            "catalogTitle": "OSHER 580",
+            "section": "001",
+            "courseTitle": "Architectural Monuments"
+        },
+        {
+            "catalogTitle": "OSHER 595",
+            "section": "001",
+            "courseTitle": "Beginning Ukulele"
+        },
+        {
+            "catalogTitle": "OSHER 626",
+            "section": "001",
+            "courseTitle": "Drawing: Colored Pencil"
+        },
+        {
+            "catalogTitle": "OSHER 630",
+            "section": "001",
+            "courseTitle": "Current Issues"
+        },
+        {
+            "catalogTitle": "OSHER 630",
+            "section": "002",
+            "courseTitle": "Current Issues"
+        },
+        {
+            "catalogTitle": "OSHER 712",
+            "section": "001",
+            "courseTitle": "Beg.-Int. Watercolor Painting"
+        },
+        {
+            "catalogTitle": "OSHER 793",
+            "section": "001",
+            "courseTitle": "Our Great Salt Lake"
+        },
+        {
+            "catalogTitle": "OSHER 798",
+            "section": "001",
+            "courseTitle": "Stories from the SLC Cemetery"
+        },
+        {
+            "catalogTitle": "OSHER 843",
+            "section": "001",
+            "courseTitle": "iPad: Beyond the Basics"
+        },
+        {
+            "catalogTitle": "OSHER 844",
+            "section": "001",
+            "courseTitle": "iPad Basics"
+        },
+        {
+            "catalogTitle": "OSHER 862",
+            "section": "001",
+            "courseTitle": "World War IIEastern Europe"
+        },
+        {
+            "catalogTitle": "OSHER 862",
+            "section": "002",
+            "courseTitle": "World War IIEastern Europe"
+        },
+        {
+            "catalogTitle": "OSHER 881",
+            "section": "002",
+            "courseTitle": "Alignment Yoga"
+        },
+        {
+            "catalogTitle": "OSHER 881",
+            "section": "003",
+            "courseTitle": "Alignment Yoga"
+        },
+        {
+            "catalogTitle": "OSHER 893",
+            "section": "001",
+            "courseTitle": "Excel on Mac"
+        },
+        {
+            "catalogTitle": "OSHER 937",
+            "section": "001",
+            "courseTitle": "Women Artists Part I"
+        },
+        {
+            "catalogTitle": "OSHER 943",
+            "section": "001",
+            "courseTitle": "Hot Rocks"
+        },
+        {
+            "catalogTitle": "OSHER 950",
+            "section": "001",
+            "courseTitle": "Mac Basics"
+        },
+        {
+            "catalogTitle": "OSHER 979",
+            "section": "001",
+            "courseTitle": "Embrace Aging"
+        }
+    ]
+}

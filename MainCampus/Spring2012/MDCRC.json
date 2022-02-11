@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MDCRC 615",
+            "section": "001",
+            "courseTitle": "Foundations in PHC"
+        },
+        {
+            "catalogTitle": "MDCRC 621",
+            "section": "001",
+            "courseTitle": "Regression Models"
+        },
+        {
+            "catalogTitle": "MDCRC 622",
+            "section": "001",
+            "courseTitle": "Survey Methods"
+        },
+        {
+            "catalogTitle": "MDCRC 642",
+            "section": "001",
+            "courseTitle": "Gene of Complex Disease"
+        },
+        {
+            "catalogTitle": "MDCRC 653",
+            "section": "001",
+            "courseTitle": "Animal Models"
+        },
+        {
+            "catalogTitle": "MDCRC 6150",
+            "section": "001",
+            "courseTitle": "Foundations in PHC"
+        },
+        {
+            "catalogTitle": "MDCRC 6210",
+            "section": "001",
+            "courseTitle": "Regression Models"
+        },
+        {
+            "catalogTitle": "MDCRC 6220",
+            "section": "001",
+            "courseTitle": "Survey Methods"
+        },
+        {
+            "catalogTitle": "MDCRC 6260",
+            "section": "001",
+            "courseTitle": "Research Networks"
+        },
+        {
+            "catalogTitle": "MDCRC 6420",
+            "section": "001",
+            "courseTitle": "Gene of Complex Disease"
+        },
+        {
+            "catalogTitle": "MDCRC 6450",
+            "section": "001",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "MDCRC 6530",
+            "section": "001",
+            "courseTitle": "Animal Models"
+        },
+        {
+            "catalogTitle": "MDCRC 6960",
+            "section": "001",
+            "courseTitle": "Research Project"
+        }
+    ]
+}

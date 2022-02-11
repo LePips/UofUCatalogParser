@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "SW 1010",
+            "section": "301",
+            "courseTitle": "Soc Wk as a Profession"
+        },
+        {
+            "catalogTitle": "SW 2300",
+            "section": "301",
+            "courseTitle": "Soc. Welfare Institution"
+        },
+        {
+            "catalogTitle": "SW 3100",
+            "section": "301",
+            "courseTitle": "HBSE I"
+        },
+        {
+            "catalogTitle": "SW 3110",
+            "section": "301",
+            "courseTitle": "SW Practice I"
+        },
+        {
+            "catalogTitle": "SW 3602",
+            "section": "301",
+            "courseTitle": "Global Leadership"
+        },
+        {
+            "catalogTitle": "SW 4444",
+            "section": "301",
+            "courseTitle": "Advanced SW Writing"
+        }
+    ]
+}

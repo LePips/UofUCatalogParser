@@ -1,0 +1,244 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELP 6010",
+            "section": "001",
+            "courseTitle": "Analytic Methods"
+        },
+        {
+            "catalogTitle": "ELP 6030",
+            "section": "001",
+            "courseTitle": "Intro Research Design"
+        },
+        {
+            "catalogTitle": "ELP 6050",
+            "section": "001",
+            "courseTitle": "Program Evaluation"
+        },
+        {
+            "catalogTitle": "ELP 6210",
+            "section": "001",
+            "courseTitle": "Ldrship-Ed Orgs"
+        },
+        {
+            "catalogTitle": "ELP 6310",
+            "section": "001",
+            "courseTitle": "Instructional Ldship"
+        },
+        {
+            "catalogTitle": "ELP 6310",
+            "section": "002",
+            "courseTitle": "Instructional Ldship"
+        },
+        {
+            "catalogTitle": "ELP 6410",
+            "section": "001",
+            "courseTitle": "Education Law"
+        },
+        {
+            "catalogTitle": "ELP 6450",
+            "section": "001",
+            "courseTitle": "Ed Budget & Finance"
+        },
+        {
+            "catalogTitle": "ELP 6510",
+            "section": "001",
+            "courseTitle": "Org & Govern of High Ed"
+        },
+        {
+            "catalogTitle": "ELP 6550",
+            "section": "001",
+            "courseTitle": "Student Affairs Admin"
+        },
+        {
+            "catalogTitle": "ELP 6560",
+            "section": "001",
+            "courseTitle": "Impact of College"
+        },
+        {
+            "catalogTitle": "ELP 6580",
+            "section": "001",
+            "courseTitle": "Multcltrlsm/Div High Ed"
+        },
+        {
+            "catalogTitle": "ELP 6710",
+            "section": "001",
+            "courseTitle": "Internship (K-12)"
+        },
+        {
+            "catalogTitle": "ELP 6710",
+            "section": "002",
+            "courseTitle": "Internship (K-12)"
+        },
+        {
+            "catalogTitle": "ELP 6950",
+            "section": "001",
+            "courseTitle": "Indep Study-Grad"
+        },
+        {
+            "catalogTitle": "ELP 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-Grad"
+        },
+        {
+            "catalogTitle": "ELP 7020",
+            "section": "001",
+            "courseTitle": "Logic Theory Dev"
+        },
+        {
+            "catalogTitle": "ELP 7040",
+            "section": "001",
+            "courseTitle": "Quant Research Meth"
+        },
+        {
+            "catalogTitle": "ELP 7220",
+            "section": "001",
+            "courseTitle": "Leadership Theory"
+        },
+        {
+            "catalogTitle": "ELP 7510",
+            "section": "001",
+            "courseTitle": "Organ & Govern Of Hi Ed"
+        },
+        {
+            "catalogTitle": "ELP 7550",
+            "section": "001",
+            "courseTitle": "Student Affairs Admin"
+        },
+        {
+            "catalogTitle": "ELP 7560",
+            "section": "001",
+            "courseTitle": "Impact of College"
+        },
+        {
+            "catalogTitle": "ELP 7580",
+            "section": "001",
+            "courseTitle": "Multcltrlsm/Div High Ed"
+        },
+        {
+            "catalogTitle": "ELP 7600",
+            "section": "001",
+            "courseTitle": "PhD Proseminar"
+        },
+        {
+            "catalogTitle": "ELP 7700",
+            "section": "001",
+            "courseTitle": "App Field Research"
+        },
+        {
+            "catalogTitle": "ELP 7700",
+            "section": "002",
+            "courseTitle": "App Field Research"
+        },
+        {
+            "catalogTitle": "ELP 7950",
+            "section": "001",
+            "courseTitle": "Indep Study-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7950",
+            "section": "002",
+            "courseTitle": "Indep Study-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7960",
+            "section": "001",
+            "courseTitle": "Black Issues in Higher Ed"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "002",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "003",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "004",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "005",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "006",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "007",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "008",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "009",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7980",
+            "section": "010",
+            "courseTitle": "Faculty Consult-Doc"
+        },
+        {
+            "catalogTitle": "ELP 7990",
+            "section": "001",
+            "courseTitle": "Continuing Reg-Doc"
+        }
+    ]
+}

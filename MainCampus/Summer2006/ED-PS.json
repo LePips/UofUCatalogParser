@@ -1,0 +1,294 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ED PS 724",
+            "section": "001",
+            "courseTitle": "Feminist Psychotherapy"
+        },
+        {
+            "catalogTitle": "ED PS 2110",
+            "section": "001",
+            "courseTitle": "Learn, Lit, & Dev."
+        },
+        {
+            "catalogTitle": "ED PS 2110",
+            "section": "002",
+            "courseTitle": "Learn, Lit, & Dev."
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "001",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "002",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "003",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "018",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2600",
+            "section": "019",
+            "courseTitle": "Strat For College Suc"
+        },
+        {
+            "catalogTitle": "ED PS 2610",
+            "section": "001",
+            "courseTitle": "Career Life Planning"
+        },
+        {
+            "catalogTitle": "ED PS 2625",
+            "section": "001",
+            "courseTitle": "Human Values & Relatnsp"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "018",
+            "courseTitle": "University Experience"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "019",
+            "courseTitle": "University Experience"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "078",
+            "courseTitle": "Career Services Internship"
+        },
+        {
+            "catalogTitle": "ED PS 3960",
+            "section": "079",
+            "courseTitle": "Career Services Internship"
+        },
+        {
+            "catalogTitle": "ED PS 5050",
+            "section": "001",
+            "courseTitle": "LifeSpanDev: Child/Adol"
+        },
+        {
+            "catalogTitle": "ED PS 5051",
+            "section": "001",
+            "courseTitle": "LifeSpanDev: Adult"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "090",
+            "courseTitle": "Coping with Difficult People"
+        },
+        {
+            "catalogTitle": "ED PS 5960",
+            "section": "091",
+            "courseTitle": "Forgiveness & Anger Reduction"
+        },
+        {
+            "catalogTitle": "ED PS 6010",
+            "section": "001",
+            "courseTitle": "Intro Educ Statistics"
+        },
+        {
+            "catalogTitle": "ED PS 6030",
+            "section": "001",
+            "courseTitle": "Intro Research Design"
+        },
+        {
+            "catalogTitle": "ED PS 6050",
+            "section": "001",
+            "courseTitle": "Life Span Development"
+        },
+        {
+            "catalogTitle": "ED PS 6051",
+            "section": "001",
+            "courseTitle": "LifeSpanDev: Adult"
+        },
+        {
+            "catalogTitle": "ED PS 6140",
+            "section": "001",
+            "courseTitle": "Multicultural Assess Sc"
+        },
+        {
+            "catalogTitle": "ED PS 6330",
+            "section": "001",
+            "courseTitle": "Career Dev & Assessment"
+        },
+        {
+            "catalogTitle": "ED PS 6400",
+            "section": "001",
+            "courseTitle": "Collab Ed Decsn Mak"
+        },
+        {
+            "catalogTitle": "ED PS 6447",
+            "section": "001",
+            "courseTitle": "Intro to Web-Based Tools"
+        },
+        {
+            "catalogTitle": "ED PS 6540",
+            "section": "001",
+            "courseTitle": "Culture & School Success"
+        },
+        {
+            "catalogTitle": "ED PS 6560",
+            "section": "001",
+            "courseTitle": "Multimedia Learning"
+        },
+        {
+            "catalogTitle": "ED PS 6612",
+            "section": "001",
+            "courseTitle": "Electronic Comm Aids"
+        },
+        {
+            "catalogTitle": "ED PS 6613",
+            "section": "001",
+            "courseTitle": "AAC Instructional Strategies"
+        },
+        {
+            "catalogTitle": "ED PS 6821",
+            "section": "001",
+            "courseTitle": "Prof Iss in Sch Coun"
+        },
+        {
+            "catalogTitle": "ED PS 6900",
+            "section": "001",
+            "courseTitle": "Internship-Counseling"
+        },
+        {
+            "catalogTitle": "ED PS 6950",
+            "section": "001",
+            "courseTitle": "Indep Study & Spec Proj"
+        },
+        {
+            "catalogTitle": "ED PS 6950",
+            "section": "002",
+            "courseTitle": "Indep Study & Spec Proj"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "001",
+            "courseTitle": "Positive Aging"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "002",
+            "courseTitle": "Eating Disorder: Thry & Pract"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "006",
+            "courseTitle": "Adolescent Learning"
+        },
+        {
+            "catalogTitle": "ED PS 6960",
+            "section": "091",
+            "courseTitle": "Forgiveness & Anger Reduction"
+        },
+        {
+            "catalogTitle": "ED PS 6969",
+            "section": "001",
+            "courseTitle": "HLM"
+        },
+        {
+            "catalogTitle": "ED PS 6970",
+            "section": "001",
+            "courseTitle": "Grad Thesis: Masters"
+        },
+        {
+            "catalogTitle": "ED PS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ED PS 7130",
+            "section": "001",
+            "courseTitle": "Cognitive Assessment"
+        },
+        {
+            "catalogTitle": "ED PS 7140",
+            "section": "001",
+            "courseTitle": "Multicultural Assess Sc"
+        },
+        {
+            "catalogTitle": "ED PS 7230",
+            "section": "001",
+            "courseTitle": "Play Therapy"
+        },
+        {
+            "catalogTitle": "ED PS 7330",
+            "section": "001",
+            "courseTitle": "Career Develpmnt Theory"
+        },
+        {
+            "catalogTitle": "ED PS 7430",
+            "section": "001",
+            "courseTitle": "Res in Coun Psy"
+        },
+        {
+            "catalogTitle": "ED PS 7730",
+            "section": "001",
+            "courseTitle": "Sch Psych Practicum: Clinic"
+        },
+        {
+            "catalogTitle": "ED PS 7731",
+            "section": "002",
+            "courseTitle": "Sch Psy Prac: Field"
+        },
+        {
+            "catalogTitle": "ED PS 7770",
+            "section": "001",
+            "courseTitle": "Field Practicum"
+        },
+        {
+            "catalogTitle": "ED PS 7830",
+            "section": "001",
+            "courseTitle": "Sem-School Psychology"
+        },
+        {
+            "catalogTitle": "ED PS 7910",
+            "section": "001",
+            "courseTitle": "Internship-School Psych"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "002",
+            "courseTitle": "Play Therapy"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "003",
+            "courseTitle": "Autism"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "004",
+            "courseTitle": "On Line Seminar in Cognition,"
+        },
+        {
+            "catalogTitle": "ED PS 7960",
+            "section": "005",
+            "courseTitle": "Psychotherapy Review"
+        },
+        {
+            "catalogTitle": "ED PS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "ED PS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHYS 170",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "PHYS 1050",
+            "section": "001",
+            "courseTitle": "Solar System"
+        },
+        {
+            "catalogTitle": "PHYS 1060",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "PHYS 1500",
+            "section": "001",
+            "courseTitle": "Prep for PHYC 2010/2210"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "001",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "002",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "003",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "004",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "005",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2010",
+            "section": "006",
+            "courseTitle": "General Physics I"
+        },
+        {
+            "catalogTitle": "PHYS 2020",
+            "section": "001",
+            "courseTitle": "General Physics II"
+        },
+        {
+            "catalogTitle": "PHYS 2020",
+            "section": "002",
+            "courseTitle": "General Physics II"
+        },
+        {
+            "catalogTitle": "PHYS 2020",
+            "section": "003",
+            "courseTitle": "General Physics II"
+        },
+        {
+            "catalogTitle": "PHYS 2020",
+            "section": "004",
+            "courseTitle": "General Physics II"
+        },
+        {
+            "catalogTitle": "PHYS 2020",
+            "section": "005",
+            "courseTitle": "General Physics II"
+        },
+        {
+            "catalogTitle": "PHYS 2020",
+            "section": "006",
+            "courseTitle": "General Physics II"
+        },
+        {
+            "catalogTitle": "PHYS 2110",
+            "section": "001",
+            "courseTitle": "Gen Phycs with Calc I"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "001",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "002",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "003",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 2220",
+            "section": "004",
+            "courseTitle": "Phycs For Scien. & Eng. II"
+        },
+        {
+            "catalogTitle": "PHYS 3110",
+            "section": "001",
+            "courseTitle": "Physics of Human Body"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "001",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "002",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "003",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "004",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "005",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3719",
+            "section": "010",
+            "courseTitle": "Undergraduate Lab"
+        },
+        {
+            "catalogTitle": "PHYS 3740",
+            "section": "001",
+            "courseTitle": "Intro To Quantum & Rel"
+        },
+        {
+            "catalogTitle": "PHYS 3949",
+            "section": "001",
+            "courseTitle": "Special Lab Topics"
+        },
+        {
+            "catalogTitle": "PHYS 3949",
+            "section": "003",
+            "courseTitle": "Special Lab Topics"
+        },
+        {
+            "catalogTitle": "PHYS 3949",
+            "section": "005",
+            "courseTitle": "Special Lab Topics"
+        },
+        {
+            "catalogTitle": "PHYS 3949",
+            "section": "006",
+            "courseTitle": "Special Lab Topics"
+        },
+        {
+            "catalogTitle": "PHYS 4999",
+            "section": "001",
+            "courseTitle": "Senior Honors Project"
+        },
+        {
+            "catalogTitle": "PHYS 6810",
+            "section": "001",
+            "courseTitle": "Graduate Seminar: Ms"
+        },
+        {
+            "catalogTitle": "PHYS 6859",
+            "section": "001",
+            "courseTitle": "Instrumentation Project"
+        },
+        {
+            "catalogTitle": "PHYS 6950",
+            "section": "001",
+            "courseTitle": "Special Reading Topics:"
+        },
+        {
+            "catalogTitle": "PHYS 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Master"
+        },
+        {
+            "catalogTitle": "PHYS 6970",
+            "section": "030",
+            "courseTitle": "Thesis Research: Master"
+        },
+        {
+            "catalogTitle": "PHYS 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PHYS 7810",
+            "section": "001",
+            "courseTitle": "Graduate Seminar: Phd"
+        },
+        {
+            "catalogTitle": "PHYS 7910",
+            "section": "001",
+            "courseTitle": "Special Reading Topics:"
+        },
+        {
+            "catalogTitle": "PHYS 7910",
+            "section": "031",
+            "courseTitle": "Special Reading Topics:"
+        },
+        {
+            "catalogTitle": "PHYS 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYS 7970",
+            "section": "030",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYS 7970",
+            "section": "031",
+            "courseTitle": "Thesis Research: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "PHYS 7990",
+            "section": "001",
+            "courseTitle": "Continuing Registration"
+        }
+    ]
+}

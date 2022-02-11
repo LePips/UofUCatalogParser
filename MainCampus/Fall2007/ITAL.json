@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 101",
+            "section": "003",
+            "courseTitle": "Begining Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 201",
+            "section": "002",
+            "courseTitle": "Intermediate Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "001",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "002",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 1010",
+            "section": "003",
+            "courseTitle": "Beg Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "001",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 2010",
+            "section": "002",
+            "courseTitle": "Intrm Italian I"
+        },
+        {
+            "catalogTitle": "ITAL 3060",
+            "section": "001",
+            "courseTitle": "Adv Grammar Review"
+        },
+        {
+            "catalogTitle": "ITAL 4550",
+            "section": "090",
+            "courseTitle": "Il Mondo Di Pinocchio"
+        },
+        {
+            "catalogTitle": "ITAL 4620",
+            "section": "001",
+            "courseTitle": "Surv-Italian Literature"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

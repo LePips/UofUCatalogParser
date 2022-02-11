@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HINDI 101",
+            "section": "001",
+            "courseTitle": "Beg. Hindi-Urdu I"
+        },
+        {
+            "catalogTitle": "HINDI 201",
+            "section": "001",
+            "courseTitle": "Int Hindi-Urdu I"
+        },
+        {
+            "catalogTitle": "HINDI 1010",
+            "section": "001",
+            "courseTitle": "Beg. Hindi-Urdu I"
+        },
+        {
+            "catalogTitle": "HINDI 2010",
+            "section": "001",
+            "courseTitle": "Int Hindi-Urdu I"
+        },
+        {
+            "catalogTitle": "HINDI 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HINDI 6880",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "HINDI 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

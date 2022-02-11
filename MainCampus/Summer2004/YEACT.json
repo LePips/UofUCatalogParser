@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YEACT 203",
+            "section": "001",
+            "courseTitle": "Filmmaking"
+        },
+        {
+            "catalogTitle": "YEACT 203",
+            "section": "002",
+            "courseTitle": "Filmmaking"
+        },
+        {
+            "catalogTitle": "YEACT 205",
+            "section": "001",
+            "courseTitle": "My Play-Doh Lives"
+        },
+        {
+            "catalogTitle": "YEACT 205",
+            "section": "002",
+            "courseTitle": "My Play-Doh Lives"
+        },
+        {
+            "catalogTitle": "YEACT 208",
+            "section": "001",
+            "courseTitle": "Film Making Intensive"
+        },
+        {
+            "catalogTitle": "YEACT 208",
+            "section": "002",
+            "courseTitle": "Film Making Intensive"
+        },
+        {
+            "catalogTitle": "YEACT 314",
+            "section": "001",
+            "courseTitle": "Produce Music Video"
+        },
+        {
+            "catalogTitle": "YEACT 315",
+            "section": "001",
+            "courseTitle": "3D Animation"
+        },
+        {
+            "catalogTitle": "YEACT 316",
+            "section": "001",
+            "courseTitle": "Screenwriting"
+        }
+    ]
+}

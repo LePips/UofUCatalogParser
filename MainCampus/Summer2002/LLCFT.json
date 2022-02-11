@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLCFT 160",
+            "section": "001",
+            "courseTitle": "Intro Glass Bead Making"
+        },
+        {
+            "catalogTitle": "LLCFT 164",
+            "section": "001",
+            "courseTitle": "Beginning Fused Glass"
+        },
+        {
+            "catalogTitle": "LLCFT 164",
+            "section": "002",
+            "courseTitle": "Beginning Fused Glass"
+        },
+        {
+            "catalogTitle": "LLCFT 175",
+            "section": "001",
+            "courseTitle": "Intermediate Fused Glass"
+        },
+        {
+            "catalogTitle": "LLCFT 179",
+            "section": "001",
+            "courseTitle": "Make Healthy Soaps"
+        }
+    ]
+}

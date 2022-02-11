@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHS 6715",
+            "section": "001",
+            "courseTitle": "Intro to Pop Health II"
+        },
+        {
+            "catalogTitle": "PHS 7020",
+            "section": "001",
+            "courseTitle": "Analysis of Sec. Data"
+        },
+        {
+            "catalogTitle": "PHS 7040",
+            "section": "001",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "PHS 7100",
+            "section": "001",
+            "courseTitle": "Clinical Epidemiology"
+        },
+        {
+            "catalogTitle": "PHS 7310",
+            "section": "001",
+            "courseTitle": "Comparative Hlth Sys I"
+        },
+        {
+            "catalogTitle": "PHS 7840",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

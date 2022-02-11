@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIO C 6910",
+            "section": "001",
+            "courseTitle": "Research Techniques"
+        },
+        {
+            "catalogTitle": "BIO C 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "BIO C 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIO C 7010",
+            "section": "001",
+            "courseTitle": "Biochem Journal Club"
+        },
+        {
+            "catalogTitle": "BIO C 7020",
+            "section": "001",
+            "courseTitle": "Biochem Res In Progress"
+        },
+        {
+            "catalogTitle": "BIO C 7040",
+            "section": "001",
+            "courseTitle": "Lab Resrch Conferences"
+        },
+        {
+            "catalogTitle": "BIO C 7040",
+            "section": "017",
+            "courseTitle": "Lab Resrch Conferences"
+        },
+        {
+            "catalogTitle": "BIO C 7100",
+            "section": "001",
+            "courseTitle": "Metabolism"
+        },
+        {
+            "catalogTitle": "BIO C 7100",
+            "section": "002",
+            "courseTitle": "Post-Transcriptional Gene Reg"
+        },
+        {
+            "catalogTitle": "BIO C 7910",
+            "section": "001",
+            "courseTitle": "Research Techniques"
+        },
+        {
+            "catalogTitle": "BIO C 7970",
+            "section": "020",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "BIO C 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIO C 7990",
+            "section": "001",
+            "courseTitle": "Cont-Registration-Ph D"
+        }
+    ]
+}

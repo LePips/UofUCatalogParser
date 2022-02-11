@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 1420",
+            "section": "001",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 1420",
+            "section": "002",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 1420",
+            "section": "003",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 1420",
+            "section": "004",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 1420",
+            "section": "005",
+            "courseTitle": "Computer Essentials"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "002",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "001",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4440",
+            "section": "001",
+            "courseTitle": "Hardware/Software"
+        },
+        {
+            "catalogTitle": "IS 4450",
+            "section": "001",
+            "courseTitle": "Telecommunications"
+        },
+        {
+            "catalogTitle": "IS 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis Project"
+        },
+        {
+            "catalogTitle": "IS 5920",
+            "section": "001",
+            "courseTitle": "Process Analysis"
+        },
+        {
+            "catalogTitle": "IS 5920",
+            "section": "003",
+            "courseTitle": "Object Oriented Technology"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "001",
+            "courseTitle": "Process Analysis"
+        },
+        {
+            "catalogTitle": "IS 6420",
+            "section": "001",
+            "courseTitle": "Database Theory/Design"
+        },
+        {
+            "catalogTitle": "IS 6440",
+            "section": "001",
+            "courseTitle": "Obj Oriented Technology"
+        },
+        {
+            "catalogTitle": "IS 6450",
+            "section": "001",
+            "courseTitle": "Telecommunications"
+        }
+    ]
+}

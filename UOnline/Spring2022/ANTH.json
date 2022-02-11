@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ANTH 1010",
+            "section": "290",
+            "courseTitle": "Culture & Human Exper"
+        },
+        {
+            "catalogTitle": "ANTH 1020",
+            "section": "290",
+            "courseTitle": "Human Origin Evol/Diver"
+        },
+        {
+            "catalogTitle": "ANTH 1030",
+            "section": "290",
+            "courseTitle": "Prehistoric Archaeology"
+        },
+        {
+            "catalogTitle": "ANTH 1050",
+            "section": "290",
+            "courseTitle": "Evolution Human Nature"
+        },
+        {
+            "catalogTitle": "ANTH 3110",
+            "section": "290",
+            "courseTitle": "Women Cross Culturally"
+        }
+    ]
+}

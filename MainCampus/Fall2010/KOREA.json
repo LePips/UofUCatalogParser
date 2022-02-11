@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "KOREA 101",
+            "section": "001",
+            "courseTitle": "Beg Korean I"
+        },
+        {
+            "catalogTitle": "KOREA 201",
+            "section": "001",
+            "courseTitle": "Intrm Korean"
+        },
+        {
+            "catalogTitle": "KOREA 306",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "KOREA 1010",
+            "section": "001",
+            "courseTitle": "Beg Korean I"
+        },
+        {
+            "catalogTitle": "KOREA 2010",
+            "section": "001",
+            "courseTitle": "Intrm Korean I"
+        },
+        {
+            "catalogTitle": "KOREA 3060",
+            "section": "001",
+            "courseTitle": "Third Yr Grammar"
+        },
+        {
+            "catalogTitle": "KOREA 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "KOREA 7300",
+            "section": "003",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "KOREA 7300",
+            "section": "005",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

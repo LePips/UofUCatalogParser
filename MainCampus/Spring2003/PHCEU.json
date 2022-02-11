@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHCEU 5125",
+            "section": "001",
+            "courseTitle": "Dosage/Drug Delivery"
+        },
+        {
+            "catalogTitle": "PHCEU 5611",
+            "section": "001",
+            "courseTitle": "Asp of IV drg Del"
+        },
+        {
+            "catalogTitle": "PHCEU 5880",
+            "section": "001",
+            "courseTitle": "Journal Club"
+        },
+        {
+            "catalogTitle": "PHCEU 5960",
+            "section": "001",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PHCEU 5960",
+            "section": "002",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PHCEU 5960",
+            "section": "003",
+            "courseTitle": "Special Problems"
+        },
+        {
+            "catalogTitle": "PHCEU 6020",
+            "section": "001",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "PHCEU 6880",
+            "section": "001",
+            "courseTitle": "Journal Club-MS"
+        },
+        {
+            "catalogTitle": "PHCEU 6890",
+            "section": "001",
+            "courseTitle": "Research Seminar-MS"
+        },
+        {
+            "catalogTitle": "PHCEU 6960",
+            "section": "001",
+            "courseTitle": "Special Problems-MS"
+        },
+        {
+            "catalogTitle": "PHCEU 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-MS"
+        },
+        {
+            "catalogTitle": "PHCEU 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-MS"
+        },
+        {
+            "catalogTitle": "PHCEU 7020",
+            "section": "001",
+            "courseTitle": "Equl Phceu and Biol Sys"
+        },
+        {
+            "catalogTitle": "PHCEU 7030",
+            "section": "001",
+            "courseTitle": "Drug Delivery"
+        },
+        {
+            "catalogTitle": "PHCEU 7880",
+            "section": "001",
+            "courseTitle": "Journal Club-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7890",
+            "section": "001",
+            "courseTitle": "Research Seminar-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7960",
+            "section": "001",
+            "courseTitle": "Special Problems-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult-PhD"
+        },
+        {
+            "catalogTitle": "PHCEU 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

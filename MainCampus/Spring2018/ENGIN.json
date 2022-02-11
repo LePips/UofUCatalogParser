@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGIN 1022",
+            "section": "001",
+            "courseTitle": "Survey of Engineering"
+        },
+        {
+            "catalogTitle": "ENGIN 5791",
+            "section": "002",
+            "courseTitle": "Launching Tech Ventures"
+        },
+        {
+            "catalogTitle": "ENGIN 6791",
+            "section": "001",
+            "courseTitle": "Launch Tech Ventures"
+        },
+        {
+            "catalogTitle": "ENGIN 6960",
+            "section": "001",
+            "courseTitle": "Wrtg & Com Grad Stdnts"
+        }
+    ]
+}

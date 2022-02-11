@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "QAMO 3010",
+            "section": "001",
+            "courseTitle": "Business Economics"
+        },
+        {
+            "catalogTitle": "QAMO 3030",
+            "section": "001",
+            "courseTitle": "Business Econometrics 1"
+        },
+        {
+            "catalogTitle": "QAMO 5980",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 615",
+            "section": "001",
+            "courseTitle": "EH Writing Seminar"
+        },
+        {
+            "catalogTitle": "HUM 690",
+            "section": "001",
+            "courseTitle": "Culture and the Humanities"
+        },
+        {
+            "catalogTitle": "HUM 6101",
+            "section": "001",
+            "courseTitle": "Foundations: Envr. Hum."
+        },
+        {
+            "catalogTitle": "HUM 6103",
+            "section": "001",
+            "courseTitle": "Ecology of Residency"
+        },
+        {
+            "catalogTitle": "HUM 6104",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        },
+        {
+            "catalogTitle": "HUM 6105",
+            "section": "001",
+            "courseTitle": "EH Writing Seminar"
+        },
+        {
+            "catalogTitle": "HUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "002",
+            "courseTitle": "Environmental Ethics"
+        }
+    ]
+}

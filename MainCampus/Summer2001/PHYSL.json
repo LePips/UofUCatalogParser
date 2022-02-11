@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHYSL 5200",
+            "section": "001",
+            "courseTitle": "Princ Of Physiology"
+        },
+        {
+            "catalogTitle": "PHYSL 7800",
+            "section": "001",
+            "courseTitle": "Physiology Seminar"
+        },
+        {
+            "catalogTitle": "PHYSL 7800",
+            "section": "002",
+            "courseTitle": "Physiology Seminar"
+        },
+        {
+            "catalogTitle": "PHYSL 7930",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "PHYSL 7970",
+            "section": "001",
+            "courseTitle": "Dissertation Res: Ph.D."
+        },
+        {
+            "catalogTitle": "PHYSL 7980",
+            "section": "001",
+            "courseTitle": "Faculty Rotation"
+        }
+    ]
+}

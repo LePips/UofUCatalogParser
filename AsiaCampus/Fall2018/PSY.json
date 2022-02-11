@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "301",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "301",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3120",
+            "section": "301",
+            "courseTitle": "Cognitive Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3140",
+            "section": "301",
+            "courseTitle": "Cognitive Neuropsych"
+        },
+        {
+            "catalogTitle": "PSY 3171",
+            "section": "301",
+            "courseTitle": "Human Factors & Ergon"
+        },
+        {
+            "catalogTitle": "PSY 3230",
+            "section": "301",
+            "courseTitle": "Adult Devel And Aging"
+        },
+        {
+            "catalogTitle": "PSY 3450",
+            "section": "301",
+            "courseTitle": "Cross Cultural Psych"
+        },
+        {
+            "catalogTitle": "PSY 4800",
+            "section": "301",
+            "courseTitle": "Res Experience/General"
+        },
+        {
+            "catalogTitle": "PSY 4890",
+            "section": "301",
+            "courseTitle": "CSBS Internship Program"
+        },
+        {
+            "catalogTitle": "PSY 4951",
+            "section": "301",
+            "courseTitle": "Special Projects"
+        }
+    ]
+}

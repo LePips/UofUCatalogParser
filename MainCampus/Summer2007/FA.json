@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 2000",
+            "section": "001",
+            "courseTitle": "Computers and the Arts"
+        },
+        {
+            "catalogTitle": "FA 3100",
+            "section": "001",
+            "courseTitle": "Intro:Net-Design Web"
+        },
+        {
+            "catalogTitle": "FA 3350",
+            "section": "001",
+            "courseTitle": "3 D Computer Graphics"
+        },
+        {
+            "catalogTitle": "FA 3400",
+            "section": "001",
+            "courseTitle": "Digital Visual Effects"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "001",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "FA 3600",
+            "section": "002",
+            "courseTitle": "Writing for New Media"
+        },
+        {
+            "catalogTitle": "FA 4850",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "FA 4900",
+            "section": "001",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 4900",
+            "section": "002",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 4900",
+            "section": "003",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 6800",
+            "section": "001",
+            "courseTitle": "Grad. Sem. ArtsTech"
+        }
+    ]
+}

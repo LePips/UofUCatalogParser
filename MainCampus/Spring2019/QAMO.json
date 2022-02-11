@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "QAMO 3010",
+            "section": "001",
+            "courseTitle": "Business Economics"
+        },
+        {
+            "catalogTitle": "QAMO 3020",
+            "section": "001",
+            "courseTitle": "Game Theory"
+        },
+        {
+            "catalogTitle": "QAMO 3030",
+            "section": "001",
+            "courseTitle": "Business Econometrics 1"
+        },
+        {
+            "catalogTitle": "QAMO 4030",
+            "section": "001",
+            "courseTitle": "Econ of Organization"
+        },
+        {
+            "catalogTitle": "QAMO 4060",
+            "section": "001",
+            "courseTitle": "Econ of Bus Taxation"
+        },
+        {
+            "catalogTitle": "QAMO 5980",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

@@ -1,0 +1,279 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LING 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 1200",
+            "section": "002",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "LING 3160",
+            "section": "001",
+            "courseTitle": "Language and Cognition"
+        },
+        {
+            "catalogTitle": "LING 3190",
+            "section": "001",
+            "courseTitle": "Psycholinguistics"
+        },
+        {
+            "catalogTitle": "LING 3470",
+            "section": "001",
+            "courseTitle": "Language & Culture"
+        },
+        {
+            "catalogTitle": "LING 3500",
+            "section": "001",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "LING 3510",
+            "section": "001",
+            "courseTitle": "Grammar and Stylistics"
+        },
+        {
+            "catalogTitle": "LING 3600",
+            "section": "001",
+            "courseTitle": "Cross-Cultural Comm"
+        },
+        {
+            "catalogTitle": "LING 3810",
+            "section": "001",
+            "courseTitle": "Strat/tech ESL Teaching"
+        },
+        {
+            "catalogTitle": "LING 3950",
+            "section": "001",
+            "courseTitle": "Service Learning"
+        },
+        {
+            "catalogTitle": "LING 4010",
+            "section": "001",
+            "courseTitle": "Intro Phonetics&Phonolg"
+        },
+        {
+            "catalogTitle": "LING 4020",
+            "section": "001",
+            "courseTitle": "Intro To Syntax"
+        },
+        {
+            "catalogTitle": "LING 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "LING 5012",
+            "section": "001",
+            "courseTitle": "Advanced Phonology"
+        },
+        {
+            "catalogTitle": "LING 5022",
+            "section": "001",
+            "courseTitle": "Advanced Syntax"
+        },
+        {
+            "catalogTitle": "LING 5024",
+            "section": "001",
+            "courseTitle": "Child Lang Acquisition"
+        },
+        {
+            "catalogTitle": "LING 5077",
+            "section": "001",
+            "courseTitle": "Discourse Analysis"
+        },
+        {
+            "catalogTitle": "LING 5170",
+            "section": "001",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LING 5200",
+            "section": "001",
+            "courseTitle": "American Indian Languages"
+        },
+        {
+            "catalogTitle": "LING 5210",
+            "section": "001",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "LING 5295",
+            "section": "001",
+            "courseTitle": "Structure of Russian I"
+        },
+        {
+            "catalogTitle": "LING 5810",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 5812",
+            "section": "001",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 5813",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 5981",
+            "section": "001",
+            "courseTitle": "Bilingualism"
+        },
+        {
+            "catalogTitle": "LING 5991",
+            "section": "001",
+            "courseTitle": "Individual Studies"
+        },
+        {
+            "catalogTitle": "LING 6010",
+            "section": "001",
+            "courseTitle": "Intro Phonetics&Phonolg"
+        },
+        {
+            "catalogTitle": "LING 6012",
+            "section": "001",
+            "courseTitle": "Advanced Phonology"
+        },
+        {
+            "catalogTitle": "LING 6020",
+            "section": "001",
+            "courseTitle": "Intro To Syntax"
+        },
+        {
+            "catalogTitle": "LING 6022",
+            "section": "001",
+            "courseTitle": "Advanced Syntax"
+        },
+        {
+            "catalogTitle": "LING 6024",
+            "section": "001",
+            "courseTitle": "Child Lang Acquisition"
+        },
+        {
+            "catalogTitle": "LING 6040",
+            "section": "001",
+            "courseTitle": "Sociolinguistics"
+        },
+        {
+            "catalogTitle": "LING 6041",
+            "section": "001",
+            "courseTitle": "Bilingualism"
+        },
+        {
+            "catalogTitle": "LING 6080",
+            "section": "002",
+            "courseTitle": "Psycholinguistics"
+        },
+        {
+            "catalogTitle": "LING 6081",
+            "section": "001",
+            "courseTitle": "Language and Cognition"
+        },
+        {
+            "catalogTitle": "LING 6170",
+            "section": "001",
+            "courseTitle": "L2 Research Design"
+        },
+        {
+            "catalogTitle": "LING 6200",
+            "section": "001",
+            "courseTitle": "American Indian Languages"
+        },
+        {
+            "catalogTitle": "LING 6210",
+            "section": "001",
+            "courseTitle": "Field Methods"
+        },
+        {
+            "catalogTitle": "LING 6800",
+            "section": "001",
+            "courseTitle": "Ling Teach Practicum"
+        },
+        {
+            "catalogTitle": "LING 6810",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 6810",
+            "section": "002",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "LING 6812",
+            "section": "001",
+            "courseTitle": "Content-Based Lang Tchg"
+        },
+        {
+            "catalogTitle": "LING 6813",
+            "section": "001",
+            "courseTitle": "Practicum"
+        },
+        {
+            "catalogTitle": "LING 6819",
+            "section": "001",
+            "courseTitle": "ESL TA Colloquium"
+        },
+        {
+            "catalogTitle": "LING 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "LING 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 6991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        },
+        {
+            "catalogTitle": "LING 7025",
+            "section": "001",
+            "courseTitle": "L2 Acquisition Theory"
+        },
+        {
+            "catalogTitle": "LING 7040",
+            "section": "001",
+            "courseTitle": "Research Sem-Socioling"
+        },
+        {
+            "catalogTitle": "LING 7170",
+            "section": "001",
+            "courseTitle": "Adv Research Methods"
+        },
+        {
+            "catalogTitle": "LING 7813",
+            "section": "001",
+            "courseTitle": "Practicum-L2 Teacher Ed"
+        },
+        {
+            "catalogTitle": "LING 7960",
+            "section": "001",
+            "courseTitle": "Reading for Prelim Exam"
+        },
+        {
+            "catalogTitle": "LING 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "LING 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        },
+        {
+            "catalogTitle": "LING 7991",
+            "section": "001",
+            "courseTitle": "Individual Research"
+        }
+    ]
+}

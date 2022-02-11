@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "301",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 3777",
+            "section": "301",
+            "courseTitle": "Politics and Film"
+        },
+        {
+            "catalogTitle": "POLS 3777",
+            "section": "302",
+            "courseTitle": "Politics and Film"
+        },
+        {
+            "catalogTitle": "POLS 3777",
+            "section": "304",
+            "courseTitle": "Politics and Film"
+        },
+        {
+            "catalogTitle": "POLS 3777",
+            "section": "311",
+            "courseTitle": "Politics and Film"
+        },
+        {
+            "catalogTitle": "POLS 3777",
+            "section": "312",
+            "courseTitle": "Politics and Film"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6390",
+            "section": "001",
+            "courseTitle": "Sustainability Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6410",
+            "section": "001",
+            "courseTitle": "Site Development"
+        },
+        {
+            "catalogTitle": "REDEV 6480",
+            "section": "001",
+            "courseTitle": "Project Management"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "001",
+            "courseTitle": "Real Estate Dev Due Diligence"
+        },
+        {
+            "catalogTitle": "REDEV 6971",
+            "section": "001",
+            "courseTitle": "Professional Project"
+        }
+    ]
+}

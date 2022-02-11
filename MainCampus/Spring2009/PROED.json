@@ -1,0 +1,324 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 102",
+            "section": "005",
+            "courseTitle": "Acct/Budg for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 111",
+            "section": "005",
+            "courseTitle": "Finance for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 112",
+            "section": "005",
+            "courseTitle": "Finance for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 113",
+            "section": "001",
+            "courseTitle": "Accounting"
+        },
+        {
+            "catalogTitle": "PROED 113",
+            "section": "040",
+            "courseTitle": "Accounting"
+        },
+        {
+            "catalogTitle": "PROED 113",
+            "section": "041",
+            "courseTitle": "Accounting"
+        },
+        {
+            "catalogTitle": "PROED 121",
+            "section": "005",
+            "courseTitle": "Economics for Bus"
+        },
+        {
+            "catalogTitle": "PROED 301",
+            "section": "003",
+            "courseTitle": "Strategic Planning"
+        },
+        {
+            "catalogTitle": "PROED 301",
+            "section": "005",
+            "courseTitle": "Strategic Planning"
+        },
+        {
+            "catalogTitle": "PROED 303",
+            "section": "005",
+            "courseTitle": "Nego. and Conflict Mgt."
+        },
+        {
+            "catalogTitle": "PROED 320",
+            "section": "005",
+            "courseTitle": "Advanced HR Certificate"
+        },
+        {
+            "catalogTitle": "PROED 321",
+            "section": "005",
+            "courseTitle": "Workplace Investigations"
+        },
+        {
+            "catalogTitle": "PROED 322",
+            "section": "005",
+            "courseTitle": "Adv Negotiation & ADR"
+        },
+        {
+            "catalogTitle": "PROED 323",
+            "section": "005",
+            "courseTitle": "Advanced Employment Law"
+        },
+        {
+            "catalogTitle": "PROED 324",
+            "section": "005",
+            "courseTitle": "Benefits and Costs"
+        },
+        {
+            "catalogTitle": "PROED 325",
+            "section": "005",
+            "courseTitle": "Succession Planning"
+        },
+        {
+            "catalogTitle": "PROED 326",
+            "section": "007",
+            "courseTitle": "Organizational Development"
+        },
+        {
+            "catalogTitle": "PROED 326",
+            "section": "040",
+            "courseTitle": "Organizational Development"
+        },
+        {
+            "catalogTitle": "PROED 326",
+            "section": "041",
+            "courseTitle": "Organizational Development"
+        },
+        {
+            "catalogTitle": "PROED 327",
+            "section": "005",
+            "courseTitle": "Auditing the HR Function"
+        },
+        {
+            "catalogTitle": "PROED 401",
+            "section": "005",
+            "courseTitle": "Collaborative Leadership I"
+        },
+        {
+            "catalogTitle": "PROED 401",
+            "section": "040",
+            "courseTitle": "Collaborative Leadership"
+        },
+        {
+            "catalogTitle": "PROED 401",
+            "section": "041",
+            "courseTitle": "Collaborative Leadership"
+        },
+        {
+            "catalogTitle": "PROED 402",
+            "section": "005",
+            "courseTitle": "Managing Collaboratively"
+        },
+        {
+            "catalogTitle": "PROED 427",
+            "section": "005",
+            "courseTitle": "Emotional Intelligence"
+        },
+        {
+            "catalogTitle": "PROED 427",
+            "section": "040",
+            "courseTitle": "Emotional Intelligence"
+        },
+        {
+            "catalogTitle": "PROED 427",
+            "section": "041",
+            "courseTitle": "Emotional Intelligence"
+        },
+        {
+            "catalogTitle": "PROED 430",
+            "section": "005",
+            "courseTitle": "Data Driven Ldrshp"
+        },
+        {
+            "catalogTitle": "PROED 501",
+            "section": "005",
+            "courseTitle": "Foundations of NP Sector"
+        },
+        {
+            "catalogTitle": "PROED 503",
+            "section": "007",
+            "courseTitle": "Fundraising Fundamentals"
+        },
+        {
+            "catalogTitle": "PROED 503",
+            "section": "040",
+            "courseTitle": "Fundraising Fundamentals"
+        },
+        {
+            "catalogTitle": "PROED 503",
+            "section": "041",
+            "courseTitle": "Fundraising Fundamentals"
+        },
+        {
+            "catalogTitle": "PROED 504",
+            "section": "005",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "PROED 504",
+            "section": "040",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "PROED 504",
+            "section": "041",
+            "courseTitle": "Grant Writing"
+        },
+        {
+            "catalogTitle": "PROED 505",
+            "section": "005",
+            "courseTitle": "Finding Funding"
+        },
+        {
+            "catalogTitle": "PROED 506",
+            "section": "007",
+            "courseTitle": "Mrkting for Nonprofits"
+        },
+        {
+            "catalogTitle": "PROED 506",
+            "section": "040",
+            "courseTitle": "Mrkting for Nonprofits"
+        },
+        {
+            "catalogTitle": "PROED 506",
+            "section": "041",
+            "courseTitle": "Mrkting for Nonprofits"
+        },
+        {
+            "catalogTitle": "PROED 521",
+            "section": "003",
+            "courseTitle": "Creating NP Boards"
+        },
+        {
+            "catalogTitle": "PROED 521",
+            "section": "005",
+            "courseTitle": "Creating NP Boards"
+        },
+        {
+            "catalogTitle": "PROED 524",
+            "section": "005",
+            "courseTitle": "NP Taxation Enviroment"
+        },
+        {
+            "catalogTitle": "PROED 525",
+            "section": "005",
+            "courseTitle": "Mng Cash Flow & Reporting"
+        },
+        {
+            "catalogTitle": "PROED 526",
+            "section": "005",
+            "courseTitle": "Int Controls & Risk Mgmt NP Or"
+        },
+        {
+            "catalogTitle": "PROED 527",
+            "section": "005",
+            "courseTitle": "Mng Grants-Single Audit"
+        },
+        {
+            "catalogTitle": "PROED 528",
+            "section": "005",
+            "courseTitle": "Fundraising Fast"
+        },
+        {
+            "catalogTitle": "PROED 542",
+            "section": "005",
+            "courseTitle": "Fundamentals of Op for NP"
+        },
+        {
+            "catalogTitle": "PROED 543",
+            "section": "005",
+            "courseTitle": "Nonprofit Wrap Up"
+        },
+        {
+            "catalogTitle": "PROED 562",
+            "section": "005",
+            "courseTitle": "Volunteer Mgmt for NP"
+        },
+        {
+            "catalogTitle": "PROED 601",
+            "section": "005",
+            "courseTitle": "Proj Mgmt for Engineers"
+        },
+        {
+            "catalogTitle": "PROED 607",
+            "section": "005",
+            "courseTitle": "Project Risk Management"
+        },
+        {
+            "catalogTitle": "PROED 610",
+            "section": "005",
+            "courseTitle": "PMP Exam Preparation"
+        },
+        {
+            "catalogTitle": "PROED 631",
+            "section": "030",
+            "courseTitle": "PM Fundamentals Online"
+        },
+        {
+            "catalogTitle": "PROED 632",
+            "section": "030",
+            "courseTitle": "Proj Risk Mgmt Online Course"
+        },
+        {
+            "catalogTitle": "PROED 700",
+            "section": "005",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "PROED 761",
+            "section": "003",
+            "courseTitle": "Business Ethics"
+        },
+        {
+            "catalogTitle": "PROED 766",
+            "section": "005",
+            "courseTitle": "Mentoring for Success"
+        },
+        {
+            "catalogTitle": "PROED 802",
+            "section": "007",
+            "courseTitle": "Fire Srv Lvl I Phase II"
+        },
+        {
+            "catalogTitle": "PROED 809",
+            "section": "007",
+            "courseTitle": "Strategic Planning for Fire"
+        },
+        {
+            "catalogTitle": "PROED 810",
+            "section": "007",
+            "courseTitle": "Diversity for Fire"
+        },
+        {
+            "catalogTitle": "PROED 910",
+            "section": "030",
+            "courseTitle": "Nutrition Online Course"
+        },
+        {
+            "catalogTitle": "PROED 915",
+            "section": "030",
+            "courseTitle": "PFT Online Certificate"
+        },
+        {
+            "catalogTitle": "PROED 953",
+            "section": "001",
+            "courseTitle": "Nonprofit Economic Summit"
+        },
+        {
+            "catalogTitle": "PROED 995",
+            "section": "016",
+            "courseTitle": "Brown Bag: Generational Diffrn"
+        }
+    ]
+}

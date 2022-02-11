@@ -37,3 +37,4 @@ Install requirements, run `parser.py`.
 
 - [ ] TODO comments completed
 - [ ] Create JSON files for base which will say what campuses are available with their semester keys
+- [ ] Look at parsing course pages for pre-reqs and description

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 1010",
+            "section": "001",
+            "courseTitle": "Intell Trad of West"
+        },
+        {
+            "catalogTitle": "HUM 4900",
+            "section": "001",
+            "courseTitle": "Eco Science in Lit"
+        },
+        {
+            "catalogTitle": "HUM 6101",
+            "section": "001",
+            "courseTitle": "Foundations: Envr. Hum."
+        },
+        {
+            "catalogTitle": "HUM 6103",
+            "section": "001",
+            "courseTitle": "Ecology of Residency"
+        },
+        {
+            "catalogTitle": "HUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "001",
+            "courseTitle": "Eco Science in Lit"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "003",
+            "courseTitle": "Tertulia"
+        }
+    ]
+}

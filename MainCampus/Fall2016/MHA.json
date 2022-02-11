@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MHA 6000",
+            "section": "001",
+            "courseTitle": "Career Strategies"
+        },
+        {
+            "catalogTitle": "MHA 6530",
+            "section": "001",
+            "courseTitle": "Healthcare Admin"
+        },
+        {
+            "catalogTitle": "MHA 6550",
+            "section": "001",
+            "courseTitle": "Mktg for Health Prof."
+        },
+        {
+            "catalogTitle": "MHA 6800",
+            "section": "001",
+            "courseTitle": "MHA I:MGT & Admn Hthcr"
+        },
+        {
+            "catalogTitle": "MHA 6802",
+            "section": "001",
+            "courseTitle": "MHA III:Hlthcr Fin Mgt"
+        },
+        {
+            "catalogTitle": "MHA 6803",
+            "section": "001",
+            "courseTitle": "MHA IV:StratMgt&Ldr Hth"
+        },
+        {
+            "catalogTitle": "MHA 6900",
+            "section": "001",
+            "courseTitle": "Health Care Admn Intern"
+        },
+        {
+            "catalogTitle": "MHA 6910",
+            "section": "001",
+            "courseTitle": "SS for Masters Students"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ME EN 1300",
+            "section": "001",
+            "courseTitle": "Statics/Strength"
+        },
+        {
+            "catalogTitle": "ME EN 2040",
+            "section": "001",
+            "courseTitle": "Numerical Methods"
+        },
+        {
+            "catalogTitle": "ME EN 2400",
+            "section": "001",
+            "courseTitle": "Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2410",
+            "section": "001",
+            "courseTitle": "Particle Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2600",
+            "section": "001",
+            "courseTitle": "Thermodynamics I"
+        },
+        {
+            "catalogTitle": "ME EN 4050",
+            "section": "001",
+            "courseTitle": "Concurrent Eng. II"
+        },
+        {
+            "catalogTitle": "ME EN 5510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 5810",
+            "section": "001",
+            "courseTitle": "Thermal Sys Des"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "079",
+            "courseTitle": "Co-op Education"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "001",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "002",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "003",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "004",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "005",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "006",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "001",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "002",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "003",
+            "courseTitle": "Summer Design"
+        },
+        {
+            "catalogTitle": "ME EN 6510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 6810",
+            "section": "001",
+            "courseTitle": "Thermal Sys Des"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6970",
+            "section": "001",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6970",
+            "section": "003",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6970",
+            "section": "004",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "001",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "002",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "003",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "004",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "005",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "006",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "007",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "008",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "009",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "010",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6980",
+            "section": "001",
+            "courseTitle": "Fac Consult, MS"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "001",
+            "courseTitle": "Fac Consultation, PhD"
+        }
+    ]
+}

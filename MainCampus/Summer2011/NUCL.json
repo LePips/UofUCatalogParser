@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUCL 4900",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 5900",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "NUCL 6500",
+            "section": "001",
+            "courseTitle": "Simulation BioMedicine"
+        },
+        {
+            "catalogTitle": "NUCL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        },
+        {
+            "catalogTitle": "NUCL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research"
+        }
+    ]
+}

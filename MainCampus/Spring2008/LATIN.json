@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LATIN 102",
+            "section": "001",
+            "courseTitle": "Beg Classical Latin II"
+        },
+        {
+            "catalogTitle": "LATIN 1020",
+            "section": "001",
+            "courseTitle": "Beg Classical Latin II"
+        },
+        {
+            "catalogTitle": "LATIN 1020",
+            "section": "002",
+            "courseTitle": "Beg Classical Latin II"
+        },
+        {
+            "catalogTitle": "LATIN 2020",
+            "section": "001",
+            "courseTitle": "Intrm Classical Latin II"
+        },
+        {
+            "catalogTitle": "LATIN 3620",
+            "section": "001",
+            "courseTitle": "Third Year Poetry"
+        },
+        {
+            "catalogTitle": "LATIN 4620",
+            "section": "001",
+            "courseTitle": "Fourth Year Poetry"
+        },
+        {
+            "catalogTitle": "LATIN 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "LATIN 4880",
+            "section": "002",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "LATIN 4880",
+            "section": "003",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "LATIN 4880",
+            "section": "004",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "LATIN 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "LATIN 4990",
+            "section": "002",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "LATIN 4990",
+            "section": "004",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "LATIN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "LATIN 4999",
+            "section": "002",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "LATIN 4999",
+            "section": "003",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "LATIN 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

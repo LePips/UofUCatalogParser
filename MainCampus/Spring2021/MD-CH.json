@@ -1,3 +1,34 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MD CH 5220",
+            "section": "001",
+            "courseTitle": "Organic Med Chem II"
+        },
+        {
+            "catalogTitle": "MD CH 7890",
+            "section": "001",
+            "courseTitle": "Research Seminar"
+        },
+        {
+            "catalogTitle": "MD CH 7891",
+            "section": "001",
+            "courseTitle": "Med Biol Chem"
+        },
+        {
+            "catalogTitle": "MD CH 7895",
+            "section": "001",
+            "courseTitle": "Med Biol Chem"
+        },
+        {
+            "catalogTitle": "MD CH 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult PhD"
+        },
+        {
+            "catalogTitle": "MD CH 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg PhD"
+        }
+    ]
 }

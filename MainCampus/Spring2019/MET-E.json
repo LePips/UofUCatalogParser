@@ -1,0 +1,314 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MET E 1640",
+            "section": "001",
+            "courseTitle": "Intro to Metals"
+        },
+        {
+            "catalogTitle": "MET E 2300",
+            "section": "002",
+            "courseTitle": "Strength of Materials"
+        },
+        {
+            "catalogTitle": "MET E 3610",
+            "section": "001",
+            "courseTitle": "Metallurgical Thermo I"
+        },
+        {
+            "catalogTitle": "MET E 5670",
+            "section": "001",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 5670",
+            "section": "002",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 5670",
+            "section": "003",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 5690",
+            "section": "001",
+            "courseTitle": "Process Eng Statistcs"
+        },
+        {
+            "catalogTitle": "MET E 5690",
+            "section": "002",
+            "courseTitle": "Process Eng Statistcs"
+        },
+        {
+            "catalogTitle": "MET E 5700",
+            "section": "001",
+            "courseTitle": "Low Temp Chem Processng"
+        },
+        {
+            "catalogTitle": "MET E 5700",
+            "section": "002",
+            "courseTitle": "Low Temp Chem Processng"
+        },
+        {
+            "catalogTitle": "MET E 5750",
+            "section": "001",
+            "courseTitle": "Transport & Rate Phenom"
+        },
+        {
+            "catalogTitle": "MET E 5760",
+            "section": "001",
+            "courseTitle": "Process Design & Econ I"
+        },
+        {
+            "catalogTitle": "MET E 5780",
+            "section": "001",
+            "courseTitle": "Metals Processing"
+        },
+        {
+            "catalogTitle": "MET E 5780",
+            "section": "002",
+            "courseTitle": "Metals Processing"
+        },
+        {
+            "catalogTitle": "MET E 5800",
+            "section": "006",
+            "courseTitle": "Nuclear Safeguards"
+        },
+        {
+            "catalogTitle": "MET E 5800",
+            "section": "008",
+            "courseTitle": "Laboratory Research"
+        },
+        {
+            "catalogTitle": "MET E 5830",
+            "section": "001",
+            "courseTitle": "Senior Project"
+        },
+        {
+            "catalogTitle": "MET E 5830",
+            "section": "002",
+            "courseTitle": "Senior Project"
+        },
+        {
+            "catalogTitle": "MET E 6670",
+            "section": "001",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 6670",
+            "section": "002",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 6670",
+            "section": "003",
+            "courseTitle": "Mineral Processing I"
+        },
+        {
+            "catalogTitle": "MET E 6690",
+            "section": "001",
+            "courseTitle": "Process Eng Statistics"
+        },
+        {
+            "catalogTitle": "MET E 6690",
+            "section": "002",
+            "courseTitle": "Process Eng Statistics"
+        },
+        {
+            "catalogTitle": "MET E 6700",
+            "section": "001",
+            "courseTitle": "Low Temp Chem Processng"
+        },
+        {
+            "catalogTitle": "MET E 6700",
+            "section": "002",
+            "courseTitle": "Low Temp Chem Processng"
+        },
+        {
+            "catalogTitle": "MET E 6750",
+            "section": "001",
+            "courseTitle": "Transport & Rate Phenom"
+        },
+        {
+            "catalogTitle": "MET E 6760",
+            "section": "001",
+            "courseTitle": "Process Design & Econ I"
+        },
+        {
+            "catalogTitle": "MET E 6780",
+            "section": "001",
+            "courseTitle": "Metals Processing"
+        },
+        {
+            "catalogTitle": "MET E 6780",
+            "section": "002",
+            "courseTitle": "Metals Processing"
+        },
+        {
+            "catalogTitle": "MET E 6920",
+            "section": "002",
+            "courseTitle": "MS Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 6920",
+            "section": "004",
+            "courseTitle": "MS Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "009",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 6970",
+            "section": "011",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "MET E 7270",
+            "section": "001",
+            "courseTitle": "Physical Metallurgy II"
+        },
+        {
+            "catalogTitle": "MET E 7460",
+            "section": "001",
+            "courseTitle": "Adv Flu-Solid Reac Eng"
+        },
+        {
+            "catalogTitle": "MET E 7800",
+            "section": "001",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "MET E 7910",
+            "section": "001",
+            "courseTitle": "Nuclear Safeguards"
+        },
+        {
+            "catalogTitle": "MET E 7910",
+            "section": "007",
+            "courseTitle": "AFM Shortcourse"
+        },
+        {
+            "catalogTitle": "MET E 7920",
+            "section": "004",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 7920",
+            "section": "009",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 7920",
+            "section": "011",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "006",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "008",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "009",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7970",
+            "section": "011",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MET E 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ITAL 102",
+            "section": "002",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 102",
+            "section": "003",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "002",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 1020",
+            "section": "003",
+            "courseTitle": "Beginning Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 2020",
+            "section": "003",
+            "courseTitle": "Intrm Italian II"
+        },
+        {
+            "catalogTitle": "ITAL 3950",
+            "section": "001",
+            "courseTitle": "SL - Italian"
+        },
+        {
+            "catalogTitle": "ITAL 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ITAL 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

@@ -1,0 +1,409 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HIST 95",
+            "section": "001",
+            "courseTitle": "Governing Bodies"
+        },
+        {
+            "catalogTitle": "HIST 105",
+            "section": "070",
+            "courseTitle": "World History since 1500"
+        },
+        {
+            "catalogTitle": "HIST 170",
+            "section": "020",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 170",
+            "section": "060",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 436",
+            "section": "001",
+            "courseTitle": "Careers in Public Hist"
+        },
+        {
+            "catalogTitle": "HIST 1100",
+            "section": "090",
+            "courseTitle": "Western Civ To 1300"
+        },
+        {
+            "catalogTitle": "HIST 1110",
+            "section": "001",
+            "courseTitle": "Western Civ SN 1300"
+        },
+        {
+            "catalogTitle": "HIST 1220",
+            "section": "001",
+            "courseTitle": "Asian Civ: Modern Hist"
+        },
+        {
+            "catalogTitle": "HIST 1310",
+            "section": "001",
+            "courseTitle": "Latin Amer Civ Sn 1820s"
+        },
+        {
+            "catalogTitle": "HIST 1460",
+            "section": "001",
+            "courseTitle": "Mid-East Civ: Modern"
+        },
+        {
+            "catalogTitle": "HIST 1500",
+            "section": "090",
+            "courseTitle": "World Hist to 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "001",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1510",
+            "section": "070",
+            "courseTitle": "World Hist Since 1500"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "001",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "002",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "003",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "020",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "060",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "090",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "091",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "092",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "093",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "094",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "095",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "096",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "097",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "098",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 1700",
+            "section": "099",
+            "courseTitle": "American Civilization"
+        },
+        {
+            "catalogTitle": "HIST 2710",
+            "section": "001",
+            "courseTitle": "US History SN 1877"
+        },
+        {
+            "catalogTitle": "HIST 3020",
+            "section": "001",
+            "courseTitle": "Age Of Alexander"
+        },
+        {
+            "catalogTitle": "HIST 3080",
+            "section": "001",
+            "courseTitle": "The Renaissance"
+        },
+        {
+            "catalogTitle": "HIST 3100",
+            "section": "001",
+            "courseTitle": "Historian's Craft"
+        },
+        {
+            "catalogTitle": "HIST 3130",
+            "section": "001",
+            "courseTitle": "Tudor-Stuart Britain"
+        },
+        {
+            "catalogTitle": "HIST 3160",
+            "section": "001",
+            "courseTitle": "Soviet Union"
+        },
+        {
+            "catalogTitle": "HIST 3350",
+            "section": "001",
+            "courseTitle": "History of Brazil"
+        },
+        {
+            "catalogTitle": "HIST 3400",
+            "section": "001",
+            "courseTitle": "Middle East Since 1914"
+        },
+        {
+            "catalogTitle": "HIST 3510",
+            "section": "001",
+            "courseTitle": "Modern China"
+        },
+        {
+            "catalogTitle": "HIST 3530",
+            "section": "001",
+            "courseTitle": "Modern Japan"
+        },
+        {
+            "catalogTitle": "HIST 3560",
+            "section": "001",
+            "courseTitle": "Modern India"
+        },
+        {
+            "catalogTitle": "HIST 3590",
+            "section": "001",
+            "courseTitle": "Modern Southeast Asia"
+        },
+        {
+            "catalogTitle": "HIST 3710",
+            "section": "001",
+            "courseTitle": "American Revolution"
+        },
+        {
+            "catalogTitle": "HIST 3730",
+            "section": "001",
+            "courseTitle": "Civil War-Reconstructn"
+        },
+        {
+            "catalogTitle": "HIST 4080",
+            "section": "090",
+            "courseTitle": "History of Medicine"
+        },
+        {
+            "catalogTitle": "HIST 4095",
+            "section": "001",
+            "courseTitle": "Governing Bodies"
+        },
+        {
+            "catalogTitle": "HIST 4360",
+            "section": "001",
+            "courseTitle": "Careers in Public Hist"
+        },
+        {
+            "catalogTitle": "HIST 4400",
+            "section": "090",
+            "courseTitle": "Introduction to Islam"
+        },
+        {
+            "catalogTitle": "HIST 4420",
+            "section": "001",
+            "courseTitle": "The Crusades"
+        },
+        {
+            "catalogTitle": "HIST 4490",
+            "section": "090",
+            "courseTitle": "Mid East in Revolt"
+        },
+        {
+            "catalogTitle": "HIST 4610",
+            "section": "001",
+            "courseTitle": "US Women Sn 1870"
+        },
+        {
+            "catalogTitle": "HIST 4660",
+            "section": "001",
+            "courseTitle": "History Of Utah"
+        },
+        {
+            "catalogTitle": "HIST 4672",
+            "section": "001",
+            "courseTitle": "American Indian sn 1850"
+        },
+        {
+            "catalogTitle": "HIST 4700",
+            "section": "001",
+            "courseTitle": "Africn Am Hst 1890-Pres"
+        },
+        {
+            "catalogTitle": "HIST 4720",
+            "section": "001",
+            "courseTitle": "Worlds of Ben Franklin"
+        },
+        {
+            "catalogTitle": "HIST 4765",
+            "section": "001",
+            "courseTitle": "The Vietnam War"
+        },
+        {
+            "catalogTitle": "HIST 4855",
+            "section": "001",
+            "courseTitle": "Enviro Hist of India"
+        },
+        {
+            "catalogTitle": "HIST 4920",
+            "section": "001",
+            "courseTitle": "CLAC (PORT): BRAZIL"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "001",
+            "courseTitle": "Frontiers"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "002",
+            "courseTitle": "Cold War"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "003",
+            "courseTitle": "Resistance & Rebellion"
+        },
+        {
+            "catalogTitle": "HIST 4990",
+            "section": "004",
+            "courseTitle": "Science & Empire"
+        },
+        {
+            "catalogTitle": "HIST 5010",
+            "section": "001",
+            "courseTitle": "Sp St-Greek History"
+        },
+        {
+            "catalogTitle": "HIST 5100",
+            "section": "001",
+            "courseTitle": "Internship Public Hist"
+        },
+        {
+            "catalogTitle": "HIST 6095",
+            "section": "001",
+            "courseTitle": "Governing Bodies"
+        },
+        {
+            "catalogTitle": "HIST 6360",
+            "section": "001",
+            "courseTitle": "Careers in Public Hist"
+        },
+        {
+            "catalogTitle": "HIST 6400",
+            "section": "001",
+            "courseTitle": "Middle East Since 1914"
+        },
+        {
+            "catalogTitle": "HIST 6420",
+            "section": "001",
+            "courseTitle": "The Crusades"
+        },
+        {
+            "catalogTitle": "HIST 6672",
+            "section": "001",
+            "courseTitle": "American Indian sn 1850"
+        },
+        {
+            "catalogTitle": "HIST 6765",
+            "section": "001",
+            "courseTitle": "The Vietnam War"
+        },
+        {
+            "catalogTitle": "HIST 6855",
+            "section": "001",
+            "courseTitle": "Enviro Hist of India"
+        },
+        {
+            "catalogTitle": "HIST 6880",
+            "section": "001",
+            "courseTitle": "Sp St-Latin America"
+        },
+        {
+            "catalogTitle": "HIST 6880",
+            "section": "002",
+            "courseTitle": "Sp St-Latin America"
+        },
+        {
+            "catalogTitle": "HIST 6910",
+            "section": "001",
+            "courseTitle": "Sp St-American History"
+        },
+        {
+            "catalogTitle": "HIST 6920",
+            "section": "001",
+            "courseTitle": "Sp St-Middle East Hist"
+        },
+        {
+            "catalogTitle": "HIST 6930",
+            "section": "001",
+            "courseTitle": "Sp St-Asian History"
+        },
+        {
+            "catalogTitle": "HIST 6930",
+            "section": "002",
+            "courseTitle": "Sp St-Asian History"
+        },
+        {
+            "catalogTitle": "HIST 7510",
+            "section": "001",
+            "courseTitle": "Prosem: US Hist Sn 1877"
+        },
+        {
+            "catalogTitle": "HIST 7640",
+            "section": "001",
+            "courseTitle": "Colloq Early America"
+        },
+        {
+            "catalogTitle": "HIST 7770",
+            "section": "001",
+            "courseTitle": "Colloq Gender & Family"
+        },
+        {
+            "catalogTitle": "HIST 7870",
+            "section": "001",
+            "courseTitle": "US West"
+        },
+        {
+            "catalogTitle": "HIST 7900",
+            "section": "001",
+            "courseTitle": "Sem-Ancient History"
+        },
+        {
+            "catalogTitle": "HIST 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLBUS 112",
+            "section": "001",
+            "courseTitle": "Investment Stategies"
+        },
+        {
+            "catalogTitle": "LLBUS 191",
+            "section": "001",
+            "courseTitle": "Lane Change: Network Your Way"
+        },
+        {
+            "catalogTitle": "LLBUS 204",
+            "section": "001",
+            "courseTitle": "Wordpress Basics"
+        },
+        {
+            "catalogTitle": "LLBUS 208",
+            "section": "001",
+            "courseTitle": "Trading and Investing"
+        },
+        {
+            "catalogTitle": "LLBUS 209",
+            "section": "001",
+            "courseTitle": "Mindfulness at Work"
+        },
+        {
+            "catalogTitle": "LLBUS 210",
+            "section": "001",
+            "courseTitle": "Retirement Planning"
+        },
+        {
+            "catalogTitle": "LLBUS 214",
+            "section": "001",
+            "courseTitle": "Budgeting for Young Profession"
+        },
+        {
+            "catalogTitle": "LLBUS 216",
+            "section": "001",
+            "courseTitle": "Investments 101"
+        }
+    ]
+}

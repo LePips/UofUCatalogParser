@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beginning I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "002",
+            "courseTitle": "Guitar: Beginning I"
+        },
+        {
+            "catalogTitle": "LLMT 388",
+            "section": "001",
+            "courseTitle": "Classical Guitar"
+        },
+        {
+            "catalogTitle": "LLMT 396",
+            "section": "001",
+            "courseTitle": "Improvisational Acting"
+        },
+        {
+            "catalogTitle": "LLMT 397",
+            "section": "001",
+            "courseTitle": "Finger Aerobics: Guitar"
+        },
+        {
+            "catalogTitle": "LLMT 398",
+            "section": "001",
+            "courseTitle": "Rhythm Guitar I"
+        },
+        {
+            "catalogTitle": "LLMT 401",
+            "section": "001",
+            "courseTitle": "Intro to Singing"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 236",
+            "section": "001",
+            "courseTitle": "How to Brew Beer"
+        },
+        {
+            "catalogTitle": "LLFW 271",
+            "section": "001",
+            "courseTitle": "All About Coffee"
+        },
+        {
+            "catalogTitle": "LLFW 273",
+            "section": "001",
+            "courseTitle": "Artisan Bread"
+        },
+        {
+            "catalogTitle": "LLFW 284",
+            "section": "001",
+            "courseTitle": "An Introduction to Wine"
+        },
+        {
+            "catalogTitle": "LLFW 366",
+            "section": "001",
+            "courseTitle": "Pinot Noir"
+        },
+        {
+            "catalogTitle": "LLFW 384",
+            "section": "001",
+            "courseTitle": "Scotch for the Sophisticate"
+        },
+        {
+            "catalogTitle": "LLFW 414",
+            "section": "001",
+            "courseTitle": "Sourdough Artisan Bread"
+        },
+        {
+            "catalogTitle": "LLFW 438",
+            "section": "001",
+            "courseTitle": "A Walk Through the Wine Store"
+        },
+        {
+            "catalogTitle": "LLFW 438",
+            "section": "002",
+            "courseTitle": "A Walk Through the Wine Store"
+        },
+        {
+            "catalogTitle": "LLFW 440",
+            "section": "001",
+            "courseTitle": "The Art of the Macaron"
+        },
+        {
+            "catalogTitle": "LLFW 447",
+            "section": "001",
+            "courseTitle": "Cheesemaking 101"
+        },
+        {
+            "catalogTitle": "LLFW 466",
+            "section": "001",
+            "courseTitle": "Croissants"
+        },
+        {
+            "catalogTitle": "LLFW 487",
+            "section": "001",
+            "courseTitle": "The Art of Ramen"
+        },
+        {
+            "catalogTitle": "LLFW 489",
+            "section": "001",
+            "courseTitle": "Whiskies of the World"
+        },
+        {
+            "catalogTitle": "LLFW 494",
+            "section": "001",
+            "courseTitle": "Malbec"
+        },
+        {
+            "catalogTitle": "LLFW 496",
+            "section": "001",
+            "courseTitle": "Chardonnay"
+        }
+    ]
+}

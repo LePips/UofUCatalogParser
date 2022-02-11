@@ -1,0 +1,389 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENGL 1200",
+            "section": "001",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "ENGL 1200",
+            "section": "090",
+            "courseTitle": "Intro Study Language"
+        },
+        {
+            "catalogTitle": "ENGL 2040",
+            "section": "001",
+            "courseTitle": "Contemporary Lit"
+        },
+        {
+            "catalogTitle": "ENGL 2090",
+            "section": "001",
+            "courseTitle": "Videogames Storytelling"
+        },
+        {
+            "catalogTitle": "ENGL 2095",
+            "section": "001",
+            "courseTitle": "Lit. by the Numbers"
+        },
+        {
+            "catalogTitle": "ENGL 2220",
+            "section": "001",
+            "courseTitle": "Novels And Films"
+        },
+        {
+            "catalogTitle": "ENGL 2245",
+            "section": "001",
+            "courseTitle": "Horror"
+        },
+        {
+            "catalogTitle": "ENGL 2300",
+            "section": "001",
+            "courseTitle": "Intro Shakespeare"
+        },
+        {
+            "catalogTitle": "ENGL 2335",
+            "section": "001",
+            "courseTitle": "Young Adult Literature"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "001",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "002",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "003",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "004",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "005",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "006",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "007",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2500",
+            "section": "008",
+            "courseTitle": "Intro Creative Writing"
+        },
+        {
+            "catalogTitle": "ENGL 2600",
+            "section": "001",
+            "courseTitle": "Crit Intro To Lit Forms"
+        },
+        {
+            "catalogTitle": "ENGL 2700",
+            "section": "001",
+            "courseTitle": "Diversity In Amer Lit"
+        },
+        {
+            "catalogTitle": "ENGL 3001",
+            "section": "001",
+            "courseTitle": "Excelling as ENGL Major"
+        },
+        {
+            "catalogTitle": "ENGL 3050",
+            "section": "090",
+            "courseTitle": "Commercial Life"
+        },
+        {
+            "catalogTitle": "ENGL 3080",
+            "section": "001",
+            "courseTitle": "Studies Environ Lit"
+        },
+        {
+            "catalogTitle": "ENGL 3310",
+            "section": "001",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "ENGL 3310",
+            "section": "090",
+            "courseTitle": "Intro English Grammar"
+        },
+        {
+            "catalogTitle": "ENGL 3510",
+            "section": "001",
+            "courseTitle": "Writing Fiction"
+        },
+        {
+            "catalogTitle": "ENGL 3510",
+            "section": "002",
+            "courseTitle": "Writing Fiction"
+        },
+        {
+            "catalogTitle": "ENGL 3520",
+            "section": "001",
+            "courseTitle": "Writing Poetry"
+        },
+        {
+            "catalogTitle": "ENGL 3701",
+            "section": "090",
+            "courseTitle": "Intro Lit Hist 1"
+        },
+        {
+            "catalogTitle": "ENGL 3702",
+            "section": "001",
+            "courseTitle": "Intro Lit Hist 2"
+        },
+        {
+            "catalogTitle": "ENGL 3780",
+            "section": "090",
+            "courseTitle": "Global/Transnatnl Lit"
+        },
+        {
+            "catalogTitle": "ENGL 3850",
+            "section": "001",
+            "courseTitle": "Seminar in Lit. Study"
+        },
+        {
+            "catalogTitle": "ENGL 3850",
+            "section": "002",
+            "courseTitle": "Seminar in Lit. Study"
+        },
+        {
+            "catalogTitle": "ENGL 3850",
+            "section": "003",
+            "courseTitle": "Seminar in Lit. Study"
+        },
+        {
+            "catalogTitle": "ENGL 3850",
+            "section": "004",
+            "courseTitle": "Seminar in Lit. Study"
+        },
+        {
+            "catalogTitle": "ENGL 4990",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "ENGL 4991",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENGL 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ENGL 5050",
+            "section": "001",
+            "courseTitle": "Studies In Genre"
+        },
+        {
+            "catalogTitle": "ENGL 5070",
+            "section": "001",
+            "courseTitle": "Law and Literature"
+        },
+        {
+            "catalogTitle": "ENGL 5090",
+            "section": "001",
+            "courseTitle": "Lit. and Video Games"
+        },
+        {
+            "catalogTitle": "ENGL 5410",
+            "section": "001",
+            "courseTitle": "Meth-Tchg Lang Arts 1"
+        },
+        {
+            "catalogTitle": "ENGL 5510",
+            "section": "001",
+            "courseTitle": "Fiction Workshop"
+        },
+        {
+            "catalogTitle": "ENGL 5530",
+            "section": "001",
+            "courseTitle": "Creative Nonfic Wkshp"
+        },
+        {
+            "catalogTitle": "ENGL 5650",
+            "section": "001",
+            "courseTitle": "Adv Sem Lit Study"
+        },
+        {
+            "catalogTitle": "ENGL 5650",
+            "section": "002",
+            "courseTitle": "Adv Sem Lit Study"
+        },
+        {
+            "catalogTitle": "ENGL 5650",
+            "section": "003",
+            "courseTitle": "Adv Sem Lit Study"
+        },
+        {
+            "catalogTitle": "ENGL 5710",
+            "section": "001",
+            "courseTitle": "Studies Renaissance Lit"
+        },
+        {
+            "catalogTitle": "ENGL 5711",
+            "section": "001",
+            "courseTitle": "Shakespeare"
+        },
+        {
+            "catalogTitle": "ENGL 5720",
+            "section": "001",
+            "courseTitle": "St Restor/18Th C Lit"
+        },
+        {
+            "catalogTitle": "ENGL 5750",
+            "section": "090",
+            "courseTitle": "Studies 19Th C Amer Lit"
+        },
+        {
+            "catalogTitle": "ENGL 5771",
+            "section": "001",
+            "courseTitle": "James Joyce"
+        },
+        {
+            "catalogTitle": "ENGL 5795",
+            "section": "001",
+            "courseTitle": "Fanfiction & Adaptation"
+        },
+        {
+            "catalogTitle": "ENGL 5800",
+            "section": "001",
+            "courseTitle": "Studies Contemp Lit"
+        },
+        {
+            "catalogTitle": "ENGL 5810",
+            "section": "001",
+            "courseTitle": "South Sea Tales"
+        },
+        {
+            "catalogTitle": "ENGL 5810",
+            "section": "002",
+            "courseTitle": "Writers in the Schools"
+        },
+        {
+            "catalogTitle": "ENGL 5845",
+            "section": "001",
+            "courseTitle": "African-American Film"
+        },
+        {
+            "catalogTitle": "ENGL 5885",
+            "section": "001",
+            "courseTitle": "Adolescent Literature"
+        },
+        {
+            "catalogTitle": "ENGL 5920",
+            "section": "001",
+            "courseTitle": "Intellectual Movements"
+        },
+        {
+            "catalogTitle": "ENGL 5930",
+            "section": "001",
+            "courseTitle": "Theory Race/Eth/Nation"
+        },
+        {
+            "catalogTitle": "ENGL 5930",
+            "section": "002",
+            "courseTitle": "Theory Race/Eth/Nation"
+        },
+        {
+            "catalogTitle": "ENGL 5980",
+            "section": "001",
+            "courseTitle": "Ecocriticism"
+        },
+        {
+            "catalogTitle": "ENGL 5995",
+            "section": "001",
+            "courseTitle": "Digital Humanities"
+        },
+        {
+            "catalogTitle": "ENGL 6260",
+            "section": "001",
+            "courseTitle": "Studies Lit Traditions"
+        },
+        {
+            "catalogTitle": "ENGL 6480",
+            "section": "001",
+            "courseTitle": "Lit Theory-Overview"
+        },
+        {
+            "catalogTitle": "ENGL 6680",
+            "section": "001",
+            "courseTitle": "20th Century Amer Lit"
+        },
+        {
+            "catalogTitle": "ENGL 6810",
+            "section": "001",
+            "courseTitle": "Liquid Matters-Think w/ water"
+        },
+        {
+            "catalogTitle": "ENGL 6910",
+            "section": "001",
+            "courseTitle": "Indiv Study Masters"
+        },
+        {
+            "catalogTitle": "ENGL 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "ENGL 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ENGL 7010",
+            "section": "001",
+            "courseTitle": "Non-Fiction Workshop"
+        },
+        {
+            "catalogTitle": "ENGL 7030",
+            "section": "001",
+            "courseTitle": "Fiction Workshop"
+        },
+        {
+            "catalogTitle": "ENGL 7040",
+            "section": "001",
+            "courseTitle": "Poetry Workshop"
+        },
+        {
+            "catalogTitle": "ENGL 7770",
+            "section": "001",
+            "courseTitle": "Sem-Engl Lit"
+        },
+        {
+            "catalogTitle": "ENGL 7910",
+            "section": "001",
+            "courseTitle": "Indiv Study Ph D"
+        },
+        {
+            "catalogTitle": "ENGL 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ENGL 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "ENGL 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

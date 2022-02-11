@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GREEK 101",
+            "section": "001",
+            "courseTitle": "Beg Class Greek I"
+        },
+        {
+            "catalogTitle": "GREEK 201",
+            "section": "001",
+            "courseTitle": "Intrm Class Grk I"
+        },
+        {
+            "catalogTitle": "GREEK 215",
+            "section": "001",
+            "courseTitle": "Intrm Modern Greek I"
+        },
+        {
+            "catalogTitle": "GREEK 1010",
+            "section": "001",
+            "courseTitle": "Beg Class Greek I"
+        },
+        {
+            "catalogTitle": "GREEK 2010",
+            "section": "001",
+            "courseTitle": "Intrm Class Grk I"
+        },
+        {
+            "catalogTitle": "GREEK 2015",
+            "section": "001",
+            "courseTitle": "Intrm Modern Greek I"
+        },
+        {
+            "catalogTitle": "GREEK 3610",
+            "section": "001",
+            "courseTitle": "Third Year Prose"
+        },
+        {
+            "catalogTitle": "GREEK 4610",
+            "section": "001",
+            "courseTitle": "Fourth Year Prose"
+        },
+        {
+            "catalogTitle": "GREEK 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GREEK 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "GREEK 7300",
+            "section": "003",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

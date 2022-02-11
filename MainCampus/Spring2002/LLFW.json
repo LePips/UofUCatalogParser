@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 236",
+            "section": "001",
+            "courseTitle": "How to Brew Beer"
+        },
+        {
+            "catalogTitle": "LLFW 237",
+            "section": "001",
+            "courseTitle": "Perfect Cup of Coffee"
+        },
+        {
+            "catalogTitle": "LLFW 237",
+            "section": "002",
+            "courseTitle": "Perfect Cup of Coffee"
+        },
+        {
+            "catalogTitle": "LLFW 237",
+            "section": "003",
+            "courseTitle": "Perfect Cup of Coffee"
+        },
+        {
+            "catalogTitle": "LLFW 245",
+            "section": "001",
+            "courseTitle": "Cooking 101"
+        },
+        {
+            "catalogTitle": "LLFW 245",
+            "section": "002",
+            "courseTitle": "Cooking 101"
+        },
+        {
+            "catalogTitle": "LLFW 246",
+            "section": "001",
+            "courseTitle": "Cuisines of World Serie"
+        }
+    ]
+}

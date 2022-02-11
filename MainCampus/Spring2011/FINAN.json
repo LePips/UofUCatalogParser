@@ -1,0 +1,379 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FINAN 120",
+            "section": "001",
+            "courseTitle": "Mgt Pers Finance"
+        },
+        {
+            "catalogTitle": "FINAN 304",
+            "section": "003",
+            "courseTitle": "Finan Management"
+        },
+        {
+            "catalogTitle": "FINAN 305",
+            "section": "003",
+            "courseTitle": "Intro to Invest"
+        },
+        {
+            "catalogTitle": "FINAN 474",
+            "section": "001",
+            "courseTitle": "Real Estate Principles"
+        },
+        {
+            "catalogTitle": "FINAN 577",
+            "section": "001",
+            "courseTitle": "Rl Est Apprsl & Invest"
+        },
+        {
+            "catalogTitle": "FINAN 1200",
+            "section": "001",
+            "courseTitle": "Mgt Pers Finance"
+        },
+        {
+            "catalogTitle": "FINAN 3000",
+            "section": "001",
+            "courseTitle": "Fund of Invest-Bus Fin"
+        },
+        {
+            "catalogTitle": "FINAN 3000",
+            "section": "002",
+            "courseTitle": "Fund of Invest-Bus Fin"
+        },
+        {
+            "catalogTitle": "FINAN 3000",
+            "section": "070",
+            "courseTitle": "Fund of Invest-Bus Fin"
+        },
+        {
+            "catalogTitle": "FINAN 3040",
+            "section": "001",
+            "courseTitle": "Finan Management"
+        },
+        {
+            "catalogTitle": "FINAN 3040",
+            "section": "002",
+            "courseTitle": "Finan Management"
+        },
+        {
+            "catalogTitle": "FINAN 3040",
+            "section": "003",
+            "courseTitle": "Finan Management"
+        },
+        {
+            "catalogTitle": "FINAN 3041",
+            "section": "001",
+            "courseTitle": "Honors Finan Mgmt"
+        },
+        {
+            "catalogTitle": "FINAN 3050",
+            "section": "001",
+            "courseTitle": "Intro To Invest"
+        },
+        {
+            "catalogTitle": "FINAN 3050",
+            "section": "002",
+            "courseTitle": "Intro To Invest"
+        },
+        {
+            "catalogTitle": "FINAN 3050",
+            "section": "003",
+            "courseTitle": "Intro To Invest"
+        },
+        {
+            "catalogTitle": "FINAN 4040",
+            "section": "001",
+            "courseTitle": "Interm Corporate Finan"
+        },
+        {
+            "catalogTitle": "FINAN 4040",
+            "section": "002",
+            "courseTitle": "Interm Corporate Finan"
+        },
+        {
+            "catalogTitle": "FINAN 4050",
+            "section": "001",
+            "courseTitle": "Interm Investments"
+        },
+        {
+            "catalogTitle": "FINAN 4210",
+            "section": "001",
+            "courseTitle": "Cases In Corporate Fin"
+        },
+        {
+            "catalogTitle": "FINAN 4240",
+            "section": "001",
+            "courseTitle": "Risk & Insurance"
+        },
+        {
+            "catalogTitle": "FINAN 4330",
+            "section": "001",
+            "courseTitle": "Credit Institutions"
+        },
+        {
+            "catalogTitle": "FINAN 4380",
+            "section": "001",
+            "courseTitle": "Financial Modeling"
+        },
+        {
+            "catalogTitle": "FINAN 4550",
+            "section": "001",
+            "courseTitle": "Intntl Finance"
+        },
+        {
+            "catalogTitle": "FINAN 4550",
+            "section": "002",
+            "courseTitle": "Intntl Finance"
+        },
+        {
+            "catalogTitle": "FINAN 4740",
+            "section": "001",
+            "courseTitle": "Real Estate Principles"
+        },
+        {
+            "catalogTitle": "FINAN 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "FINAN 5010",
+            "section": "001",
+            "courseTitle": "Applied Fin Institution"
+        },
+        {
+            "catalogTitle": "FINAN 5210",
+            "section": "001",
+            "courseTitle": "Short Term Finance"
+        },
+        {
+            "catalogTitle": "FINAN 5250",
+            "section": "001",
+            "courseTitle": "Insur & Finan Planning"
+        },
+        {
+            "catalogTitle": "FINAN 5300",
+            "section": "001",
+            "courseTitle": "New Venture Finance"
+        },
+        {
+            "catalogTitle": "FINAN 5370",
+            "section": "001",
+            "courseTitle": "Investment Analys Tech"
+        },
+        {
+            "catalogTitle": "FINAN 5600",
+            "section": "001",
+            "courseTitle": "Investment Banking"
+        },
+        {
+            "catalogTitle": "FINAN 5760",
+            "section": "001",
+            "courseTitle": "Real Estate Finance"
+        },
+        {
+            "catalogTitle": "FINAN 5770",
+            "section": "001",
+            "courseTitle": "Rl Est Apprsl & Invest"
+        },
+        {
+            "catalogTitle": "FINAN 5880",
+            "section": "001",
+            "courseTitle": "Honor Stdnt Invest Fund"
+        },
+        {
+            "catalogTitle": "FINAN 5881",
+            "section": "001",
+            "courseTitle": "Managing the Venture Process"
+        },
+        {
+            "catalogTitle": "FINAN 5980",
+            "section": "001",
+            "courseTitle": "SS-Undergraduate"
+        },
+        {
+            "catalogTitle": "FINAN 6020",
+            "section": "001",
+            "courseTitle": "Financial Management"
+        },
+        {
+            "catalogTitle": "FINAN 6022",
+            "section": "001",
+            "courseTitle": "Financial Management"
+        },
+        {
+            "catalogTitle": "FINAN 6022",
+            "section": "002",
+            "courseTitle": "Financial Management"
+        },
+        {
+            "catalogTitle": "FINAN 6026",
+            "section": "001",
+            "courseTitle": "Managerial Economics I"
+        },
+        {
+            "catalogTitle": "FINAN 6026",
+            "section": "002",
+            "courseTitle": "Managerial Economics I"
+        },
+        {
+            "catalogTitle": "FINAN 6026",
+            "section": "003",
+            "courseTitle": "Managerial Economics I"
+        },
+        {
+            "catalogTitle": "FINAN 6123",
+            "section": "010",
+            "courseTitle": "International Finance"
+        },
+        {
+            "catalogTitle": "FINAN 6210",
+            "section": "001",
+            "courseTitle": "Cases in Fin Strategy"
+        },
+        {
+            "catalogTitle": "FINAN 6310",
+            "section": "001",
+            "courseTitle": "Adv Venture Capital"
+        },
+        {
+            "catalogTitle": "FINAN 6360",
+            "section": "001",
+            "courseTitle": "Investment & Portfolio Mgt"
+        },
+        {
+            "catalogTitle": "FINAN 6380",
+            "section": "001",
+            "courseTitle": "Financial Modeling"
+        },
+        {
+            "catalogTitle": "FINAN 6400",
+            "section": "001",
+            "courseTitle": "Financial Engineering"
+        },
+        {
+            "catalogTitle": "FINAN 6590",
+            "section": "001",
+            "courseTitle": "Mergers & Acquisitions"
+        },
+        {
+            "catalogTitle": "FINAN 6610",
+            "section": "001",
+            "courseTitle": "CFA (R) Level I and II"
+        },
+        {
+            "catalogTitle": "FINAN 6740",
+            "section": "001",
+            "courseTitle": "Real Estate Principles"
+        },
+        {
+            "catalogTitle": "FINAN 6760",
+            "section": "001",
+            "courseTitle": "Real Estate Finance"
+        },
+        {
+            "catalogTitle": "FINAN 6780",
+            "section": "001",
+            "courseTitle": "Rl Est Apprsl & Invest"
+        },
+        {
+            "catalogTitle": "FINAN 6880",
+            "section": "001",
+            "courseTitle": "Bonds, Inst. & Economy"
+        },
+        {
+            "catalogTitle": "FINAN 6881",
+            "section": "001",
+            "courseTitle": "Venture Planning"
+        },
+        {
+            "catalogTitle": "FINAN 6910",
+            "section": "002",
+            "courseTitle": "SS-Grad"
+        },
+        {
+            "catalogTitle": "FINAN 6910",
+            "section": "003",
+            "courseTitle": "SS-Grad"
+        },
+        {
+            "catalogTitle": "FINAN 6910",
+            "section": "005",
+            "courseTitle": "SS-Grad"
+        },
+        {
+            "catalogTitle": "FINAN 6910",
+            "section": "006",
+            "courseTitle": "SS-Grad"
+        },
+        {
+            "catalogTitle": "FINAN 6910",
+            "section": "007",
+            "courseTitle": "SS-Grad"
+        },
+        {
+            "catalogTitle": "FINAN 6910",
+            "section": "008",
+            "courseTitle": "SS-Grad"
+        },
+        {
+            "catalogTitle": "FINAN 7000",
+            "section": "001",
+            "courseTitle": "Sem-Current Topics"
+        },
+        {
+            "catalogTitle": "FINAN 7870",
+            "section": "001",
+            "courseTitle": "Emp Methods Fin Econ"
+        },
+        {
+            "catalogTitle": "FINAN 7890",
+            "section": "001",
+            "courseTitle": "Thrtcl Res In Fin Mkts"
+        },
+        {
+            "catalogTitle": "FINAN 7910",
+            "section": "001",
+            "courseTitle": "Special Study -- PhD"
+        },
+        {
+            "catalogTitle": "FINAN 7910",
+            "section": "002",
+            "courseTitle": "Special Study -- PhD"
+        },
+        {
+            "catalogTitle": "FINAN 7910",
+            "section": "003",
+            "courseTitle": "Special Study -- PhD"
+        },
+        {
+            "catalogTitle": "FINAN 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "FINAN 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "FINAN 7970",
+            "section": "003",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "FINAN 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "FINAN 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "FINAN 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

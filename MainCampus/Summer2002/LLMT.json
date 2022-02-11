@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "001",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 382",
+            "section": "003",
+            "courseTitle": "Guitar: Beg I"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "001",
+            "courseTitle": "Guitar: Beg II"
+        },
+        {
+            "catalogTitle": "LLMT 383",
+            "section": "002",
+            "courseTitle": "Guitar: Beg II"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "001",
+            "courseTitle": "UT Shakespeare Festival"
+        },
+        {
+            "catalogTitle": "LLMT 391",
+            "section": "002",
+            "courseTitle": "UT Shakespeare Festival"
+        },
+        {
+            "catalogTitle": "LLMT 392",
+            "section": "001",
+            "courseTitle": "Get Ready/Shakespeare"
+        }
+    ]
+}

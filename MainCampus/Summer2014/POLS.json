@@ -1,0 +1,209 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "POLS 110",
+            "section": "060",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 220",
+            "section": "060",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 301",
+            "section": "060",
+            "courseTitle": "Political Analysis"
+        },
+        {
+            "catalogTitle": "POLS 303",
+            "section": "070",
+            "courseTitle": "State Local Government"
+        },
+        {
+            "catalogTitle": "POLS 341",
+            "section": "070",
+            "courseTitle": "European Politics"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "001",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "060",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "090",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "091",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "001",
+            "courseTitle": "Intro Intntl Relation"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "090",
+            "courseTitle": "Intro Intntl Relation"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "060",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "090",
+            "courseTitle": "Intr Comparatv Politics"
+        },
+        {
+            "catalogTitle": "POLS 3001",
+            "section": "060",
+            "courseTitle": "Political Analysis"
+        },
+        {
+            "catalogTitle": "POLS 3001",
+            "section": "090",
+            "courseTitle": "Political Analysis"
+        },
+        {
+            "catalogTitle": "POLS 3030",
+            "section": "070",
+            "courseTitle": "State/Local Gov"
+        },
+        {
+            "catalogTitle": "POLS 3300",
+            "section": "090",
+            "courseTitle": "Intro To Public Admin"
+        },
+        {
+            "catalogTitle": "POLS 3390",
+            "section": "090",
+            "courseTitle": "Intro Enviro/Sustain"
+        },
+        {
+            "catalogTitle": "POLS 3410",
+            "section": "001",
+            "courseTitle": "European Politics"
+        },
+        {
+            "catalogTitle": "POLS 3410",
+            "section": "070",
+            "courseTitle": "European Politics"
+        },
+        {
+            "catalogTitle": "POLS 3440",
+            "section": "001",
+            "courseTitle": "Comparative Pol-Mid E"
+        },
+        {
+            "catalogTitle": "POLS 4900",
+            "section": "001",
+            "courseTitle": "Internship: Local"
+        },
+        {
+            "catalogTitle": "POLS 4901",
+            "section": "001",
+            "courseTitle": "Intern: Legislature"
+        },
+        {
+            "catalogTitle": "POLS 4902",
+            "section": "001",
+            "courseTitle": "Internship: National"
+        },
+        {
+            "catalogTitle": "POLS 4903",
+            "section": "001",
+            "courseTitle": "Internship: Int'l"
+        },
+        {
+            "catalogTitle": "POLS 4904",
+            "section": "001",
+            "courseTitle": "Senator Bennett Seminar"
+        },
+        {
+            "catalogTitle": "POLS 4909",
+            "section": "001",
+            "courseTitle": "Internship: CEL"
+        },
+        {
+            "catalogTitle": "POLS 5240",
+            "section": "001",
+            "courseTitle": "Local Government Law"
+        },
+        {
+            "catalogTitle": "POLS 5323",
+            "section": "090",
+            "courseTitle": "Policy Analysis"
+        },
+        {
+            "catalogTitle": "POLS 5420",
+            "section": "001",
+            "courseTitle": "European Union"
+        },
+        {
+            "catalogTitle": "POLS 5545",
+            "section": "001",
+            "courseTitle": "NP & Gov Relations"
+        },
+        {
+            "catalogTitle": "POLS 5900",
+            "section": "001",
+            "courseTitle": "Internship: Honors"
+        },
+        {
+            "catalogTitle": "POLS 5965",
+            "section": "001",
+            "courseTitle": "Entrep. in Social Sector"
+        },
+        {
+            "catalogTitle": "POLS 5965",
+            "section": "003",
+            "courseTitle": "National Security Policy"
+        },
+        {
+            "catalogTitle": "POLS 6910",
+            "section": "001",
+            "courseTitle": "Internship: Grad Intl"
+        },
+        {
+            "catalogTitle": "POLS 6911",
+            "section": "001",
+            "courseTitle": "Internship: Grad Nation"
+        },
+        {
+            "catalogTitle": "POLS 6912",
+            "section": "001",
+            "courseTitle": "Internship: Grad Local"
+        },
+        {
+            "catalogTitle": "POLS 7975",
+            "section": "002",
+            "courseTitle": "Indep Doctoral Resrch"
+        },
+        {
+            "catalogTitle": "POLS 7980",
+            "section": "002",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "POLS 7980",
+            "section": "003",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "POLS 7980",
+            "section": "004",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

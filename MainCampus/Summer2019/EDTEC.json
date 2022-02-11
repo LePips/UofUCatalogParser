@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDTEC 102",
+            "section": "001",
+            "courseTitle": "Python Prog Cert"
+        },
+        {
+            "catalogTitle": "EDTEC 103",
+            "section": "001",
+            "courseTitle": "Outlook for Workplace Producti"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "001",
+            "courseTitle": "Excel Beginner"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "002",
+            "courseTitle": "Excel Beginner"
+        },
+        {
+            "catalogTitle": "EDTEC 412",
+            "section": "003",
+            "courseTitle": "Excel Beginner"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "001",
+            "courseTitle": "Excel Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "002",
+            "courseTitle": "Excel Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 413",
+            "section": "003",
+            "courseTitle": "Excel Intermediate"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "001",
+            "courseTitle": "Excel Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "002",
+            "courseTitle": "Excel Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 414",
+            "section": "003",
+            "courseTitle": "Excel Advanced"
+        },
+        {
+            "catalogTitle": "EDTEC 421",
+            "section": "001",
+            "courseTitle": "MS Project"
+        },
+        {
+            "catalogTitle": "EDTEC 452",
+            "section": "001",
+            "courseTitle": "Photoshop Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 457",
+            "section": "001",
+            "courseTitle": "Illustrator Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 458",
+            "section": "001",
+            "courseTitle": "Illustrator Level 2"
+        },
+        {
+            "catalogTitle": "EDTEC 470",
+            "section": "001",
+            "courseTitle": "InDesign Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 505",
+            "section": "001",
+            "courseTitle": "Google Analytics Level 1"
+        },
+        {
+            "catalogTitle": "EDTEC 506",
+            "section": "001",
+            "courseTitle": "Google Analytics Level 2"
+        }
+    ]
+}

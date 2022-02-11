@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLFW 226",
+            "section": "001",
+            "courseTitle": "Cooking With Herbs"
+        },
+        {
+            "catalogTitle": "LLFW 266",
+            "section": "001",
+            "courseTitle": "Great Grilling"
+        },
+        {
+            "catalogTitle": "LLFW 269",
+            "section": "001",
+            "courseTitle": "Wine and Cheese"
+        },
+        {
+            "catalogTitle": "LLFW 269",
+            "section": "002",
+            "courseTitle": "Wine and Cheese"
+        },
+        {
+            "catalogTitle": "LLFW 294",
+            "section": "001",
+            "courseTitle": "Value Wines"
+        },
+        {
+            "catalogTitle": "LLFW 294",
+            "section": "002",
+            "courseTitle": "Value Wines"
+        },
+        {
+            "catalogTitle": "LLFW 296",
+            "section": "001",
+            "courseTitle": "Low Carb/High Protein"
+        },
+        {
+            "catalogTitle": "LLFW 297",
+            "section": "001",
+            "courseTitle": "Sushi 101"
+        },
+        {
+            "catalogTitle": "LLFW 297",
+            "section": "002",
+            "courseTitle": "Sushi 101"
+        },
+        {
+            "catalogTitle": "LLFW 299",
+            "section": "001",
+            "courseTitle": "Mastering Martinis"
+        },
+        {
+            "catalogTitle": "LLFW 299",
+            "section": "002",
+            "courseTitle": "Mastering Martinis"
+        },
+        {
+            "catalogTitle": "LLFW 305",
+            "section": "001",
+            "courseTitle": "Cocktails for the Cultured"
+        },
+        {
+            "catalogTitle": "LLFW 305",
+            "section": "002",
+            "courseTitle": "Cocktails for the Cultured"
+        }
+    ]
+}

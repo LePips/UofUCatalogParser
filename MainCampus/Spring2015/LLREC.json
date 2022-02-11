@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 650",
+            "section": "001",
+            "courseTitle": "Avalanche Workshop"
+        },
+        {
+            "catalogTitle": "LLREC 652",
+            "section": "001",
+            "courseTitle": "Full Moon Snowshoe Hike"
+        },
+        {
+            "catalogTitle": "LLREC 663",
+            "section": "001",
+            "courseTitle": "Bike Repair I"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "001",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 739",
+            "section": "002",
+            "courseTitle": "Rock Climbing"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "001",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 766",
+            "section": "002",
+            "courseTitle": "Introduction to Archery"
+        },
+        {
+            "catalogTitle": "LLREC 800",
+            "section": "001",
+            "courseTitle": "Back Country Car Camping"
+        }
+    ]
+}

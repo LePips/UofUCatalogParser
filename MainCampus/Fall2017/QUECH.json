@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "QUECH 1010",
+            "section": "001",
+            "courseTitle": "Beg. QUECH I"
+        },
+        {
+            "catalogTitle": "QUECH 2010",
+            "section": "001",
+            "courseTitle": "Interm. QUECH I"
+        },
+        {
+            "catalogTitle": "QUECH 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

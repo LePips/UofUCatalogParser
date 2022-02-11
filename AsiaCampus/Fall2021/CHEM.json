@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CHEM 1010",
+            "section": "301",
+            "courseTitle": "Chem, Humanity, Envirnm"
+        },
+        {
+            "catalogTitle": "CHEM 1210",
+            "section": "301",
+            "courseTitle": "General Chemistry I"
+        },
+        {
+            "catalogTitle": "CHEM 1215",
+            "section": "301",
+            "courseTitle": "General Chemistry Lab I"
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "001",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "002",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "003",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "004",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 3720",
+            "section": "001",
+            "courseTitle": "Child Dev Birth/Grade 6"
+        },
+        {
+            "catalogTitle": "EDU 3721",
+            "section": "001",
+            "courseTitle": "Adolesc Dev Grades 7-12"
+        },
+        {
+            "catalogTitle": "EDU 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "EDU 5195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5195",
+            "section": "002",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5200",
+            "section": "090",
+            "courseTitle": "Teacher Language Aware"
+        },
+        {
+            "catalogTitle": "EDU 5201",
+            "section": "090",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 5201",
+            "section": "091",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 5201",
+            "section": "092",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 5201",
+            "section": "093",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 5201",
+            "section": "094",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 5310",
+            "section": "001",
+            "courseTitle": "Theories Classroom Mgmt"
+        },
+        {
+            "catalogTitle": "EDU 5310",
+            "section": "002",
+            "courseTitle": "Theories Classroom Mgmt"
+        },
+        {
+            "catalogTitle": "EDU 5310",
+            "section": "003",
+            "courseTitle": "Theories Classroom Mgmt"
+        },
+        {
+            "catalogTitle": "EDU 5310",
+            "section": "004",
+            "courseTitle": "Theories Classroom Mgmt"
+        },
+        {
+            "catalogTitle": "EDU 5316",
+            "section": "001",
+            "courseTitle": "RDG Pract K-3: Next"
+        },
+        {
+            "catalogTitle": "EDU 5321",
+            "section": "001",
+            "courseTitle": "RDG Pract 4-6: Higher"
+        },
+        {
+            "catalogTitle": "EDU 5360",
+            "section": "001",
+            "courseTitle": "Elem Math Lrng Methods"
+        },
+        {
+            "catalogTitle": "EDU 5360",
+            "section": "002",
+            "courseTitle": "Elem Math Lrng Methods"
+        },
+        {
+            "catalogTitle": "EDU 5375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 5380",
+            "section": "001",
+            "courseTitle": "Elem Social Stud Meth"
+        },
+        {
+            "catalogTitle": "EDU 5380",
+            "section": "003",
+            "courseTitle": "Elem Social Stud Meth"
+        },
+        {
+            "catalogTitle": "EDU 5390",
+            "section": "001",
+            "courseTitle": "Field Pract: Elem"
+        },
+        {
+            "catalogTitle": "EDU 5390",
+            "section": "002",
+            "courseTitle": "Field Pract: Elem"
+        },
+        {
+            "catalogTitle": "EDU 5390",
+            "section": "003",
+            "courseTitle": "Field Pract: Elem"
+        },
+        {
+            "catalogTitle": "EDU 5395",
+            "section": "001",
+            "courseTitle": "Student Teaching: Elem"
+        },
+        {
+            "catalogTitle": "EDU 5490",
+            "section": "001",
+            "courseTitle": "Field Pract: Sec"
+        },
+        {
+            "catalogTitle": "EDU 5950",
+            "section": "001",
+            "courseTitle": "Ind Reading/Resrch R&L"
+        },
+        {
+            "catalogTitle": "EDU 6195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 6200",
+            "section": "090",
+            "courseTitle": "Teacher Language Aware"
+        },
+        {
+            "catalogTitle": "EDU 6201",
+            "section": "090",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 6201",
+            "section": "091",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 6201",
+            "section": "092",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 6201",
+            "section": "093",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 6201",
+            "section": "094",
+            "courseTitle": "Sem: Lang Awareness"
+        },
+        {
+            "catalogTitle": "EDU 6310",
+            "section": "001",
+            "courseTitle": "Classroom Management"
+        },
+        {
+            "catalogTitle": "EDU 6310",
+            "section": "002",
+            "courseTitle": "Classroom Management"
+        },
+        {
+            "catalogTitle": "EDU 6310",
+            "section": "003",
+            "courseTitle": "Classroom Management"
+        },
+        {
+            "catalogTitle": "EDU 6310",
+            "section": "004",
+            "courseTitle": "Classroom Management"
+        },
+        {
+            "catalogTitle": "EDU 6316",
+            "section": "001",
+            "courseTitle": "RDG Pract K-3: Next"
+        },
+        {
+            "catalogTitle": "EDU 6321",
+            "section": "001",
+            "courseTitle": "RDG Pract 4-6: Higher"
+        },
+        {
+            "catalogTitle": "EDU 6360",
+            "section": "001",
+            "courseTitle": "Elem Math Methods"
+        },
+        {
+            "catalogTitle": "EDU 6360",
+            "section": "002",
+            "courseTitle": "Elem Math Methods"
+        },
+        {
+            "catalogTitle": "EDU 6375",
+            "section": "001",
+            "courseTitle": "Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 6380",
+            "section": "001",
+            "courseTitle": "Elem Soc Studies Method"
+        },
+        {
+            "catalogTitle": "EDU 6380",
+            "section": "003",
+            "courseTitle": "Elem Soc Studies Method"
+        },
+        {
+            "catalogTitle": "EDU 6390",
+            "section": "001",
+            "courseTitle": "Field Practicum: Elem"
+        },
+        {
+            "catalogTitle": "EDU 6390",
+            "section": "002",
+            "courseTitle": "Field Practicum: Elem"
+        },
+        {
+            "catalogTitle": "EDU 6390",
+            "section": "003",
+            "courseTitle": "Field Practicum: Elem"
+        },
+        {
+            "catalogTitle": "EDU 6490",
+            "section": "002",
+            "courseTitle": "Field Pract: Sec"
+        },
+        {
+            "catalogTitle": "EDU 6491",
+            "section": "001",
+            "courseTitle": "Prof Dev & Teacher Res"
+        },
+        {
+            "catalogTitle": "EDU 6495",
+            "section": "001",
+            "courseTitle": "Student Teaching: Sec"
+        },
+        {
+            "catalogTitle": "EDU 6720",
+            "section": "001",
+            "courseTitle": "Child Dev Birth/Grade 6"
+        },
+        {
+            "catalogTitle": "EDU 6721",
+            "section": "001",
+            "courseTitle": "Adolesc Dev Grades 7-12"
+        },
+        {
+            "catalogTitle": "EDU 6811",
+            "section": "001",
+            "courseTitle": "Mentor & Eval Beginning"
+        },
+        {
+            "catalogTitle": "EDU 6950",
+            "section": "001",
+            "courseTitle": "Spec Topics In Ed"
+        }
+    ]
+}

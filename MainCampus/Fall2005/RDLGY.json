@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RDLGY 6320",
+            "section": "001",
+            "courseTitle": "Physics Nuclear Med/MRI"
+        },
+        {
+            "catalogTitle": "RDLGY 7060",
+            "section": "001",
+            "courseTitle": "Diagnostic Radiology"
+        },
+        {
+            "catalogTitle": "RDLGY 7061",
+            "section": "001",
+            "courseTitle": "Body Imaging Elective"
+        },
+        {
+            "catalogTitle": "RDLGY 7062",
+            "section": "001",
+            "courseTitle": "Inverventional Rdlgy Elective"
+        },
+        {
+            "catalogTitle": "RDLGY 7063",
+            "section": "001",
+            "courseTitle": "Musculoskeletal Radiology"
+        },
+        {
+            "catalogTitle": "RDLGY 7064",
+            "section": "001",
+            "courseTitle": "Neuroradiology Elective"
+        },
+        {
+            "catalogTitle": "RDLGY 7065",
+            "section": "001",
+            "courseTitle": "Thoracic Imaging Elective"
+        },
+        {
+            "catalogTitle": "RDLGY 7066",
+            "section": "001",
+            "courseTitle": "Women's Imaging Elective"
+        },
+        {
+            "catalogTitle": "RDLGY 7070",
+            "section": "001",
+            "courseTitle": "Radiology Research"
+        },
+        {
+            "catalogTitle": "RDLGY 7070",
+            "section": "002",
+            "courseTitle": "Radiology Research"
+        },
+        {
+            "catalogTitle": "RDLGY 7070",
+            "section": "003",
+            "courseTitle": "Radiology Research"
+        },
+        {
+            "catalogTitle": "RDLGY 7320",
+            "section": "001",
+            "courseTitle": "3 D Reconstruction Tech"
+        }
+    ]
+}

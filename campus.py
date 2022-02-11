@@ -4,6 +4,13 @@ class Campus:
         self.baseURL = baseURL
         self.semesters = semesters
 
+    def filterRange(self, startYear, endYear):
+        if startYear:
+            self.semesters = { key: self.semesters[key] for key in self.semesters if int(key[-4:]) >= startYear }
+
+        if endYear:
+            self.semesters = { key: self.semesters[key] for key in self.semesters if int(key[-4:]) <= startYear }
+
 def calculateSemesterIDs(lowerBound = None):
     semesterYears = [id for id in range(988, 1225) if str(id)[-1] in ['4', '6', '8']]
 

@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 100",
+            "section": "001",
+            "courseTitle": "Acct/Budg for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 110",
+            "section": "001",
+            "courseTitle": "Acct/Budg for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 210",
+            "section": "001",
+            "courseTitle": "Business Writing"
+        },
+        {
+            "catalogTitle": "PROED 220",
+            "section": "001",
+            "courseTitle": "Customer Service"
+        },
+        {
+            "catalogTitle": "PROED 370",
+            "section": "001",
+            "courseTitle": "Effective Leadership"
+        },
+        {
+            "catalogTitle": "PROED 420",
+            "section": "001",
+            "courseTitle": "HRM Certificate Prog"
+        },
+        {
+            "catalogTitle": "PROED 460",
+            "section": "001",
+            "courseTitle": "Mgt Comm, Teams, Decis"
+        },
+        {
+            "catalogTitle": "PROED 480",
+            "section": "001",
+            "courseTitle": "Leadership Competency"
+        },
+        {
+            "catalogTitle": "PROED 500",
+            "section": "001",
+            "courseTitle": "Operations Mgt"
+        },
+        {
+            "catalogTitle": "PROED 510",
+            "section": "001",
+            "courseTitle": "Org Change"
+        },
+        {
+            "catalogTitle": "PROED 530",
+            "section": "001",
+            "courseTitle": "Planning Process"
+        },
+        {
+            "catalogTitle": "PROED 540",
+            "section": "001",
+            "courseTitle": "Project Mgt I"
+        },
+        {
+            "catalogTitle": "PROED 590",
+            "section": "001",
+            "courseTitle": "RE Tax Update"
+        }
+    ]
+}

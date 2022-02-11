@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSYCT 6010",
+            "section": "001",
+            "courseTitle": "Basic Sci Foundations"
+        },
+        {
+            "catalogTitle": "PSYCT 6800",
+            "section": "001",
+            "courseTitle": "Sem-Clinical Topics"
+        },
+        {
+            "catalogTitle": "PSYCT 7200",
+            "section": "001",
+            "courseTitle": "Clerkship"
+        },
+        {
+            "catalogTitle": "PSYCT 7400",
+            "section": "001",
+            "courseTitle": "Subinternship-UHOSP"
+        },
+        {
+            "catalogTitle": "PSYCT 7410",
+            "section": "001",
+            "courseTitle": "Subinternship-V.A."
+        },
+        {
+            "catalogTitle": "PSYCT 7420",
+            "section": "001",
+            "courseTitle": "Subinternship-UNI"
+        },
+        {
+            "catalogTitle": "PSYCT 7440",
+            "section": "001",
+            "courseTitle": "Consult/Liaison Psyct"
+        },
+        {
+            "catalogTitle": "PSYCT 7460",
+            "section": "001",
+            "courseTitle": "Child Psychiatry"
+        },
+        {
+            "catalogTitle": "PSYCT 7470",
+            "section": "001",
+            "courseTitle": "Substance Abuse"
+        },
+        {
+            "catalogTitle": "PSYCT 7480",
+            "section": "001",
+            "courseTitle": "Subinternship-Other"
+        },
+        {
+            "catalogTitle": "PSYCT 7500",
+            "section": "001",
+            "courseTitle": "Children's Center"
+        },
+        {
+            "catalogTitle": "PSYCT 7530",
+            "section": "001",
+            "courseTitle": "Triple Board Elective"
+        },
+        {
+            "catalogTitle": "PSYCT 7900",
+            "section": "001",
+            "courseTitle": "Honors Program"
+        },
+        {
+            "catalogTitle": "PSYCT 7910",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PSYCT 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        }
+    ]
+}

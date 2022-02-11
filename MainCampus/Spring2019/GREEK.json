@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GREEK 102",
+            "section": "001",
+            "courseTitle": "Beg Class Greek II"
+        },
+        {
+            "catalogTitle": "GREEK 125",
+            "section": "001",
+            "courseTitle": "Beg Modern Greek II"
+        },
+        {
+            "catalogTitle": "GREEK 202",
+            "section": "001",
+            "courseTitle": "Interm Class Greek II"
+        },
+        {
+            "catalogTitle": "GREEK 1020",
+            "section": "001",
+            "courseTitle": "Beg Class Greek II"
+        },
+        {
+            "catalogTitle": "GREEK 1025",
+            "section": "001",
+            "courseTitle": "Beg Modern Greek II"
+        },
+        {
+            "catalogTitle": "GREEK 2020",
+            "section": "001",
+            "courseTitle": "Intrm Class Greek II"
+        },
+        {
+            "catalogTitle": "GREEK 3620",
+            "section": "001",
+            "courseTitle": "Third Year Poetry"
+        },
+        {
+            "catalogTitle": "GREEK 4620",
+            "section": "001",
+            "courseTitle": "Fourth Year Poetry"
+        },
+        {
+            "catalogTitle": "GREEK 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

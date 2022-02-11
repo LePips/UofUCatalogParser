@@ -1,0 +1,594 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 320",
+            "section": "001",
+            "courseTitle": "Intro Semicond Phys"
+        },
+        {
+            "catalogTitle": "ECE 522",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 522",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 534",
+            "section": "001",
+            "courseTitle": "Antenna Theory & Des"
+        },
+        {
+            "catalogTitle": "ECE 552",
+            "section": "001",
+            "courseTitle": "Digital Comm Systems"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "001",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "002",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "003",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "004",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "005",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "006",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 1250",
+            "section": "007",
+            "courseTitle": "Elec Comp Eng Design"
+        },
+        {
+            "catalogTitle": "ECE 2200",
+            "section": "001",
+            "courseTitle": "El/CP En Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2200",
+            "section": "002",
+            "courseTitle": "El/CP En Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2200",
+            "section": "003",
+            "courseTitle": "El/CP En Civil Engin"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "001",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "002",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "003",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "004",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "005",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "006",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "007",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2210",
+            "section": "008",
+            "courseTitle": "El/CP En For Nonmajors"
+        },
+        {
+            "catalogTitle": "ECE 2240",
+            "section": "001",
+            "courseTitle": "Intro Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2240",
+            "section": "002",
+            "courseTitle": "Intro Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2240",
+            "section": "003",
+            "courseTitle": "Intro Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2240",
+            "section": "004",
+            "courseTitle": "Intro Electric Circuits"
+        },
+        {
+            "catalogTitle": "ECE 2280",
+            "section": "001",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2280",
+            "section": "002",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2280",
+            "section": "003",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2280",
+            "section": "004",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2280",
+            "section": "005",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 2280",
+            "section": "006",
+            "courseTitle": "Fund Eng Electronics"
+        },
+        {
+            "catalogTitle": "ECE 3030",
+            "section": "001",
+            "courseTitle": "Comms & Wrtg for Engrs"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "001",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "002",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "003",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3110",
+            "section": "004",
+            "courseTitle": "Engineer Electronics II"
+        },
+        {
+            "catalogTitle": "ECE 3200",
+            "section": "001",
+            "courseTitle": "Intro Semicond Phys"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "001",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "002",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3300",
+            "section": "003",
+            "courseTitle": "Fund EM & Trans Lines"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "001",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "002",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3500",
+            "section": "003",
+            "courseTitle": "Fund Signals/Systems"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "001",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "002",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "003",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "004",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "005",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3530",
+            "section": "001",
+            "courseTitle": "Eng Prob Stats"
+        },
+        {
+            "catalogTitle": "ECE 3700",
+            "section": "001",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "ECE 3700",
+            "section": "002",
+            "courseTitle": "Digital System Design"
+        },
+        {
+            "catalogTitle": "ECE 3810",
+            "section": "001",
+            "courseTitle": "Computer Organization"
+        },
+        {
+            "catalogTitle": "ECE 3900",
+            "section": "001",
+            "courseTitle": "Junior Seminar"
+        },
+        {
+            "catalogTitle": "ECE 3992",
+            "section": "001",
+            "courseTitle": "Pre-Thesis/Clinic/Proj"
+        },
+        {
+            "catalogTitle": "ECE 4910",
+            "section": "001",
+            "courseTitle": "Senior Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 4990",
+            "section": "079",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "ECE 4999",
+            "section": "005",
+            "courseTitle": "Senior Honors Thesis II"
+        },
+        {
+            "catalogTitle": "ECE 5221",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 5221",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 5324",
+            "section": "001",
+            "courseTitle": "Antenna Theory & Des"
+        },
+        {
+            "catalogTitle": "ECE 5340",
+            "section": "001",
+            "courseTitle": "Num Tech EM"
+        },
+        {
+            "catalogTitle": "ECE 5520",
+            "section": "001",
+            "courseTitle": "Digital Comm Systems"
+        },
+        {
+            "catalogTitle": "ECE 5530",
+            "section": "001",
+            "courseTitle": "Digital Signal Process"
+        },
+        {
+            "catalogTitle": "ECE 5620",
+            "section": "001",
+            "courseTitle": "Power Systems Analysis"
+        },
+        {
+            "catalogTitle": "ECE 5620",
+            "section": "090",
+            "courseTitle": "Power Systems Analysis"
+        },
+        {
+            "catalogTitle": "ECE 5640",
+            "section": "001",
+            "courseTitle": "Power System Security"
+        },
+        {
+            "catalogTitle": "ECE 5750",
+            "section": "001",
+            "courseTitle": "Syn/Verif Asyn VLSI Sys"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "001",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "002",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "003",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "004",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "005",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5780",
+            "section": "006",
+            "courseTitle": "Embedded Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "003",
+            "courseTitle": "Modern Power Transmission"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "004",
+            "courseTitle": "Biomedical Micro Devices"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "006",
+            "courseTitle": "Enrgy Strat Plan & Renew Recrs"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "008",
+            "courseTitle": "Des. & Sim. of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "009",
+            "courseTitle": "Des. & Sim. of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "010",
+            "courseTitle": "RT Async Design"
+        },
+        {
+            "catalogTitle": "ECE 5960",
+            "section": "011",
+            "courseTitle": "Compound Semiconductor Technol"
+        },
+        {
+            "catalogTitle": "ECE 6221",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 6221",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 6221",
+            "section": "090",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ECE 6233",
+            "section": "090",
+            "courseTitle": "Micro Actuators"
+        },
+        {
+            "catalogTitle": "ECE 6235",
+            "section": "001",
+            "courseTitle": "Nano-Electro System"
+        },
+        {
+            "catalogTitle": "ECE 6310",
+            "section": "001",
+            "courseTitle": "Adv Electromag Flds"
+        },
+        {
+            "catalogTitle": "ECE 6324",
+            "section": "001",
+            "courseTitle": "Antenna Theory & Des"
+        },
+        {
+            "catalogTitle": "ECE 6340",
+            "section": "001",
+            "courseTitle": "Num Tech In EM"
+        },
+        {
+            "catalogTitle": "ECE 6420",
+            "section": "001",
+            "courseTitle": "Fourier Optics & Holo"
+        },
+        {
+            "catalogTitle": "ECE 6520",
+            "section": "001",
+            "courseTitle": "Infomation Theory"
+        },
+        {
+            "catalogTitle": "ECE 6530",
+            "section": "001",
+            "courseTitle": "Digital Signal Process"
+        },
+        {
+            "catalogTitle": "ECE 6530",
+            "section": "090",
+            "courseTitle": "Digital Signal Process"
+        },
+        {
+            "catalogTitle": "ECE 6540",
+            "section": "101",
+            "courseTitle": "Estimation Theory"
+        },
+        {
+            "catalogTitle": "ECE 6640",
+            "section": "001",
+            "courseTitle": "Power System Security"
+        },
+        {
+            "catalogTitle": "ECE 6712",
+            "section": "001",
+            "courseTitle": "Digital IC Testing"
+        },
+        {
+            "catalogTitle": "ECE 6725",
+            "section": "001",
+            "courseTitle": "Adv. Analog IC Design"
+        },
+        {
+            "catalogTitle": "ECE 6750",
+            "section": "001",
+            "courseTitle": "Syn & Ver Asyn VLSI Sys"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "001",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "002",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "004",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "005",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6780",
+            "section": "006",
+            "courseTitle": "Embed Sys Design"
+        },
+        {
+            "catalogTitle": "ECE 6810",
+            "section": "001",
+            "courseTitle": "Computer Architecture"
+        },
+        {
+            "catalogTitle": "ECE 6910",
+            "section": "001",
+            "courseTitle": "Graduate Sem"
+        },
+        {
+            "catalogTitle": "ECE 6910",
+            "section": "090",
+            "courseTitle": "Graduate Sem"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "004",
+            "courseTitle": "Biomedical Micro Devices"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "006",
+            "courseTitle": "Enrgy Strat Plan & Renew Recrs"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "007",
+            "courseTitle": "Modern Power Transmission"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "008",
+            "courseTitle": "Des. & Sim. of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "009",
+            "courseTitle": "Des. & Sim. of Microsystems"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "010",
+            "courseTitle": "RT Async Design"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "011",
+            "courseTitle": "Compound Semiconductor Technol"
+        },
+        {
+            "catalogTitle": "ECE 6960",
+            "section": "012",
+            "courseTitle": "Data Converter Design"
+        },
+        {
+            "catalogTitle": "ECE 7310",
+            "section": "001",
+            "courseTitle": "Adv Magnetic Reson Imag"
+        },
+        {
+            "catalogTitle": "ECE 7910",
+            "section": "001",
+            "courseTitle": "Graduate Seminar IV"
+        },
+        {
+            "catalogTitle": "ECE 7950",
+            "section": "057",
+            "courseTitle": "Special Studies Ph D"
+        }
+    ]
+}

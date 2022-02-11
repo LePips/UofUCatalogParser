@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "RUSS 101",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 102",
+            "section": "001",
+            "courseTitle": "Beg Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 1010",
+            "section": "001",
+            "courseTitle": "Beg Russian I"
+        },
+        {
+            "catalogTitle": "RUSS 1020",
+            "section": "001",
+            "courseTitle": "Beg Russian II"
+        },
+        {
+            "catalogTitle": "RUSS 4900",
+            "section": "001",
+            "courseTitle": "Community Volunteering"
+        },
+        {
+            "catalogTitle": "RUSS 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        },
+        {
+            "catalogTitle": "RUSS 7300",
+            "section": "002",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 3970",
+            "section": "001",
+            "courseTitle": "Humanities Mentors & Me"
+        },
+        {
+            "catalogTitle": "HUM 6102",
+            "section": "001",
+            "courseTitle": "Field Methods in EH"
+        },
+        {
+            "catalogTitle": "HUM 6105",
+            "section": "001",
+            "courseTitle": "EH Writing Seminar"
+        },
+        {
+            "catalogTitle": "HUM 6120",
+            "section": "001",
+            "courseTitle": "EH Internship"
+        },
+        {
+            "catalogTitle": "HUM 6804",
+            "section": "001",
+            "courseTitle": "Tertulia"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "002",
+            "courseTitle": "Studies in Fiction"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "003",
+            "courseTitle": "Fiction Workshop"
+        },
+        {
+            "catalogTitle": "HUM 6900",
+            "section": "004",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "HUM 6970",
+            "section": "001",
+            "courseTitle": "Thesis/Proj Rsrch: M.A."
+        }
+    ]
+}

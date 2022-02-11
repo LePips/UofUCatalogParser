@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBA 6120",
+            "section": "001",
+            "courseTitle": "Tpcs-Acctg/Finance"
+        },
+        {
+            "catalogTitle": "MBA 6320",
+            "section": "001",
+            "courseTitle": "Tpcs-Productn Opns Mgt"
+        },
+        {
+            "catalogTitle": "MBA 6600",
+            "section": "001",
+            "courseTitle": "Ldsh-Tm Effctvns-Com"
+        },
+        {
+            "catalogTitle": "MBA 6720",
+            "section": "001",
+            "courseTitle": "Topics In Marketing Mgt"
+        },
+        {
+            "catalogTitle": "MBA 6920",
+            "section": "012",
+            "courseTitle": "Administratn/Physicians"
+        }
+    ]
+}

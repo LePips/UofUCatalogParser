@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OC TH 5320",
+            "section": "001",
+            "courseTitle": "Creative Occupations"
+        },
+        {
+            "catalogTitle": "OC TH 5400",
+            "section": "001",
+            "courseTitle": "Dev OT in the Commun"
+        },
+        {
+            "catalogTitle": "OC TH 5500",
+            "section": "001",
+            "courseTitle": "Found Theory of OT"
+        },
+        {
+            "catalogTitle": "OC TH 6400",
+            "section": "001",
+            "courseTitle": "Clinical Intern Sem-I"
+        },
+        {
+            "catalogTitle": "OC TH 6600",
+            "section": "001",
+            "courseTitle": "Special Workshops"
+        },
+        {
+            "catalogTitle": "OC TH 6910",
+            "section": "001",
+            "courseTitle": "Professional Seminar II"
+        },
+        {
+            "catalogTitle": "OC TH 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        }
+    ]
+}

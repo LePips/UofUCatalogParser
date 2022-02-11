@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FA 373",
+            "section": "030",
+            "courseTitle": "Beg Video Production/Edit"
+        },
+        {
+            "catalogTitle": "FA 3300",
+            "section": "001",
+            "courseTitle": "Intro to Computer Music"
+        },
+        {
+            "catalogTitle": "FA 3700",
+            "section": "001",
+            "courseTitle": "Multimedia Graphics"
+        },
+        {
+            "catalogTitle": "FA 3730",
+            "section": "030",
+            "courseTitle": "Beg Video Prod/Edit"
+        },
+        {
+            "catalogTitle": "FA 4350",
+            "section": "001",
+            "courseTitle": "3-D Modeling and Rend"
+        },
+        {
+            "catalogTitle": "FA 4360",
+            "section": "001",
+            "courseTitle": "3-D Dynamics and Motion"
+        },
+        {
+            "catalogTitle": "FA 5900",
+            "section": "001",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 5900",
+            "section": "002",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 5900",
+            "section": "003",
+            "courseTitle": "Indep. Research Proj."
+        },
+        {
+            "catalogTitle": "FA 6500",
+            "section": "001",
+            "courseTitle": "Grad. Proj. ArtsTech"
+        }
+    ]
+}

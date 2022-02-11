@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "JAPAN 1010",
+            "section": "001",
+            "courseTitle": "Beg Japanese I"
+        },
+        {
+            "catalogTitle": "JAPAN 1010",
+            "section": "002",
+            "courseTitle": "Beg Japanese I"
+        },
+        {
+            "catalogTitle": "JAPAN 2010",
+            "section": "001",
+            "courseTitle": "Intrm Japanese I"
+        },
+        {
+            "catalogTitle": "JAPAN 3060",
+            "section": "001",
+            "courseTitle": "Third Yr Japanese"
+        },
+        {
+            "catalogTitle": "JAPAN 3410",
+            "section": "001",
+            "courseTitle": "Tchg Japanes Secnd Lang"
+        },
+        {
+            "catalogTitle": "JAPAN 3520",
+            "section": "001",
+            "courseTitle": "Commercial Japanese II"
+        },
+        {
+            "catalogTitle": "JAPAN 4630",
+            "section": "001",
+            "courseTitle": "Surv-Japan Lit: Women"
+        },
+        {
+            "catalogTitle": "JAPAN 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "JAPAN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis Project"
+        },
+        {
+            "catalogTitle": "JAPAN 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

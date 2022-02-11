@@ -1,0 +1,489 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ELI 15",
+            "section": "004",
+            "courseTitle": "Asia University Consultation"
+        },
+        {
+            "catalogTitle": "ELI 16",
+            "section": "001",
+            "courseTitle": "Nankai University Consultation"
+        },
+        {
+            "catalogTitle": "ELI 16",
+            "section": "002",
+            "courseTitle": "Nankai University Consultation"
+        },
+        {
+            "catalogTitle": "ELI 17",
+            "section": "001",
+            "courseTitle": "Kansai University Consultation"
+        },
+        {
+            "catalogTitle": "ELI 17",
+            "section": "002",
+            "courseTitle": "Kansai University Consultation"
+        },
+        {
+            "catalogTitle": "ELI 18",
+            "section": "001",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 18",
+            "section": "002",
+            "courseTitle": "Intensive English"
+        },
+        {
+            "catalogTitle": "ELI 19",
+            "section": "001",
+            "courseTitle": "ELI Success"
+        },
+        {
+            "catalogTitle": "ELI 19",
+            "section": "002",
+            "courseTitle": "ELI Success"
+        },
+        {
+            "catalogTitle": "ELI 32",
+            "section": "001",
+            "courseTitle": "Comprehensive English"
+        },
+        {
+            "catalogTitle": "ELI 66",
+            "section": "001",
+            "courseTitle": "GE Beg II block A"
+        },
+        {
+            "catalogTitle": "ELI 67",
+            "section": "001",
+            "courseTitle": "GE Beg II block B"
+        },
+        {
+            "catalogTitle": "ELI 73",
+            "section": "001",
+            "courseTitle": "GE Inter I block B"
+        },
+        {
+            "catalogTitle": "ELI 84",
+            "section": "001",
+            "courseTitle": "UofU Partner - UNP"
+        },
+        {
+            "catalogTitle": "ELI 84",
+            "section": "002",
+            "courseTitle": "UofU Partner - UNP"
+        },
+        {
+            "catalogTitle": "ELI 86",
+            "section": "001",
+            "courseTitle": "Beginner 2 Community English"
+        },
+        {
+            "catalogTitle": "ELI 86",
+            "section": "004",
+            "courseTitle": "Beginner 2 General English"
+        },
+        {
+            "catalogTitle": "ELI 87",
+            "section": "001",
+            "courseTitle": "Inter 1 Community English"
+        },
+        {
+            "catalogTitle": "ELI 87",
+            "section": "002",
+            "courseTitle": "Inter 1 Community English"
+        },
+        {
+            "catalogTitle": "ELI 87",
+            "section": "004",
+            "courseTitle": "Inter 1 Community English"
+        },
+        {
+            "catalogTitle": "ELI 88",
+            "section": "001",
+            "courseTitle": "UofU Partner - Facilities"
+        },
+        {
+            "catalogTitle": "ELI 89",
+            "section": "001",
+            "courseTitle": "UofU Partner - Housing"
+        },
+        {
+            "catalogTitle": "ELI 110",
+            "section": "002",
+            "courseTitle": "Skill Building Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 120",
+            "section": "002",
+            "courseTitle": "Skill Building Writing I"
+        },
+        {
+            "catalogTitle": "ELI 130",
+            "section": "002",
+            "courseTitle": "Skill Building Reading I"
+        },
+        {
+            "catalogTitle": "ELI 140",
+            "section": "002",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 210",
+            "section": "001",
+            "courseTitle": "Skill Building Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 220",
+            "section": "001",
+            "courseTitle": "Skill Building Writing II"
+        },
+        {
+            "catalogTitle": "ELI 230",
+            "section": "001",
+            "courseTitle": "Skill Building Reading II"
+        },
+        {
+            "catalogTitle": "ELI 240",
+            "section": "001",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 310",
+            "section": "001",
+            "courseTitle": "Skill Building Grammar III"
+        },
+        {
+            "catalogTitle": "ELI 310",
+            "section": "002",
+            "courseTitle": "Skill Building Grammar III"
+        },
+        {
+            "catalogTitle": "ELI 320",
+            "section": "001",
+            "courseTitle": "Skill Building Writing III"
+        },
+        {
+            "catalogTitle": "ELI 320",
+            "section": "002",
+            "courseTitle": "Skill Building Writing III"
+        },
+        {
+            "catalogTitle": "ELI 320",
+            "section": "003",
+            "courseTitle": "Skill Building Writing III"
+        },
+        {
+            "catalogTitle": "ELI 320",
+            "section": "004",
+            "courseTitle": "Skill Building Writing III"
+        },
+        {
+            "catalogTitle": "ELI 330",
+            "section": "001",
+            "courseTitle": "Skill Building Reading III"
+        },
+        {
+            "catalogTitle": "ELI 330",
+            "section": "002",
+            "courseTitle": "Skill Building Reading III"
+        },
+        {
+            "catalogTitle": "ELI 340",
+            "section": "001",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 340",
+            "section": "002",
+            "courseTitle": "Skill Building Listening Speak"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "001",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "002",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 410",
+            "section": "004",
+            "courseTitle": "Introduction to Grammar"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "001",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "002",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "003",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 420",
+            "section": "004",
+            "courseTitle": "Introduction to Writing"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "001",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "002",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 430",
+            "section": "004",
+            "courseTitle": "Introduction to Reading"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "001",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "002",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 440",
+            "section": "003",
+            "courseTitle": "Introduction to Listening Spea"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "001",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 510",
+            "section": "002",
+            "courseTitle": "Intermediate Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "001",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "002",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 520",
+            "section": "004",
+            "courseTitle": "Intermediate Writing I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "001",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 530",
+            "section": "002",
+            "courseTitle": "Intermediate Reading I"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "001",
+            "courseTitle": "Dramatically Speaking"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "002",
+            "courseTitle": "Dramatically Speaking"
+        },
+        {
+            "catalogTitle": "ELI 540",
+            "section": "004",
+            "courseTitle": "Dramatically Speaking"
+        },
+        {
+            "catalogTitle": "ELI 610",
+            "section": "001",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 610",
+            "section": "002",
+            "courseTitle": "Intermediate Grammar II"
+        },
+        {
+            "catalogTitle": "ELI 620",
+            "section": "001",
+            "courseTitle": "Intermediate Writing II"
+        },
+        {
+            "catalogTitle": "ELI 620",
+            "section": "002",
+            "courseTitle": "Intermediate Writing II"
+        },
+        {
+            "catalogTitle": "ELI 630",
+            "section": "001",
+            "courseTitle": "Intermediate Reading II"
+        },
+        {
+            "catalogTitle": "ELI 630",
+            "section": "002",
+            "courseTitle": "Intermediate Reading II"
+        },
+        {
+            "catalogTitle": "ELI 642",
+            "section": "001",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 642",
+            "section": "002",
+            "courseTitle": "Oral Proficiency"
+        },
+        {
+            "catalogTitle": "ELI 710",
+            "section": "001",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 710",
+            "section": "002",
+            "courseTitle": "Advanced Grammar I"
+        },
+        {
+            "catalogTitle": "ELI 720",
+            "section": "001",
+            "courseTitle": "Advanced Writing I"
+        },
+        {
+            "catalogTitle": "ELI 720",
+            "section": "002",
+            "courseTitle": "Advanced Writing I"
+        },
+        {
+            "catalogTitle": "ELI 741",
+            "section": "001",
+            "courseTitle": "Academic Listening/Speaking"
+        },
+        {
+            "catalogTitle": "ELI 741",
+            "section": "002",
+            "courseTitle": "Academic Listening/Speaking"
+        },
+        {
+            "catalogTitle": "ELI 750",
+            "section": "001",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 750",
+            "section": "002",
+            "courseTitle": "College Success I"
+        },
+        {
+            "catalogTitle": "ELI 820",
+            "section": "001",
+            "courseTitle": "Advanced Writing II"
+        },
+        {
+            "catalogTitle": "ELI 820",
+            "section": "002",
+            "courseTitle": "Advanced Writing II"
+        },
+        {
+            "catalogTitle": "ELI 820",
+            "section": "004",
+            "courseTitle": "Advanced Writing II"
+        },
+        {
+            "catalogTitle": "ELI 840",
+            "section": "001",
+            "courseTitle": "Debate"
+        },
+        {
+            "catalogTitle": "ELI 840",
+            "section": "002",
+            "courseTitle": "Debate"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "001",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "002",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 850",
+            "section": "004",
+            "courseTitle": "College Success II"
+        },
+        {
+            "catalogTitle": "ELI 865",
+            "section": "002",
+            "courseTitle": "Intro to Social Sciences"
+        },
+        {
+            "catalogTitle": "ELI 877",
+            "section": "001",
+            "courseTitle": "American West"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "001",
+            "courseTitle": "University Undergraduate Class"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "002",
+            "courseTitle": "University Undergraduate Class"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "003",
+            "courseTitle": "University Undergraduate Class"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "004",
+            "courseTitle": "University Undergraduate Class"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "005",
+            "courseTitle": "University Undergraduate Class"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "006",
+            "courseTitle": "University Undergraduate Class"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "007",
+            "courseTitle": "University Undergraduate Class"
+        },
+        {
+            "catalogTitle": "ELI 880",
+            "section": "008",
+            "courseTitle": "University Undergraduate Class"
+        }
+    ]
+}

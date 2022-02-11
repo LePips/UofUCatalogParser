@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "VIET 102",
+            "section": "001",
+            "courseTitle": "Beg. VIET II"
+        },
+        {
+            "catalogTitle": "VIET 302",
+            "section": "001",
+            "courseTitle": "Conversation & Reading"
+        },
+        {
+            "catalogTitle": "VIET 1020",
+            "section": "001",
+            "courseTitle": "Beg. VIET II"
+        },
+        {
+            "catalogTitle": "VIET 3020",
+            "section": "001",
+            "courseTitle": "Conversation & Reading"
+        }
+    ]
+}

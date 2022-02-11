@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UUHSC 550",
+            "section": "001",
+            "courseTitle": "CCMR"
+        },
+        {
+            "catalogTitle": "UUHSC 2500",
+            "section": "001",
+            "courseTitle": "Hlth Prof Seminar LEAP"
+        },
+        {
+            "catalogTitle": "UUHSC 3001",
+            "section": "001",
+            "courseTitle": "HS Leap 3 Research"
+        },
+        {
+            "catalogTitle": "UUHSC 4001",
+            "section": "001",
+            "courseTitle": "HS Leap IV Spring"
+        },
+        {
+            "catalogTitle": "UUHSC 5500",
+            "section": "001",
+            "courseTitle": "CCMR"
+        }
+    ]
+}

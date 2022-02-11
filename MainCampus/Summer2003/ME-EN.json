@@ -1,0 +1,119 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ME EN 1300",
+            "section": "001",
+            "courseTitle": "Statics/Strength"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "001",
+            "courseTitle": "Manufacturing Lab"
+        },
+        {
+            "catalogTitle": "ME EN 2040",
+            "section": "001",
+            "courseTitle": "Numerical Methods"
+        },
+        {
+            "catalogTitle": "ME EN 2600",
+            "section": "001",
+            "courseTitle": "Thermodynamics I"
+        },
+        {
+            "catalogTitle": "ME EN 4010",
+            "section": "001",
+            "courseTitle": "Engineering Design II"
+        },
+        {
+            "catalogTitle": "ME EN 4010",
+            "section": "002",
+            "courseTitle": "Engineering Design II"
+        },
+        {
+            "catalogTitle": "ME EN 4010",
+            "section": "003",
+            "courseTitle": "Engineering Design II"
+        },
+        {
+            "catalogTitle": "ME EN 5510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "079",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "001",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "004",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "010",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ME EN 6510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6970",
+            "section": "001",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6970",
+            "section": "007",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "001",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "017",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6980",
+            "section": "001",
+            "courseTitle": "Fac Consult, MS"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "001",
+            "courseTitle": "Fac Consultation, PhD"
+        }
+    ]
+}

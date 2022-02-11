@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6390",
+            "section": "001",
+            "courseTitle": "Sustainability Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6410",
+            "section": "001",
+            "courseTitle": "Site Development"
+        },
+        {
+            "catalogTitle": "REDEV 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "REDEV 6971",
+            "section": "001",
+            "courseTitle": "Professional Project"
+        }
+    ]
+}

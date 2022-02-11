@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENVST 3800",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENVST 4800",
+            "section": "001",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENVST 4800",
+            "section": "002",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENVST 4800",
+            "section": "003",
+            "courseTitle": "Internship"
+        },
+        {
+            "catalogTitle": "ENVST 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        }
+    ]
+}

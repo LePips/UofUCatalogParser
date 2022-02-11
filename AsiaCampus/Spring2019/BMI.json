@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 6010",
+            "section": "301",
+            "courseTitle": "Fnd Healthcare Informat"
+        },
+        {
+            "catalogTitle": "BMI 6030",
+            "section": "301",
+            "courseTitle": "Fnds Bioinformatics"
+        },
+        {
+            "catalogTitle": "BMI 6106",
+            "section": "301",
+            "courseTitle": "Prob & Stats for Biomed"
+        },
+        {
+            "catalogTitle": "BMI 6120",
+            "section": "301",
+            "courseTitle": "Standards in BMI"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "301",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 7000",
+            "section": "301",
+            "courseTitle": "Graduate Seminar"
+        }
+    ]
+}

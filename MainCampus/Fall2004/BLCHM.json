@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BLCHM 6050",
+            "section": "001",
+            "courseTitle": "Faculty Research Semin"
+        },
+        {
+            "catalogTitle": "BLCHM 6400",
+            "section": "001",
+            "courseTitle": "Genetic Engineering"
+        },
+        {
+            "catalogTitle": "BLCHM 6410",
+            "section": "001",
+            "courseTitle": "Protein & Nucl Biochem"
+        },
+        {
+            "catalogTitle": "BLCHM 6450",
+            "section": "001",
+            "courseTitle": "Biophysical Chemistry"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        },
+        {
+            "catalogTitle": "BLCHM 7960",
+            "section": "002",
+            "courseTitle": "Research"
+        }
+    ]
+}

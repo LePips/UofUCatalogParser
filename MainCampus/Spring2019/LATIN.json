@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LATIN 202",
+            "section": "001",
+            "courseTitle": "Intrm Classical Latin II"
+        },
+        {
+            "catalogTitle": "LATIN 362",
+            "section": "001",
+            "courseTitle": "Third Year Poetry"
+        },
+        {
+            "catalogTitle": "LATIN 1020",
+            "section": "001",
+            "courseTitle": "Beg Classical Latin II"
+        },
+        {
+            "catalogTitle": "LATIN 2020",
+            "section": "001",
+            "courseTitle": "Intrm Classicl Latin II"
+        },
+        {
+            "catalogTitle": "LATIN 3620",
+            "section": "001",
+            "courseTitle": "Third Year Poetry"
+        },
+        {
+            "catalogTitle": "LATIN 4620",
+            "section": "001",
+            "courseTitle": "Fourth Year Poetry"
+        },
+        {
+            "catalogTitle": "LATIN 7300",
+            "section": "001",
+            "courseTitle": "Grad Lang Study"
+        }
+    ]
+}

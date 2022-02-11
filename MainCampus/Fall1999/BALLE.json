@@ -1,0 +1,389 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BALLE 1140",
+            "section": "001",
+            "courseTitle": "Beg Ballet Tech-Nonmajr"
+        },
+        {
+            "catalogTitle": "BALLE 1190",
+            "section": "001",
+            "courseTitle": "Ballet Basics"
+        },
+        {
+            "catalogTitle": "BALLE 1230",
+            "section": "001",
+            "courseTitle": "Ballet,2nd Yr-Nonmajr"
+        },
+        {
+            "catalogTitle": "BALLE 1260",
+            "section": "001",
+            "courseTitle": "Ballet Tech Modern Majr"
+        },
+        {
+            "catalogTitle": "BALLE 1350",
+            "section": "001",
+            "courseTitle": "Jazz Dance - Nonmajors"
+        },
+        {
+            "catalogTitle": "BALLE 1400",
+            "section": "001",
+            "courseTitle": "Ballet Injuries"
+        },
+        {
+            "catalogTitle": "BALLE 1500",
+            "section": "001",
+            "courseTitle": "Elements Of Music"
+        },
+        {
+            "catalogTitle": "BALLE 2000",
+            "section": "001",
+            "courseTitle": "Pointe Var Lowr Div II"
+        },
+        {
+            "catalogTitle": "BALLE 2290",
+            "section": "001",
+            "courseTitle": "Technique Lower Div II"
+        },
+        {
+            "catalogTitle": "BALLE 2300",
+            "section": "001",
+            "courseTitle": "Character Dance"
+        },
+        {
+            "catalogTitle": "BALLE 2300",
+            "section": "002",
+            "courseTitle": "Character Dance"
+        },
+        {
+            "catalogTitle": "BALLE 2380",
+            "section": "001",
+            "courseTitle": "Jazz Second Year"
+        },
+        {
+            "catalogTitle": "BALLE 3000",
+            "section": "001",
+            "courseTitle": "Pointe Var Upper Div I"
+        },
+        {
+            "catalogTitle": "BALLE 3260",
+            "section": "001",
+            "courseTitle": "Production Lighting"
+        },
+        {
+            "catalogTitle": "BALLE 3290",
+            "section": "001",
+            "courseTitle": "Technique Upper Div I"
+        },
+        {
+            "catalogTitle": "BALLE 3300",
+            "section": "001",
+            "courseTitle": "Ballet Conditioning"
+        },
+        {
+            "catalogTitle": "BALLE 3300",
+            "section": "002",
+            "courseTitle": "Ballet Conditioning"
+        },
+        {
+            "catalogTitle": "BALLE 3370",
+            "section": "001",
+            "courseTitle": "Jazz Third Year"
+        },
+        {
+            "catalogTitle": "BALLE 3590",
+            "section": "001",
+            "courseTitle": "Men's Cls Upr Div I"
+        },
+        {
+            "catalogTitle": "BALLE 4000",
+            "section": "001",
+            "courseTitle": "Pointe/Var Upper Div II"
+        },
+        {
+            "catalogTitle": "BALLE 4060",
+            "section": "001",
+            "courseTitle": "Persp Character Dance"
+        },
+        {
+            "catalogTitle": "BALLE 4290",
+            "section": "001",
+            "courseTitle": "Technique Upper Div II"
+        },
+        {
+            "catalogTitle": "BALLE 4310",
+            "section": "001",
+            "courseTitle": "Adv Character Dance"
+        },
+        {
+            "catalogTitle": "BALLE 4500",
+            "section": "001",
+            "courseTitle": "Partner Adagio I"
+        },
+        {
+            "catalogTitle": "BALLE 4550",
+            "section": "001",
+            "courseTitle": "Partner Adagio"
+        },
+        {
+            "catalogTitle": "BALLE 4550",
+            "section": "002",
+            "courseTitle": "Partner Adagio"
+        },
+        {
+            "catalogTitle": "BALLE 4650",
+            "section": "001",
+            "courseTitle": "Ballet Showcase"
+        },
+        {
+            "catalogTitle": "BALLE 4700",
+            "section": "001",
+            "courseTitle": "Choreography"
+        },
+        {
+            "catalogTitle": "BALLE 4730",
+            "section": "001",
+            "courseTitle": "Choreography Project"
+        },
+        {
+            "catalogTitle": "BALLE 4810",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "BALLE 4820",
+            "section": "001",
+            "courseTitle": "Independent Study-Tchg"
+        },
+        {
+            "catalogTitle": "BALLE 4830",
+            "section": "001",
+            "courseTitle": "Independent Study-Res"
+        },
+        {
+            "catalogTitle": "BALLE 4840",
+            "section": "001",
+            "courseTitle": "Independent Study-Other"
+        },
+        {
+            "catalogTitle": "BALLE 4850",
+            "section": "001",
+            "courseTitle": "Ballet Ensemble"
+        },
+        {
+            "catalogTitle": "BALLE 4860",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Ballet"
+        },
+        {
+            "catalogTitle": "BALLE 4870",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Jazz"
+        },
+        {
+            "catalogTitle": "BALLE 4880",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Charactr"
+        },
+        {
+            "catalogTitle": "BALLE 4890",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Other"
+        },
+        {
+            "catalogTitle": "BALLE 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "BALLE 5000",
+            "section": "001",
+            "courseTitle": "Pointe/Var-Adv"
+        },
+        {
+            "catalogTitle": "BALLE 5010",
+            "section": "001",
+            "courseTitle": "Pointe/Var Ballet West"
+        },
+        {
+            "catalogTitle": "BALLE 5150",
+            "section": "001",
+            "courseTitle": "Character Dance Ensmble"
+        },
+        {
+            "catalogTitle": "BALLE 5290",
+            "section": "001",
+            "courseTitle": "Utah Ballet Company Cls"
+        },
+        {
+            "catalogTitle": "BALLE 5300",
+            "section": "001",
+            "courseTitle": "Ballet West Co Class"
+        },
+        {
+            "catalogTitle": "BALLE 5400",
+            "section": "001",
+            "courseTitle": "Job Search Seminar"
+        },
+        {
+            "catalogTitle": "BALLE 5550",
+            "section": "001",
+            "courseTitle": "Adv Partner Adagio"
+        },
+        {
+            "catalogTitle": "BALLE 5550",
+            "section": "002",
+            "courseTitle": "Adv Partner Adagio"
+        },
+        {
+            "catalogTitle": "BALLE 5590",
+            "section": "001",
+            "courseTitle": "Adv Men's Class"
+        },
+        {
+            "catalogTitle": "BALLE 5700",
+            "section": "001",
+            "courseTitle": "Adv Choreography"
+        },
+        {
+            "catalogTitle": "BALLE 5780",
+            "section": "001",
+            "courseTitle": "Teaching Essentials"
+        },
+        {
+            "catalogTitle": "BALLE 5850",
+            "section": "001",
+            "courseTitle": "Utah Ballet Repertory"
+        },
+        {
+            "catalogTitle": "BALLE 6000",
+            "section": "001",
+            "courseTitle": "Pointe/Var Grad VI"
+        },
+        {
+            "catalogTitle": "BALLE 6150",
+            "section": "001",
+            "courseTitle": "Character Dance Ensmble"
+        },
+        {
+            "catalogTitle": "BALLE 6290",
+            "section": "001",
+            "courseTitle": "Ballet Technique-Grad"
+        },
+        {
+            "catalogTitle": "BALLE 6310",
+            "section": "001",
+            "courseTitle": "Adv Character Dance"
+        },
+        {
+            "catalogTitle": "BALLE 6500",
+            "section": "001",
+            "courseTitle": "Partner Adag Level VI"
+        },
+        {
+            "catalogTitle": "BALLE 6520",
+            "section": "001",
+            "courseTitle": "Adv Music For Dancers"
+        },
+        {
+            "catalogTitle": "BALLE 6550",
+            "section": "001",
+            "courseTitle": "Adv Partner Adagio"
+        },
+        {
+            "catalogTitle": "BALLE 6590",
+            "section": "001",
+            "courseTitle": "Men's Class-Graduate"
+        },
+        {
+            "catalogTitle": "BALLE 6700",
+            "section": "001",
+            "courseTitle": "Choreography Level VI"
+        },
+        {
+            "catalogTitle": "BALLE 6730",
+            "section": "001",
+            "courseTitle": "Choreography Prj Lvl VI"
+        },
+        {
+            "catalogTitle": "BALLE 6750",
+            "section": "001",
+            "courseTitle": "Advanced Choreography"
+        },
+        {
+            "catalogTitle": "BALLE 6780",
+            "section": "001",
+            "courseTitle": "Tchg Essntls Bal Lvl VI"
+        },
+        {
+            "catalogTitle": "BALLE 6830",
+            "section": "001",
+            "courseTitle": "Ind Study - Character"
+        },
+        {
+            "catalogTitle": "BALLE 6860",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Ballet"
+        },
+        {
+            "catalogTitle": "BALLE 6870",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Jazz"
+        },
+        {
+            "catalogTitle": "BALLE 6880",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Charactr"
+        },
+        {
+            "catalogTitle": "BALLE 6890",
+            "section": "001",
+            "courseTitle": "Tchg Practicum Other"
+        },
+        {
+            "catalogTitle": "BALLE 6900",
+            "section": "001",
+            "courseTitle": "Ind Study-General"
+        },
+        {
+            "catalogTitle": "BALLE 6910",
+            "section": "001",
+            "courseTitle": "Ind Study-Production"
+        },
+        {
+            "catalogTitle": "BALLE 6920",
+            "section": "001",
+            "courseTitle": "Ind Study-Choreography"
+        },
+        {
+            "catalogTitle": "BALLE 6930",
+            "section": "001",
+            "courseTitle": "Ind Study-Performance"
+        },
+        {
+            "catalogTitle": "BALLE 6940",
+            "section": "001",
+            "courseTitle": "Ind Study-Teaching"
+        },
+        {
+            "catalogTitle": "BALLE 6950",
+            "section": "001",
+            "courseTitle": "Ind Study-Projects"
+        },
+        {
+            "catalogTitle": "BALLE 6960",
+            "section": "001",
+            "courseTitle": "Research Projects"
+        },
+        {
+            "catalogTitle": "BALLE 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-M.A."
+        },
+        {
+            "catalogTitle": "BALLE 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

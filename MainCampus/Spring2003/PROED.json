@@ -1,0 +1,109 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROED 120",
+            "section": "001",
+            "courseTitle": "CPM  1 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 120",
+            "section": "002",
+            "courseTitle": "CPM  1 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 130",
+            "section": "001",
+            "courseTitle": "CPM  2 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 130",
+            "section": "002",
+            "courseTitle": "CPM  2 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 140",
+            "section": "001",
+            "courseTitle": "CPM  3 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 140",
+            "section": "002",
+            "courseTitle": "CPM  3 Exam Prep"
+        },
+        {
+            "catalogTitle": "PROED 170",
+            "section": "001",
+            "courseTitle": "AWWA Mgt"
+        },
+        {
+            "catalogTitle": "PROED 180",
+            "section": "001",
+            "courseTitle": "AWWA Adv Mgt"
+        },
+        {
+            "catalogTitle": "PROED 200",
+            "section": "001",
+            "courseTitle": "Business Ethics"
+        },
+        {
+            "catalogTitle": "PROED 390",
+            "section": "001",
+            "courseTitle": "Finance for Mgrs I"
+        },
+        {
+            "catalogTitle": "PROED 400",
+            "section": "001",
+            "courseTitle": "Finance for Mgrs II"
+        },
+        {
+            "catalogTitle": "PROED 420",
+            "section": "001",
+            "courseTitle": "HRM Certificate Prog"
+        },
+        {
+            "catalogTitle": "PROED 430",
+            "section": "001",
+            "courseTitle": "Interest-Based Negotia"
+        },
+        {
+            "catalogTitle": "PROED 450",
+            "section": "001",
+            "courseTitle": "Legal for Managers"
+        },
+        {
+            "catalogTitle": "PROED 470",
+            "section": "001",
+            "courseTitle": "Marketing"
+        },
+        {
+            "catalogTitle": "PROED 480",
+            "section": "001",
+            "courseTitle": "Leadership Competency"
+        },
+        {
+            "catalogTitle": "PROED 500",
+            "section": "001",
+            "courseTitle": "Operations Mgt"
+        },
+        {
+            "catalogTitle": "PROED 520",
+            "section": "001",
+            "courseTitle": "People Mgt"
+        },
+        {
+            "catalogTitle": "PROED 540",
+            "section": "001",
+            "courseTitle": "Project Mgt I"
+        },
+        {
+            "catalogTitle": "PROED 580",
+            "section": "001",
+            "courseTitle": "Public Sector Purchg"
+        },
+        {
+            "catalogTitle": "PROED 580",
+            "section": "002",
+            "courseTitle": "Public Sector Purchg"
+        }
+    ]
+}

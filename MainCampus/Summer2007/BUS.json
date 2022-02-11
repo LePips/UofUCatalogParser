@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BUS 105",
+            "section": "002",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "001",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 1050",
+            "section": "002",
+            "courseTitle": "Foundations of Business"
+        },
+        {
+            "catalogTitle": "BUS 2900",
+            "section": "001",
+            "courseTitle": "Intro International Bus"
+        },
+        {
+            "catalogTitle": "BUS 7960",
+            "section": "001",
+            "courseTitle": "Wharton DB"
+        }
+    ]
+}

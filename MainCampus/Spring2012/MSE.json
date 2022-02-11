@@ -1,0 +1,109 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MSE 1801",
+            "section": "001",
+            "courseTitle": "Contemporary MSE II"
+        },
+        {
+            "catalogTitle": "MSE 3011",
+            "section": "001",
+            "courseTitle": "Struct Analys Of Mtrls"
+        },
+        {
+            "catalogTitle": "MSE 3011",
+            "section": "002",
+            "courseTitle": "Struct Analys Of Mtrls"
+        },
+        {
+            "catalogTitle": "MSE 3061",
+            "section": "001",
+            "courseTitle": "Transport Phenomena"
+        },
+        {
+            "catalogTitle": "MSE 3310",
+            "section": "001",
+            "courseTitle": "Intro To Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 5025",
+            "section": "001",
+            "courseTitle": "Mech Props of Solids"
+        },
+        {
+            "catalogTitle": "MSE 5034",
+            "section": "001",
+            "courseTitle": "Kinetics"
+        },
+        {
+            "catalogTitle": "MSE 5040",
+            "section": "001",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "MSE 5040",
+            "section": "002",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "MSE 5040",
+            "section": "003",
+            "courseTitle": "Intro to Modern Biomaterials"
+        },
+        {
+            "catalogTitle": "MSE 5071",
+            "section": "001",
+            "courseTitle": "Intro Nanobio Tech/Mat"
+        },
+        {
+            "catalogTitle": "MSE 5072",
+            "section": "001",
+            "courseTitle": "Thin Film Techniques"
+        },
+        {
+            "catalogTitle": "MSE 5090",
+            "section": "001",
+            "courseTitle": "Case Studies In MSE"
+        },
+        {
+            "catalogTitle": "MSE 5354",
+            "section": "001",
+            "courseTitle": "Processing of Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 6034",
+            "section": "001",
+            "courseTitle": "Kinetics"
+        },
+        {
+            "catalogTitle": "MSE 6071",
+            "section": "001",
+            "courseTitle": "Intro Nanobio Tech/Mat"
+        },
+        {
+            "catalogTitle": "MSE 6072",
+            "section": "001",
+            "courseTitle": "Thin Film Techniques"
+        },
+        {
+            "catalogTitle": "MSE 6354",
+            "section": "001",
+            "courseTitle": "Adv Topics/Proc Ceramics"
+        },
+        {
+            "catalogTitle": "MSE 6421",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "MSE 7050",
+            "section": "001",
+            "courseTitle": "Adv Topics Analyt Chem"
+        },
+        {
+            "catalogTitle": "MSE 7801",
+            "section": "001",
+            "courseTitle": "Graduate Seminar II"
+        }
+    ]
+}

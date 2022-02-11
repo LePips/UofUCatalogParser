@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NUIP 5320",
+            "section": "090",
+            "courseTitle": "Nutr for Exer & Sport"
+        },
+        {
+            "catalogTitle": "NUIP 5380",
+            "section": "090",
+            "courseTitle": "Understand Diet Supplmt"
+        },
+        {
+            "catalogTitle": "NUIP 6900",
+            "section": "001",
+            "courseTitle": "Directed Nutr Research"
+        },
+        {
+            "catalogTitle": "NUIP 6910",
+            "section": "001",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "NUIP 6930",
+            "section": "001",
+            "courseTitle": "Supervised Practice"
+        },
+        {
+            "catalogTitle": "NUIP 6940",
+            "section": "001",
+            "courseTitle": "Capstone"
+        },
+        {
+            "catalogTitle": "NUIP 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        },
+        {
+            "catalogTitle": "NUIP 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "NUIP 7970",
+            "section": "001",
+            "courseTitle": "Dissertation-Doctoral"
+        }
+    ]
+}

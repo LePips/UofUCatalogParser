@@ -1,0 +1,99 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PSY 101",
+            "section": "070",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 323",
+            "section": "070",
+            "courseTitle": "Adult Devel And Aging"
+        },
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "001",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "070",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 1010",
+            "section": "090",
+            "courseTitle": "General Psychology"
+        },
+        {
+            "catalogTitle": "PSY 2010",
+            "section": "001",
+            "courseTitle": "Psy as a Sci & Profssn"
+        },
+        {
+            "catalogTitle": "PSY 2010",
+            "section": "090",
+            "courseTitle": "Psy as a Sci & Profssn"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "001",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3000",
+            "section": "090",
+            "courseTitle": "Statistical Methods Psy"
+        },
+        {
+            "catalogTitle": "PSY 3010",
+            "section": "090",
+            "courseTitle": "Research Methods Psych"
+        },
+        {
+            "catalogTitle": "PSY 3120",
+            "section": "090",
+            "courseTitle": "Cognitive Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3140",
+            "section": "090",
+            "courseTitle": "Cognitive Neuropsych"
+        },
+        {
+            "catalogTitle": "PSY 3215",
+            "section": "090",
+            "courseTitle": "Development in Infancy"
+        },
+        {
+            "catalogTitle": "PSY 3230",
+            "section": "070",
+            "courseTitle": "Adult Devel And Aging"
+        },
+        {
+            "catalogTitle": "PSY 3400",
+            "section": "090",
+            "courseTitle": "Abnormal Behavior"
+        },
+        {
+            "catalogTitle": "PSY 3410",
+            "section": "090",
+            "courseTitle": "Social Psychology"
+        },
+        {
+            "catalogTitle": "PSY 3460",
+            "section": "090",
+            "courseTitle": "Health Psychology"
+        },
+        {
+            "catalogTitle": "PSY 4810",
+            "section": "079",
+            "courseTitle": "Field Experience"
+        },
+        {
+            "catalogTitle": "PSY 4998",
+            "section": "001",
+            "courseTitle": "Honors Thesis Research"
+        }
+    ]
+}

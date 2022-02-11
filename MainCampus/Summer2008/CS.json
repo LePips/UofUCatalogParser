@@ -1,0 +1,154 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "CS 121",
+            "section": "001",
+            "courseTitle": "Introduction to Java"
+        },
+        {
+            "catalogTitle": "CS 196",
+            "section": "001",
+            "courseTitle": "Introduction to C#"
+        },
+        {
+            "catalogTitle": "CS 1010",
+            "section": "090",
+            "courseTitle": "Introduction To Unix"
+        },
+        {
+            "catalogTitle": "CS 1021",
+            "section": "001",
+            "courseTitle": "Introduction to Java"
+        },
+        {
+            "catalogTitle": "CS 1960",
+            "section": "001",
+            "courseTitle": "Introduction to C#"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "001",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "002",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "003",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "004",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "005",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2420",
+            "section": "006",
+            "courseTitle": "Computer Science II"
+        },
+        {
+            "catalogTitle": "CS 2960",
+            "section": "001",
+            "courseTitle": "Apple Certification"
+        },
+        {
+            "catalogTitle": "CS 2961",
+            "section": "001",
+            "courseTitle": "Cisco CCNA Level 1"
+        },
+        {
+            "catalogTitle": "CS 2962",
+            "section": "001",
+            "courseTitle": "Cisco CCNA Level 2"
+        },
+        {
+            "catalogTitle": "CS 2962",
+            "section": "002",
+            "courseTitle": "Cisco CCNA Level 2"
+        },
+        {
+            "catalogTitle": "CS 2963",
+            "section": "001",
+            "courseTitle": "LPI Level 1"
+        },
+        {
+            "catalogTitle": "CS 2964",
+            "section": "001",
+            "courseTitle": "LPI Level 2"
+        },
+        {
+            "catalogTitle": "CS 4950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 4950",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 4970",
+            "section": "001",
+            "courseTitle": "CS Bachelor's Thesis"
+        },
+        {
+            "catalogTitle": "CS 4970",
+            "section": "003",
+            "courseTitle": "CS Bachelor's Thesis"
+        },
+        {
+            "catalogTitle": "CS 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "CS 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 5960",
+            "section": "001",
+            "courseTitle": "SROP"
+        },
+        {
+            "catalogTitle": "CS 6950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "CS 6970",
+            "section": "001",
+            "courseTitle": "Masters Thesis Research"
+        },
+        {
+            "catalogTitle": "CS 6980",
+            "section": "001",
+            "courseTitle": "Consultation Master's"
+        },
+        {
+            "catalogTitle": "CS 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation Rsrch"
+        },
+        {
+            "catalogTitle": "CS 7980",
+            "section": "001",
+            "courseTitle": "Consultation PhD"
+        },
+        {
+            "catalogTitle": "CS 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-PhD"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "STAT 5003",
+            "section": "001",
+            "courseTitle": "Survey of Stat Pkgs"
+        },
+        {
+            "catalogTitle": "STAT 6003",
+            "section": "001",
+            "courseTitle": "Survey of Stat Pkgs"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "001",
+            "courseTitle": "Statistical Computer Packages"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "002",
+            "courseTitle": "Independent Project"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "090",
+            "courseTitle": "Spec Topic in Stat"
+        },
+        {
+            "catalogTitle": "STAT 6969",
+            "section": "091",
+            "courseTitle": "Spec Topic in Stat"
+        }
+    ]
+}

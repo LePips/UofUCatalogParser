@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PBHLT 6240",
+            "section": "390",
+            "courseTitle": "Health Communications"
+        },
+        {
+            "catalogTitle": "PBHLT 6300",
+            "section": "301",
+            "courseTitle": "Epidemiology I"
+        },
+        {
+            "catalogTitle": "PBHLT 6530",
+            "section": "301",
+            "courseTitle": "Global Health"
+        },
+        {
+            "catalogTitle": "PBHLT 6700",
+            "section": "301",
+            "courseTitle": "Envir & Biol Science PH"
+        },
+        {
+            "catalogTitle": "PBHLT 6900",
+            "section": "301",
+            "courseTitle": "Public Health Capstone"
+        },
+        {
+            "catalogTitle": "PBHLT 6954",
+            "section": "302",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PBHLT 6958",
+            "section": "301",
+            "courseTitle": "Reproductive Epidemiology"
+        },
+        {
+            "catalogTitle": "PBHLT 6958",
+            "section": "302",
+            "courseTitle": "Social Epidemiology"
+        },
+        {
+            "catalogTitle": "PBHLT 6960",
+            "section": "301",
+            "courseTitle": "Public Health Practicum"
+        }
+    ]
+}

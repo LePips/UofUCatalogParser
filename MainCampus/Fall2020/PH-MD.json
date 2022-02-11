@@ -1,3 +1,24 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "PH MD 7000",
+            "section": "001",
+            "courseTitle": "Physical Medicine Away"
+        },
+        {
+            "catalogTitle": "PH MD 7910",
+            "section": "001",
+            "courseTitle": "Clerkship"
+        },
+        {
+            "catalogTitle": "PH MD 7920",
+            "section": "001",
+            "courseTitle": "Ind. Study - Adj to Dis"
+        },
+        {
+            "catalogTitle": "PH MD 7940",
+            "section": "001",
+            "courseTitle": "Research In PMR"
+        }
+    ]
 }

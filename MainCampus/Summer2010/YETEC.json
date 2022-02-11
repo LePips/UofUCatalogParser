@@ -1,0 +1,114 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YETEC 45",
+            "section": "001",
+            "courseTitle": "Photoshop I (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YETEC 50",
+            "section": "002",
+            "courseTitle": "Graphic Art I (Age10-16)"
+        },
+        {
+            "catalogTitle": "YETEC 50",
+            "section": "003",
+            "courseTitle": "Graphic Art I (Age10-16)"
+        },
+        {
+            "catalogTitle": "YETEC 51",
+            "section": "001",
+            "courseTitle": "Graphic Art II (Age 10-16)"
+        },
+        {
+            "catalogTitle": "YETEC 60",
+            "section": "001",
+            "courseTitle": "Digital Photo (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YETEC 60",
+            "section": "002",
+            "courseTitle": "Digital Photo (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YETEC 60",
+            "section": "003",
+            "courseTitle": "Digital Photo (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YETEC 65",
+            "section": "001",
+            "courseTitle": "Platinum 101 (Age 12-18)"
+        },
+        {
+            "catalogTitle": "YETEC 71",
+            "section": "001",
+            "courseTitle": "Movie Maker I (Age 12-15)"
+        },
+        {
+            "catalogTitle": "YETEC 100",
+            "section": "001",
+            "courseTitle": "Dreamweaver I (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 100",
+            "section": "002",
+            "courseTitle": "Dreamweaver I (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 110",
+            "section": "001",
+            "courseTitle": "Flash Animation (Age 12-16)"
+        },
+        {
+            "catalogTitle": "YETEC 115",
+            "section": "001",
+            "courseTitle": "DarkBasic (Age 13-17)"
+        },
+        {
+            "catalogTitle": "YETEC 115",
+            "section": "002",
+            "courseTitle": "DarkBasic (Age 13-17)"
+        },
+        {
+            "catalogTitle": "YETEC 116",
+            "section": "001",
+            "courseTitle": "DarkBasic II (Age 13-17)"
+        },
+        {
+            "catalogTitle": "YETEC 150",
+            "section": "001",
+            "courseTitle": "Build Adventure (Age 9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 150",
+            "section": "002",
+            "courseTitle": "Build Adventure (Age 9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 150",
+            "section": "003",
+            "courseTitle": "Build Adventure (Age 9-12)"
+        },
+        {
+            "catalogTitle": "YETEC 200",
+            "section": "001",
+            "courseTitle": "Junior High (Age 11-12)"
+        },
+        {
+            "catalogTitle": "YETEC 200",
+            "section": "002",
+            "courseTitle": "Junior High (Age 11-12)"
+        },
+        {
+            "catalogTitle": "YETEC 200",
+            "section": "003",
+            "courseTitle": "Junior High (Age 11-12)"
+        },
+        {
+            "catalogTitle": "YETEC 800",
+            "section": "001",
+            "courseTitle": "Photography/Graphic Art"
+        }
+    ]
+}

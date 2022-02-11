@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLREC 663",
+            "section": "001",
+            "courseTitle": "Bike Repair I"
+        },
+        {
+            "catalogTitle": "LLREC 671",
+            "section": "001",
+            "courseTitle": "Fly Fishing 101"
+        },
+        {
+            "catalogTitle": "LLREC 729",
+            "section": "001",
+            "courseTitle": "Bicycle Repair II"
+        },
+        {
+            "catalogTitle": "LLREC 746",
+            "section": "001",
+            "courseTitle": "Beg. Golf Women"
+        },
+        {
+            "catalogTitle": "LLREC 746",
+            "section": "002",
+            "courseTitle": "Beg. Golf Women"
+        },
+        {
+            "catalogTitle": "LLREC 756",
+            "section": "001",
+            "courseTitle": "A Walking Tour of SL Treasure"
+        },
+        {
+            "catalogTitle": "LLREC 777",
+            "section": "001",
+            "courseTitle": "Kayaking Made Easy"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EDU 1010",
+            "section": "002",
+            "courseTitle": "Intro To Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5180",
+            "section": "001",
+            "courseTitle": "Sec Soc Study Meth"
+        },
+        {
+            "catalogTitle": "EDU 5195",
+            "section": "001",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5195",
+            "section": "002",
+            "courseTitle": "Des Stud Teaching"
+        },
+        {
+            "catalogTitle": "EDU 5370",
+            "section": "001",
+            "courseTitle": "Elem Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 5370",
+            "section": "002",
+            "courseTitle": "Elem Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 5950",
+            "section": "001",
+            "courseTitle": "Ind Reading & Research"
+        },
+        {
+            "catalogTitle": "EDU 6370",
+            "section": "001",
+            "courseTitle": "Elem Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 6370",
+            "section": "002",
+            "courseTitle": "Elem Science Methods"
+        },
+        {
+            "catalogTitle": "EDU 6411",
+            "section": "001",
+            "courseTitle": "Instruction & Management"
+        },
+        {
+            "catalogTitle": "EDU 6950",
+            "section": "051",
+            "courseTitle": "Spec Topics In Ed"
+        }
+    ]
+}

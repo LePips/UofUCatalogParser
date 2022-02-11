@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "LLCFT 160",
+            "section": "001",
+            "courseTitle": "Intro Glass Bead Making"
+        },
+        {
+            "catalogTitle": "LLCFT 214",
+            "section": "001",
+            "courseTitle": "Fused Glass Jewelry and Gifts"
+        },
+        {
+            "catalogTitle": "LLCFT 220",
+            "section": "001",
+            "courseTitle": "Introduction to Fused Glass"
+        },
+        {
+            "catalogTitle": "LLCFT 224",
+            "section": "001",
+            "courseTitle": "Screen Printing"
+        },
+        {
+            "catalogTitle": "LLCFT 235",
+            "section": "001",
+            "courseTitle": "Holiday Glass Ornaments"
+        },
+        {
+            "catalogTitle": "LLCFT 239",
+            "section": "001",
+            "courseTitle": "Traditional Quilting"
+        },
+        {
+            "catalogTitle": "LLCFT 240",
+            "section": "001",
+            "courseTitle": "Letterpress"
+        },
+        {
+            "catalogTitle": "LLCFT 245",
+            "section": "001",
+            "courseTitle": "The Art of Hand Lettering"
+        },
+        {
+            "catalogTitle": "LLCFT 246",
+            "section": "001",
+            "courseTitle": "Jewelry Making: Earrings"
+        },
+        {
+            "catalogTitle": "LLCFT 247",
+            "section": "001",
+            "courseTitle": "Jewlery: Bracelets"
+        }
+    ]
+}

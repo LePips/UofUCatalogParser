@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GERM 2020",
+            "section": "001",
+            "courseTitle": "Intrm German II"
+        },
+        {
+            "catalogTitle": "GERM 3900",
+            "section": "001",
+            "courseTitle": "Language for Tourism"
+        },
+        {
+            "catalogTitle": "GERM 4880",
+            "section": "001",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 4990",
+            "section": "001",
+            "courseTitle": "Capstone Course"
+        },
+        {
+            "catalogTitle": "GERM 6880",
+            "section": "005",
+            "courseTitle": "Directed Reading"
+        },
+        {
+            "catalogTitle": "GERM 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language"
+        },
+        {
+            "catalogTitle": "GERM 7700",
+            "section": "001",
+            "courseTitle": "Germ for Reading Comprehension"
+        },
+        {
+            "catalogTitle": "GERM 7700",
+            "section": "002",
+            "courseTitle": "Germ for Reading Comprehension"
+        }
+    ]
+}

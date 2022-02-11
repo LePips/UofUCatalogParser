@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NEURO 7020",
+            "section": "001",
+            "courseTitle": "Neurology Organ System"
+        },
+        {
+            "catalogTitle": "NEURO 7900",
+            "section": "001",
+            "courseTitle": "Neuro Clinical Clerkshp"
+        },
+        {
+            "catalogTitle": "NEURO 7920",
+            "section": "001",
+            "courseTitle": "Advanced Clinical Neuro"
+        },
+        {
+            "catalogTitle": "NEURO 7930",
+            "section": "001",
+            "courseTitle": "Child Neuro Clerkship"
+        },
+        {
+            "catalogTitle": "NEURO 7950",
+            "section": "001",
+            "courseTitle": "Neuro Research Honors"
+        },
+        {
+            "catalogTitle": "NEURO 7970",
+            "section": "001",
+            "courseTitle": "Sub-Internship-PCMC"
+        }
+    ]
+}

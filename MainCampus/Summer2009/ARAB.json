@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARAB 101",
+            "section": "001",
+            "courseTitle": "Beginning Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 101",
+            "section": "002",
+            "courseTitle": "Beginning Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 102",
+            "section": "001",
+            "courseTitle": "Beg Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 102",
+            "section": "002",
+            "courseTitle": "Beg Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 1010",
+            "section": "001",
+            "courseTitle": "Beginning Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 1010",
+            "section": "002",
+            "courseTitle": "Beginning Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 1020",
+            "section": "001",
+            "courseTitle": "Beginning Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 1020",
+            "section": "002",
+            "courseTitle": "Beginning Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 3010",
+            "section": "055",
+            "courseTitle": "Third Year Arabic I"
+        },
+        {
+            "catalogTitle": "ARAB 3020",
+            "section": "055",
+            "courseTitle": "Third Year Arabic II"
+        },
+        {
+            "catalogTitle": "ARAB 4050",
+            "section": "055",
+            "courseTitle": "Adv Arabic Lang Skills"
+        },
+        {
+            "catalogTitle": "ARAB 6920",
+            "section": "001",
+            "courseTitle": "Graduate Lang Study"
+        },
+        {
+            "catalogTitle": "ARAB 6920",
+            "section": "002",
+            "courseTitle": "Graduate Lang Study"
+        }
+    ]
+}

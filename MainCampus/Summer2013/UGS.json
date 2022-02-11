@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "UGS 1430",
+            "section": "030",
+            "courseTitle": "Integrated Science"
+        },
+        {
+            "catalogTitle": "UGS 1430",
+            "section": "031",
+            "courseTitle": "Integrated Science"
+        },
+        {
+            "catalogTitle": "UGS 2100",
+            "section": "090",
+            "courseTitle": "Intro Env & Sustain"
+        },
+        {
+            "catalogTitle": "UGS 3025",
+            "section": "001",
+            "courseTitle": "Service Scholar Seminar"
+        },
+        {
+            "catalogTitle": "UGS 4800",
+            "section": "001",
+            "courseTitle": "Undergrad Research UROP"
+        }
+    ]
+}
