@@ -27,10 +27,6 @@ def calculateSemesterIDs(lowerBound = None):
 
     return semesterMap
 
-
-
-# TODO: fill in all past semesters
-
 mainCampus = Campus('MainCampus',
                     'https://student.apps.utah.edu/uofu/stu/ClassSchedules/main',
                     calculateSemesterIDs())
