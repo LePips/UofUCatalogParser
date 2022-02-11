@@ -18,7 +18,7 @@ http://ethanpippin.com/UofUCatalogParser/{ MainCampus | AsiaCampus | UOnline }/{
 
 Access semester subject catalog:
 ```
-http://ethanpippin.com/UofUCatalogParser/{ MainCampus | AsiaCampus | UOnline }/{ Semester }/{ Subject Abbreviation}.json
+http://ethanpippin.com/UofUCatalogParser/{ MainCampus | AsiaCampus | UOnline }/{ Semester }/{ Subject Abbreviation }.json
 ```
 
 Note that for subjects that have multiple components, like `OC TH`, spaces have been replaced with dashes `-`: `OC-TH`
