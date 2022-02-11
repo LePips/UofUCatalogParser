@@ -1,3 +1,674 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "001",
+            "courseTitle": "Design & Visualization"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "002",
+            "courseTitle": "Design & Visualization"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "003",
+            "courseTitle": "Design & Visualization"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "004",
+            "courseTitle": "Design & Visualization"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "005",
+            "courseTitle": "Design & Visualization"
+        },
+        {
+            "catalogTitle": "ME EN 1300",
+            "section": "001",
+            "courseTitle": "Statics/Strength"
+        },
+        {
+            "catalogTitle": "ME EN 1300",
+            "section": "002",
+            "courseTitle": "Statics/Strength"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "001",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "002",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "003",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "004",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "005",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "006",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "007",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "008",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "009",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2000",
+            "section": "010",
+            "courseTitle": "Conc Engr I-Manuf"
+        },
+        {
+            "catalogTitle": "ME EN 2400",
+            "section": "001",
+            "courseTitle": "Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2400",
+            "section": "002",
+            "courseTitle": "Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2410",
+            "section": "001",
+            "courseTitle": "Particle Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2410",
+            "section": "002",
+            "courseTitle": "Particle Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2600",
+            "section": "001",
+            "courseTitle": "Thermodynamics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "001",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "002",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "003",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "004",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "005",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "006",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "007",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "008",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "009",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3200",
+            "section": "010",
+            "courseTitle": "Mechatronics I"
+        },
+        {
+            "catalogTitle": "ME EN 3300",
+            "section": "001",
+            "courseTitle": "Strength Of Materials"
+        },
+        {
+            "catalogTitle": "ME EN 3300",
+            "section": "002",
+            "courseTitle": "Strength Of Materials"
+        },
+        {
+            "catalogTitle": "ME EN 3300",
+            "section": "003",
+            "courseTitle": "Strength Of Materials"
+        },
+        {
+            "catalogTitle": "ME EN 3300",
+            "section": "004",
+            "courseTitle": "Strength Of Materials"
+        },
+        {
+            "catalogTitle": "ME EN 3300",
+            "section": "005",
+            "courseTitle": "Strength Of Materials"
+        },
+        {
+            "catalogTitle": "ME EN 3300",
+            "section": "006",
+            "courseTitle": "Strength Of Materials"
+        },
+        {
+            "catalogTitle": "ME EN 3600",
+            "section": "001",
+            "courseTitle": "Thermodynamics II"
+        },
+        {
+            "catalogTitle": "ME EN 3600",
+            "section": "002",
+            "courseTitle": "Thermodynamics II"
+        },
+        {
+            "catalogTitle": "ME EN 3600",
+            "section": "003",
+            "courseTitle": "Thermodynamics II"
+        },
+        {
+            "catalogTitle": "ME EN 3600",
+            "section": "004",
+            "courseTitle": "Thermodynamics II"
+        },
+        {
+            "catalogTitle": "ME EN 3600",
+            "section": "005",
+            "courseTitle": "Thermodynamics II"
+        },
+        {
+            "catalogTitle": "ME EN 3600",
+            "section": "006",
+            "courseTitle": "Thermodynamics II"
+        },
+        {
+            "catalogTitle": "ME EN 3650",
+            "section": "001",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 3650",
+            "section": "002",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 3650",
+            "section": "003",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 3650",
+            "section": "004",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 3650",
+            "section": "005",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 3650",
+            "section": "006",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 3700",
+            "section": "001",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 3700",
+            "section": "002",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 3700",
+            "section": "003",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 3700",
+            "section": "004",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 3700",
+            "section": "005",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 3700",
+            "section": "006",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 3900",
+            "section": "001",
+            "courseTitle": "Professionalism Seminar"
+        },
+        {
+            "catalogTitle": "ME EN 4000",
+            "section": "001",
+            "courseTitle": "Engineering Design I"
+        },
+        {
+            "catalogTitle": "ME EN 4000",
+            "section": "002",
+            "courseTitle": "Engineering Design I"
+        },
+        {
+            "catalogTitle": "ME EN 4000",
+            "section": "003",
+            "courseTitle": "Engineering Design I"
+        },
+        {
+            "catalogTitle": "ME EN 4000",
+            "section": "004",
+            "courseTitle": "Engineering Design I"
+        },
+        {
+            "catalogTitle": "ME EN 4000",
+            "section": "005",
+            "courseTitle": "Engineering Design I"
+        },
+        {
+            "catalogTitle": "ME EN 4000",
+            "section": "006",
+            "courseTitle": "Engineering Design I"
+        },
+        {
+            "catalogTitle": "ME EN 4000",
+            "section": "007",
+            "courseTitle": "Engineering Design I"
+        },
+        {
+            "catalogTitle": "ME EN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ME EN 5020",
+            "section": "001",
+            "courseTitle": "Computer-Aided Manf"
+        },
+        {
+            "catalogTitle": "ME EN 5100",
+            "section": "001",
+            "courseTitle": "Ergonomics"
+        },
+        {
+            "catalogTitle": "ME EN 5200",
+            "section": "001",
+            "courseTitle": "Adv Control"
+        },
+        {
+            "catalogTitle": "ME EN 5220",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "ME EN 5300",
+            "section": "001",
+            "courseTitle": "Adv Strength"
+        },
+        {
+            "catalogTitle": "ME EN 5300",
+            "section": "002",
+            "courseTitle": "Adv Strength"
+        },
+        {
+            "catalogTitle": "ME EN 5510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 5600",
+            "section": "001",
+            "courseTitle": "Statistical Thermo."
+        },
+        {
+            "catalogTitle": "ME EN 5720",
+            "section": "001",
+            "courseTitle": "Comp Fluid Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "079",
+            "courseTitle": "Co-op Education"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "001",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "002",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "003",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5920",
+            "section": "004",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 5930",
+            "section": "001",
+            "courseTitle": "Undergrad Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "002",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "003",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "004",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "005",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "006",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "007",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "008",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6020",
+            "section": "001",
+            "courseTitle": "Computer-Aided Manf"
+        },
+        {
+            "catalogTitle": "ME EN 6100",
+            "section": "001",
+            "courseTitle": "Ergonomics"
+        },
+        {
+            "catalogTitle": "ME EN 6200",
+            "section": "001",
+            "courseTitle": "Adv Control"
+        },
+        {
+            "catalogTitle": "ME EN 6220",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "ME EN 6300",
+            "section": "001",
+            "courseTitle": "Adv. Strength"
+        },
+        {
+            "catalogTitle": "ME EN 6300",
+            "section": "002",
+            "courseTitle": "Adv. Strength"
+        },
+        {
+            "catalogTitle": "ME EN 6510",
+            "section": "001",
+            "courseTitle": "Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 6600",
+            "section": "001",
+            "courseTitle": "Statistical Thermo"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "002",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "003",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "004",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "005",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "006",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "007",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "001",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ME EN 6970",
+            "section": "001",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6970",
+            "section": "002",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6970",
+            "section": "003",
+            "courseTitle": "Special Project"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "001",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "020",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "021",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6980",
+            "section": "001",
+            "courseTitle": "Fac Consult, MS"
+        },
+        {
+            "catalogTitle": "ME EN 6980",
+            "section": "020",
+            "courseTitle": "Fac Consult, MS"
+        },
+        {
+            "catalogTitle": "ME EN 7010",
+            "section": "001",
+            "courseTitle": "CAE"
+        },
+        {
+            "catalogTitle": "ME EN 7060",
+            "section": "001",
+            "courseTitle": "Fatigue & Creep"
+        },
+        {
+            "catalogTitle": "ME EN 7210",
+            "section": "001",
+            "courseTitle": "Optimal Controls"
+        },
+        {
+            "catalogTitle": "ME EN 7500",
+            "section": "001",
+            "courseTitle": "Engr Mat'l Science"
+        },
+        {
+            "catalogTitle": "ME EN 7610",
+            "section": "001",
+            "courseTitle": "Nonequilib Thermo"
+        },
+        {
+            "catalogTitle": "ME EN 7670",
+            "section": "001",
+            "courseTitle": "Adv Radiation"
+        },
+        {
+            "catalogTitle": "ME EN 7700",
+            "section": "001",
+            "courseTitle": "Fluid Mechanics I"
+        },
+        {
+            "catalogTitle": "ME EN 7800",
+            "section": "001",
+            "courseTitle": "Adv. Energy I"
+        },
+        {
+            "catalogTitle": "ME EN 7960",
+            "section": "055",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "021",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "022",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "023",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "024",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "025",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "026",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "001",
+            "courseTitle": "Fac Consultation, PhD"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "002",
+            "courseTitle": "Fac Consultation, PhD"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "021",
+            "courseTitle": "Fac Consultation, PhD"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "022",
+            "courseTitle": "Fac Consultation, PhD"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "023",
+            "courseTitle": "Fac Consultation, PhD"
+        },
+        {
+            "catalogTitle": "ME EN 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration, PhD"
+        }
+    ]
 }

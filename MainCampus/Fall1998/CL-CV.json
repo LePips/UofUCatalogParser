@@ -1,3 +1,19 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "CL CV 1550",
+            "section": "001",
+            "courseTitle": "Classical Mythology"
+        },
+        {
+            "catalogTitle": "CL CV 1560",
+            "section": "001",
+            "courseTitle": "The Greeks"
+        },
+        {
+            "catalogTitle": "CL CV 3570",
+            "section": "001",
+            "courseTitle": "Women Anc Greece/Rome"
+        }
+    ]
 }

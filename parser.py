@@ -57,7 +57,8 @@ class SemesterParser:
         print("-- parsed home page")
 
     def getSubjectCoursesPage(self, subjectAbbr):
-        subjectURL = self.baseURL + f'class_list.html?subject={quote(subjectAbbr)}'
+        adjustedAbbr = subjectAbbr.replace('-', ' ')
+        subjectURL = self.baseURL + f'class_list.html?subject={quote(adjustedAbbr)}'
 
         subjectPageFile = request.urlopen(subjectURL)
         subjectPageHTML = subjectPageFile.read().decode('utf8')
@@ -157,7 +158,7 @@ if __name__ == '__main__':
     # TODO: arguments for not parsing files that already exist, or override
 
     for campus in allCampuses:
-        for semester in list(campus.semesters)[:2]:
+        for semester in list(campus.semesters):
             subjectParser = SemesterParser(campus, semester,  campus.semesters[semester])
             subjectParser.parseSemester()
             subjectParser.writeFiles()

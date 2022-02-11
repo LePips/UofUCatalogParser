@@ -1,3 +1,114 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MID E 1545",
+            "section": "001",
+            "courseTitle": "Middle Eastern Civ"
+        },
+        {
+            "catalogTitle": "MID E 3541",
+            "section": "001",
+            "courseTitle": "History Modern Mid E"
+        },
+        {
+            "catalogTitle": "MID E 3644",
+            "section": "001",
+            "courseTitle": "Comparative Pol-Mid E"
+        },
+        {
+            "catalogTitle": "MID E 3765",
+            "section": "001",
+            "courseTitle": "Middle East Geography"
+        },
+        {
+            "catalogTitle": "MID E 4109",
+            "section": "001",
+            "courseTitle": "Political Thought Islam"
+        },
+        {
+            "catalogTitle": "MID E 4116",
+            "section": "001",
+            "courseTitle": "Arabic Authors/Genres"
+        },
+        {
+            "catalogTitle": "MID E 4171",
+            "section": "001",
+            "courseTitle": "Surv-Classical Arab Lit"
+        },
+        {
+            "catalogTitle": "MID E 4231",
+            "section": "001",
+            "courseTitle": "Jewish & Israeli Film"
+        },
+        {
+            "catalogTitle": "MID E 4327",
+            "section": "001",
+            "courseTitle": "Classical Persian Lit"
+        },
+        {
+            "catalogTitle": "MID E 4880",
+            "section": "001",
+            "courseTitle": "Women's Voices"
+        },
+        {
+            "catalogTitle": "MID E 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis"
+        },
+        {
+            "catalogTitle": "MID E 5696",
+            "section": "001",
+            "courseTitle": "Topics/Mid E Politics"
+        },
+        {
+            "catalogTitle": "MID E 6050",
+            "section": "001",
+            "courseTitle": "App & Meth Mid East St"
+        },
+        {
+            "catalogTitle": "MID E 6109",
+            "section": "001",
+            "courseTitle": "Political Thought Islam"
+        },
+        {
+            "catalogTitle": "MID E 6116",
+            "section": "001",
+            "courseTitle": "Arabic Authors/Genres"
+        },
+        {
+            "catalogTitle": "MID E 6171",
+            "section": "001",
+            "courseTitle": "Surv-Classical Arab Lit"
+        },
+        {
+            "catalogTitle": "MID E 6231",
+            "section": "001",
+            "courseTitle": "Jewish & Israeli Film"
+        },
+        {
+            "catalogTitle": "MID E 6260",
+            "section": "001",
+            "courseTitle": "Bible Hebrew Prose"
+        },
+        {
+            "catalogTitle": "MID E 6327",
+            "section": "001",
+            "courseTitle": "Classical Persian Lit"
+        },
+        {
+            "catalogTitle": "MID E 6432",
+            "section": "001",
+            "courseTitle": "Ottoman Turkish II"
+        },
+        {
+            "catalogTitle": "MID E 6696",
+            "section": "001",
+            "courseTitle": "Topics/Mid E Politics"
+        },
+        {
+            "catalogTitle": "MID E 6880",
+            "section": "001",
+            "courseTitle": "Women's Voices"
+        }
+    ]
 }

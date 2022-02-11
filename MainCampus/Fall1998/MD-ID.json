@@ -1,3 +1,69 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "catalogTitle": "MD ID 7010",
+            "section": "001",
+            "courseTitle": "Intro To Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7020",
+            "section": "001",
+            "courseTitle": "Science of Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7040",
+            "section": "001",
+            "courseTitle": "Science of Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7060",
+            "section": "001",
+            "courseTitle": "Social Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7080",
+            "section": "001",
+            "courseTitle": "Social Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7100",
+            "section": "001",
+            "courseTitle": "Clinical Experience"
+        },
+        {
+            "catalogTitle": "MD ID 7110",
+            "section": "001",
+            "courseTitle": "Clinical Experience"
+        },
+        {
+            "catalogTitle": "MD ID 7120",
+            "section": "001",
+            "courseTitle": "Clinical Experience"
+        },
+        {
+            "catalogTitle": "MD ID 7130",
+            "section": "001",
+            "courseTitle": "Clinical Experience"
+        },
+        {
+            "catalogTitle": "MD ID 7140",
+            "section": "001",
+            "courseTitle": "Topics In Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7150",
+            "section": "001",
+            "courseTitle": "Topics In Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7160",
+            "section": "001",
+            "courseTitle": "Basic Sci In Medicine"
+        },
+        {
+            "catalogTitle": "MD ID 7170",
+            "section": "001",
+            "courseTitle": "Primary Care Precept"
+        }
+    ]
 }
