@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECS 2150",
+            "section": "001",
+            "courseTitle": "Intro Multicultural Ed"
+        },
+        {
+            "catalogTitle": "ECS 5645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 5647",
+            "section": "001",
+            "courseTitle": "IM: Ling Diverse Pop."
+        },
+        {
+            "catalogTitle": "ECS 6600",
+            "section": "001",
+            "courseTitle": "Intro Crit\\Cult Stud Ed"
+        },
+        {
+            "catalogTitle": "ECS 6606",
+            "section": "001",
+            "courseTitle": "Curriculum Inquiry"
+        },
+        {
+            "catalogTitle": "ECS 6612",
+            "section": "090",
+            "courseTitle": "African American Ed"
+        },
+        {
+            "catalogTitle": "ECS 6645",
+            "section": "001",
+            "courseTitle": "Assessmt of Ling Popl"
+        },
+        {
+            "catalogTitle": "ECS 6647",
+            "section": "001",
+            "courseTitle": "IM: Ling Diverse Pop."
+        },
+        {
+            "catalogTitle": "ECS 7612",
+            "section": "090",
+            "courseTitle": "African American Ed"
+        }
+    ]
+}

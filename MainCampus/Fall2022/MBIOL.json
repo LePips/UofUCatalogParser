@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MBIOL 6500",
+            "section": "001",
+            "courseTitle": "Foundations of Mol Bio"
+        },
+        {
+            "catalogTitle": "MBIOL 7570",
+            "section": "001",
+            "courseTitle": "Research Ethics"
+        },
+        {
+            "catalogTitle": "MBIOL 7570",
+            "section": "002",
+            "courseTitle": "Research Ethics"
+        },
+        {
+            "catalogTitle": "MBIOL 7960",
+            "section": "001",
+            "courseTitle": "Research"
+        }
+    ]
+}

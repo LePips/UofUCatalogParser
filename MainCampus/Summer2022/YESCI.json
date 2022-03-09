@@ -1,0 +1,304 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "YESCI 100",
+            "section": "001",
+            "courseTitle": "Bridging Math (Age 11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 101",
+            "section": "001",
+            "courseTitle": "Math: Algebra + (Age 12-14)"
+        },
+        {
+            "catalogTitle": "YESCI 106",
+            "section": "001",
+            "courseTitle": "Math Games Mania (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 116",
+            "section": "001",
+            "courseTitle": "Math Games Mania (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 141",
+            "section": "001",
+            "courseTitle": "Nanoparticles (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 161",
+            "section": "001",
+            "courseTitle": "Marine Bio & Ecology (14-17)"
+        },
+        {
+            "catalogTitle": "YESCI 195",
+            "section": "001",
+            "courseTitle": "Engineering Electrified (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 195",
+            "section": "002",
+            "courseTitle": "Engineering Electrified (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 204",
+            "section": "001",
+            "courseTitle": "Flying Sodas (Age 8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 205",
+            "section": "001",
+            "courseTitle": "Gross Anatomy (Age 8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 212",
+            "section": "001",
+            "courseTitle": "Freakonomics (Age 12-17)"
+        },
+        {
+            "catalogTitle": "YESCI 212",
+            "section": "002",
+            "courseTitle": "Freakonomics (Age 12-17)"
+        },
+        {
+            "catalogTitle": "YESCI 213",
+            "section": "001",
+            "courseTitle": "Dissection Inspection (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 213",
+            "section": "002",
+            "courseTitle": "Dissection Inspection (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 218",
+            "section": "001",
+            "courseTitle": "Stock Sleuths (14-17)"
+        },
+        {
+            "catalogTitle": "YESCI 220",
+            "section": "001",
+            "courseTitle": "Mysteries of Mars (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 275",
+            "section": "001",
+            "courseTitle": "Build Your Own Bot (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 275",
+            "section": "002",
+            "courseTitle": "Build Your Own Bot (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 276",
+            "section": "001",
+            "courseTitle": "Rescue Robots (12-14)"
+        },
+        {
+            "catalogTitle": "YESCI 290",
+            "section": "001",
+            "courseTitle": "Mushrooms 101: (Age 9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 291",
+            "section": "001",
+            "courseTitle": "Mushrooms 101 (Age 12-14)"
+        },
+        {
+            "catalogTitle": "YESCI 311",
+            "section": "001",
+            "courseTitle": "Animal Super Powers (7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 370",
+            "section": "001",
+            "courseTitle": "Geology Rocks (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 380",
+            "section": "001",
+            "courseTitle": "Undercover Detectives (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 380",
+            "section": "002",
+            "courseTitle": "Undercover Detectives (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 401",
+            "section": "001",
+            "courseTitle": "Paleontology (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 406",
+            "section": "001",
+            "courseTitle": "Mysteries of Chemistry (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 407",
+            "section": "001",
+            "courseTitle": "Crazy Chemistry (Age 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 510",
+            "section": "001",
+            "courseTitle": "Space Academy (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 518",
+            "section": "001",
+            "courseTitle": "Astonishing Anatomy (Age 9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 523",
+            "section": "001",
+            "courseTitle": "Adventures in Robotics I (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 523",
+            "section": "002",
+            "courseTitle": "Adventures in Robotics I (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 523",
+            "section": "003",
+            "courseTitle": "Adventures in Robotics I (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "001",
+            "courseTitle": "Robotics I: Intro (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 526",
+            "section": "002",
+            "courseTitle": "Robotics I: Intro (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 529",
+            "section": "001",
+            "courseTitle": "Junior Robotics 1 (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 529",
+            "section": "002",
+            "courseTitle": "Junior Robotics 1 (8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 530",
+            "section": "001",
+            "courseTitle": "Adventures in Robotics 2 (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 530",
+            "section": "002",
+            "courseTitle": "Adventures in Robotics 2 (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 531",
+            "section": "001",
+            "courseTitle": "Adventures in Robotics 3 (6-8)"
+        },
+        {
+            "catalogTitle": "YESCI 532",
+            "section": "001",
+            "courseTitle": "Girls Rock Robotics 1 (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 533",
+            "section": "001",
+            "courseTitle": "Junior Animation (Age 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 533",
+            "section": "002",
+            "courseTitle": "Junior Animation (Age 7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 534",
+            "section": "001",
+            "courseTitle": "Robotics for Girls II (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 535",
+            "section": "001",
+            "courseTitle": "Robotics II: Senors (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 535",
+            "section": "002",
+            "courseTitle": "Robotics II: Senors (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 536",
+            "section": "001",
+            "courseTitle": "Robotics 3: Engineering (9-11)"
+        },
+        {
+            "catalogTitle": "YESCI 537",
+            "section": "001",
+            "courseTitle": "Arduino C + Robotics I (12-14)"
+        },
+        {
+            "catalogTitle": "YESCI 537",
+            "section": "002",
+            "courseTitle": "Arduino C + Robotics I (12-14)"
+        },
+        {
+            "catalogTitle": "YESCI 539",
+            "section": "001",
+            "courseTitle": "Junior Robotics II (Age 8-10)"
+        },
+        {
+            "catalogTitle": "YESCI 540",
+            "section": "001",
+            "courseTitle": "Vex Robotics (Age 11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 546",
+            "section": "001",
+            "courseTitle": "Robotics: Green Energy (7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 546",
+            "section": "002",
+            "courseTitle": "Robotics: Green Energy (7-9)"
+        },
+        {
+            "catalogTitle": "YESCI 560",
+            "section": "001",
+            "courseTitle": "Minecraft Mania I (11-14)"
+        },
+        {
+            "catalogTitle": "YESCI 560",
+            "section": "002",
+            "courseTitle": "Minecraft Mania I (11-14)"
+        },
+        {
+            "catalogTitle": "YESCI 561",
+            "section": "001",
+            "courseTitle": "Minecraft Mania II (11-14)"
+        },
+        {
+            "catalogTitle": "YESCI 622",
+            "section": "001",
+            "courseTitle": "Glimpse into Genetics (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 623",
+            "section": "001",
+            "courseTitle": "Glimpse into Genetics (14-17)"
+        },
+        {
+            "catalogTitle": "YESCI 624",
+            "section": "001",
+            "courseTitle": "Biology Break Down (11-13)"
+        },
+        {
+            "catalogTitle": "YESCI 625",
+            "section": "001",
+            "courseTitle": "Biology Break Down (14-17)"
+        }
+    ]
+}

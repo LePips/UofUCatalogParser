@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATSM 6080",
+            "section": "001",
+            "courseTitle": "Adv Rehab & Manual Ther"
+        },
+        {
+            "catalogTitle": "ATSM 6100",
+            "section": "001",
+            "courseTitle": "Intro to Acute Care"
+        },
+        {
+            "catalogTitle": "ATSM 6150",
+            "section": "001",
+            "courseTitle": "Intro to Tape & Brace"
+        },
+        {
+            "catalogTitle": "ATSM 6240",
+            "section": "001",
+            "courseTitle": "General Medical in AT"
+        },
+        {
+            "catalogTitle": "ATSM 6245",
+            "section": "001",
+            "courseTitle": "Pharmacology in AT"
+        },
+        {
+            "catalogTitle": "ATSM 6521",
+            "section": "001",
+            "courseTitle": "Clinical Experience II"
+        },
+        {
+            "catalogTitle": "ATSM 6800",
+            "section": "001",
+            "courseTitle": "AT Hlth Care Profession"
+        }
+    ]
+}

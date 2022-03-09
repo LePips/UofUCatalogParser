@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "001",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "002",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "001",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "090",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "001",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "002",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "001",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "002",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3100",
+            "section": "001",
+            "courseTitle": "Markets & Institutions"
+        },
+        {
+            "catalogTitle": "BCOR 3100",
+            "section": "002",
+            "courseTitle": "Markets & Institutions"
+        }
+    ]
+}

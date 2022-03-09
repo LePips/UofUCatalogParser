@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "VIET 101",
+            "section": "001",
+            "courseTitle": "Beg. VIET I"
+        },
+        {
+            "catalogTitle": "VIET 201",
+            "section": "001",
+            "courseTitle": "Intrm. VIET I"
+        },
+        {
+            "catalogTitle": "VIET 301",
+            "section": "001",
+            "courseTitle": "3rd-Year Vietnamese I"
+        },
+        {
+            "catalogTitle": "VIET 1010",
+            "section": "001",
+            "courseTitle": "Beg. VIET I"
+        },
+        {
+            "catalogTitle": "VIET 2010",
+            "section": "001",
+            "courseTitle": "Intrm. VIET I"
+        },
+        {
+            "catalogTitle": "VIET 3010",
+            "section": "001",
+            "courseTitle": "3rd-Year Vietnamese I"
+        },
+        {
+            "catalogTitle": "VIET 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

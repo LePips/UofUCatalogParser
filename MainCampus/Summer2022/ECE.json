@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "001",
+            "courseTitle": "Matlab for ECE Design"
+        },
+        {
+            "catalogTitle": "ECE 1050",
+            "section": "002",
+            "courseTitle": "Matlab for ECE Design"
+        },
+        {
+            "catalogTitle": "ECE 1240",
+            "section": "001",
+            "courseTitle": "Circuits & Systems I"
+        },
+        {
+            "catalogTitle": "ECE 1240",
+            "section": "002",
+            "courseTitle": "Circuits & Systems I"
+        },
+        {
+            "catalogTitle": "ECE 1245",
+            "section": "001",
+            "courseTitle": "Circuits & Sys I Lab"
+        },
+        {
+            "catalogTitle": "ECE 1245",
+            "section": "002",
+            "courseTitle": "Circuits & Sys I Lab"
+        },
+        {
+            "catalogTitle": "ECE 3510",
+            "section": "001",
+            "courseTitle": "Intro To Feedback Sys"
+        },
+        {
+            "catalogTitle": "ECE 3970",
+            "section": "001",
+            "courseTitle": "Undergraduate Research"
+        },
+        {
+            "catalogTitle": "ECE 3980",
+            "section": "001",
+            "courseTitle": "Independent Project"
+        },
+        {
+            "catalogTitle": "ECE 3990",
+            "section": "079",
+            "courseTitle": "Cooperative Educ"
+        },
+        {
+            "catalogTitle": "ECE 6950",
+            "section": "060",
+            "courseTitle": "Special Study-MS"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "046",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "ECE 7970",
+            "section": "050",
+            "courseTitle": "Thesis Research-Ph D"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PROEA 1",
+            "section": "001",
+            "courseTitle": "PM Fundamentals Program"
+        },
+        {
+            "catalogTitle": "PROEA 7",
+            "section": "001",
+            "courseTitle": "Supervisory Leadership Program"
+        },
+        {
+            "catalogTitle": "PROEA 7",
+            "section": "002",
+            "courseTitle": "Supervisory Leadership Program"
+        },
+        {
+            "catalogTitle": "PROEA 101",
+            "section": "001",
+            "courseTitle": "Agile 101"
+        },
+        {
+            "catalogTitle": "PROEA 221",
+            "section": "060",
+            "courseTitle": "Medical Coding & Billing"
+        },
+        {
+            "catalogTitle": "PROEA 415",
+            "section": "001",
+            "courseTitle": "Effective Managers"
+        },
+        {
+            "catalogTitle": "PROEA 415",
+            "section": "002",
+            "courseTitle": "Effective Managers"
+        },
+        {
+            "catalogTitle": "PROEA 601",
+            "section": "001",
+            "courseTitle": "Fundamentals of Project Mgt I"
+        },
+        {
+            "catalogTitle": "PROEA 602",
+            "section": "001",
+            "courseTitle": "Fundamentals of Project Mgt II"
+        },
+        {
+            "catalogTitle": "PROEA 603",
+            "section": "001",
+            "courseTitle": "Project Risk Management"
+        },
+        {
+            "catalogTitle": "PROEA 604",
+            "section": "001",
+            "courseTitle": "Project Leadership"
+        },
+        {
+            "catalogTitle": "PROEA 610",
+            "section": "001",
+            "courseTitle": "Applied Project Management"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "IS 3596",
+            "section": "090",
+            "courseTitle": "IT Certifications"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "001",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4410",
+            "section": "090",
+            "courseTitle": "Information Systems"
+        },
+        {
+            "catalogTitle": "IS 4415",
+            "section": "090",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 4420",
+            "section": "090",
+            "courseTitle": "Database Fundamentals"
+        },
+        {
+            "catalogTitle": "IS 4430",
+            "section": "090",
+            "courseTitle": "Systems Analysis & Des"
+        },
+        {
+            "catalogTitle": "IS 4440",
+            "section": "090",
+            "courseTitle": "Networking and Servers"
+        },
+        {
+            "catalogTitle": "IS 4460",
+            "section": "090",
+            "courseTitle": "Web Based Applications"
+        },
+        {
+            "catalogTitle": "IS 4470",
+            "section": "090",
+            "courseTitle": "Cybersecurity Mgmt"
+        },
+        {
+            "catalogTitle": "IS 4485",
+            "section": "090",
+            "courseTitle": "Programming with Python"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "001",
+            "courseTitle": "Analysis & Design"
+        },
+        {
+            "catalogTitle": "IS 6410",
+            "section": "090",
+            "courseTitle": "Analysis & Design"
+        },
+        {
+            "catalogTitle": "IS 6480",
+            "section": "001",
+            "courseTitle": "Data Warehousing"
+        },
+        {
+            "catalogTitle": "IS 6482",
+            "section": "091",
+            "courseTitle": "Data Mining"
+        },
+        {
+            "catalogTitle": "IS 6484",
+            "section": "001",
+            "courseTitle": "Advanced Data Mgmt"
+        },
+        {
+            "catalogTitle": "IS 6491",
+            "section": "090",
+            "courseTitle": "Data Visualization"
+        },
+        {
+            "catalogTitle": "IS 6493",
+            "section": "001",
+            "courseTitle": "Data Science & Big Data"
+        },
+        {
+            "catalogTitle": "IS 6493",
+            "section": "090",
+            "courseTitle": "Data Science & Big Data"
+        },
+        {
+            "catalogTitle": "IS 6574",
+            "section": "001",
+            "courseTitle": "IT Security Risk & Cmpl"
+        },
+        {
+            "catalogTitle": "IS 6615",
+            "section": "001",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 6615",
+            "section": "090",
+            "courseTitle": "Data Structures & Java"
+        },
+        {
+            "catalogTitle": "IS 6641",
+            "section": "090",
+            "courseTitle": "Cloud Computing"
+        },
+        {
+            "catalogTitle": "IS 6801",
+            "section": "001",
+            "courseTitle": "MSIS Career Development"
+        },
+        {
+            "catalogTitle": "IS 6801",
+            "section": "090",
+            "courseTitle": "MSIS Career Development"
+        },
+        {
+            "catalogTitle": "IS 6802",
+            "section": "001",
+            "courseTitle": "MSIS Capstone 1"
+        },
+        {
+            "catalogTitle": "IS 6802",
+            "section": "002",
+            "courseTitle": "MSIS Capstone 1"
+        },
+        {
+            "catalogTitle": "IS 6802",
+            "section": "003",
+            "courseTitle": "MSIS Capstone 1"
+        },
+        {
+            "catalogTitle": "IS 6803",
+            "section": "001",
+            "courseTitle": "MSIS CapstoneCompletion"
+        },
+        {
+            "catalogTitle": "IS 6803",
+            "section": "002",
+            "courseTitle": "MSIS CapstoneCompletion"
+        },
+        {
+            "catalogTitle": "IS 6803",
+            "section": "003",
+            "courseTitle": "MSIS CapstoneCompletion"
+        },
+        {
+            "catalogTitle": "IS 6811",
+            "section": "001",
+            "courseTitle": "MSBA Career Development"
+        },
+        {
+            "catalogTitle": "IS 6812",
+            "section": "001",
+            "courseTitle": "MSBA Capstone 1"
+        },
+        {
+            "catalogTitle": "IS 6813",
+            "section": "001",
+            "courseTitle": "MSBA CapstoneCompletion"
+        },
+        {
+            "catalogTitle": "IS 6821",
+            "section": "001",
+            "courseTitle": "MSCM Career Development"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "001",
+            "courseTitle": "IT Leadership and Strategy"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "005",
+            "courseTitle": "Special Topics in IS"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "006",
+            "courseTitle": "Special Topics in IS"
+        },
+        {
+            "catalogTitle": "IS 6850",
+            "section": "090",
+            "courseTitle": "Advanced SQL for Analytics"
+        },
+        {
+            "catalogTitle": "IS 6920",
+            "section": "090",
+            "courseTitle": "Internship for Credit"
+        },
+        {
+            "catalogTitle": "IS 6920",
+            "section": "091",
+            "courseTitle": "Internship for Credit"
+        },
+        {
+            "catalogTitle": "IS 7910",
+            "section": "090",
+            "courseTitle": "Special Study PhD"
+        },
+        {
+            "catalogTitle": "IS 7970",
+            "section": "090",
+            "courseTitle": "Thesis Research PhD"
+        },
+        {
+            "catalogTitle": "IS 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "IS 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration PhD"
+        }
+    ]
+}

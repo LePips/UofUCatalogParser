@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MATH 1030",
+            "section": "290",
+            "courseTitle": "Intro Quant Reasoning"
+        },
+        {
+            "catalogTitle": "MATH 1050",
+            "section": "290",
+            "courseTitle": "Coll Alg"
+        },
+        {
+            "catalogTitle": "MATH 1090",
+            "section": "290",
+            "courseTitle": "Business Algebra"
+        },
+        {
+            "catalogTitle": "MATH 1210",
+            "section": "290",
+            "courseTitle": "Calculus I"
+        },
+        {
+            "catalogTitle": "MATH 1220",
+            "section": "290",
+            "courseTitle": "Calculus II"
+        },
+        {
+            "catalogTitle": "MATH 2210",
+            "section": "290",
+            "courseTitle": "Calculus III"
+        }
+    ]
+}

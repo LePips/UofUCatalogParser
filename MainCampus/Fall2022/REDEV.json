@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "REDEV 6010",
+            "section": "001",
+            "courseTitle": "Comm & Reg Analysis"
+        },
+        {
+            "catalogTitle": "REDEV 6100",
+            "section": "002",
+            "courseTitle": "Urban & Planning Theory"
+        },
+        {
+            "catalogTitle": "REDEV 6322",
+            "section": "001",
+            "courseTitle": "City & Metro Econ"
+        },
+        {
+            "catalogTitle": "REDEV 6440",
+            "section": "001",
+            "courseTitle": "Urban Design Principles"
+        },
+        {
+            "catalogTitle": "REDEV 6450",
+            "section": "004",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6450",
+            "section": "005",
+            "courseTitle": "GIS in Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6460",
+            "section": "001",
+            "courseTitle": "R.E. Market Analysis"
+        },
+        {
+            "catalogTitle": "REDEV 6710",
+            "section": "001",
+            "courseTitle": "Intro Transp Planning"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "001",
+            "courseTitle": "Walk & Bike Plan/Design"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "003",
+            "courseTitle": "Green Infrastructure"
+        },
+        {
+            "catalogTitle": "REDEV 6960",
+            "section": "004",
+            "courseTitle": "Planning for Disasters & Envir"
+        }
+    ]
+}

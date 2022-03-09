@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECE 1900",
+            "section": "301",
+            "courseTitle": "Intro to ECE"
+        },
+        {
+            "catalogTitle": "ECE 2240",
+            "section": "301",
+            "courseTitle": "Circuits & Systems II"
+        },
+        {
+            "catalogTitle": "ECE 2245",
+            "section": "301",
+            "courseTitle": "Circuits & Sys II Lab"
+        }
+    ]
+}

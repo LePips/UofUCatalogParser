@@ -1,0 +1,344 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MSE 2010",
+            "section": "001",
+            "courseTitle": "Intro To MSE"
+        },
+        {
+            "catalogTitle": "MSE 2010",
+            "section": "002",
+            "courseTitle": "Intro To MSE"
+        },
+        {
+            "catalogTitle": "MSE 2010",
+            "section": "003",
+            "courseTitle": "Intro To MSE"
+        },
+        {
+            "catalogTitle": "MSE 2010",
+            "section": "004",
+            "courseTitle": "Intro To MSE"
+        },
+        {
+            "catalogTitle": "MSE 2160",
+            "section": "001",
+            "courseTitle": "Elements Of MSE"
+        },
+        {
+            "catalogTitle": "MSE 2165",
+            "section": "002",
+            "courseTitle": "Intro to MSE Lab"
+        },
+        {
+            "catalogTitle": "MSE 2165",
+            "section": "003",
+            "courseTitle": "Intro to MSE Lab"
+        },
+        {
+            "catalogTitle": "MSE 2165",
+            "section": "004",
+            "courseTitle": "Intro to MSE Lab"
+        },
+        {
+            "catalogTitle": "MSE 2170",
+            "section": "001",
+            "courseTitle": "Elements of MSE"
+        },
+        {
+            "catalogTitle": "MSE 3010",
+            "section": "001",
+            "courseTitle": "Mtrls Proc Lab"
+        },
+        {
+            "catalogTitle": "MSE 3010",
+            "section": "002",
+            "courseTitle": "Mtrls Proc Lab"
+        },
+        {
+            "catalogTitle": "MSE 3010",
+            "section": "003",
+            "courseTitle": "Mtrls Proc Lab"
+        },
+        {
+            "catalogTitle": "MSE 3010",
+            "section": "004",
+            "courseTitle": "Mtrls Proc Lab"
+        },
+        {
+            "catalogTitle": "MSE 3032",
+            "section": "001",
+            "courseTitle": "Intro to Thermo"
+        },
+        {
+            "catalogTitle": "MSE 3210",
+            "section": "001",
+            "courseTitle": "Electronic Prop Of Slds"
+        },
+        {
+            "catalogTitle": "MSE 3410",
+            "section": "001",
+            "courseTitle": "Intro To Polymers"
+        },
+        {
+            "catalogTitle": "MSE 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "MSE 5050",
+            "section": "001",
+            "courseTitle": "Optics for Energy"
+        },
+        {
+            "catalogTitle": "MSE 5050",
+            "section": "002",
+            "courseTitle": "Nanoscale Probing & Imaging"
+        },
+        {
+            "catalogTitle": "MSE 5073",
+            "section": "001",
+            "courseTitle": "Nanostruc Materials"
+        },
+        {
+            "catalogTitle": "MSE 5201",
+            "section": "001",
+            "courseTitle": "Semicond Phy I"
+        },
+        {
+            "catalogTitle": "MSE 5800",
+            "section": "001",
+            "courseTitle": "MSE Internship I"
+        },
+        {
+            "catalogTitle": "MSE 6001",
+            "section": "001",
+            "courseTitle": "Eng Mtrls"
+        },
+        {
+            "catalogTitle": "MSE 6032",
+            "section": "001",
+            "courseTitle": "Adv Thermo"
+        },
+        {
+            "catalogTitle": "MSE 6050",
+            "section": "002",
+            "courseTitle": "Optics for Energy"
+        },
+        {
+            "catalogTitle": "MSE 6050",
+            "section": "006",
+            "courseTitle": "Smicndctr Device PHYS I"
+        },
+        {
+            "catalogTitle": "MSE 6073",
+            "section": "001",
+            "courseTitle": "Nanostruc Materials"
+        },
+        {
+            "catalogTitle": "MSE 6075",
+            "section": "001",
+            "courseTitle": "Nanoscale Probe&Imaging"
+        },
+        {
+            "catalogTitle": "MSE 6421",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "001",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "003",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "004",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "005",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "006",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "007",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "008",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "009",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "010",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "011",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "012",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "013",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6590",
+            "section": "014",
+            "courseTitle": "Special Projects"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "002",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "003",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "006",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "007",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "009",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "010",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "011",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "013",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "014",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "015",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 6970",
+            "section": "016",
+            "courseTitle": "Thesis Research: MS"
+        },
+        {
+            "catalogTitle": "MSE 7800",
+            "section": "001",
+            "courseTitle": "Graduate Seminar I"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "002",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "004",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "005",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "007",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "008",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "010",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "012",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "013",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "014",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "015",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "016",
+            "courseTitle": "Thesis Research: PhD"
+        },
+        {
+            "catalogTitle": "MSE 7970",
+            "section": "017",
+            "courseTitle": "Thesis Research: PhD"
+        }
+    ]
+}

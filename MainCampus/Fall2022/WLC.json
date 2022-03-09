@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "WLC 201",
+            "section": "001",
+            "courseTitle": "Intro Stdy Lit & Cultr"
+        },
+        {
+            "catalogTitle": "WLC 202",
+            "section": "002",
+            "courseTitle": "Language in Society"
+        },
+        {
+            "catalogTitle": "WLC 2010",
+            "section": "001",
+            "courseTitle": "Intro Stdy Lit & Cultr"
+        },
+        {
+            "catalogTitle": "WLC 2020",
+            "section": "001",
+            "courseTitle": "Language in Society"
+        },
+        {
+            "catalogTitle": "WLC 5410",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "WLC 5410",
+            "section": "090",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "WLC 6410",
+            "section": "001",
+            "courseTitle": "L2 Methodology"
+        },
+        {
+            "catalogTitle": "WLC 6600",
+            "section": "001",
+            "courseTitle": "Intro Research/Writing"
+        },
+        {
+            "catalogTitle": "WLC 6960",
+            "section": "001",
+            "courseTitle": "Nonthesis/Project "
+        }
+    ]
+}

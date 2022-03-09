@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PERS 101",
+            "section": "001",
+            "courseTitle": "Beginning Persian"
+        },
+        {
+            "catalogTitle": "PERS 201",
+            "section": "001",
+            "courseTitle": "Intermediate Persian I"
+        },
+        {
+            "catalogTitle": "PERS 301",
+            "section": "001",
+            "courseTitle": "Third Year Persian"
+        },
+        {
+            "catalogTitle": "PERS 488",
+            "section": "002",
+            "courseTitle": "Special Topics"
+        },
+        {
+            "catalogTitle": "PERS 1010",
+            "section": "001",
+            "courseTitle": "Beginning Persian I"
+        },
+        {
+            "catalogTitle": "PERS 2010",
+            "section": "001",
+            "courseTitle": "Intermediate Persian I"
+        },
+        {
+            "catalogTitle": "PERS 3010",
+            "section": "001",
+            "courseTitle": "Third Year Persian"
+        },
+        {
+            "catalogTitle": "PERS 4010",
+            "section": "001",
+            "courseTitle": "Adv Pers Lang Skills I"
+        },
+        {
+            "catalogTitle": "PERS 4880",
+            "section": "002",
+            "courseTitle": "God, Love, And Mysticism"
+        },
+        {
+            "catalogTitle": "PERS 6880",
+            "section": "001",
+            "courseTitle": "God, Love, & Mysticism"
+        },
+        {
+            "catalogTitle": "PERS 7300",
+            "section": "001",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 7300",
+            "section": "002",
+            "courseTitle": "Graduate Language Study"
+        },
+        {
+            "catalogTitle": "PERS 7300",
+            "section": "004",
+            "courseTitle": "Graduate Language Study"
+        }
+    ]
+}

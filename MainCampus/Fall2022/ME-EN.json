@@ -1,0 +1,834 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "001",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "002",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "003",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "004",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "005",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "006",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "007",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "008",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "009",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "011",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "012",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "018",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "019",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1000",
+            "section": "020",
+            "courseTitle": "Intro Desgn for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1005",
+            "section": "001",
+            "courseTitle": "CAD Lab"
+        },
+        {
+            "catalogTitle": "ME EN 1010",
+            "section": "001",
+            "courseTitle": "Cmptr Prob Solv Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1010",
+            "section": "002",
+            "courseTitle": "Cmptr Prob Solv Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1010",
+            "section": "003",
+            "courseTitle": "Cmptr Prob Solv Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1010",
+            "section": "004",
+            "courseTitle": "Cmptr Prob Solv Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1010",
+            "section": "005",
+            "courseTitle": "Cmptr Prob Solv Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 1800",
+            "section": "002",
+            "courseTitle": "Success in Mech Engin"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "001",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "002",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "003",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "004",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "005",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "006",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "007",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2010",
+            "section": "008",
+            "courseTitle": "Statics"
+        },
+        {
+            "catalogTitle": "ME EN 2030",
+            "section": "001",
+            "courseTitle": "Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2050",
+            "section": "001",
+            "courseTitle": "Found of Microsystems"
+        },
+        {
+            "catalogTitle": "ME EN 2050",
+            "section": "002",
+            "courseTitle": "Found of Microsystems"
+        },
+        {
+            "catalogTitle": "ME EN 2050",
+            "section": "003",
+            "courseTitle": "Found of Microsystems"
+        },
+        {
+            "catalogTitle": "ME EN 2300",
+            "section": "001",
+            "courseTitle": "Thermodynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2300",
+            "section": "002",
+            "courseTitle": "Thermodynamics"
+        },
+        {
+            "catalogTitle": "ME EN 2450",
+            "section": "001",
+            "courseTitle": "Num Methods for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2450",
+            "section": "003",
+            "courseTitle": "Num Methods for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2450",
+            "section": "004",
+            "courseTitle": "Num Methods for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2450",
+            "section": "005",
+            "courseTitle": "Num Methods for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2450",
+            "section": "006",
+            "courseTitle": "Num Methods for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2450",
+            "section": "007",
+            "courseTitle": "Num Methods for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2550",
+            "section": "001",
+            "courseTitle": "Prob & Stats for Eng"
+        },
+        {
+            "catalogTitle": "ME EN 2650",
+            "section": "001",
+            "courseTitle": "Manufact for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2650",
+            "section": "002",
+            "courseTitle": "Manufact for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2650",
+            "section": "003",
+            "courseTitle": "Manufact for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2650",
+            "section": "004",
+            "courseTitle": "Manufact for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2650",
+            "section": "005",
+            "courseTitle": "Manufact for Eng Sys"
+        },
+        {
+            "catalogTitle": "ME EN 2800",
+            "section": "001",
+            "courseTitle": "Academic Skills for ME"
+        },
+        {
+            "catalogTitle": "ME EN 2800",
+            "section": "002",
+            "courseTitle": "Academic Skills for ME"
+        },
+        {
+            "catalogTitle": "ME EN 3000",
+            "section": "001",
+            "courseTitle": "Design of Mech Elements"
+        },
+        {
+            "catalogTitle": "ME EN 3220",
+            "section": "001",
+            "courseTitle": "Dynamic Sys & Control"
+        },
+        {
+            "catalogTitle": "ME EN 3230",
+            "section": "001",
+            "courseTitle": "Mechatronics"
+        },
+        {
+            "catalogTitle": "ME EN 3230",
+            "section": "002",
+            "courseTitle": "Mechatronics"
+        },
+        {
+            "catalogTitle": "ME EN 3230",
+            "section": "003",
+            "courseTitle": "Mechatronics"
+        },
+        {
+            "catalogTitle": "ME EN 3230",
+            "section": "004",
+            "courseTitle": "Mechatronics"
+        },
+        {
+            "catalogTitle": "ME EN 3230",
+            "section": "005",
+            "courseTitle": "Mechatronics"
+        },
+        {
+            "catalogTitle": "ME EN 3310",
+            "section": "001",
+            "courseTitle": "Mechanics of Materials"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "001",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "002",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "003",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "004",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "006",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "007",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "008",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "009",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3315",
+            "section": "010",
+            "courseTitle": "Mech of Materials Lab"
+        },
+        {
+            "catalogTitle": "ME EN 3400",
+            "section": "001",
+            "courseTitle": "Prof Comm for MEs"
+        },
+        {
+            "catalogTitle": "ME EN 3400",
+            "section": "002",
+            "courseTitle": "Prof Comm for MEs"
+        },
+        {
+            "catalogTitle": "ME EN 3400",
+            "section": "003",
+            "courseTitle": "Prof Comm for MEs"
+        },
+        {
+            "catalogTitle": "ME EN 3650",
+            "section": "001",
+            "courseTitle": "Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 3710",
+            "section": "001",
+            "courseTitle": "Fluid Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 4000",
+            "section": "001",
+            "courseTitle": "Engineering Design I"
+        },
+        {
+            "catalogTitle": "ME EN 4010",
+            "section": "001",
+            "courseTitle": "Engineering Design II"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "001",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "002",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "003",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "004",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "005",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "006",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "007",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "008",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "009",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "010",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "011",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "012",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "013",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "014",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "015",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "016",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "017",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "018",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "019",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4650",
+            "section": "020",
+            "courseTitle": "TFES Lab"
+        },
+        {
+            "catalogTitle": "ME EN 4999",
+            "section": "001",
+            "courseTitle": "Honors Thesis/Project"
+        },
+        {
+            "catalogTitle": "ME EN 5011",
+            "section": "001",
+            "courseTitle": "Additive Manufacturing"
+        },
+        {
+            "catalogTitle": "ME EN 5050",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ME EN 5050",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ME EN 5051",
+            "section": "002",
+            "courseTitle": "Microsensors"
+        },
+        {
+            "catalogTitle": "ME EN 5100",
+            "section": "001",
+            "courseTitle": "Ergonomics"
+        },
+        {
+            "catalogTitle": "ME EN 5150",
+            "section": "001",
+            "courseTitle": "Product Safety"
+        },
+        {
+            "catalogTitle": "ME EN 5160",
+            "section": "001",
+            "courseTitle": "Fund of Systems Eng"
+        },
+        {
+            "catalogTitle": "ME EN 5184",
+            "section": "001",
+            "courseTitle": "Opers Research for Syst"
+        },
+        {
+            "catalogTitle": "ME EN 5200",
+            "section": "001",
+            "courseTitle": "Classical Control Sys"
+        },
+        {
+            "catalogTitle": "ME EN 5205",
+            "section": "001",
+            "courseTitle": "System Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 5220",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "ME EN 5250",
+            "section": "001",
+            "courseTitle": "Programming for Engin"
+        },
+        {
+            "catalogTitle": "ME EN 5400",
+            "section": "001",
+            "courseTitle": "Vibrations"
+        },
+        {
+            "catalogTitle": "ME EN 5510",
+            "section": "001",
+            "courseTitle": "Applied Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 5515",
+            "section": "001",
+            "courseTitle": "Theory of Linear FEM"
+        },
+        {
+            "catalogTitle": "ME EN 5530",
+            "section": "001",
+            "courseTitle": "Continuum Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 5535",
+            "section": "001",
+            "courseTitle": "Intro to Biomechanics"
+        },
+        {
+            "catalogTitle": "ME EN 5650",
+            "section": "001",
+            "courseTitle": "Intermed Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 5700",
+            "section": "001",
+            "courseTitle": "Int Fluid Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 5730",
+            "section": "001",
+            "courseTitle": "Microfluid Chip Design"
+        },
+        {
+            "catalogTitle": "ME EN 5730",
+            "section": "002",
+            "courseTitle": "Microfluid Chip Design"
+        },
+        {
+            "catalogTitle": "ME EN 5800",
+            "section": "001",
+            "courseTitle": "Sustainable Energy"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "001",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "002",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5910",
+            "section": "003",
+            "courseTitle": "Co-Op"
+        },
+        {
+            "catalogTitle": "ME EN 5930",
+            "section": "001",
+            "courseTitle": "Undergrad Research"
+        },
+        {
+            "catalogTitle": "ME EN 5950",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "003",
+            "courseTitle": "Optics for Energy"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "006",
+            "courseTitle": "Systems Def and Modeling"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "009",
+            "courseTitle": "Data Analytics for Engineers"
+        },
+        {
+            "catalogTitle": "ME EN 5960",
+            "section": "010",
+            "courseTitle": "Aircraft Design"
+        },
+        {
+            "catalogTitle": "ME EN 6011",
+            "section": "001",
+            "courseTitle": "Additive Manufacturing"
+        },
+        {
+            "catalogTitle": "ME EN 6025",
+            "section": "001",
+            "courseTitle": "Intro to Optimization"
+        },
+        {
+            "catalogTitle": "ME EN 6050",
+            "section": "001",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ME EN 6050",
+            "section": "002",
+            "courseTitle": "Micromachining"
+        },
+        {
+            "catalogTitle": "ME EN 6051",
+            "section": "002",
+            "courseTitle": "Microsensor"
+        },
+        {
+            "catalogTitle": "ME EN 6100",
+            "section": "001",
+            "courseTitle": "Ergonomics"
+        },
+        {
+            "catalogTitle": "ME EN 6150",
+            "section": "001",
+            "courseTitle": "Product Safety"
+        },
+        {
+            "catalogTitle": "ME EN 6160",
+            "section": "001",
+            "courseTitle": "Fund of Systems Eng"
+        },
+        {
+            "catalogTitle": "ME EN 6184",
+            "section": "001",
+            "courseTitle": "Opers Research for Syst"
+        },
+        {
+            "catalogTitle": "ME EN 6200",
+            "section": "001",
+            "courseTitle": "Classical Control Sys"
+        },
+        {
+            "catalogTitle": "ME EN 6205",
+            "section": "001",
+            "courseTitle": "System Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 6220",
+            "section": "001",
+            "courseTitle": "Robotics"
+        },
+        {
+            "catalogTitle": "ME EN 6225",
+            "section": "001",
+            "courseTitle": "Motion Planning"
+        },
+        {
+            "catalogTitle": "ME EN 6250",
+            "section": "001",
+            "courseTitle": "Programming for Engin"
+        },
+        {
+            "catalogTitle": "ME EN 6400",
+            "section": "001",
+            "courseTitle": "Vibrations"
+        },
+        {
+            "catalogTitle": "ME EN 6510",
+            "section": "001",
+            "courseTitle": "Applied Finite Elements"
+        },
+        {
+            "catalogTitle": "ME EN 6515",
+            "section": "001",
+            "courseTitle": "Theory of Linear FEM"
+        },
+        {
+            "catalogTitle": "ME EN 6530",
+            "section": "001",
+            "courseTitle": "Continuum Mechanics"
+        },
+        {
+            "catalogTitle": "ME EN 6535",
+            "section": "001",
+            "courseTitle": "Intro to Biomechanics"
+        },
+        {
+            "catalogTitle": "ME EN 6650",
+            "section": "001",
+            "courseTitle": "Intermed Heat Transfer"
+        },
+        {
+            "catalogTitle": "ME EN 6700",
+            "section": "001",
+            "courseTitle": "Int Fluid Dynamics"
+        },
+        {
+            "catalogTitle": "ME EN 6730",
+            "section": "001",
+            "courseTitle": "Microfluid Chip Design"
+        },
+        {
+            "catalogTitle": "ME EN 6730",
+            "section": "003",
+            "courseTitle": "Microfluid Chip Design"
+        },
+        {
+            "catalogTitle": "ME EN 6800",
+            "section": "001",
+            "courseTitle": "Sustainable Energy"
+        },
+        {
+            "catalogTitle": "ME EN 6890",
+            "section": "001",
+            "courseTitle": "Grad Student Seminar"
+        },
+        {
+            "catalogTitle": "ME EN 6892",
+            "section": "001",
+            "courseTitle": "Robotics Grad Seminar"
+        },
+        {
+            "catalogTitle": "ME EN 6893",
+            "section": "001",
+            "courseTitle": "TFES Graduate Seminar"
+        },
+        {
+            "catalogTitle": "ME EN 6920",
+            "section": "001",
+            "courseTitle": "Design Project"
+        },
+        {
+            "catalogTitle": "ME EN 6950",
+            "section": "001",
+            "courseTitle": "Indep Study"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "003",
+            "courseTitle": "Optics for Energy"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "006",
+            "courseTitle": "Proj Management for Engineers"
+        },
+        {
+            "catalogTitle": "ME EN 6960",
+            "section": "009",
+            "courseTitle": "Discrete Event Syst Simulation"
+        },
+        {
+            "catalogTitle": "ME EN 6975",
+            "section": "001",
+            "courseTitle": "Masters Thesis"
+        },
+        {
+            "catalogTitle": "ME EN 6980",
+            "section": "001",
+            "courseTitle": "Fac Consult, MS"
+        },
+        {
+            "catalogTitle": "ME EN 7200",
+            "section": "001",
+            "courseTitle": "Nonlinear Controls"
+        },
+        {
+            "catalogTitle": "ME EN 7670",
+            "section": "001",
+            "courseTitle": "Adv Radiation"
+        },
+        {
+            "catalogTitle": "ME EN 7730",
+            "section": "001",
+            "courseTitle": "Large-Eddy Simulation"
+        },
+        {
+            "catalogTitle": "ME EN 7740",
+            "section": "001",
+            "courseTitle": "Low Reynolds Num Flows"
+        },
+        {
+            "catalogTitle": "ME EN 7960",
+            "section": "001",
+            "courseTitle": "Wearable Robotics"
+        },
+        {
+            "catalogTitle": "ME EN 7970",
+            "section": "001",
+            "courseTitle": "PhD Dissertation"
+        },
+        {
+            "catalogTitle": "ME EN 7980",
+            "section": "001",
+            "courseTitle": "Fac Consultation, PhD"
+        }
+    ]
+}

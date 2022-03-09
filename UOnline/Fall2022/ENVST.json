@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ENVST 2050",
+            "section": "290",
+            "courseTitle": "Intro to ENVST Science"
+        },
+        {
+            "catalogTitle": "ENVST 3210",
+            "section": "290",
+            "courseTitle": "Global Climate Change"
+        },
+        {
+            "catalogTitle": "ENVST 3364",
+            "section": "290",
+            "courseTitle": "Global Sustainability"
+        },
+        {
+            "catalogTitle": "ENVST 3365",
+            "section": "290",
+            "courseTitle": "Enviro Justice"
+        },
+        {
+            "catalogTitle": "ENVST 3368",
+            "section": "290",
+            "courseTitle": "Energy Choices"
+        }
+    ]
+}

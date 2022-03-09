@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "301",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "302",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 2200",
+            "section": "301",
+            "courseTitle": "Intr Comparatv Politics"
+        }
+    ]
+}

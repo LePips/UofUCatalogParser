@@ -28,7 +28,7 @@ class SemesterParser:
             homePage = self.getHomePage()
             self.parseHomePage(homePage)
         except:
-            print(f'Semester doesn''t exist at campus: { self.campus.title }')
+            print(f"Semester doesnt exist at campus: { self.campus.title }")
 
         for subject in list(self.subjects.keys()):
             subjectAbbr = subject.split(' - ')[0]

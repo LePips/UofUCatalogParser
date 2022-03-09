@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ARTH 101",
+            "section": "090",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 250",
+            "section": "090",
+            "courseTitle": "Intro Art History"
+        },
+        {
+            "catalogTitle": "ARTH 1010",
+            "section": "090",
+            "courseTitle": "Masterpieces World Art"
+        },
+        {
+            "catalogTitle": "ARTH 2500",
+            "section": "090",
+            "courseTitle": "Intro Art History"
+        }
+    ]
+}

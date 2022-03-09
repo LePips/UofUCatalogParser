@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DANC 101",
+            "section": "001",
+            "courseTitle": "Dance in Culture"
+        },
+        {
+            "catalogTitle": "DANC 115",
+            "section": "091",
+            "courseTitle": "Dance Appreciation"
+        },
+        {
+            "catalogTitle": "DANC 1010",
+            "section": "001",
+            "courseTitle": "Dance in Culture"
+        },
+        {
+            "catalogTitle": "DANC 1010",
+            "section": "005",
+            "courseTitle": "Dance in Culture"
+        },
+        {
+            "catalogTitle": "DANC 1015",
+            "section": "090",
+            "courseTitle": "Dance Appreciation"
+        },
+        {
+            "catalogTitle": "DANC 1015",
+            "section": "091",
+            "courseTitle": "Dance Appreciation"
+        },
+        {
+            "catalogTitle": "DANC 3015",
+            "section": "001",
+            "courseTitle": "Materials of Dance"
+        },
+        {
+            "catalogTitle": "DANC 6010",
+            "section": "001",
+            "courseTitle": "Intro to Higher Ed"
+        },
+        {
+            "catalogTitle": "DANC 6970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Masters"
+        }
+    ]
+}

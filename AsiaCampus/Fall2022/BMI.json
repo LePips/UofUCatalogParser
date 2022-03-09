@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BMI 6019",
+            "section": "301",
+            "courseTitle": "Bioinfo in Practice:RNA"
+        },
+        {
+            "catalogTitle": "BMI 6806",
+            "section": "301",
+            "courseTitle": "Translational Info"
+        },
+        {
+            "catalogTitle": "BMI 6970",
+            "section": "301",
+            "courseTitle": "Thesis Research - M.S."
+        },
+        {
+            "catalogTitle": "BMI 7000",
+            "section": "301",
+            "courseTitle": "Graduate Seminar"
+        },
+        {
+            "catalogTitle": "BMI 7000",
+            "section": "302",
+            "courseTitle": "Graduate Seminar"
+        }
+    ]
+}

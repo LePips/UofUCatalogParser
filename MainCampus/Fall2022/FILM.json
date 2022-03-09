@@ -1,0 +1,309 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 484",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 1010",
+            "section": "090",
+            "courseTitle": "Intro to Study of F&MA"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "003",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "004",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "005",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "006",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "007",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "008",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "009",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "010",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "070",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "090",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 1610",
+            "section": "001",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 1610",
+            "section": "002",
+            "courseTitle": "Intro to Animation"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "001",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "005",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "006",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "007",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "008",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 2510",
+            "section": "001",
+            "courseTitle": "Intro Media Arts Prod"
+        },
+        {
+            "catalogTitle": "FILM 2510",
+            "section": "002",
+            "courseTitle": "Intro Media Arts Prod"
+        },
+        {
+            "catalogTitle": "FILM 2620",
+            "section": "001",
+            "courseTitle": "Intro 3D Comp Animation"
+        },
+        {
+            "catalogTitle": "FILM 2630",
+            "section": "001",
+            "courseTitle": "Intro Trad Animation "
+        },
+        {
+            "catalogTitle": "FILM 2650",
+            "section": "001",
+            "courseTitle": "Storyboarding"
+        },
+        {
+            "catalogTitle": "FILM 2920",
+            "section": "001",
+            "courseTitle": "Rock 'n' Roll Film"
+        },
+        {
+            "catalogTitle": "FILM 3110",
+            "section": "001",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 3160",
+            "section": "001",
+            "courseTitle": "Animation Film History"
+        },
+        {
+            "catalogTitle": "FILM 3412",
+            "section": "001",
+            "courseTitle": "Editing"
+        },
+        {
+            "catalogTitle": "FILM 3420",
+            "section": "001",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 3420",
+            "section": "002",
+            "courseTitle": "Sound for Film"
+        },
+        {
+            "catalogTitle": "FILM 3530",
+            "section": "001",
+            "courseTitle": "Directing"
+        },
+        {
+            "catalogTitle": "FILM 3560",
+            "section": "001",
+            "courseTitle": "Grip & Lighting"
+        },
+        {
+            "catalogTitle": "FILM 3570",
+            "section": "001",
+            "courseTitle": "Digital Cinematography"
+        },
+        {
+            "catalogTitle": "FILM 3580",
+            "section": "001",
+            "courseTitle": "Color Grading"
+        },
+        {
+            "catalogTitle": "FILM 3920",
+            "section": "001",
+            "courseTitle": "Visual Writing"
+        },
+        {
+            "catalogTitle": "FILM 3920",
+            "section": "002",
+            "courseTitle": "Dynamic Writing"
+        },
+        {
+            "catalogTitle": "FILM 4510",
+            "section": "001",
+            "courseTitle": "Advanced Doc Filmmaking"
+        },
+        {
+            "catalogTitle": "FILM 4520",
+            "section": "001",
+            "courseTitle": "16mm Cinematography"
+        },
+        {
+            "catalogTitle": "FILM 4590",
+            "section": "001",
+            "courseTitle": "Directing Ind Film"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "002",
+            "courseTitle": "Screenwriting"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "003",
+            "courseTitle": "Screenwriting"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "004",
+            "courseTitle": "Screenwriting"
+        },
+        {
+            "catalogTitle": "FILM 4820",
+            "section": "005",
+            "courseTitle": "Screenwriting"
+        },
+        {
+            "catalogTitle": "FILM 4900",
+            "section": "001",
+            "courseTitle": "Internship in Film"
+        },
+        {
+            "catalogTitle": "FILM 4910",
+            "section": "001",
+            "courseTitle": "Ind Research"
+        },
+        {
+            "catalogTitle": "FILM 4950",
+            "section": "001",
+            "courseTitle": "Production Project"
+        },
+        {
+            "catalogTitle": "FILM 4950",
+            "section": "005",
+            "courseTitle": "Advanced 16mm Filmmaking"
+        },
+        {
+            "catalogTitle": "FILM 4960",
+            "section": "001",
+            "courseTitle": "Animation Project I"
+        },
+        {
+            "catalogTitle": "FILM 4965",
+            "section": "002",
+            "courseTitle": "Animation Project II"
+        },
+        {
+            "catalogTitle": "FILM 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "FILM 5560",
+            "section": "001",
+            "courseTitle": "Film Prod Capstone I"
+        },
+        {
+            "catalogTitle": "FILM 6010",
+            "section": "001",
+            "courseTitle": "Intro to Grad. Studies"
+        },
+        {
+            "catalogTitle": "FILM 6110",
+            "section": "003",
+            "courseTitle": "Film History until 1952"
+        },
+        {
+            "catalogTitle": "FILM 6370",
+            "section": "001",
+            "courseTitle": "Sem-Film"
+        },
+        {
+            "catalogTitle": "FILM 6420",
+            "section": "001",
+            "courseTitle": "Sound for Film & DM"
+        },
+        {
+            "catalogTitle": "FILM 6510",
+            "section": "001",
+            "courseTitle": "Advanced Doc Filmmaking"
+        },
+        {
+            "catalogTitle": "FILM 6520",
+            "section": "001",
+            "courseTitle": "16mm Cinematography"
+        },
+        {
+            "catalogTitle": "FILM 6560",
+            "section": "001",
+            "courseTitle": "Producing & Directing I"
+        },
+        {
+            "catalogTitle": "FILM 6590",
+            "section": "001",
+            "courseTitle": "Directing Ind Film"
+        },
+        {
+            "catalogTitle": "FILM 6840",
+            "section": "001",
+            "courseTitle": "Screenwriting III"
+        },
+        {
+            "catalogTitle": "FILM 6945",
+            "section": "001",
+            "courseTitle": "Graduate Production"
+        }
+    ]
+}

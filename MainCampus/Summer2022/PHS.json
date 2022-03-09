@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "PHS 4999",
+            "section": "001",
+            "courseTitle": "PHS Research "
+        },
+        {
+            "catalogTitle": "PHS 7800",
+            "section": "003",
+            "courseTitle": "Research in PHS-HSIR"
+        },
+        {
+            "catalogTitle": "PHS 7800",
+            "section": "004",
+            "courseTitle": "Research in PHS-HSIR"
+        },
+        {
+            "catalogTitle": "PHS 7840",
+            "section": "001",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PHS 7840",
+            "section": "002",
+            "courseTitle": "Independent Study"
+        },
+        {
+            "catalogTitle": "PHS 7910",
+            "section": "001",
+            "courseTitle": "PHS Internship"
+        },
+        {
+            "catalogTitle": "PHS 7970",
+            "section": "001",
+            "courseTitle": "Dissertation"
+        }
+    ]
+}

@@ -1,0 +1,859 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ART 102",
+            "section": "001",
+            "courseTitle": "Non Major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 102",
+            "section": "002",
+            "courseTitle": "Non Major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 102",
+            "section": "003",
+            "courseTitle": "Non Major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 102",
+            "section": "004",
+            "courseTitle": "Non Major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 102",
+            "section": "005",
+            "courseTitle": "Non Major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 102",
+            "section": "070",
+            "courseTitle": "Non Major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 102",
+            "section": "071",
+            "courseTitle": "Non Major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 103",
+            "section": "070",
+            "courseTitle": "Non Major Basic Painting"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "001",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "002",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "003",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "006",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "007",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "008",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 206",
+            "section": "070",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 342",
+            "section": "001",
+            "courseTitle": "Figure Sculpture I"
+        },
+        {
+            "catalogTitle": "ART 412",
+            "section": "001",
+            "courseTitle": "Life Drawing"
+        },
+        {
+            "catalogTitle": "ART 426",
+            "section": "001",
+            "courseTitle": "Advanced Ceramics"
+        },
+        {
+            "catalogTitle": "ART 1010",
+            "section": "090",
+            "courseTitle": "Intro To Visual Arts"
+        },
+        {
+            "catalogTitle": "ART 1020",
+            "section": "001",
+            "courseTitle": "Non major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1020",
+            "section": "002",
+            "courseTitle": "Non major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1020",
+            "section": "003",
+            "courseTitle": "Non major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1020",
+            "section": "005",
+            "courseTitle": "Non major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1020",
+            "section": "070",
+            "courseTitle": "Non major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1020",
+            "section": "071",
+            "courseTitle": "Non major Basic Drawing"
+        },
+        {
+            "catalogTitle": "ART 1025",
+            "section": "001",
+            "courseTitle": "NM Figure Sculpture"
+        },
+        {
+            "catalogTitle": "ART 1030",
+            "section": "001",
+            "courseTitle": "Non-major Painting"
+        },
+        {
+            "catalogTitle": "ART 1030",
+            "section": "070",
+            "courseTitle": "Non-major Painting"
+        },
+        {
+            "catalogTitle": "ART 1070",
+            "section": "001",
+            "courseTitle": "NM Handbuild Ceramics"
+        },
+        {
+            "catalogTitle": "ART 1070",
+            "section": "002",
+            "courseTitle": "NM Handbuild Ceramics"
+        },
+        {
+            "catalogTitle": "ART 1080",
+            "section": "001",
+            "courseTitle": "NM Wheel Pottery"
+        },
+        {
+            "catalogTitle": "ART 1080",
+            "section": "002",
+            "courseTitle": "NM Wheel Pottery"
+        },
+        {
+            "catalogTitle": "ART 1080",
+            "section": "003",
+            "courseTitle": "NM Wheel Pottery"
+        },
+        {
+            "catalogTitle": "ART 1080",
+            "section": "004",
+            "courseTitle": "NM Wheel Pottery"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "001",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "002",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "003",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "006",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "007",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "008",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "070",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 2060",
+            "section": "071",
+            "courseTitle": "NM Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 2201",
+            "section": "001",
+            "courseTitle": "Action"
+        },
+        {
+            "catalogTitle": "ART 2201",
+            "section": "002",
+            "courseTitle": "Action"
+        },
+        {
+            "catalogTitle": "ART 2201",
+            "section": "003",
+            "courseTitle": "Action"
+        },
+        {
+            "catalogTitle": "ART 2201",
+            "section": "004",
+            "courseTitle": "Action"
+        },
+        {
+            "catalogTitle": "ART 2202",
+            "section": "001",
+            "courseTitle": "Construct"
+        },
+        {
+            "catalogTitle": "ART 2202",
+            "section": "002",
+            "courseTitle": "Construct"
+        },
+        {
+            "catalogTitle": "ART 2202",
+            "section": "003",
+            "courseTitle": "Construct"
+        },
+        {
+            "catalogTitle": "ART 2202",
+            "section": "004",
+            "courseTitle": "Construct"
+        },
+        {
+            "catalogTitle": "ART 2203",
+            "section": "001",
+            "courseTitle": "Evidence"
+        },
+        {
+            "catalogTitle": "ART 2203",
+            "section": "002",
+            "courseTitle": "Evidence"
+        },
+        {
+            "catalogTitle": "ART 2203",
+            "section": "003",
+            "courseTitle": "Evidence"
+        },
+        {
+            "catalogTitle": "ART 2203",
+            "section": "004",
+            "courseTitle": "Evidence"
+        },
+        {
+            "catalogTitle": "ART 2204",
+            "section": "001",
+            "courseTitle": "Illusion"
+        },
+        {
+            "catalogTitle": "ART 2204",
+            "section": "002",
+            "courseTitle": "Illusion"
+        },
+        {
+            "catalogTitle": "ART 2204",
+            "section": "003",
+            "courseTitle": "Illusion"
+        },
+        {
+            "catalogTitle": "ART 2204",
+            "section": "004",
+            "courseTitle": "Illusion"
+        },
+        {
+            "catalogTitle": "ART 2205",
+            "section": "001",
+            "courseTitle": "Mapping"
+        },
+        {
+            "catalogTitle": "ART 2205",
+            "section": "002",
+            "courseTitle": "Mapping"
+        },
+        {
+            "catalogTitle": "ART 2205",
+            "section": "003",
+            "courseTitle": "Mapping"
+        },
+        {
+            "catalogTitle": "ART 2205",
+            "section": "004",
+            "courseTitle": "Mapping"
+        },
+        {
+            "catalogTitle": "ART 2206",
+            "section": "001",
+            "courseTitle": "Matrix"
+        },
+        {
+            "catalogTitle": "ART 2206",
+            "section": "002",
+            "courseTitle": "Matrix"
+        },
+        {
+            "catalogTitle": "ART 2206",
+            "section": "003",
+            "courseTitle": "Matrix"
+        },
+        {
+            "catalogTitle": "ART 2206",
+            "section": "004",
+            "courseTitle": "Matrix"
+        },
+        {
+            "catalogTitle": "ART 2207",
+            "section": "001",
+            "courseTitle": "Seeing"
+        },
+        {
+            "catalogTitle": "ART 2207",
+            "section": "002",
+            "courseTitle": "Seeing"
+        },
+        {
+            "catalogTitle": "ART 2207",
+            "section": "003",
+            "courseTitle": "Seeing"
+        },
+        {
+            "catalogTitle": "ART 2207",
+            "section": "004",
+            "courseTitle": "Seeing"
+        },
+        {
+            "catalogTitle": "ART 2208",
+            "section": "001",
+            "courseTitle": "Touch"
+        },
+        {
+            "catalogTitle": "ART 2208",
+            "section": "002",
+            "courseTitle": "Touch"
+        },
+        {
+            "catalogTitle": "ART 2208",
+            "section": "003",
+            "courseTitle": "Touch"
+        },
+        {
+            "catalogTitle": "ART 2208",
+            "section": "004",
+            "courseTitle": "Touch"
+        },
+        {
+            "catalogTitle": "ART 2400",
+            "section": "001",
+            "courseTitle": "1st Year Stu Vis Lang"
+        },
+        {
+            "catalogTitle": "ART 2450",
+            "section": "001",
+            "courseTitle": "Illustration 1: Process"
+        },
+        {
+            "catalogTitle": "ART 2710",
+            "section": "001",
+            "courseTitle": "Photo Studies I"
+        },
+        {
+            "catalogTitle": "ART 2740",
+            "section": "001",
+            "courseTitle": "Digital Imaging"
+        },
+        {
+            "catalogTitle": "ART 3010",
+            "section": "090",
+            "courseTitle": "Language of Color"
+        },
+        {
+            "catalogTitle": "ART 3010",
+            "section": "091",
+            "courseTitle": "Language of Color"
+        },
+        {
+            "catalogTitle": "ART 3015",
+            "section": "002",
+            "courseTitle": "Materials of Art"
+        },
+        {
+            "catalogTitle": "ART 3020",
+            "section": "001",
+            "courseTitle": "NM Adv Drawing"
+        },
+        {
+            "catalogTitle": "ART 3020",
+            "section": "002",
+            "courseTitle": "NM Adv Drawing"
+        },
+        {
+            "catalogTitle": "ART 3020",
+            "section": "003",
+            "courseTitle": "NM Adv Drawing"
+        },
+        {
+            "catalogTitle": "ART 3020",
+            "section": "004",
+            "courseTitle": "NM Adv Drawing"
+        },
+        {
+            "catalogTitle": "ART 3020",
+            "section": "005",
+            "courseTitle": "NM Adv Drawing"
+        },
+        {
+            "catalogTitle": "ART 3030",
+            "section": "001",
+            "courseTitle": "Non major Adv Painting"
+        },
+        {
+            "catalogTitle": "ART 3032",
+            "section": "001",
+            "courseTitle": "NM Lithography I"
+        },
+        {
+            "catalogTitle": "ART 3034",
+            "section": "001",
+            "courseTitle": "NM Intaglio I"
+        },
+        {
+            "catalogTitle": "ART 3060",
+            "section": "001",
+            "courseTitle": "NM Letterpress I"
+        },
+        {
+            "catalogTitle": "ART 3065",
+            "section": "001",
+            "courseTitle": "NM Bookbinding I"
+        },
+        {
+            "catalogTitle": "ART 3070",
+            "section": "001",
+            "courseTitle": "NM Adv Handbuild"
+        },
+        {
+            "catalogTitle": "ART 3070",
+            "section": "002",
+            "courseTitle": "NM Adv Handbuild"
+        },
+        {
+            "catalogTitle": "ART 3080",
+            "section": "001",
+            "courseTitle": "NM Adv Wheelthrowing"
+        },
+        {
+            "catalogTitle": "ART 3080",
+            "section": "002",
+            "courseTitle": "NM Adv Wheelthrowing"
+        },
+        {
+            "catalogTitle": "ART 3080",
+            "section": "003",
+            "courseTitle": "NM Adv Wheelthrowing"
+        },
+        {
+            "catalogTitle": "ART 3110",
+            "section": "001",
+            "courseTitle": "Painting I"
+        },
+        {
+            "catalogTitle": "ART 3120",
+            "section": "001",
+            "courseTitle": "Figure Structure"
+        },
+        {
+            "catalogTitle": "ART 3130",
+            "section": "001",
+            "courseTitle": "Drawing I"
+        },
+        {
+            "catalogTitle": "ART 3130",
+            "section": "002",
+            "courseTitle": "Drawing I"
+        },
+        {
+            "catalogTitle": "ART 3135",
+            "section": "001",
+            "courseTitle": "Digital Drawing"
+        },
+        {
+            "catalogTitle": "ART 3150",
+            "section": "001",
+            "courseTitle": "Figure Painting"
+        },
+        {
+            "catalogTitle": "ART 3180",
+            "section": "001",
+            "courseTitle": "Drawing Installation"
+        },
+        {
+            "catalogTitle": "ART 3210",
+            "section": "001",
+            "courseTitle": "Handbuilding Ceramics I"
+        },
+        {
+            "catalogTitle": "ART 3210",
+            "section": "002",
+            "courseTitle": "Handbuilding Ceramics I"
+        },
+        {
+            "catalogTitle": "ART 3211",
+            "section": "001",
+            "courseTitle": "Handbldg Ceramics II"
+        },
+        {
+            "catalogTitle": "ART 3211",
+            "section": "002",
+            "courseTitle": "Handbldg Ceramics II"
+        },
+        {
+            "catalogTitle": "ART 3220",
+            "section": "001",
+            "courseTitle": "Wheelthrown Pottery I"
+        },
+        {
+            "catalogTitle": "ART 3220",
+            "section": "002",
+            "courseTitle": "Wheelthrown Pottery I"
+        },
+        {
+            "catalogTitle": "ART 3220",
+            "section": "003",
+            "courseTitle": "Wheelthrown Pottery I"
+        },
+        {
+            "catalogTitle": "ART 3221",
+            "section": "001",
+            "courseTitle": "Wheelthrown Pottery II"
+        },
+        {
+            "catalogTitle": "ART 3221",
+            "section": "002",
+            "courseTitle": "Wheelthrown Pottery II"
+        },
+        {
+            "catalogTitle": "ART 3221",
+            "section": "003",
+            "courseTitle": "Wheelthrown Pottery II"
+        },
+        {
+            "catalogTitle": "ART 3230",
+            "section": "001",
+            "courseTitle": "Low-Fire Ceramics"
+        },
+        {
+            "catalogTitle": "ART 3250",
+            "section": "001",
+            "courseTitle": "Intermediate Ceramics"
+        },
+        {
+            "catalogTitle": "ART 3250",
+            "section": "002",
+            "courseTitle": "Intermediate Ceramics"
+        },
+        {
+            "catalogTitle": "ART 3280",
+            "section": "001",
+            "courseTitle": "Illustration 2: Nar App"
+        },
+        {
+            "catalogTitle": "ART 3320",
+            "section": "001",
+            "courseTitle": "Lithography I"
+        },
+        {
+            "catalogTitle": "ART 3340",
+            "section": "001",
+            "courseTitle": "Intaglio I"
+        },
+        {
+            "catalogTitle": "ART 3360",
+            "section": "001",
+            "courseTitle": "Letterpress I"
+        },
+        {
+            "catalogTitle": "ART 3365",
+            "section": "001",
+            "courseTitle": "Bookbinding I"
+        },
+        {
+            "catalogTitle": "ART 3420",
+            "section": "001",
+            "courseTitle": "Figure Sculpture I"
+        },
+        {
+            "catalogTitle": "ART 3430",
+            "section": "001",
+            "courseTitle": "Working Wood"
+        },
+        {
+            "catalogTitle": "ART 3440",
+            "section": "001",
+            "courseTitle": "Small Metal & Jewelry"
+        },
+        {
+            "catalogTitle": "ART 3520",
+            "section": "001",
+            "courseTitle": "Intro to Art Ed"
+        },
+        {
+            "catalogTitle": "ART 3530",
+            "section": "001",
+            "courseTitle": "Art Education K-12"
+        },
+        {
+            "catalogTitle": "ART 3715",
+            "section": "001",
+            "courseTitle": "Digital Photography"
+        },
+        {
+            "catalogTitle": "ART 4090",
+            "section": "001",
+            "courseTitle": "NM Artists' Books I"
+        },
+        {
+            "catalogTitle": "ART 4095",
+            "section": "001",
+            "courseTitle": "NM Artists' Books II"
+        },
+        {
+            "catalogTitle": "ART 4110",
+            "section": "001",
+            "courseTitle": "Drawing II"
+        },
+        {
+            "catalogTitle": "ART 4120",
+            "section": "001",
+            "courseTitle": "Life Drawing"
+        },
+        {
+            "catalogTitle": "ART 4130",
+            "section": "001",
+            "courseTitle": "Painting II"
+        },
+        {
+            "catalogTitle": "ART 4140",
+            "section": "001",
+            "courseTitle": "Drawing III"
+        },
+        {
+            "catalogTitle": "ART 4150",
+            "section": "001",
+            "courseTitle": "Adv Life Drawing"
+        },
+        {
+            "catalogTitle": "ART 4160",
+            "section": "001",
+            "courseTitle": "Painting III"
+        },
+        {
+            "catalogTitle": "ART 4170",
+            "section": "001",
+            "courseTitle": "Adv Figure Painting"
+        },
+        {
+            "catalogTitle": "ART 4190",
+            "section": "001",
+            "courseTitle": "Painting IV"
+        },
+        {
+            "catalogTitle": "ART 4260",
+            "section": "001",
+            "courseTitle": "Advanced Ceramics"
+        },
+        {
+            "catalogTitle": "ART 4360",
+            "section": "001",
+            "courseTitle": "Adv. Printmaking I"
+        },
+        {
+            "catalogTitle": "ART 4365",
+            "section": "001",
+            "courseTitle": "Adv. Printmaking II"
+        },
+        {
+            "catalogTitle": "ART 4390",
+            "section": "001",
+            "courseTitle": "Artists' Books I"
+        },
+        {
+            "catalogTitle": "ART 4395",
+            "section": "001",
+            "courseTitle": "Artists' Books II"
+        },
+        {
+            "catalogTitle": "ART 4410",
+            "section": "001",
+            "courseTitle": "Studio Practice I"
+        },
+        {
+            "catalogTitle": "ART 4460",
+            "section": "001",
+            "courseTitle": "Site/Space/Installation"
+        },
+        {
+            "catalogTitle": "ART 4465",
+            "section": "001",
+            "courseTitle": "Studio Practice II"
+        },
+        {
+            "catalogTitle": "ART 4590",
+            "section": "001",
+            "courseTitle": "Art Teaching Senior Sem"
+        },
+        {
+            "catalogTitle": "ART 4715",
+            "section": "001",
+            "courseTitle": "Advanced Photo II"
+        },
+        {
+            "catalogTitle": "ART 4730",
+            "section": "001",
+            "courseTitle": "Alt Photo I"
+        },
+        {
+            "catalogTitle": "ART 4740",
+            "section": "001",
+            "courseTitle": "Digital Darkroom"
+        },
+        {
+            "catalogTitle": "ART 4830",
+            "section": "001",
+            "courseTitle": "Graph Des Internship"
+        },
+        {
+            "catalogTitle": "ART 4920",
+            "section": "017",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "ART 4920",
+            "section": "019",
+            "courseTitle": "Directed Study"
+        },
+        {
+            "catalogTitle": "ART 4999",
+            "section": "001",
+            "courseTitle": "Hon Thesis/Project"
+        },
+        {
+            "catalogTitle": "ART 6210",
+            "section": "001",
+            "courseTitle": "Grad Projects-Ceramics"
+        },
+        {
+            "catalogTitle": "ART 6310",
+            "section": "001",
+            "courseTitle": "Grad Projects-Prntmakng"
+        },
+        {
+            "catalogTitle": "ART 6340",
+            "section": "001",
+            "courseTitle": "Grad Prntmakng"
+        },
+        {
+            "catalogTitle": "ART 6360",
+            "section": "001",
+            "courseTitle": "Grad Projects-Book Arts"
+        },
+        {
+            "catalogTitle": "ART 6360",
+            "section": "002",
+            "courseTitle": "Grad Projects-Book Arts"
+        },
+        {
+            "catalogTitle": "ART 6410",
+            "section": "001",
+            "courseTitle": "Grad Projects-Sculpt"
+        },
+        {
+            "catalogTitle": "ART 6430",
+            "section": "001",
+            "courseTitle": "Grad Projects-Sculpt"
+        },
+        {
+            "catalogTitle": "ART 6590",
+            "section": "001",
+            "courseTitle": "Grad Projects-Art Teach"
+        },
+        {
+            "catalogTitle": "ART 6610",
+            "section": "001",
+            "courseTitle": "Grad Projects-Graph Des"
+        },
+        {
+            "catalogTitle": "ART 6620",
+            "section": "001",
+            "courseTitle": "Grad Projects-Graph Des"
+        },
+        {
+            "catalogTitle": "ART 6630",
+            "section": "001",
+            "courseTitle": "Grad Projects-Graph Des"
+        },
+        {
+            "catalogTitle": "ART 6710",
+            "section": "001",
+            "courseTitle": "Grad Projects-Photogr"
+        },
+        {
+            "catalogTitle": "ART 6720",
+            "section": "001",
+            "courseTitle": "Grad Projects-Photogr"
+        },
+        {
+            "catalogTitle": "ART 6730",
+            "section": "001",
+            "courseTitle": "Grad Projects-Photogr"
+        },
+        {
+            "catalogTitle": "ART 6810",
+            "section": "001",
+            "courseTitle": "MFA Graduate Seminar"
+        },
+        {
+            "catalogTitle": "ART 6975",
+            "section": "001",
+            "courseTitle": "Final Project: MFA"
+        },
+        {
+            "catalogTitle": "ART 6975",
+            "section": "002",
+            "courseTitle": "Final Project: MFA"
+        },
+        {
+            "catalogTitle": "ART 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        }
+    ]
+}

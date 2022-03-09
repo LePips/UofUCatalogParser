@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MUSC 110",
+            "section": "090",
+            "courseTitle": "Elements in Music"
+        },
+        {
+            "catalogTitle": "MUSC 126",
+            "section": "070",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 210",
+            "section": "001",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 360",
+            "section": "001",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 1010",
+            "section": "090",
+            "courseTitle": "Introduction to Music"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "070",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1236",
+            "section": "090",
+            "courseTitle": "Survey Of Jazz"
+        },
+        {
+            "catalogTitle": "MUSC 1460",
+            "section": "090",
+            "courseTitle": "Intro to Music Theory"
+        },
+        {
+            "catalogTitle": "MUSC 2100",
+            "section": "090",
+            "courseTitle": "Hist of Rock'n Roll"
+        },
+        {
+            "catalogTitle": "MUSC 3600",
+            "section": "070",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 3600",
+            "section": "090",
+            "courseTitle": "World Music"
+        },
+        {
+            "catalogTitle": "MUSC 4640",
+            "section": "001",
+            "courseTitle": "Romantic Music"
+        },
+        {
+            "catalogTitle": "MUSC 6621",
+            "section": "001",
+            "courseTitle": "Princples of Voice"
+        },
+        {
+            "catalogTitle": "MUSC 6622",
+            "section": "001",
+            "courseTitle": "Instrum Voice Analysis"
+        },
+        {
+            "catalogTitle": "MUSC 6623",
+            "section": "001",
+            "courseTitle": "Voice Habilitation"
+        },
+        {
+            "catalogTitle": "MUSC 6624",
+            "section": "001",
+            "courseTitle": "Voice for Performers"
+        },
+        {
+            "catalogTitle": "MUSC 6640",
+            "section": "001",
+            "courseTitle": "Romantic Music Grad"
+        }
+    ]
+}

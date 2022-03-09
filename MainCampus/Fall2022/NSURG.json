@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NSURG 7000",
+            "section": "001",
+            "courseTitle": "Neurosurgery Away"
+        },
+        {
+            "catalogTitle": "NSURG 7375",
+            "section": "001",
+            "courseTitle": "Intro to Neurosurgery"
+        },
+        {
+            "catalogTitle": "NSURG 7380",
+            "section": "001",
+            "courseTitle": "Neurosurgery"
+        },
+        {
+            "catalogTitle": "NSURG 7400",
+            "section": "001",
+            "courseTitle": "Neurosurgery Research"
+        },
+        {
+            "catalogTitle": "NSURG 7500",
+            "section": "001",
+            "courseTitle": "Core Sub-I: NSURG"
+        }
+    ]
+}

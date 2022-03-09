@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ECON 1740",
+            "section": "290",
+            "courseTitle": "US Economic History"
+        },
+        {
+            "catalogTitle": "ECON 2010",
+            "section": "290",
+            "courseTitle": "Princ Of Microeconomics"
+        },
+        {
+            "catalogTitle": "ECON 2020",
+            "section": "290",
+            "courseTitle": "Princ Of Macroeconomics"
+        },
+        {
+            "catalogTitle": "ECON 3100",
+            "section": "290",
+            "courseTitle": "Labor Economics"
+        },
+        {
+            "catalogTitle": "ECON 3190",
+            "section": "290",
+            "courseTitle": "Intro Health Econ"
+        },
+        {
+            "catalogTitle": "ECON 3500",
+            "section": "290",
+            "courseTitle": "Intntl Economics"
+        },
+        {
+            "catalogTitle": "ECON 3640",
+            "section": "290",
+            "courseTitle": "Prob&Stat Inference"
+        },
+        {
+            "catalogTitle": "ECON 4020",
+            "section": "290",
+            "courseTitle": "Intermed Macroecon"
+        },
+        {
+            "catalogTitle": "ECON 4650",
+            "section": "290",
+            "courseTitle": "Princ Of Econometrics"
+        },
+        {
+            "catalogTitle": "ECON 5060",
+            "section": "290",
+            "courseTitle": "Hist-Economic Doctrine"
+        },
+        {
+            "catalogTitle": "ECON 5080",
+            "section": "290",
+            "courseTitle": "Marxian Economics"
+        },
+        {
+            "catalogTitle": "ECON 5470",
+            "section": "290",
+            "courseTitle": "American Industr/Ec Dev"
+        },
+        {
+            "catalogTitle": "ECON 5540",
+            "section": "290",
+            "courseTitle": "Capitalism & Socialism"
+        }
+    ]
+}

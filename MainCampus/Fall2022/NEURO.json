@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "NEURO 7900",
+            "section": "001",
+            "courseTitle": "NEURO Clerkship"
+        },
+        {
+            "catalogTitle": "NEURO 7900",
+            "section": "002",
+            "courseTitle": "NEURO Clerkship"
+        },
+        {
+            "catalogTitle": "NEURO 7920",
+            "section": "001",
+            "courseTitle": "Adult Neuro Elective"
+        },
+        {
+            "catalogTitle": "NEURO 7930",
+            "section": "001",
+            "courseTitle": "Peds Neuro Elective"
+        },
+        {
+            "catalogTitle": "NEURO 7950",
+            "section": "001",
+            "courseTitle": "Neuro Research Elective"
+        },
+        {
+            "catalogTitle": "NEURO 7960",
+            "section": "001",
+            "courseTitle": "Adult Neuro Sub-I"
+        }
+    ]
+}

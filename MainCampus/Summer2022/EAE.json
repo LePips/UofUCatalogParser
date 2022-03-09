@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "EAE 1010",
+            "section": "001",
+            "courseTitle": "Survey of Games"
+        },
+        {
+            "catalogTitle": "EAE 1050",
+            "section": "001",
+            "courseTitle": "Dig. Content Creation"
+        },
+        {
+            "catalogTitle": "EAE 2100",
+            "section": "001",
+            "courseTitle": "Intro to Game Design"
+        },
+        {
+            "catalogTitle": "EAE 3010",
+            "section": "001",
+            "courseTitle": "Asset Pipeline"
+        },
+        {
+            "catalogTitle": "EAE 3020",
+            "section": "001",
+            "courseTitle": "Ethics in Videogames"
+        },
+        {
+            "catalogTitle": "EAE 3600",
+            "section": "001",
+            "courseTitle": "3D Modeling"
+        },
+        {
+            "catalogTitle": "EAE 3710",
+            "section": "001",
+            "courseTitle": "Trad Game Development"
+        },
+        {
+            "catalogTitle": "EAE 3720",
+            "section": "001",
+            "courseTitle": "Alt Game Development"
+        }
+    ]
+}

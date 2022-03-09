@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ASTR 106",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 250",
+            "section": "001",
+            "courseTitle": "Foundations Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 406",
+            "section": "001",
+            "courseTitle": "Observational Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 1060",
+            "section": "001",
+            "courseTitle": "The Universe"
+        },
+        {
+            "catalogTitle": "ASTR 3070",
+            "section": "001",
+            "courseTitle": "Foundations Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 4060",
+            "section": "001",
+            "courseTitle": "Observational Astronomy"
+        },
+        {
+            "catalogTitle": "ASTR 5580",
+            "section": "001",
+            "courseTitle": "Cosmology"
+        },
+        {
+            "catalogTitle": "ASTR 6590",
+            "section": "001",
+            "courseTitle": "High Energy Astro"
+        }
+    ]
+}

@@ -1,0 +1,549 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "001",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "002",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "003",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "004",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "005",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "006",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "007",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "008",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "009",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "010",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "011",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "012",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "013",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 1010",
+            "section": "014",
+            "courseTitle": "Career Exploration"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "001",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "002",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "003",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "004",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "005",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "006",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "007",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "008",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "009",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "010",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "011",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "012",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "013",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "014",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "015",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2020",
+            "section": "016",
+            "courseTitle": "Frameworks for Bus Prob"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "001",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "002",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "003",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "004",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2030",
+            "section": "005",
+            "courseTitle": "Frameworks Bus Prob II"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "001",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "002",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "003",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "004",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "005",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "006",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "007",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "008",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 2040",
+            "section": "009",
+            "courseTitle": "Value Impact Bus Entp"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "002",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "003",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "004",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "005",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "006",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "007",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "008",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "009",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "010",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "011",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3010",
+            "section": "012",
+            "courseTitle": "Bus Fundamentals ACCTG"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "002",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "003",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "004",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "005",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "006",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "007",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "008",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "009",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "010",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "011",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3020",
+            "section": "012",
+            "courseTitle": "Bus Fundamentals FINAN"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "002",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "003",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "004",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "005",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "006",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "007",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "008",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "009",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "010",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "011",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3030",
+            "section": "012",
+            "courseTitle": "Bus Fundamentals MGT"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "002",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "003",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "004",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "005",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "006",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "007",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "008",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "009",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "010",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "011",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3040",
+            "section": "012",
+            "courseTitle": "Bus Fundamentals MKTG"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "001",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "002",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "003",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "004",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "005",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "006",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "007",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "008",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "009",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "010",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "011",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3050",
+            "section": "012",
+            "courseTitle": "Bus Fundamentals OSC"
+        },
+        {
+            "catalogTitle": "BCOR 3100",
+            "section": "001",
+            "courseTitle": "Markets & Institutions"
+        },
+        {
+            "catalogTitle": "BCOR 3100",
+            "section": "002",
+            "courseTitle": "Markets & Institutions"
+        },
+        {
+            "catalogTitle": "BCOR 3100",
+            "section": "003",
+            "courseTitle": "Markets & Institutions"
+        },
+        {
+            "catalogTitle": "BCOR 3100",
+            "section": "004",
+            "courseTitle": "Markets & Institutions"
+        },
+        {
+            "catalogTitle": "BCOR 3100",
+            "section": "005",
+            "courseTitle": "Markets & Institutions"
+        }
+    ]
+}

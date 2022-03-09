@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ATSM 6000",
+            "section": "001",
+            "courseTitle": "Intro Clinic Exam & Reh"
+        },
+        {
+            "catalogTitle": "ATSM 6005",
+            "section": "001",
+            "courseTitle": "Modalities in AT"
+        },
+        {
+            "catalogTitle": "ATSM 6010",
+            "section": "001",
+            "courseTitle": "Evaluation & Rehab LE"
+        },
+        {
+            "catalogTitle": "ATSM 6151",
+            "section": "001",
+            "courseTitle": "Adv Taping & Brace"
+        },
+        {
+            "catalogTitle": "ATSM 6200",
+            "section": "001",
+            "courseTitle": "Inj and Illness Prev"
+        },
+        {
+            "catalogTitle": "ATSM 6300",
+            "section": "001",
+            "courseTitle": "Intro EBP"
+        },
+        {
+            "catalogTitle": "ATSM 6301",
+            "section": "090",
+            "courseTitle": "Advanced EBP"
+        },
+        {
+            "catalogTitle": "ATSM 6400",
+            "section": "090",
+            "courseTitle": "Foundations of IPE"
+        },
+        {
+            "catalogTitle": "ATSM 6500",
+            "section": "001",
+            "courseTitle": "Sim in Athletic Train"
+        },
+        {
+            "catalogTitle": "ATSM 6550",
+            "section": "090",
+            "courseTitle": "Clinical Internship I"
+        },
+        {
+            "catalogTitle": "ATSM 6810",
+            "section": "001",
+            "courseTitle": "Best Prac Hlth Care Del"
+        },
+        {
+            "catalogTitle": "ATSM 6830",
+            "section": "090",
+            "courseTitle": "Adaptive Athlete in AT"
+        },
+        {
+            "catalogTitle": "ATSM 6840",
+            "section": "090",
+            "courseTitle": "Health Care Informatics"
+        },
+        {
+            "catalogTitle": "ATSM 6870",
+            "section": "001",
+            "courseTitle": "Ethics in Ath Training"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "FILM 111",
+            "section": "090",
+            "courseTitle": "Intro to Film"
+        },
+        {
+            "catalogTitle": "FILM 250",
+            "section": "001",
+            "courseTitle": "Intro Film Production"
+        },
+        {
+            "catalogTitle": "FILM 1110",
+            "section": "090",
+            "courseTitle": "Intro To Film"
+        },
+        {
+            "catalogTitle": "FILM 2500",
+            "section": "001",
+            "courseTitle": "Intro Film Production"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DS 3190",
+            "section": "001",
+            "courseTitle": "Found. of Data Analysis"
+        },
+        {
+            "catalogTitle": "DS 3390",
+            "section": "001",
+            "courseTitle": "Ethics in Data Science"
+        },
+        {
+            "catalogTitle": "DS 4350",
+            "section": "001",
+            "courseTitle": "Machine Learning"
+        },
+        {
+            "catalogTitle": "DS 4630",
+            "section": "001",
+            "courseTitle": "Vis for Data Science"
+        },
+        {
+            "catalogTitle": "DS 4800",
+            "section": "001",
+            "courseTitle": "Senior Capstone Design"
+        },
+        {
+            "catalogTitle": "DS 4850",
+            "section": "001",
+            "courseTitle": "Senior Capstone Project"
+        }
+    ]
+}

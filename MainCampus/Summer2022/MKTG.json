@@ -1,0 +1,79 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "MKTG 4310",
+            "section": "001",
+            "courseTitle": "Digital MKTG & Analytic"
+        },
+        {
+            "catalogTitle": "MKTG 4530",
+            "section": "001",
+            "courseTitle": "AdThing Experience"
+        },
+        {
+            "catalogTitle": "MKTG 4650",
+            "section": "001",
+            "courseTitle": "Fair Algorithms"
+        },
+        {
+            "catalogTitle": "MKTG 4880",
+            "section": "001",
+            "courseTitle": "Marketing Internship"
+        },
+        {
+            "catalogTitle": "MKTG 4999",
+            "section": "001",
+            "courseTitle": "Mktg Hon Proj"
+        },
+        {
+            "catalogTitle": "MKTG 5000",
+            "section": "090",
+            "courseTitle": "Marketing Management"
+        },
+        {
+            "catalogTitle": "MKTG 6310",
+            "section": "090",
+            "courseTitle": "Digital MKTG & Analytic"
+        },
+        {
+            "catalogTitle": "MKTG 6320",
+            "section": "001",
+            "courseTitle": "Content Mktg Soc Media"
+        },
+        {
+            "catalogTitle": "MKTG 6640",
+            "section": "001",
+            "courseTitle": "Text Analytics"
+        },
+        {
+            "catalogTitle": "MKTG 6640",
+            "section": "090",
+            "courseTitle": "Text Analytics"
+        },
+        {
+            "catalogTitle": "MKTG 6650",
+            "section": "001",
+            "courseTitle": "Fair Algorithms"
+        },
+        {
+            "catalogTitle": "MKTG 7910",
+            "section": "001",
+            "courseTitle": "Special Study"
+        },
+        {
+            "catalogTitle": "MKTG 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research-Ph D"
+        },
+        {
+            "catalogTitle": "MKTG 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "MKTG 7990",
+            "section": "001",
+            "courseTitle": "Cont Reg-Ph D"
+        }
+    ]
+}

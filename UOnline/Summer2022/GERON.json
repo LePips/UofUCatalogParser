@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "GERON 5001",
+            "section": "290",
+            "courseTitle": "Introduction to Aging"
+        },
+        {
+            "catalogTitle": "GERON 5280",
+            "section": "290",
+            "courseTitle": "Int'l Lifelong Learning"
+        },
+        {
+            "catalogTitle": "GERON 5320",
+            "section": "290",
+            "courseTitle": "Death, Dying, Bereavmt"
+        },
+        {
+            "catalogTitle": "GERON 5370",
+            "section": "290",
+            "courseTitle": "Health & Optimal Aging"
+        },
+        {
+            "catalogTitle": "GERON 5500",
+            "section": "290",
+            "courseTitle": "Soc & Pub Aging"
+        },
+        {
+            "catalogTitle": "GERON 5990",
+            "section": "290",
+            "courseTitle": "Geron Practicum"
+        }
+    ]
+}

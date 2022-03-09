@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "HUM 2010",
+            "section": "090",
+            "courseTitle": "Intro Digital Culture"
+        },
+        {
+            "catalogTitle": "HUM 2250",
+            "section": "001",
+            "courseTitle": "Intro to Medical Hum"
+        },
+        {
+            "catalogTitle": "HUM 3810",
+            "section": "090",
+            "courseTitle": "Humanities Internship"
+        },
+        {
+            "catalogTitle": "HUM 4700",
+            "section": "003",
+            "courseTitle": "Medicine and Literature"
+        }
+    ]
+}

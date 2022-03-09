@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "ETHNC 2500",
+            "section": "290",
+            "courseTitle": "Intro To Ethnic Studies"
+        },
+        {
+            "catalogTitle": "ETHNC 2560",
+            "section": "290",
+            "courseTitle": "Chic & Lat Experiences"
+        },
+        {
+            "catalogTitle": "ETHNC 2570",
+            "section": "290",
+            "courseTitle": "American Indian Exper"
+        },
+        {
+            "catalogTitle": "ETHNC 2590",
+            "section": "290",
+            "courseTitle": "Pacific Islander Am Exp"
+        },
+        {
+            "catalogTitle": "ETHNC 3520",
+            "section": "290",
+            "courseTitle": "Asian Am Contemp Issues"
+        },
+        {
+            "catalogTitle": "ETHNC 3870",
+            "section": "290",
+            "courseTitle": "American Indian Women"
+        }
+    ]
+}

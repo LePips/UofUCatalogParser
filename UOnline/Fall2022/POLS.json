@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "POLS 1100",
+            "section": "290",
+            "courseTitle": "US National Govt"
+        },
+        {
+            "catalogTitle": "POLS 2100",
+            "section": "290",
+            "courseTitle": "Intro Intntl Relation"
+        },
+        {
+            "catalogTitle": "POLS 2700",
+            "section": "290",
+            "courseTitle": "Intro To Public Admin"
+        },
+        {
+            "catalogTitle": "POLS 3001",
+            "section": "290",
+            "courseTitle": "Political Analysis"
+        }
+    ]
+}

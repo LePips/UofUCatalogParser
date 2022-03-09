@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "BIO C 660",
+            "section": "001",
+            "courseTitle": "Metabolic Regulation"
+        },
+        {
+            "catalogTitle": "BIO C 6420",
+            "section": "001",
+            "courseTitle": "Biophysical Methods"
+        },
+        {
+            "catalogTitle": "BIO C 6430",
+            "section": "001",
+            "courseTitle": "Structural Methods"
+        },
+        {
+            "catalogTitle": "BIO C 6600",
+            "section": "001",
+            "courseTitle": "Metabolic Regulation"
+        },
+        {
+            "catalogTitle": "BIO C 6601",
+            "section": "001",
+            "courseTitle": "Metabolism Regulation"
+        },
+        {
+            "catalogTitle": "BIO C 6980",
+            "section": "001",
+            "courseTitle": "Faculty Consultation"
+        },
+        {
+            "catalogTitle": "BIO C 7100",
+            "section": "002",
+            "courseTitle": "Adv Mthds Electron Microscopy"
+        }
+    ]
+}

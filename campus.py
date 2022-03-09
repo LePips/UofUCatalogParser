@@ -12,7 +12,7 @@ class Campus:
             self.semesters = { key: self.semesters[key] for key in self.semesters if int(key[-4:]) <= endYear }
 
 def calculateSemesterIDs(lowerBound = None):
-    semesterYears = [id for id in range(988, 1225) if str(id)[-1] in ['4', '6', '8']]
+    semesterYears = [id for id in range(988, 1229) if str(id)[-1] in ['6', '8']]
 
     if lowerBound:
         semesterYears = [id for id in semesterYears if id >= lowerBound]

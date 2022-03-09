@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "OSC 3440",
+            "section": "001",
+            "courseTitle": "App of Business Stats"
+        },
+        {
+            "catalogTitle": "OSC 5000",
+            "section": "001",
+            "courseTitle": "Project & Process Mngmt"
+        },
+        {
+            "catalogTitle": "OSC 5100",
+            "section": "091",
+            "courseTitle": "Op's & Supply Chain Mgt"
+        },
+        {
+            "catalogTitle": "OSC 6500",
+            "section": "001",
+            "courseTitle": "Visual Analytics I"
+        },
+        {
+            "catalogTitle": "OSC 6510",
+            "section": "001",
+            "courseTitle": "Visual Analytics II"
+        },
+        {
+            "catalogTitle": "OSC 6660",
+            "section": "090",
+            "courseTitle": "Project Management"
+        },
+        {
+            "catalogTitle": "OSC 6680",
+            "section": "090",
+            "courseTitle": "Product Management"
+        },
+        {
+            "catalogTitle": "OSC 6910",
+            "section": "090",
+            "courseTitle": "Green Belt"
+        },
+        {
+            "catalogTitle": "OSC 7910",
+            "section": "001",
+            "courseTitle": "Special Study for Ph.D."
+        },
+        {
+            "catalogTitle": "OSC 7970",
+            "section": "001",
+            "courseTitle": "Thesis Research Ph.D."
+        },
+        {
+            "catalogTitle": "OSC 7980",
+            "section": "001",
+            "courseTitle": "Faculty Consult Ph.D."
+        },
+        {
+            "catalogTitle": "OSC 7990",
+            "section": "001",
+            "courseTitle": "Cont Registration Ph.D"
+        }
+    ]
+}

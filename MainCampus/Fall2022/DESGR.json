@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "DESGR 1600",
+            "section": "001",
+            "courseTitle": "Typography 1"
+        },
+        {
+            "catalogTitle": "DESGR 1600",
+            "section": "003",
+            "courseTitle": "Typography 1"
+        },
+        {
+            "catalogTitle": "DESGR 2200",
+            "section": "001",
+            "courseTitle": "Communication Design 2"
+        },
+        {
+            "catalogTitle": "DESGR 2200",
+            "section": "002",
+            "courseTitle": "Communication Design 2"
+        },
+        {
+            "catalogTitle": "DESGR 2600",
+            "section": "001",
+            "courseTitle": "History Graphic Design"
+        },
+        {
+            "catalogTitle": "DESGR 3400",
+            "section": "001",
+            "courseTitle": "Communication Design 4"
+        },
+        {
+            "catalogTitle": "DESGR 3400",
+            "section": "002",
+            "courseTitle": "Communication Design 4"
+        },
+        {
+            "catalogTitle": "DESGR 3800",
+            "section": "001",
+            "courseTitle": "Typography 3"
+        },
+        {
+            "catalogTitle": "DESGR 3800",
+            "section": "002",
+            "courseTitle": "Typography 3"
+        },
+        {
+            "catalogTitle": "DESGR 4100",
+            "section": "001",
+            "courseTitle": "Visiting Designer"
+        },
+        {
+            "catalogTitle": "DESGR 4600",
+            "section": "001",
+            "courseTitle": "Capstone 1"
+        },
+        {
+            "catalogTitle": "DESGR 4600",
+            "section": "002",
+            "courseTitle": "Capstone 1"
+        },
+        {
+            "catalogTitle": "DESGR 4645",
+            "section": "001",
+            "courseTitle": "Information Graphics"
+        },
+        {
+            "catalogTitle": "DESGR 4800",
+            "section": "001",
+            "courseTitle": "Design Theory"
+        }
+    ]
+}

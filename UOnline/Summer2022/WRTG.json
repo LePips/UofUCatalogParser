@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "catalogTitle": "WRTG 1010",
+            "section": "290",
+            "courseTitle": "Introduction To Writing"
+        },
+        {
+            "catalogTitle": "WRTG 2010",
+            "section": "290",
+            "courseTitle": "Intermediate Writing"
+        },
+        {
+            "catalogTitle": "WRTG 3011",
+            "section": "290",
+            "courseTitle": "Arts and Humanities"
+        },
+        {
+            "catalogTitle": "WRTG 3012",
+            "section": "290",
+            "courseTitle": "Social Sciences"
+        },
+        {
+            "catalogTitle": "WRTG 3014",
+            "section": "290",
+            "courseTitle": "Scientific Writing"
+        }
+    ]
+}
